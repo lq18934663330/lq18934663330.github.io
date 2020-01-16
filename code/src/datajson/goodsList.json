@@ -1,0 +1,4492 @@
+{ 
+    "_id" : ObjectId("5e16d4e603c371374c20f463"), 
+    "productId" : "2121212199000125913", 
+    "productName" : "姜黄色花边高领女士秋冬长袖针织毛衣", 
+    "product_type" : "Configurable", 
+    "brandName" : "ISABELLA BY PORTS", 
+    "glsCode" : "IXV-154-00085", 
+    "price" : "549", 
+    "marketPrice" : "2500", 
+    "imageUrl" : "https://cdn14.mei.com/product/IXV-154-00087/8d64e483014f93f061fe129b7755e060.jpg@300w_400h_2e_75q", 
+    "stockStatus" : "1", 
+    "status" : "1", 
+    "isRecommend" : "1", 
+    "saleableQty" : "7", 
+    "eventStatus" : "open", 
+    "enableWaitingList" : "0", 
+    "allOutOfStock" : "0", 
+    "discount" : "2.2", 
+    "purchaseType" : "D-Vendor Delivery", 
+    "isNewProduct" : "0", 
+    "isCrossBorder" : "0", 
+    "isLimitedTimeOffer" : "0", 
+    "tNewProduct" : NumberInt(2), 
+    "itemPriceDto" : {
+        "price" : "549", 
+        "discount" : "2.2", 
+        "begin" : "1578119063", 
+        "end" : "1586170800"
+    }, 
+    "tagListDto" : [
+        {
+            "tag" : "买手推荐", 
+            "isHasExpiration" : "0", 
+            "fontColor" : "000000", 
+            "fontBackgroudColor" : "FFFFFF", 
+            "frameColor" : "000000", 
+            "isRadius" : NumberInt(0), 
+            "isGradient" : NumberInt(0)
+        }
+    ], 
+    "productSizes" : [
+        {
+            "id" : "2121212199000125918", 
+            "size" : "XS", 
+            "qty" : NumberInt(2)
+        }, 
+        {
+            "id" : "2121212199000125916", 
+            "size" : "S", 
+            "qty" : NumberInt(3)
+        }, 
+        {
+            "id" : "2121212199000125914", 
+            "size" : "L", 
+            "qty" : NumberInt(1)
+        }, 
+        {
+            "id" : "2121212199000125917", 
+            "size" : "XL", 
+            "qty" : NumberInt(1)
+        }
+    ]
+}
+{ 
+    "_id" : ObjectId("5e16d4e603c371374c20f464"), 
+    "productId" : "2121212199000051459", 
+    "productName" : "米白色肩部拼接女士上衣", 
+    "product_type" : "Configurable", 
+    "brandName" : "PORTS", 
+    "glsCode" : "TS8-154-01274", 
+    "price" : "569", 
+    "marketPrice" : "2599", 
+    "imageUrl" : "https://cdn13.mei.com/product/TS8-154-01276/833b54622b8bd8e6851818815a7b8f10.jpg@300w_400h_2e_75q", 
+    "stockStatus" : "1", 
+    "status" : "1", 
+    "isRecommend" : "0", 
+    "saleableQty" : "331", 
+    "eventStatus" : "open", 
+    "enableWaitingList" : "0", 
+    "allOutOfStock" : "0", 
+    "discount" : "2.2", 
+    "purchaseType" : "D-Vendor Delivery", 
+    "isNewProduct" : "0", 
+    "isCrossBorder" : "0", 
+    "isLimitedTimeOffer" : "0", 
+    "tNewProduct" : NumberInt(2), 
+    "itemPriceDto" : {
+        "price" : "569", 
+        "discount" : "2.2", 
+        "begin" : "1578119063", 
+        "end" : "1586170800"
+    }, 
+    "productSizes" : [
+        {
+            "id" : "2121212199000051464", 
+            "size" : "XS", 
+            "qty" : NumberInt(1)
+        }, 
+        {
+            "id" : "2121212199000051462", 
+            "size" : "S", 
+            "qty" : NumberInt(70)
+        }, 
+        {
+            "id" : "2121212199000051461", 
+            "size" : "M", 
+            "qty" : NumberInt(101)
+        }, 
+        {
+            "id" : "2121212199000051460", 
+            "size" : "L", 
+            "qty" : NumberInt(119)
+        }, 
+        {
+            "id" : "2121212199000051463", 
+            "size" : "XL", 
+            "qty" : NumberInt(40)
+        }
+    ]
+}
+{ 
+    "_id" : ObjectId("5e16d4e603c371374c20f465"), 
+    "productId" : "2120212099000159842", 
+    "productName" : "玫红色桑蚕丝条纹中长款女士针织开衫", 
+    "product_type" : "Configurable", 
+    "brandName" : "PORTS", 
+    "glsCode" : "TS8-154-01655", 
+    "price" : "789", 
+    "marketPrice" : "3699", 
+    "imageUrl" : "https://cdn15.mei.com/product/TS8-154-01657/833b54622b8bd8e6b26244e88cb1d98e.jpg@300w_400h_2e_75q", 
+    "stockStatus" : "1", 
+    "status" : "1", 
+    "isRecommend" : "0", 
+    "saleableQty" : "326", 
+    "eventStatus" : "open", 
+    "enableWaitingList" : "0", 
+    "allOutOfStock" : "0", 
+    "discount" : "2.2", 
+    "purchaseType" : "D-Vendor Delivery", 
+    "isNewProduct" : "0", 
+    "isCrossBorder" : "0", 
+    "isLimitedTimeOffer" : "0", 
+    "tNewProduct" : NumberInt(2), 
+    "itemPriceDto" : {
+        "price" : "789", 
+        "discount" : "2.2", 
+        "begin" : "1578119063", 
+        "end" : "1586170800"
+    }, 
+    "productSizes" : [
+        {
+            "id" : "2120212099000159845", 
+            "size" : "S", 
+            "qty" : NumberInt(130)
+        }, 
+        {
+            "id" : "2120212099000159844", 
+            "size" : "M", 
+            "qty" : NumberInt(185)
+        }, 
+        {
+            "id" : "2120212099000159843", 
+            "size" : "L", 
+            "qty" : NumberInt(11)
+        }
+    ]
+}
+{ 
+    "_id" : ObjectId("5e16d4e603c371374c20f466"), 
+    "productId" : "2018201899000054072", 
+    "productName" : "Ports/宝姿米白色拼接女士秋冬长袖中长针织开衫羊毛衫", 
+    "product_type" : "Configurable", 
+    "brandName" : "PORTS", 
+    "glsCode" : "PS2-116-100005-C", 
+    "price" : "909", 
+    "marketPrice" : "4299", 
+    "imageUrl" : "https://cdn13.mei.com/product/PS2-116-100005-C/fb0296da00f372b791d19caf20aff4dad4996fc790fcf3054d530478b0e553ae.jpg@300w_400h_2e_75q", 
+    "stockStatus" : "1", 
+    "status" : "1", 
+    "isRecommend" : "0", 
+    "saleableQty" : "244", 
+    "eventStatus" : "open", 
+    "enableWaitingList" : "0", 
+    "allOutOfStock" : "0", 
+    "discount" : "2.2", 
+    "purchaseType" : "D-Vendor Delivery", 
+    "isNewProduct" : "0", 
+    "isCrossBorder" : "0", 
+    "isLimitedTimeOffer" : "0", 
+    "tNewProduct" : NumberInt(2), 
+    "itemPriceDto" : {
+        "price" : "909", 
+        "discount" : "2.2", 
+        "begin" : "1578119063", 
+        "end" : "1586170800"
+    }, 
+    "productSizes" : [
+        {
+            "id" : "2021202199000019745", 
+            "size" : "XS", 
+            "qty" : NumberInt(12)
+        }, 
+        {
+            "id" : "2017201799000018515", 
+            "size" : "S", 
+            "qty" : NumberInt(61)
+        }, 
+        {
+            "id" : "2086208699000014555", 
+            "size" : "M", 
+            "qty" : NumberInt(75)
+        }, 
+        {
+            "id" : "2084208499000014942", 
+            "size" : "L", 
+            "qty" : NumberInt(80)
+        }, 
+        {
+            "id" : "2018201899000050347", 
+            "size" : "XL", 
+            "qty" : NumberInt(16)
+        }
+    ]
+}
+{ 
+    "_id" : ObjectId("5e16d4e603c371374c20f467"), 
+    "productId" : "2121212199000030150", 
+    "productName" : "粉橘色扭结钻饰长袖针织上衣", 
+    "product_type" : "Configurable", 
+    "brandName" : "PORTS", 
+    "glsCode" : "TS8-154-01112", 
+    "price" : "709", 
+    "marketPrice" : "3299", 
+    "imageUrl" : "https://cdn15.mei.com/product/TS8-154-01112/833b54622b8bd8e61b7ddbe4973debdf.jpg@300w_400h_2e_75q", 
+    "stockStatus" : "1", 
+    "status" : "1", 
+    "isRecommend" : "0", 
+    "saleableQty" : "230", 
+    "eventStatus" : "open", 
+    "enableWaitingList" : "0", 
+    "allOutOfStock" : "0", 
+    "discount" : "2.2", 
+    "purchaseType" : "D-Vendor Delivery", 
+    "isNewProduct" : "0", 
+    "isCrossBorder" : "0", 
+    "isLimitedTimeOffer" : "0", 
+    "tNewProduct" : NumberInt(2), 
+    "itemPriceDto" : {
+        "price" : "709", 
+        "discount" : "2.2", 
+        "begin" : "1578119063", 
+        "end" : "1586170800"
+    }, 
+    "productSizes" : [
+        {
+            "id" : "2121212199000030155", 
+            "size" : "XS", 
+            "qty" : NumberInt(1)
+        }, 
+        {
+            "id" : "2121212199000030153", 
+            "size" : "S", 
+            "qty" : NumberInt(32)
+        }, 
+        {
+            "id" : "2121212199000030152", 
+            "size" : "M", 
+            "qty" : NumberInt(78)
+        }, 
+        {
+            "id" : "2121212199000030151", 
+            "size" : "L", 
+            "qty" : NumberInt(73)
+        }, 
+        {
+            "id" : "2121212199000030154", 
+            "size" : "XL", 
+            "qty" : NumberInt(46)
+        }
+    ]
+}
+{ 
+    "_id" : ObjectId("5e16d4e603c371374c20f468"), 
+    "productId" : "2085208599000018655", 
+    "productName" : "Ports/宝姿多色混羊毛圆领长袖蕾丝拼接性感女士针织衫", 
+    "product_type" : "Configurable", 
+    "brandName" : "PORTS", 
+    "glsCode" : "PS2-2569-100010-C", 
+    "price" : "989", 
+    "marketPrice" : "3299", 
+    "imageUrl" : "https://cdn15.mei.com/product/PS2-2569-100010-C/8a4efa675c041e952b755ca9c6847883668d8b80b6aadbf18fc8be7eaf20dd8e.jpg@300w_400h_2e_75q", 
+    "stockStatus" : "1", 
+    "status" : "1", 
+    "isRecommend" : "0", 
+    "saleableQty" : "227", 
+    "eventStatus" : "open", 
+    "enableWaitingList" : "0", 
+    "allOutOfStock" : "0", 
+    "discount" : "3.0", 
+    "purchaseType" : "D-Vendor Delivery", 
+    "isNewProduct" : "0", 
+    "isCrossBorder" : "0", 
+    "isLimitedTimeOffer" : "0", 
+    "tNewProduct" : NumberInt(0), 
+    "itemPriceDto" : {
+        "price" : "989", 
+        "discount" : "3.0", 
+        "begin" : "1578119063", 
+        "end" : "1586170800"
+    }, 
+    "productSizes" : [
+        {
+            "id" : "2022202299000023079", 
+            "size" : "XS", 
+            "qty" : NumberInt(11)
+        }, 
+        {
+            "id" : "2086208699000014599", 
+            "size" : "S", 
+            "qty" : NumberInt(58)
+        }, 
+        {
+            "id" : "2022202299000023080", 
+            "size" : "M", 
+            "qty" : NumberInt(73)
+        }, 
+        {
+            "id" : "2018201899000050376", 
+            "size" : "L", 
+            "qty" : NumberInt(56)
+        }, 
+        {
+            "id" : "2084208499000014969", 
+            "size" : "XL", 
+            "qty" : NumberInt(29)
+        }
+    ]
+}
+{ 
+    "_id" : ObjectId("5e16d4e603c371374c20f469"), 
+    "productId" : "2086208699000013864", 
+    "productName" : "Ports/宝姿粉色珠饰装饰设计时尚优雅甜美百搭针织中袖女士上衣", 
+    "product_type" : "Configurable", 
+    "brandName" : "PORTS", 
+    "glsCode" : "PS2-115-100011-C", 
+    "price" : "509", 
+    "marketPrice" : "2299", 
+    "imageUrl" : "https://cdn14.mei.com/product/PS2-115-100011-C/8a4efa675c041e951537dae61fce3a442ed43303c5c1ea4a89161f10ff740574.jpg@300w_400h_2e_75q", 
+    "stockStatus" : "1", 
+    "status" : "1", 
+    "isRecommend" : "0", 
+    "saleableQty" : "227", 
+    "eventStatus" : "open", 
+    "enableWaitingList" : "0", 
+    "allOutOfStock" : "0", 
+    "discount" : "2.3", 
+    "purchaseType" : "D-Vendor Delivery", 
+    "isNewProduct" : "0", 
+    "isCrossBorder" : "0", 
+    "isLimitedTimeOffer" : "0", 
+    "tNewProduct" : NumberInt(0), 
+    "itemPriceDto" : {
+        "price" : "509", 
+        "discount" : "2.3", 
+        "begin" : "1578119063", 
+        "end" : "1586170800"
+    }, 
+    "productSizes" : [
+        {
+            "id" : "2085208599000010103", 
+            "size" : "S", 
+            "qty" : NumberInt(32)
+        }, 
+        {
+            "id" : "2019201999000015734", 
+            "size" : "M", 
+            "qty" : NumberInt(76)
+        }, 
+        {
+            "id" : "2016201699000058495", 
+            "size" : "L", 
+            "qty" : NumberInt(76)
+        }, 
+        {
+            "id" : "2019201999000015736", 
+            "size" : "XL", 
+            "qty" : NumberInt(43)
+        }
+    ]
+}
+{ 
+    "_id" : ObjectId("5e16d4e603c371374c20f46a"), 
+    "productId" : "2086208699000018340", 
+    "productName" : "Ports/宝姿19秋冬多色含羊毛透视网格拼接优雅时尚女士针织衫毛衣", 
+    "product_type" : "Configurable", 
+    "brandName" : "PORTS", 
+    "glsCode" : "PS2-115-100040-C", 
+    "price" : "649", 
+    "marketPrice" : "2999", 
+    "imageUrl" : "https://cdn14.mei.com/product/PS2-115-100040-C/fb0296da00f372b79bc3aac8c782e318df1072d8ad40159cf1ff94c124c26357.jpg@300w_400h_2e_75q", 
+    "stockStatus" : "1", 
+    "status" : "1", 
+    "isRecommend" : "0", 
+    "saleableQty" : "212", 
+    "eventStatus" : "open", 
+    "enableWaitingList" : "0", 
+    "allOutOfStock" : "0", 
+    "discount" : "2.2", 
+    "purchaseType" : "D-Vendor Delivery", 
+    "isNewProduct" : "0", 
+    "isCrossBorder" : "0", 
+    "isLimitedTimeOffer" : "0", 
+    "tNewProduct" : NumberInt(0), 
+    "itemPriceDto" : {
+        "price" : "649", 
+        "discount" : "2.2", 
+        "begin" : "1578119063", 
+        "end" : "1586170800"
+    }, 
+    "productSizes" : [
+        {
+            "id" : "2084208499000015154", 
+            "size" : "XS", 
+            "qty" : NumberInt(11)
+        }, 
+        {
+            "id" : "2019201999000020916", 
+            "size" : "S", 
+            "qty" : NumberInt(54)
+        }, 
+        {
+            "id" : "2087208799000015286", 
+            "size" : "M", 
+            "qty" : NumberInt(89)
+        }, 
+        {
+            "id" : "2018201899000050601", 
+            "size" : "L", 
+            "qty" : NumberInt(41)
+        }, 
+        {
+            "id" : "2084208499000015155", 
+            "size" : "XL", 
+            "qty" : NumberInt(17)
+        }
+    ]
+}
+{ 
+    "_id" : ObjectId("5e16d4e603c371374c20f46b"), 
+    "productId" : "2121212199000125140", 
+    "productName" : "灰色100%羊毛花朵圆领女士秋冬长袖毛衣", 
+    "product_type" : "Configurable", 
+    "brandName" : "PORTS", 
+    "glsCode" : "TS8-154-01439", 
+    "price" : "1079", 
+    "marketPrice" : "2699", 
+    "imageUrl" : "https://cdn13.mei.com/product/TS8-154-01441/833b54622b8bd8e63543aea374d60347.jpg@300w_400h_2e_75q", 
+    "stockStatus" : "1", 
+    "status" : "1", 
+    "isRecommend" : "0", 
+    "saleableQty" : "173", 
+    "eventStatus" : "open", 
+    "enableWaitingList" : "0", 
+    "allOutOfStock" : "0", 
+    "discount" : "4.0", 
+    "purchaseType" : "D-Vendor Delivery", 
+    "isNewProduct" : "0", 
+    "isCrossBorder" : "0", 
+    "isLimitedTimeOffer" : "0", 
+    "tNewProduct" : NumberInt(0), 
+    "itemPriceDto" : {
+        "price" : "1079", 
+        "discount" : "4.0", 
+        "begin" : "1578119063", 
+        "end" : "1586170800"
+    }, 
+    "productSizes" : [
+        {
+            "id" : "2121212199000125145", 
+            "size" : "XS", 
+            "qty" : NumberInt(8)
+        }, 
+        {
+            "id" : "2121212199000125143", 
+            "size" : "S", 
+            "qty" : NumberInt(53)
+        }, 
+        {
+            "id" : "2121212199000125142", 
+            "size" : "M", 
+            "qty" : NumberInt(47)
+        }, 
+        {
+            "id" : "2121212199000125141", 
+            "size" : "L", 
+            "qty" : NumberInt(48)
+        }, 
+        {
+            "id" : "2121212199000125144", 
+            "size" : "XL", 
+            "qty" : NumberInt(17)
+        }
+    ]
+}
+{ 
+    "_id" : ObjectId("5e16d4e603c371374c20f46c"), 
+    "productId" : "2040204099000622913", 
+    "productName" : "玫紫色印花饰时尚女士针织", 
+    "product_type" : "Configurable", 
+    "brandName" : "PORTS 1961", 
+    "glsCode" : "PT9-154-00318", 
+    "price" : "569", 
+    "marketPrice" : "2599", 
+    "imageUrl" : "https://cdn15.mei.com/product/PT9-154-00320/7614891400e7af4576da1c7bb6106d18.jpg@300w_400h_2e_75q", 
+    "stockStatus" : "1", 
+    "status" : "1", 
+    "isRecommend" : "0", 
+    "saleableQty" : "166", 
+    "eventStatus" : "open", 
+    "enableWaitingList" : "0", 
+    "allOutOfStock" : "0", 
+    "discount" : "2.2", 
+    "purchaseType" : "D-Vendor Delivery", 
+    "isNewProduct" : "0", 
+    "isCrossBorder" : "0", 
+    "isLimitedTimeOffer" : "0", 
+    "tNewProduct" : NumberInt(2), 
+    "itemPriceDto" : {
+        "price" : "569", 
+        "discount" : "2.2", 
+        "begin" : "1578119063", 
+        "end" : "1586170800"
+    }, 
+    "productSizes" : [
+        {
+            "id" : "2040204099000622918", 
+            "size" : "XS", 
+            "qty" : NumberInt(2)
+        }, 
+        {
+            "id" : "2040204099000622916", 
+            "size" : "S", 
+            "qty" : NumberInt(54)
+        }, 
+        {
+            "id" : "2040204099000622915", 
+            "size" : "M", 
+            "qty" : NumberInt(47)
+        }, 
+        {
+            "id" : "2040204099000622914", 
+            "size" : "L", 
+            "qty" : NumberInt(56)
+        }, 
+        {
+            "id" : "2040204099000622917", 
+            "size" : "XL", 
+            "qty" : NumberInt(7)
+        }
+    ]
+}
+{ 
+    "_id" : ObjectId("5e16d4e603c371374c20f46d"), 
+    "productId" : "2041204199000747973", 
+    "productName" : "橘红色钉珠饰圆领短袖女士上衣", 
+    "product_type" : "Configurable", 
+    "brandName" : "PORTS 1961", 
+    "glsCode" : "PT9-115-00127", 
+    "price" : "769", 
+    "marketPrice" : "3599", 
+    "imageUrl" : "https://cdn12.mei.com/product/PT9-115-00129/dbe0474f332f44de3b66a67822adc38c.jpg@300w_400h_2e_75q", 
+    "stockStatus" : "1", 
+    "status" : "1", 
+    "isRecommend" : "0", 
+    "saleableQty" : "157", 
+    "eventStatus" : "open", 
+    "enableWaitingList" : "0", 
+    "allOutOfStock" : "0", 
+    "discount" : "2.2", 
+    "purchaseType" : "D-Vendor Delivery", 
+    "isNewProduct" : "0", 
+    "isCrossBorder" : "0", 
+    "isLimitedTimeOffer" : "0", 
+    "tNewProduct" : NumberInt(2), 
+    "itemPriceDto" : {
+        "price" : "769", 
+        "discount" : "2.2", 
+        "begin" : "1578119063", 
+        "end" : "1586170800"
+    }, 
+    "productSizes" : [
+        {
+            "id" : "2041204199000747976", 
+            "size" : "S", 
+            "qty" : NumberInt(55)
+        }, 
+        {
+            "id" : "2041204199000747975", 
+            "size" : "M", 
+            "qty" : NumberInt(56)
+        }, 
+        {
+            "id" : "2041204199000747974", 
+            "size" : "L", 
+            "qty" : NumberInt(37)
+        }, 
+        {
+            "id" : "2041204199000747977", 
+            "size" : "XL", 
+            "qty" : NumberInt(9)
+        }
+    ]
+}
+{ 
+    "_id" : ObjectId("5e16d4e603c371374c20f46e"), 
+    "productId" : "2015201599000025732", 
+    "productName" : "PORTS INTERNATIONAL米色拼接撞色优雅时尚女装羊毛针织开衫外套", 
+    "product_type" : "Configurable", 
+    "brandName" : "Ports international", 
+    "glsCode" : "PSL-116-100006-C", 
+    "price" : "769", 
+    "marketPrice" : "3599", 
+    "imageUrl" : "https://cdn15.mei.com/product/PSL-116-100006-C/fb0296da00f372b7acfe44066562198c2c2c35724b75641e32aafc4c2d422386.jpg@300w_400h_2e_75q", 
+    "stockStatus" : "1", 
+    "status" : "1", 
+    "isRecommend" : "0", 
+    "saleableQty" : "151", 
+    "eventStatus" : "open", 
+    "enableWaitingList" : "0", 
+    "allOutOfStock" : "0", 
+    "discount" : "2.2", 
+    "purchaseType" : "D-Vendor Delivery", 
+    "isNewProduct" : "0", 
+    "isCrossBorder" : "0", 
+    "isLimitedTimeOffer" : "0", 
+    "tNewProduct" : NumberInt(2), 
+    "itemPriceDto" : {
+        "price" : "769", 
+        "discount" : "2.2", 
+        "begin" : "1578119063", 
+        "end" : "1586170800"
+    }, 
+    "productSizes" : [
+        {
+            "id" : "2086208699000021675", 
+            "size" : "M/L", 
+            "qty" : NumberInt(51)
+        }, 
+        {
+            "id" : "2086208699000021674", 
+            "size" : "S/M", 
+            "qty" : NumberInt(100)
+        }
+    ]
+}
+{ 
+    "_id" : ObjectId("5e16d4e603c371374c20f46f"), 
+    "productId" : "2017201799000018516", 
+    "productName" : "Ports/宝姿19秋冬撞色棉质深V领蝙蝠九分袖时尚女士针织衫毛衣", 
+    "product_type" : "Simple", 
+    "brandName" : "PORTS", 
+    "glsCode" : "PS2-2569-15F94F", 
+    "price" : "489", 
+    "marketPrice" : "2199", 
+    "imageUrl" : "https://cdn12.mei.com/product/PS2-2569-15F94F/fb0296da00f372b7958e42ac5af97e8af7c61b19fb31a64330c6f6b8f642ffda.jpg@300w_400h_2e_75q", 
+    "stockStatus" : "1", 
+    "status" : "1", 
+    "isRecommend" : "0", 
+    "saleableQty" : "151", 
+    "eventStatus" : "open", 
+    "enableWaitingList" : "0", 
+    "allOutOfStock" : "0", 
+    "discount" : "2.3", 
+    "purchaseType" : "D-Vendor Delivery", 
+    "isNewProduct" : "0", 
+    "isCrossBorder" : "0", 
+    "isLimitedTimeOffer" : "0", 
+    "tNewProduct" : NumberInt(2), 
+    "itemPriceDto" : {
+        "price" : "489", 
+        "discount" : "2.3", 
+        "begin" : "1578119063", 
+        "end" : "1586170800"
+    }
+}
+{ 
+    "_id" : ObjectId("5e16d4e603c371374c20f470"), 
+    "productId" : "2121212199000125288", 
+    "productName" : "黑色100%羊毛菱格印花圆领女士长袖毛衣", 
+    "product_type" : "Configurable", 
+    "brandName" : "PORTS", 
+    "glsCode" : "TS8-154-01511", 
+    "price" : "709", 
+    "marketPrice" : "3299", 
+    "imageUrl" : "https://cdn13.mei.com/product/TS8-154-01513/833b54622b8bd8e6c54afe868d2dc382.jpg@300w_400h_2e_75q", 
+    "stockStatus" : "1", 
+    "status" : "1", 
+    "isRecommend" : "0", 
+    "saleableQty" : "145", 
+    "eventStatus" : "open", 
+    "enableWaitingList" : "0", 
+    "allOutOfStock" : "0", 
+    "discount" : "2.2", 
+    "purchaseType" : "D-Vendor Delivery", 
+    "isNewProduct" : "0", 
+    "isCrossBorder" : "0", 
+    "isLimitedTimeOffer" : "0", 
+    "tNewProduct" : NumberInt(2), 
+    "itemPriceDto" : {
+        "price" : "709", 
+        "discount" : "2.2", 
+        "begin" : "1578119063", 
+        "end" : "1586170800"
+    }, 
+    "productSizes" : [
+        {
+            "id" : "2121212199000125293", 
+            "size" : "XS", 
+            "qty" : NumberInt(8)
+        }, 
+        {
+            "id" : "2121212199000125291", 
+            "size" : "S", 
+            "qty" : NumberInt(68)
+        }, 
+        {
+            "id" : "2121212199000125290", 
+            "size" : "M", 
+            "qty" : NumberInt(47)
+        }, 
+        {
+            "id" : "2121212199000125289", 
+            "size" : "L", 
+            "qty" : NumberInt(22)
+        }
+    ]
+}
+{ 
+    "_id" : ObjectId("5e16d4e603c371374c20f471"), 
+    "productId" : "2085208599000018656", 
+    "productName" : "Ports/宝姿多色混羊毛圆领长袖蕾丝拼接性感女士针织衫", 
+    "product_type" : "Configurable", 
+    "brandName" : "PORTS", 
+    "glsCode" : "PS2-2569-100011-C", 
+    "price" : "989", 
+    "marketPrice" : "3299", 
+    "imageUrl" : "https://cdn15.mei.com/product/PS2-2569-100011-C/8a4efa675c041e95703045c48ce4451c258fd8f5c857b73a8fc8be7eaf20dd8e.jpg@300w_400h_2e_75q", 
+    "stockStatus" : "1", 
+    "status" : "1", 
+    "isRecommend" : "0", 
+    "saleableQty" : "142", 
+    "eventStatus" : "open", 
+    "enableWaitingList" : "0", 
+    "allOutOfStock" : "0", 
+    "discount" : "3.0", 
+    "purchaseType" : "D-Vendor Delivery", 
+    "isNewProduct" : "0", 
+    "isCrossBorder" : "0", 
+    "isLimitedTimeOffer" : "0", 
+    "tNewProduct" : NumberInt(0), 
+    "itemPriceDto" : {
+        "price" : "989", 
+        "discount" : "3.0", 
+        "begin" : "1578119063", 
+        "end" : "1586170800"
+    }, 
+    "productSizes" : [
+        {
+            "id" : "2021202199000019776", 
+            "size" : "XS", 
+            "qty" : NumberInt(5)
+        }, 
+        {
+            "id" : "2020202099000017964", 
+            "size" : "S", 
+            "qty" : NumberInt(37)
+        }, 
+        {
+            "id" : "2085208599000014950", 
+            "size" : "M", 
+            "qty" : NumberInt(54)
+        }, 
+        {
+            "id" : "2086208699000014600", 
+            "size" : "L", 
+            "qty" : NumberInt(29)
+        }, 
+        {
+            "id" : "2019201999000020684", 
+            "size" : "XL", 
+            "qty" : NumberInt(17)
+        }
+    ]
+}
+{ 
+    "_id" : ObjectId("5e16d4e603c371374c20f472"), 
+    "productId" : "2121212199000125134", 
+    "productName" : "黑色100%羊毛花朵圆领女士秋冬长袖毛衣", 
+    "product_type" : "Configurable", 
+    "brandName" : "PORTS", 
+    "glsCode" : "TS8-154-01433", 
+    "price" : "1079", 
+    "marketPrice" : "2699", 
+    "imageUrl" : "https://cdn12.mei.com/product/TS8-154-01435/833b54622b8bd8e6a57d1a25c4fef39b.jpg@300w_400h_2e_75q", 
+    "stockStatus" : "1", 
+    "status" : "1", 
+    "isRecommend" : "0", 
+    "saleableQty" : "141", 
+    "eventStatus" : "open", 
+    "enableWaitingList" : "0", 
+    "allOutOfStock" : "0", 
+    "discount" : "4.0", 
+    "purchaseType" : "D-Vendor Delivery", 
+    "isNewProduct" : "0", 
+    "isCrossBorder" : "0", 
+    "isLimitedTimeOffer" : "0", 
+    "tNewProduct" : NumberInt(0), 
+    "itemPriceDto" : {
+        "price" : "1079", 
+        "discount" : "4.0", 
+        "begin" : "1578119063", 
+        "end" : "1586170800"
+    }, 
+    "productSizes" : [
+        {
+            "id" : "2121212199000125139", 
+            "size" : "XS", 
+            "qty" : NumberInt(9)
+        }, 
+        {
+            "id" : "2121212199000125137", 
+            "size" : "S", 
+            "qty" : NumberInt(56)
+        }, 
+        {
+            "id" : "2121212199000125136", 
+            "size" : "M", 
+            "qty" : NumberInt(41)
+        }, 
+        {
+            "id" : "2121212199000125135", 
+            "size" : "L", 
+            "qty" : NumberInt(31)
+        }, 
+        {
+            "id" : "2121212199000125138", 
+            "size" : "XL", 
+            "qty" : NumberInt(4)
+        }
+    ]
+}
+{ 
+    "_id" : ObjectId("5e16d4e603c371374c20f473"), 
+    "productId" : "2086208699000018350", 
+    "productName" : "Ports/宝姿多色羊毛简约钩花百搭圆领长袖女士针织衫", 
+    "product_type" : "Configurable", 
+    "brandName" : "PORTS", 
+    "glsCode" : "PS2-115-100086-C", 
+    "price" : "779", 
+    "marketPrice" : "2599", 
+    "imageUrl" : "https://cdn15.mei.com/product/PS2-115-100086-C/8a4efa675c041e9500199b5c0f509db9dd89998e21a8e5162f341b7d582775a3.jpg@300w_400h_2e_75q", 
+    "stockStatus" : "1", 
+    "status" : "1", 
+    "isRecommend" : "0", 
+    "saleableQty" : "133", 
+    "eventStatus" : "open", 
+    "enableWaitingList" : "0", 
+    "allOutOfStock" : "0", 
+    "discount" : "3.0", 
+    "purchaseType" : "D-Vendor Delivery", 
+    "isNewProduct" : "0", 
+    "isCrossBorder" : "0", 
+    "isLimitedTimeOffer" : "0", 
+    "tNewProduct" : NumberInt(0), 
+    "itemPriceDto" : {
+        "price" : "779", 
+        "discount" : "3.0", 
+        "begin" : "1578119063", 
+        "end" : "1586170800"
+    }, 
+    "productSizes" : [
+        {
+            "id" : "2087208799000015077", 
+            "size" : "XS", 
+            "qty" : NumberInt(5)
+        }, 
+        {
+            "id" : "2015201599000017555", 
+            "size" : "S", 
+            "qty" : NumberInt(51)
+        }, 
+        {
+            "id" : "2087208799000015078", 
+            "size" : "M", 
+            "qty" : NumberInt(47)
+        }, 
+        {
+            "id" : "2014201499000042517", 
+            "size" : "L", 
+            "qty" : NumberInt(28)
+        }, 
+        {
+            "id" : "2021202199000019780", 
+            "size" : "XL", 
+            "qty" : NumberInt(2)
+        }
+    ]
+}
+{ 
+    "_id" : ObjectId("5e16d4e603c371374c20f474"), 
+    "productId" : "2185218599000000253", 
+    "productName" : "Ports/宝姿黑色羊毛撞色纹样圆领长袖百搭女士针织衫", 
+    "product_type" : "Configurable", 
+    "brandName" : "PORTS", 
+    "glsCode" : "PS2-115-100093-C", 
+    "price" : "1079", 
+    "marketPrice" : "3599", 
+    "imageUrl" : "https://cdn13.mei.com/product/PS2-115-100093-C/8a4efa675c041e95224f9d0fb95391aa98ee600f3671509b749a71e363a4a217.jpg@300w_400h_2e_75q", 
+    "stockStatus" : "1", 
+    "status" : "1", 
+    "isRecommend" : "0", 
+    "saleableQty" : "132", 
+    "eventStatus" : "open", 
+    "enableWaitingList" : "0", 
+    "allOutOfStock" : "0", 
+    "discount" : "3.0", 
+    "purchaseType" : "D-Vendor Delivery", 
+    "isNewProduct" : "0", 
+    "isCrossBorder" : "0", 
+    "isLimitedTimeOffer" : "0", 
+    "tNewProduct" : NumberInt(0), 
+    "itemPriceDto" : {
+        "price" : "1079", 
+        "discount" : "3.0", 
+        "begin" : "1578119063", 
+        "end" : "1586170800"
+    }, 
+    "productSizes" : [
+        {
+            "id" : "2087208799000015076", 
+            "size" : "XS", 
+            "qty" : NumberInt(7)
+        }, 
+        {
+            "id" : "2019201999000020685", 
+            "size" : "S", 
+            "qty" : NumberInt(50)
+        }, 
+        {
+            "id" : "2016201699000063470", 
+            "size" : "M", 
+            "qty" : NumberInt(56)
+        }, 
+        {
+            "id" : "2087208799000015075", 
+            "size" : "L", 
+            "qty" : NumberInt(18)
+        }, 
+        {
+            "id" : "2085208599000014952", 
+            "size" : "XL", 
+            "qty" : NumberInt(1)
+        }
+    ]
+}
+{ 
+    "_id" : ObjectId("5e16d4e603c371374c20f475"), 
+    "productId" : "2085208599000022923", 
+    "productName" : "PORTS INTERNATIONAL多色纯羊毛高领长袖修身女士针织衫套头衫", 
+    "product_type" : "Configurable", 
+    "brandName" : "Ports international", 
+    "glsCode" : "PSL-2570-100006-C", 
+    "price" : "1199", 
+    "marketPrice" : "2399", 
+    "imageUrl" : "https://cdn14.mei.com/product/PSL-2570-100006-C/fb0296da00f372b7d3cd95b33b0d02af5de29a38b104c3e054ba39f8bd24e41a.jpg@300w_400h_2e_75q", 
+    "stockStatus" : "1", 
+    "status" : "1", 
+    "isRecommend" : "0", 
+    "saleableQty" : "130", 
+    "eventStatus" : "open", 
+    "enableWaitingList" : "0", 
+    "allOutOfStock" : "0", 
+    "discount" : "5.0", 
+    "purchaseType" : "D-Vendor Delivery", 
+    "isNewProduct" : "0", 
+    "isCrossBorder" : "0", 
+    "isLimitedTimeOffer" : "0", 
+    "tNewProduct" : NumberInt(2), 
+    "itemPriceDto" : {
+        "price" : "1199", 
+        "discount" : "5.0", 
+        "begin" : "1578119063", 
+        "end" : "1586170800"
+    }, 
+    "productSizes" : [
+        {
+            "id" : "2014201499000049592", 
+            "size" : "S", 
+            "qty" : NumberInt(23)
+        }, 
+        {
+            "id" : "2021202199000026950", 
+            "size" : "M", 
+            "qty" : NumberInt(42)
+        }, 
+        {
+            "id" : "2018201899000057396", 
+            "size" : "L", 
+            "qty" : NumberInt(42)
+        }, 
+        {
+            "id" : "2084208499000021833", 
+            "size" : "XL", 
+            "qty" : NumberInt(23)
+        }
+    ]
+}
+{ 
+    "_id" : ObjectId("5e16d4e603c371374c20f476"), 
+    "productId" : "2185218599000000234", 
+    "productName" : "Ports/宝姿多色圆领秋冬女士时尚优雅长袖针织衫", 
+    "product_type" : "Configurable", 
+    "brandName" : "PORTS", 
+    "glsCode" : "PS2-115-100033-C", 
+    "price" : "1039", 
+    "marketPrice" : "2600", 
+    "imageUrl" : "https://cdn13.mei.com/product/PS2-115-100033-C/8a4efa675c041e958ae1db6f3966a8e0c313c19e48b0d6a4776becc4a77b82f2.jpg@300w_400h_2e_75q", 
+    "stockStatus" : "1", 
+    "status" : "1", 
+    "isRecommend" : "0", 
+    "saleableQty" : "130", 
+    "eventStatus" : "open", 
+    "enableWaitingList" : "0", 
+    "allOutOfStock" : "0", 
+    "discount" : "4.0", 
+    "purchaseType" : "D-Vendor Delivery", 
+    "isNewProduct" : "0", 
+    "isCrossBorder" : "0", 
+    "isLimitedTimeOffer" : "0", 
+    "tNewProduct" : NumberInt(0), 
+    "itemPriceDto" : {
+        "price" : "1039", 
+        "discount" : "4.0", 
+        "begin" : "1578119063", 
+        "end" : "1586170800"
+    }, 
+    "productSizes" : [
+        {
+            "id" : "2022202299000023031", 
+            "size" : "S", 
+            "qty" : NumberInt(43)
+        }, 
+        {
+            "id" : "2085208599000014916", 
+            "size" : "M", 
+            "qty" : NumberInt(50)
+        }, 
+        {
+            "id" : "2085208599000014917", 
+            "size" : "L", 
+            "qty" : NumberInt(35)
+        }, 
+        {
+            "id" : "2086208699000014551", 
+            "size" : "XL", 
+            "qty" : NumberInt(2)
+        }
+    ]
+}
+{ 
+    "_id" : ObjectId("5e16d52103c371374c20f477"), 
+    "productId" : "2121212199000125913", 
+    "productName" : "姜黄色花边高领女士秋冬长袖针织毛衣", 
+    "product_type" : "Configurable", 
+    "brandName" : "ISABELLA BY PORTS", 
+    "glsCode" : "IXV-154-00085", 
+    "price" : "549", 
+    "marketPrice" : "2500", 
+    "imageUrl" : "https://cdn14.mei.com/product/IXV-154-00087/8d64e483014f93f061fe129b7755e060.jpg@300w_400h_2e_75q", 
+    "stockStatus" : "1", 
+    "status" : "1", 
+    "isRecommend" : "1", 
+    "saleableQty" : "7", 
+    "eventStatus" : "open", 
+    "enableWaitingList" : "0", 
+    "allOutOfStock" : "0", 
+    "discount" : "2.2", 
+    "purchaseType" : "D-Vendor Delivery", 
+    "isNewProduct" : "0", 
+    "isCrossBorder" : "0", 
+    "isLimitedTimeOffer" : "0", 
+    "tNewProduct" : NumberInt(2), 
+    "itemPriceDto" : {
+        "price" : "549", 
+        "discount" : "2.2", 
+        "begin" : "1578104299", 
+        "end" : "1586170800"
+    }, 
+    "tagListDto" : [
+        {
+            "tag" : "买手推荐", 
+            "isHasExpiration" : "0", 
+            "fontColor" : "000000", 
+            "fontBackgroudColor" : "FFFFFF", 
+            "frameColor" : "000000", 
+            "isRadius" : NumberInt(0), 
+            "isGradient" : NumberInt(0)
+        }
+    ], 
+    "productSizes" : [
+        {
+            "id" : "2121212199000125918", 
+            "size" : "XS", 
+            "qty" : NumberInt(2)
+        }, 
+        {
+            "id" : "2121212199000125916", 
+            "size" : "S", 
+            "qty" : NumberInt(3)
+        }, 
+        {
+            "id" : "2121212199000125914", 
+            "size" : "L", 
+            "qty" : NumberInt(1)
+        }, 
+        {
+            "id" : "2121212199000125917", 
+            "size" : "XL", 
+            "qty" : NumberInt(1)
+        }
+    ]
+}
+{ 
+    "_id" : ObjectId("5e16d52103c371374c20f478"), 
+    "productId" : "2121212199000051459", 
+    "productName" : "米白色肩部拼接女士上衣", 
+    "product_type" : "Configurable", 
+    "brandName" : "PORTS", 
+    "glsCode" : "TS8-154-01274", 
+    "price" : "569", 
+    "marketPrice" : "2599", 
+    "imageUrl" : "https://cdn13.mei.com/product/TS8-154-01276/833b54622b8bd8e6851818815a7b8f10.jpg@300w_400h_2e_75q", 
+    "stockStatus" : "1", 
+    "status" : "1", 
+    "isRecommend" : "0", 
+    "saleableQty" : "331", 
+    "eventStatus" : "open", 
+    "enableWaitingList" : "0", 
+    "allOutOfStock" : "0", 
+    "discount" : "2.2", 
+    "purchaseType" : "D-Vendor Delivery", 
+    "isNewProduct" : "0", 
+    "isCrossBorder" : "0", 
+    "isLimitedTimeOffer" : "0", 
+    "tNewProduct" : NumberInt(2), 
+    "itemPriceDto" : {
+        "price" : "569", 
+        "discount" : "2.2", 
+        "begin" : "1578104299", 
+        "end" : "1586170800"
+    }, 
+    "productSizes" : [
+        {
+            "id" : "2121212199000051464", 
+            "size" : "XS", 
+            "qty" : NumberInt(1)
+        }, 
+        {
+            "id" : "2121212199000051462", 
+            "size" : "S", 
+            "qty" : NumberInt(70)
+        }, 
+        {
+            "id" : "2121212199000051461", 
+            "size" : "M", 
+            "qty" : NumberInt(101)
+        }, 
+        {
+            "id" : "2121212199000051460", 
+            "size" : "L", 
+            "qty" : NumberInt(119)
+        }, 
+        {
+            "id" : "2121212199000051463", 
+            "size" : "XL", 
+            "qty" : NumberInt(40)
+        }
+    ]
+}
+{ 
+    "_id" : ObjectId("5e16d52103c371374c20f479"), 
+    "productId" : "2120212099000159842", 
+    "productName" : "玫红色桑蚕丝条纹中长款女士针织开衫", 
+    "product_type" : "Configurable", 
+    "brandName" : "PORTS", 
+    "glsCode" : "TS8-154-01655", 
+    "price" : "789", 
+    "marketPrice" : "3699", 
+    "imageUrl" : "https://cdn15.mei.com/product/TS8-154-01657/833b54622b8bd8e6b26244e88cb1d98e.jpg@300w_400h_2e_75q", 
+    "stockStatus" : "1", 
+    "status" : "1", 
+    "isRecommend" : "0", 
+    "saleableQty" : "326", 
+    "eventStatus" : "open", 
+    "enableWaitingList" : "0", 
+    "allOutOfStock" : "0", 
+    "discount" : "2.2", 
+    "purchaseType" : "D-Vendor Delivery", 
+    "isNewProduct" : "0", 
+    "isCrossBorder" : "0", 
+    "isLimitedTimeOffer" : "0", 
+    "tNewProduct" : NumberInt(2), 
+    "itemPriceDto" : {
+        "price" : "789", 
+        "discount" : "2.2", 
+        "begin" : "1578104299", 
+        "end" : "1586170800"
+    }, 
+    "productSizes" : [
+        {
+            "id" : "2120212099000159845", 
+            "size" : "S", 
+            "qty" : NumberInt(130)
+        }, 
+        {
+            "id" : "2120212099000159844", 
+            "size" : "M", 
+            "qty" : NumberInt(185)
+        }, 
+        {
+            "id" : "2120212099000159843", 
+            "size" : "L", 
+            "qty" : NumberInt(11)
+        }
+    ]
+}
+{ 
+    "_id" : ObjectId("5e16d52103c371374c20f47a"), 
+    "productId" : "2018201899000054072", 
+    "productName" : "Ports/宝姿米白色拼接女士秋冬长袖中长针织开衫羊毛衫", 
+    "product_type" : "Configurable", 
+    "brandName" : "PORTS", 
+    "glsCode" : "PS2-116-100005-C", 
+    "price" : "909", 
+    "marketPrice" : "4299", 
+    "imageUrl" : "https://cdn13.mei.com/product/PS2-116-100005-C/fb0296da00f372b791d19caf20aff4dad4996fc790fcf3054d530478b0e553ae.jpg@300w_400h_2e_75q", 
+    "stockStatus" : "1", 
+    "status" : "1", 
+    "isRecommend" : "0", 
+    "saleableQty" : "244", 
+    "eventStatus" : "open", 
+    "enableWaitingList" : "0", 
+    "allOutOfStock" : "0", 
+    "discount" : "2.2", 
+    "purchaseType" : "D-Vendor Delivery", 
+    "isNewProduct" : "0", 
+    "isCrossBorder" : "0", 
+    "isLimitedTimeOffer" : "0", 
+    "tNewProduct" : NumberInt(2), 
+    "itemPriceDto" : {
+        "price" : "909", 
+        "discount" : "2.2", 
+        "begin" : "1578104299", 
+        "end" : "1586170800"
+    }, 
+    "productSizes" : [
+        {
+            "id" : "2021202199000019745", 
+            "size" : "XS", 
+            "qty" : NumberInt(12)
+        }, 
+        {
+            "id" : "2017201799000018515", 
+            "size" : "S", 
+            "qty" : NumberInt(61)
+        }, 
+        {
+            "id" : "2086208699000014555", 
+            "size" : "M", 
+            "qty" : NumberInt(75)
+        }, 
+        {
+            "id" : "2084208499000014942", 
+            "size" : "L", 
+            "qty" : NumberInt(80)
+        }, 
+        {
+            "id" : "2018201899000050347", 
+            "size" : "XL", 
+            "qty" : NumberInt(16)
+        }
+    ]
+}
+{ 
+    "_id" : ObjectId("5e16d52103c371374c20f47b"), 
+    "productId" : "2121212199000030150", 
+    "productName" : "粉橘色扭结钻饰长袖针织上衣", 
+    "product_type" : "Configurable", 
+    "brandName" : "PORTS", 
+    "glsCode" : "TS8-154-01112", 
+    "price" : "709", 
+    "marketPrice" : "3299", 
+    "imageUrl" : "https://cdn15.mei.com/product/TS8-154-01112/833b54622b8bd8e61b7ddbe4973debdf.jpg@300w_400h_2e_75q", 
+    "stockStatus" : "1", 
+    "status" : "1", 
+    "isRecommend" : "0", 
+    "saleableQty" : "230", 
+    "eventStatus" : "open", 
+    "enableWaitingList" : "0", 
+    "allOutOfStock" : "0", 
+    "discount" : "2.2", 
+    "purchaseType" : "D-Vendor Delivery", 
+    "isNewProduct" : "0", 
+    "isCrossBorder" : "0", 
+    "isLimitedTimeOffer" : "0", 
+    "tNewProduct" : NumberInt(2), 
+    "itemPriceDto" : {
+        "price" : "709", 
+        "discount" : "2.2", 
+        "begin" : "1578104299", 
+        "end" : "1586170800"
+    }, 
+    "productSizes" : [
+        {
+            "id" : "2121212199000030155", 
+            "size" : "XS", 
+            "qty" : NumberInt(1)
+        }, 
+        {
+            "id" : "2121212199000030153", 
+            "size" : "S", 
+            "qty" : NumberInt(32)
+        }, 
+        {
+            "id" : "2121212199000030152", 
+            "size" : "M", 
+            "qty" : NumberInt(78)
+        }, 
+        {
+            "id" : "2121212199000030151", 
+            "size" : "L", 
+            "qty" : NumberInt(73)
+        }, 
+        {
+            "id" : "2121212199000030154", 
+            "size" : "XL", 
+            "qty" : NumberInt(46)
+        }
+    ]
+}
+{ 
+    "_id" : ObjectId("5e16d52103c371374c20f47c"), 
+    "productId" : "2085208599000018655", 
+    "productName" : "Ports/宝姿多色混羊毛圆领长袖蕾丝拼接性感女士针织衫", 
+    "product_type" : "Configurable", 
+    "brandName" : "PORTS", 
+    "glsCode" : "PS2-2569-100010-C", 
+    "price" : "989", 
+    "marketPrice" : "3299", 
+    "imageUrl" : "https://cdn15.mei.com/product/PS2-2569-100010-C/8a4efa675c041e952b755ca9c6847883668d8b80b6aadbf18fc8be7eaf20dd8e.jpg@300w_400h_2e_75q", 
+    "stockStatus" : "1", 
+    "status" : "1", 
+    "isRecommend" : "0", 
+    "saleableQty" : "227", 
+    "eventStatus" : "open", 
+    "enableWaitingList" : "0", 
+    "allOutOfStock" : "0", 
+    "discount" : "3.0", 
+    "purchaseType" : "D-Vendor Delivery", 
+    "isNewProduct" : "0", 
+    "isCrossBorder" : "0", 
+    "isLimitedTimeOffer" : "0", 
+    "tNewProduct" : NumberInt(0), 
+    "itemPriceDto" : {
+        "price" : "989", 
+        "discount" : "3.0", 
+        "begin" : "1578104299", 
+        "end" : "1586170800"
+    }, 
+    "productSizes" : [
+        {
+            "id" : "2022202299000023079", 
+            "size" : "XS", 
+            "qty" : NumberInt(11)
+        }, 
+        {
+            "id" : "2086208699000014599", 
+            "size" : "S", 
+            "qty" : NumberInt(58)
+        }, 
+        {
+            "id" : "2022202299000023080", 
+            "size" : "M", 
+            "qty" : NumberInt(73)
+        }, 
+        {
+            "id" : "2018201899000050376", 
+            "size" : "L", 
+            "qty" : NumberInt(56)
+        }, 
+        {
+            "id" : "2084208499000014969", 
+            "size" : "XL", 
+            "qty" : NumberInt(29)
+        }
+    ]
+}
+{ 
+    "_id" : ObjectId("5e16d52103c371374c20f47d"), 
+    "productId" : "2086208699000013864", 
+    "productName" : "Ports/宝姿粉色珠饰装饰设计时尚优雅甜美百搭针织中袖女士上衣", 
+    "product_type" : "Configurable", 
+    "brandName" : "PORTS", 
+    "glsCode" : "PS2-115-100011-C", 
+    "price" : "509", 
+    "marketPrice" : "2299", 
+    "imageUrl" : "https://cdn14.mei.com/product/PS2-115-100011-C/8a4efa675c041e951537dae61fce3a442ed43303c5c1ea4a89161f10ff740574.jpg@300w_400h_2e_75q", 
+    "stockStatus" : "1", 
+    "status" : "1", 
+    "isRecommend" : "0", 
+    "saleableQty" : "227", 
+    "eventStatus" : "open", 
+    "enableWaitingList" : "0", 
+    "allOutOfStock" : "0", 
+    "discount" : "2.3", 
+    "purchaseType" : "D-Vendor Delivery", 
+    "isNewProduct" : "0", 
+    "isCrossBorder" : "0", 
+    "isLimitedTimeOffer" : "0", 
+    "tNewProduct" : NumberInt(0), 
+    "itemPriceDto" : {
+        "price" : "509", 
+        "discount" : "2.3", 
+        "begin" : "1578104299", 
+        "end" : "1586170800"
+    }, 
+    "productSizes" : [
+        {
+            "id" : "2085208599000010103", 
+            "size" : "S", 
+            "qty" : NumberInt(32)
+        }, 
+        {
+            "id" : "2019201999000015734", 
+            "size" : "M", 
+            "qty" : NumberInt(76)
+        }, 
+        {
+            "id" : "2016201699000058495", 
+            "size" : "L", 
+            "qty" : NumberInt(76)
+        }, 
+        {
+            "id" : "2019201999000015736", 
+            "size" : "XL", 
+            "qty" : NumberInt(43)
+        }
+    ]
+}
+{ 
+    "_id" : ObjectId("5e16d52103c371374c20f47e"), 
+    "productId" : "2086208699000018340", 
+    "productName" : "Ports/宝姿19秋冬多色含羊毛透视网格拼接优雅时尚女士针织衫毛衣", 
+    "product_type" : "Configurable", 
+    "brandName" : "PORTS", 
+    "glsCode" : "PS2-115-100040-C", 
+    "price" : "649", 
+    "marketPrice" : "2999", 
+    "imageUrl" : "https://cdn14.mei.com/product/PS2-115-100040-C/fb0296da00f372b79bc3aac8c782e318df1072d8ad40159cf1ff94c124c26357.jpg@300w_400h_2e_75q", 
+    "stockStatus" : "1", 
+    "status" : "1", 
+    "isRecommend" : "0", 
+    "saleableQty" : "212", 
+    "eventStatus" : "open", 
+    "enableWaitingList" : "0", 
+    "allOutOfStock" : "0", 
+    "discount" : "2.2", 
+    "purchaseType" : "D-Vendor Delivery", 
+    "isNewProduct" : "0", 
+    "isCrossBorder" : "0", 
+    "isLimitedTimeOffer" : "0", 
+    "tNewProduct" : NumberInt(0), 
+    "itemPriceDto" : {
+        "price" : "649", 
+        "discount" : "2.2", 
+        "begin" : "1578104299", 
+        "end" : "1586170800"
+    }, 
+    "productSizes" : [
+        {
+            "id" : "2084208499000015154", 
+            "size" : "XS", 
+            "qty" : NumberInt(11)
+        }, 
+        {
+            "id" : "2019201999000020916", 
+            "size" : "S", 
+            "qty" : NumberInt(54)
+        }, 
+        {
+            "id" : "2087208799000015286", 
+            "size" : "M", 
+            "qty" : NumberInt(89)
+        }, 
+        {
+            "id" : "2018201899000050601", 
+            "size" : "L", 
+            "qty" : NumberInt(41)
+        }, 
+        {
+            "id" : "2084208499000015155", 
+            "size" : "XL", 
+            "qty" : NumberInt(17)
+        }
+    ]
+}
+{ 
+    "_id" : ObjectId("5e16d52103c371374c20f47f"), 
+    "productId" : "2121212199000125140", 
+    "productName" : "灰色100%羊毛花朵圆领女士秋冬长袖毛衣", 
+    "product_type" : "Configurable", 
+    "brandName" : "PORTS", 
+    "glsCode" : "TS8-154-01439", 
+    "price" : "1079", 
+    "marketPrice" : "2699", 
+    "imageUrl" : "https://cdn13.mei.com/product/TS8-154-01441/833b54622b8bd8e63543aea374d60347.jpg@300w_400h_2e_75q", 
+    "stockStatus" : "1", 
+    "status" : "1", 
+    "isRecommend" : "0", 
+    "saleableQty" : "173", 
+    "eventStatus" : "open", 
+    "enableWaitingList" : "0", 
+    "allOutOfStock" : "0", 
+    "discount" : "4.0", 
+    "purchaseType" : "D-Vendor Delivery", 
+    "isNewProduct" : "0", 
+    "isCrossBorder" : "0", 
+    "isLimitedTimeOffer" : "0", 
+    "tNewProduct" : NumberInt(0), 
+    "itemPriceDto" : {
+        "price" : "1079", 
+        "discount" : "4.0", 
+        "begin" : "1578104299", 
+        "end" : "1586170800"
+    }, 
+    "productSizes" : [
+        {
+            "id" : "2121212199000125145", 
+            "size" : "XS", 
+            "qty" : NumberInt(8)
+        }, 
+        {
+            "id" : "2121212199000125143", 
+            "size" : "S", 
+            "qty" : NumberInt(53)
+        }, 
+        {
+            "id" : "2121212199000125142", 
+            "size" : "M", 
+            "qty" : NumberInt(47)
+        }, 
+        {
+            "id" : "2121212199000125141", 
+            "size" : "L", 
+            "qty" : NumberInt(48)
+        }, 
+        {
+            "id" : "2121212199000125144", 
+            "size" : "XL", 
+            "qty" : NumberInt(17)
+        }
+    ]
+}
+{ 
+    "_id" : ObjectId("5e16d52103c371374c20f480"), 
+    "productId" : "2040204099000622913", 
+    "productName" : "玫紫色印花饰时尚女士针织", 
+    "product_type" : "Configurable", 
+    "brandName" : "PORTS 1961", 
+    "glsCode" : "PT9-154-00318", 
+    "price" : "569", 
+    "marketPrice" : "2599", 
+    "imageUrl" : "https://cdn15.mei.com/product/PT9-154-00320/7614891400e7af4576da1c7bb6106d18.jpg@300w_400h_2e_75q", 
+    "stockStatus" : "1", 
+    "status" : "1", 
+    "isRecommend" : "0", 
+    "saleableQty" : "166", 
+    "eventStatus" : "open", 
+    "enableWaitingList" : "0", 
+    "allOutOfStock" : "0", 
+    "discount" : "2.2", 
+    "purchaseType" : "D-Vendor Delivery", 
+    "isNewProduct" : "0", 
+    "isCrossBorder" : "0", 
+    "isLimitedTimeOffer" : "0", 
+    "tNewProduct" : NumberInt(2), 
+    "itemPriceDto" : {
+        "price" : "569", 
+        "discount" : "2.2", 
+        "begin" : "1578104299", 
+        "end" : "1586170800"
+    }, 
+    "productSizes" : [
+        {
+            "id" : "2040204099000622918", 
+            "size" : "XS", 
+            "qty" : NumberInt(2)
+        }, 
+        {
+            "id" : "2040204099000622916", 
+            "size" : "S", 
+            "qty" : NumberInt(54)
+        }, 
+        {
+            "id" : "2040204099000622915", 
+            "size" : "M", 
+            "qty" : NumberInt(47)
+        }, 
+        {
+            "id" : "2040204099000622914", 
+            "size" : "L", 
+            "qty" : NumberInt(56)
+        }, 
+        {
+            "id" : "2040204099000622917", 
+            "size" : "XL", 
+            "qty" : NumberInt(7)
+        }
+    ]
+}
+{ 
+    "_id" : ObjectId("5e16d52103c371374c20f481"), 
+    "productId" : "2041204199000747973", 
+    "productName" : "橘红色钉珠饰圆领短袖女士上衣", 
+    "product_type" : "Configurable", 
+    "brandName" : "PORTS 1961", 
+    "glsCode" : "PT9-115-00127", 
+    "price" : "769", 
+    "marketPrice" : "3599", 
+    "imageUrl" : "https://cdn12.mei.com/product/PT9-115-00129/dbe0474f332f44de3b66a67822adc38c.jpg@300w_400h_2e_75q", 
+    "stockStatus" : "1", 
+    "status" : "1", 
+    "isRecommend" : "0", 
+    "saleableQty" : "157", 
+    "eventStatus" : "open", 
+    "enableWaitingList" : "0", 
+    "allOutOfStock" : "0", 
+    "discount" : "2.2", 
+    "purchaseType" : "D-Vendor Delivery", 
+    "isNewProduct" : "0", 
+    "isCrossBorder" : "0", 
+    "isLimitedTimeOffer" : "0", 
+    "tNewProduct" : NumberInt(2), 
+    "itemPriceDto" : {
+        "price" : "769", 
+        "discount" : "2.2", 
+        "begin" : "1578104299", 
+        "end" : "1586170800"
+    }, 
+    "productSizes" : [
+        {
+            "id" : "2041204199000747976", 
+            "size" : "S", 
+            "qty" : NumberInt(55)
+        }, 
+        {
+            "id" : "2041204199000747975", 
+            "size" : "M", 
+            "qty" : NumberInt(56)
+        }, 
+        {
+            "id" : "2041204199000747974", 
+            "size" : "L", 
+            "qty" : NumberInt(37)
+        }, 
+        {
+            "id" : "2041204199000747977", 
+            "size" : "XL", 
+            "qty" : NumberInt(9)
+        }
+    ]
+}
+{ 
+    "_id" : ObjectId("5e16d52103c371374c20f482"), 
+    "productId" : "2015201599000025732", 
+    "productName" : "PORTS INTERNATIONAL米色拼接撞色优雅时尚女装羊毛针织开衫外套", 
+    "product_type" : "Configurable", 
+    "brandName" : "Ports international", 
+    "glsCode" : "PSL-116-100006-C", 
+    "price" : "769", 
+    "marketPrice" : "3599", 
+    "imageUrl" : "https://cdn15.mei.com/product/PSL-116-100006-C/fb0296da00f372b7acfe44066562198c2c2c35724b75641e32aafc4c2d422386.jpg@300w_400h_2e_75q", 
+    "stockStatus" : "1", 
+    "status" : "1", 
+    "isRecommend" : "0", 
+    "saleableQty" : "151", 
+    "eventStatus" : "open", 
+    "enableWaitingList" : "0", 
+    "allOutOfStock" : "0", 
+    "discount" : "2.2", 
+    "purchaseType" : "D-Vendor Delivery", 
+    "isNewProduct" : "0", 
+    "isCrossBorder" : "0", 
+    "isLimitedTimeOffer" : "0", 
+    "tNewProduct" : NumberInt(2), 
+    "itemPriceDto" : {
+        "price" : "769", 
+        "discount" : "2.2", 
+        "begin" : "1578104299", 
+        "end" : "1586170800"
+    }, 
+    "productSizes" : [
+        {
+            "id" : "2086208699000021675", 
+            "size" : "M/L", 
+            "qty" : NumberInt(51)
+        }, 
+        {
+            "id" : "2086208699000021674", 
+            "size" : "S/M", 
+            "qty" : NumberInt(100)
+        }
+    ]
+}
+{ 
+    "_id" : ObjectId("5e16d52103c371374c20f483"), 
+    "productId" : "2017201799000018516", 
+    "productName" : "Ports/宝姿19秋冬撞色棉质深V领蝙蝠九分袖时尚女士针织衫毛衣", 
+    "product_type" : "Simple", 
+    "brandName" : "PORTS", 
+    "glsCode" : "PS2-2569-15F94F", 
+    "price" : "489", 
+    "marketPrice" : "2199", 
+    "imageUrl" : "https://cdn12.mei.com/product/PS2-2569-15F94F/fb0296da00f372b7958e42ac5af97e8af7c61b19fb31a64330c6f6b8f642ffda.jpg@300w_400h_2e_75q", 
+    "stockStatus" : "1", 
+    "status" : "1", 
+    "isRecommend" : "0", 
+    "saleableQty" : "151", 
+    "eventStatus" : "open", 
+    "enableWaitingList" : "0", 
+    "allOutOfStock" : "0", 
+    "discount" : "2.3", 
+    "purchaseType" : "D-Vendor Delivery", 
+    "isNewProduct" : "0", 
+    "isCrossBorder" : "0", 
+    "isLimitedTimeOffer" : "0", 
+    "tNewProduct" : NumberInt(2), 
+    "itemPriceDto" : {
+        "price" : "489", 
+        "discount" : "2.3", 
+        "begin" : "1578104299", 
+        "end" : "1586170800"
+    }
+}
+{ 
+    "_id" : ObjectId("5e16d52103c371374c20f484"), 
+    "productId" : "2121212199000125288", 
+    "productName" : "黑色100%羊毛菱格印花圆领女士长袖毛衣", 
+    "product_type" : "Configurable", 
+    "brandName" : "PORTS", 
+    "glsCode" : "TS8-154-01511", 
+    "price" : "709", 
+    "marketPrice" : "3299", 
+    "imageUrl" : "https://cdn13.mei.com/product/TS8-154-01513/833b54622b8bd8e6c54afe868d2dc382.jpg@300w_400h_2e_75q", 
+    "stockStatus" : "1", 
+    "status" : "1", 
+    "isRecommend" : "0", 
+    "saleableQty" : "145", 
+    "eventStatus" : "open", 
+    "enableWaitingList" : "0", 
+    "allOutOfStock" : "0", 
+    "discount" : "2.2", 
+    "purchaseType" : "D-Vendor Delivery", 
+    "isNewProduct" : "0", 
+    "isCrossBorder" : "0", 
+    "isLimitedTimeOffer" : "0", 
+    "tNewProduct" : NumberInt(2), 
+    "itemPriceDto" : {
+        "price" : "709", 
+        "discount" : "2.2", 
+        "begin" : "1578104299", 
+        "end" : "1586170800"
+    }, 
+    "productSizes" : [
+        {
+            "id" : "2121212199000125293", 
+            "size" : "XS", 
+            "qty" : NumberInt(8)
+        }, 
+        {
+            "id" : "2121212199000125291", 
+            "size" : "S", 
+            "qty" : NumberInt(68)
+        }, 
+        {
+            "id" : "2121212199000125290", 
+            "size" : "M", 
+            "qty" : NumberInt(47)
+        }, 
+        {
+            "id" : "2121212199000125289", 
+            "size" : "L", 
+            "qty" : NumberInt(22)
+        }
+    ]
+}
+{ 
+    "_id" : ObjectId("5e16d52103c371374c20f485"), 
+    "productId" : "2085208599000018656", 
+    "productName" : "Ports/宝姿多色混羊毛圆领长袖蕾丝拼接性感女士针织衫", 
+    "product_type" : "Configurable", 
+    "brandName" : "PORTS", 
+    "glsCode" : "PS2-2569-100011-C", 
+    "price" : "989", 
+    "marketPrice" : "3299", 
+    "imageUrl" : "https://cdn15.mei.com/product/PS2-2569-100011-C/8a4efa675c041e95703045c48ce4451c258fd8f5c857b73a8fc8be7eaf20dd8e.jpg@300w_400h_2e_75q", 
+    "stockStatus" : "1", 
+    "status" : "1", 
+    "isRecommend" : "0", 
+    "saleableQty" : "142", 
+    "eventStatus" : "open", 
+    "enableWaitingList" : "0", 
+    "allOutOfStock" : "0", 
+    "discount" : "3.0", 
+    "purchaseType" : "D-Vendor Delivery", 
+    "isNewProduct" : "0", 
+    "isCrossBorder" : "0", 
+    "isLimitedTimeOffer" : "0", 
+    "tNewProduct" : NumberInt(0), 
+    "itemPriceDto" : {
+        "price" : "989", 
+        "discount" : "3.0", 
+        "begin" : "1578104299", 
+        "end" : "1586170800"
+    }, 
+    "productSizes" : [
+        {
+            "id" : "2021202199000019776", 
+            "size" : "XS", 
+            "qty" : NumberInt(5)
+        }, 
+        {
+            "id" : "2020202099000017964", 
+            "size" : "S", 
+            "qty" : NumberInt(37)
+        }, 
+        {
+            "id" : "2085208599000014950", 
+            "size" : "M", 
+            "qty" : NumberInt(54)
+        }, 
+        {
+            "id" : "2086208699000014600", 
+            "size" : "L", 
+            "qty" : NumberInt(29)
+        }, 
+        {
+            "id" : "2019201999000020684", 
+            "size" : "XL", 
+            "qty" : NumberInt(17)
+        }
+    ]
+}
+{ 
+    "_id" : ObjectId("5e16d52103c371374c20f486"), 
+    "productId" : "2121212199000125134", 
+    "productName" : "黑色100%羊毛花朵圆领女士秋冬长袖毛衣", 
+    "product_type" : "Configurable", 
+    "brandName" : "PORTS", 
+    "glsCode" : "TS8-154-01433", 
+    "price" : "1079", 
+    "marketPrice" : "2699", 
+    "imageUrl" : "https://cdn12.mei.com/product/TS8-154-01435/833b54622b8bd8e6a57d1a25c4fef39b.jpg@300w_400h_2e_75q", 
+    "stockStatus" : "1", 
+    "status" : "1", 
+    "isRecommend" : "0", 
+    "saleableQty" : "141", 
+    "eventStatus" : "open", 
+    "enableWaitingList" : "0", 
+    "allOutOfStock" : "0", 
+    "discount" : "4.0", 
+    "purchaseType" : "D-Vendor Delivery", 
+    "isNewProduct" : "0", 
+    "isCrossBorder" : "0", 
+    "isLimitedTimeOffer" : "0", 
+    "tNewProduct" : NumberInt(0), 
+    "itemPriceDto" : {
+        "price" : "1079", 
+        "discount" : "4.0", 
+        "begin" : "1578104299", 
+        "end" : "1586170800"
+    }, 
+    "productSizes" : [
+        {
+            "id" : "2121212199000125139", 
+            "size" : "XS", 
+            "qty" : NumberInt(9)
+        }, 
+        {
+            "id" : "2121212199000125137", 
+            "size" : "S", 
+            "qty" : NumberInt(56)
+        }, 
+        {
+            "id" : "2121212199000125136", 
+            "size" : "M", 
+            "qty" : NumberInt(41)
+        }, 
+        {
+            "id" : "2121212199000125135", 
+            "size" : "L", 
+            "qty" : NumberInt(31)
+        }, 
+        {
+            "id" : "2121212199000125138", 
+            "size" : "XL", 
+            "qty" : NumberInt(4)
+        }
+    ]
+}
+{ 
+    "_id" : ObjectId("5e16d52103c371374c20f487"), 
+    "productId" : "2086208699000018350", 
+    "productName" : "Ports/宝姿多色羊毛简约钩花百搭圆领长袖女士针织衫", 
+    "product_type" : "Configurable", 
+    "brandName" : "PORTS", 
+    "glsCode" : "PS2-115-100086-C", 
+    "price" : "779", 
+    "marketPrice" : "2599", 
+    "imageUrl" : "https://cdn15.mei.com/product/PS2-115-100086-C/8a4efa675c041e9500199b5c0f509db9dd89998e21a8e5162f341b7d582775a3.jpg@300w_400h_2e_75q", 
+    "stockStatus" : "1", 
+    "status" : "1", 
+    "isRecommend" : "0", 
+    "saleableQty" : "133", 
+    "eventStatus" : "open", 
+    "enableWaitingList" : "0", 
+    "allOutOfStock" : "0", 
+    "discount" : "3.0", 
+    "purchaseType" : "D-Vendor Delivery", 
+    "isNewProduct" : "0", 
+    "isCrossBorder" : "0", 
+    "isLimitedTimeOffer" : "0", 
+    "tNewProduct" : NumberInt(0), 
+    "itemPriceDto" : {
+        "price" : "779", 
+        "discount" : "3.0", 
+        "begin" : "1578104299", 
+        "end" : "1586170800"
+    }, 
+    "productSizes" : [
+        {
+            "id" : "2087208799000015077", 
+            "size" : "XS", 
+            "qty" : NumberInt(5)
+        }, 
+        {
+            "id" : "2015201599000017555", 
+            "size" : "S", 
+            "qty" : NumberInt(51)
+        }, 
+        {
+            "id" : "2087208799000015078", 
+            "size" : "M", 
+            "qty" : NumberInt(47)
+        }, 
+        {
+            "id" : "2014201499000042517", 
+            "size" : "L", 
+            "qty" : NumberInt(28)
+        }, 
+        {
+            "id" : "2021202199000019780", 
+            "size" : "XL", 
+            "qty" : NumberInt(2)
+        }
+    ]
+}
+{ 
+    "_id" : ObjectId("5e16d52103c371374c20f488"), 
+    "productId" : "2185218599000000253", 
+    "productName" : "Ports/宝姿黑色羊毛撞色纹样圆领长袖百搭女士针织衫", 
+    "product_type" : "Configurable", 
+    "brandName" : "PORTS", 
+    "glsCode" : "PS2-115-100093-C", 
+    "price" : "1079", 
+    "marketPrice" : "3599", 
+    "imageUrl" : "https://cdn13.mei.com/product/PS2-115-100093-C/8a4efa675c041e95224f9d0fb95391aa98ee600f3671509b749a71e363a4a217.jpg@300w_400h_2e_75q", 
+    "stockStatus" : "1", 
+    "status" : "1", 
+    "isRecommend" : "0", 
+    "saleableQty" : "132", 
+    "eventStatus" : "open", 
+    "enableWaitingList" : "0", 
+    "allOutOfStock" : "0", 
+    "discount" : "3.0", 
+    "purchaseType" : "D-Vendor Delivery", 
+    "isNewProduct" : "0", 
+    "isCrossBorder" : "0", 
+    "isLimitedTimeOffer" : "0", 
+    "tNewProduct" : NumberInt(0), 
+    "itemPriceDto" : {
+        "price" : "1079", 
+        "discount" : "3.0", 
+        "begin" : "1578104299", 
+        "end" : "1586170800"
+    }, 
+    "productSizes" : [
+        {
+            "id" : "2087208799000015076", 
+            "size" : "XS", 
+            "qty" : NumberInt(7)
+        }, 
+        {
+            "id" : "2019201999000020685", 
+            "size" : "S", 
+            "qty" : NumberInt(50)
+        }, 
+        {
+            "id" : "2016201699000063470", 
+            "size" : "M", 
+            "qty" : NumberInt(56)
+        }, 
+        {
+            "id" : "2087208799000015075", 
+            "size" : "L", 
+            "qty" : NumberInt(18)
+        }, 
+        {
+            "id" : "2085208599000014952", 
+            "size" : "XL", 
+            "qty" : NumberInt(1)
+        }
+    ]
+}
+{ 
+    "_id" : ObjectId("5e16d52103c371374c20f489"), 
+    "productId" : "2085208599000022923", 
+    "productName" : "PORTS INTERNATIONAL多色纯羊毛高领长袖修身女士针织衫套头衫", 
+    "product_type" : "Configurable", 
+    "brandName" : "Ports international", 
+    "glsCode" : "PSL-2570-100006-C", 
+    "price" : "1199", 
+    "marketPrice" : "2399", 
+    "imageUrl" : "https://cdn14.mei.com/product/PSL-2570-100006-C/fb0296da00f372b7d3cd95b33b0d02af5de29a38b104c3e054ba39f8bd24e41a.jpg@300w_400h_2e_75q", 
+    "stockStatus" : "1", 
+    "status" : "1", 
+    "isRecommend" : "0", 
+    "saleableQty" : "130", 
+    "eventStatus" : "open", 
+    "enableWaitingList" : "0", 
+    "allOutOfStock" : "0", 
+    "discount" : "5.0", 
+    "purchaseType" : "D-Vendor Delivery", 
+    "isNewProduct" : "0", 
+    "isCrossBorder" : "0", 
+    "isLimitedTimeOffer" : "0", 
+    "tNewProduct" : NumberInt(2), 
+    "itemPriceDto" : {
+        "price" : "1199", 
+        "discount" : "5.0", 
+        "begin" : "1578104299", 
+        "end" : "1586170800"
+    }, 
+    "productSizes" : [
+        {
+            "id" : "2014201499000049592", 
+            "size" : "S", 
+            "qty" : NumberInt(23)
+        }, 
+        {
+            "id" : "2021202199000026950", 
+            "size" : "M", 
+            "qty" : NumberInt(42)
+        }, 
+        {
+            "id" : "2018201899000057396", 
+            "size" : "L", 
+            "qty" : NumberInt(42)
+        }, 
+        {
+            "id" : "2084208499000021833", 
+            "size" : "XL", 
+            "qty" : NumberInt(23)
+        }
+    ]
+}
+{ 
+    "_id" : ObjectId("5e16d52103c371374c20f48a"), 
+    "productId" : "2185218599000000234", 
+    "productName" : "Ports/宝姿多色圆领秋冬女士时尚优雅长袖针织衫", 
+    "product_type" : "Configurable", 
+    "brandName" : "PORTS", 
+    "glsCode" : "PS2-115-100033-C", 
+    "price" : "1039", 
+    "marketPrice" : "2600", 
+    "imageUrl" : "https://cdn13.mei.com/product/PS2-115-100033-C/8a4efa675c041e958ae1db6f3966a8e0c313c19e48b0d6a4776becc4a77b82f2.jpg@300w_400h_2e_75q", 
+    "stockStatus" : "1", 
+    "status" : "1", 
+    "isRecommend" : "0", 
+    "saleableQty" : "130", 
+    "eventStatus" : "open", 
+    "enableWaitingList" : "0", 
+    "allOutOfStock" : "0", 
+    "discount" : "4.0", 
+    "purchaseType" : "D-Vendor Delivery", 
+    "isNewProduct" : "0", 
+    "isCrossBorder" : "0", 
+    "isLimitedTimeOffer" : "0", 
+    "tNewProduct" : NumberInt(0), 
+    "itemPriceDto" : {
+        "price" : "1039", 
+        "discount" : "4.0", 
+        "begin" : "1578104299", 
+        "end" : "1586170800"
+    }, 
+    "productSizes" : [
+        {
+            "id" : "2022202299000023031", 
+            "size" : "S", 
+            "qty" : NumberInt(43)
+        }, 
+        {
+            "id" : "2085208599000014916", 
+            "size" : "M", 
+            "qty" : NumberInt(50)
+        }, 
+        {
+            "id" : "2085208599000014917", 
+            "size" : "L", 
+            "qty" : NumberInt(35)
+        }, 
+        {
+            "id" : "2086208699000014551", 
+            "size" : "XL", 
+            "qty" : NumberInt(2)
+        }
+    ]
+}
+{ 
+    "_id" : ObjectId("5e16d53e03c371374c20f48b"), 
+    "productId" : "2019201999000027977", 
+    "productName" : "FENDI黑色FF毛毛口袋双排扣时尚优雅女装羊毛呢大衣外套", 
+    "product_type" : "Configurable", 
+    "brandName" : "FENDI", 
+    "glsCode" : "FD0-2560-100002-C", 
+    "price" : "30579", 
+    "marketPrice" : "38500", 
+    "imageUrl" : "https://cdn15.mei.com/product/FD0-2560-100002-C/40e5b1ce2869db424fa01bef0b2dcad098581210affee6ffe4a50eebe3f8b4a1.jpg@300w_400h_2e_75q", 
+    "stockStatus" : "1", 
+    "status" : "1", 
+    "isRecommend" : "0", 
+    "saleableQty" : "3", 
+    "eventStatus" : "open", 
+    "enableWaitingList" : "0", 
+    "allOutOfStock" : "0", 
+    "discount" : "8.0", 
+    "purchaseType" : "D-Vendor Delivery", 
+    "isNewProduct" : "1", 
+    "isCrossBorder" : "0", 
+    "isLimitedTimeOffer" : "0", 
+    "tNewProduct" : NumberInt(0), 
+    "itemPriceDto" : {
+        "price" : "30579", 
+        "discount" : "8.0", 
+        "begin" : "1578104502", 
+        "end" : "1583283600"
+    }, 
+    "tagListDto" : [
+        {
+            "tag" : "当季新品", 
+            "isHasExpiration" : "0", 
+            "fontColor" : "FFFFFF", 
+            "fontBackgroudColor" : "DD2828", 
+            "frameColor" : "DD2828", 
+            "isRadius" : NumberInt(0), 
+            "isGradient" : NumberInt(0)
+        }
+    ], 
+    "productSizes" : [
+        {
+            "id" : "2186218699000002859", 
+            "size" : "40", 
+            "qty" : NumberInt(1)
+        }, 
+        {
+            "id" : "2015201599000023958", 
+            "size" : "42", 
+            "qty" : NumberInt(1)
+        }, 
+        {
+            "id" : "2017201799000024898", 
+            "size" : "44", 
+            "qty" : NumberInt(1)
+        }
+    ]
+}
+{ 
+    "_id" : ObjectId("5e16d53e03c371374c20f48c"), 
+    "productId" : "2185218599000004029", 
+    "productName" : "FENDI黑色羊毛戗驳领毛毛袖双排扣时尚优雅女装毛呢大衣外套", 
+    "product_type" : "Configurable", 
+    "brandName" : "FENDI", 
+    "glsCode" : "FD0-2560-100004-C", 
+    "price" : "37759", 
+    "marketPrice" : "54420", 
+    "imageUrl" : "https://cdn12.mei.com/product/FD0-2560-100004-C/40e5b1ce2869db42ffc8a7c390d01206023dfb8857c68e3bf7227063c841760e.jpg@300w_400h_2e_75q", 
+    "stockStatus" : "1", 
+    "status" : "1", 
+    "isRecommend" : "0", 
+    "saleableQty" : "1", 
+    "eventStatus" : "open", 
+    "enableWaitingList" : "0", 
+    "allOutOfStock" : "0", 
+    "discount" : "7.0", 
+    "purchaseType" : "D-Vendor Delivery", 
+    "isNewProduct" : "1", 
+    "isCrossBorder" : "0", 
+    "isLimitedTimeOffer" : "0", 
+    "tNewProduct" : NumberInt(0), 
+    "itemPriceDto" : {
+        "price" : "37759", 
+        "discount" : "7.0", 
+        "begin" : "1578104502", 
+        "end" : "1583283600"
+    }, 
+    "tagListDto" : [
+        {
+            "tag" : "当季新品", 
+            "isHasExpiration" : "0", 
+            "fontColor" : "FFFFFF", 
+            "fontBackgroudColor" : "DD2828", 
+            "frameColor" : "DD2828", 
+            "isRadius" : NumberInt(0), 
+            "isGradient" : NumberInt(0)
+        }, 
+        {
+            "tag" : "仅剩一件", 
+            "isHasExpiration" : "0", 
+            "fontColor" : "000000", 
+            "fontBackgroudColor" : "FFFFFF", 
+            "frameColor" : "000000", 
+            "isRadius" : NumberInt(0), 
+            "isGradient" : NumberInt(0)
+        }
+    ], 
+    "productSizes" : [
+        {
+            "id" : "2022202299000029362", 
+            "size" : "38", 
+            "qty" : NumberInt(1)
+        }
+    ]
+}
+{ 
+    "_id" : ObjectId("5e16d53e03c371374c20f48d"), 
+    "productId" : "2020202099000023695", 
+    "productName" : "FENDI/芬迪 黑绿色条纹皮草口袋系带时尚女士羊毛呢外套大衣", 
+    "product_type" : "Simple", 
+    "brandName" : "FENDI", 
+    "glsCode" : "FD0-2560-16CBCD", 
+    "price" : "16489", 
+    "marketPrice" : "21150", 
+    "imageUrl" : "https://cdn15.mei.com/product/FD0-2560-16CBCD/8a4efa675c041e957228113d2e412d40fe7efadcf0a7776353f565cd049670bf.jpg@300w_400h_2e_75q", 
+    "stockStatus" : "1", 
+    "status" : "1", 
+    "isRecommend" : "0", 
+    "saleableQty" : "1", 
+    "eventStatus" : "open", 
+    "enableWaitingList" : "0", 
+    "allOutOfStock" : "0", 
+    "discount" : "7.8", 
+    "purchaseType" : "D-Vendor Delivery", 
+    "isNewProduct" : "0", 
+    "isCrossBorder" : "0", 
+    "isLimitedTimeOffer" : "0", 
+    "tNewProduct" : NumberInt(0), 
+    "itemPriceDto" : {
+        "price" : "16489", 
+        "discount" : "7.8", 
+        "begin" : "1578104502", 
+        "end" : "1582938000"
+    }, 
+    "tagListDto" : [
+        {
+            "tag" : "仅剩一件", 
+            "isHasExpiration" : "0", 
+            "fontColor" : "000000", 
+            "fontBackgroudColor" : "FFFFFF", 
+            "frameColor" : "000000", 
+            "isRadius" : NumberInt(0), 
+            "isGradient" : NumberInt(0)
+        }
+    ]
+}
+{ 
+    "_id" : ObjectId("5e16d53e03c371374c20f48e"), 
+    "productId" : "2085208599000020551", 
+    "productName" : "FENDI/芬迪 黑绿色毛条连帽个性花纹时尚百搭女士羽绒服外套", 
+    "product_type" : "Simple", 
+    "brandName" : "FENDI", 
+    "glsCode" : "FD0-2568-16CBCC", 
+    "price" : "18429", 
+    "marketPrice" : "23640", 
+    "imageUrl" : "https://cdn13.mei.com/product/FD0-2568-16CBCC/8a4efa675c041e95d46efa1d3a158016af9ae11ab3758b4a73d7dcb7febecab2.jpg@300w_400h_2e_75q", 
+    "stockStatus" : "1", 
+    "status" : "1", 
+    "isRecommend" : "0", 
+    "saleableQty" : "1", 
+    "eventStatus" : "open", 
+    "enableWaitingList" : "0", 
+    "allOutOfStock" : "0", 
+    "discount" : "7.8", 
+    "purchaseType" : "D-Vendor Delivery", 
+    "isNewProduct" : "0", 
+    "isCrossBorder" : "0", 
+    "isLimitedTimeOffer" : "0", 
+    "tNewProduct" : NumberInt(0), 
+    "itemPriceDto" : {
+        "price" : "18429", 
+        "discount" : "7.8", 
+        "begin" : "1578104502", 
+        "end" : "1582938000"
+    }, 
+    "tagListDto" : [
+        {
+            "tag" : "仅剩一件", 
+            "isHasExpiration" : "0", 
+            "fontColor" : "000000", 
+            "fontBackgroudColor" : "FFFFFF", 
+            "frameColor" : "000000", 
+            "isRadius" : NumberInt(0), 
+            "isGradient" : NumberInt(0)
+        }
+    ]
+}
+{ 
+    "_id" : ObjectId("5e16d53e03c371374c20f48f"), 
+    "productId" : "2085208599000022190", 
+    "productName" : "FENDI黑色小怪兽眼睛罗纹袖口时尚百搭男装可拆连帽羽绒服外套", 
+    "product_type" : "Configurable", 
+    "brandName" : "FENDI", 
+    "glsCode" : "FD0-246-100002-C", 
+    "price" : "17649", 
+    "marketPrice" : "25470", 
+    "imageUrl" : "https://cdn15.mei.com/product/FD0-246-100002-C/40e5b1ce2869db42e509541efd548b46e427048c5ff9f9053c24661a3e04fc63.jpg@300w_400h_2e_75q", 
+    "stockStatus" : "1", 
+    "status" : "1", 
+    "isRecommend" : "0", 
+    "saleableQty" : "1", 
+    "eventStatus" : "open", 
+    "enableWaitingList" : "0", 
+    "allOutOfStock" : "0", 
+    "discount" : "7.0", 
+    "purchaseType" : "D-Vendor Delivery", 
+    "isNewProduct" : "1", 
+    "isCrossBorder" : "0", 
+    "isLimitedTimeOffer" : "0", 
+    "tNewProduct" : NumberInt(0), 
+    "itemPriceDto" : {
+        "price" : "17649", 
+        "discount" : "7.0", 
+        "begin" : "1578104502", 
+        "end" : "1583283600"
+    }, 
+    "tagListDto" : [
+        {
+            "tag" : "当季新品", 
+            "isHasExpiration" : "0", 
+            "fontColor" : "FFFFFF", 
+            "fontBackgroudColor" : "DD2828", 
+            "frameColor" : "DD2828", 
+            "isRadius" : NumberInt(0), 
+            "isGradient" : NumberInt(0)
+        }, 
+        {
+            "tag" : "仅剩一件", 
+            "isHasExpiration" : "0", 
+            "fontColor" : "000000", 
+            "fontBackgroudColor" : "FFFFFF", 
+            "frameColor" : "000000", 
+            "isRadius" : NumberInt(0), 
+            "isGradient" : NumberInt(0)
+        }
+    ], 
+    "productSizes" : [
+        {
+            "id" : "2016201699000070005", 
+            "size" : "48", 
+            "qty" : NumberInt(1)
+        }
+    ]
+}
+{ 
+    "_id" : ObjectId("5e16d53e03c371374c20f490"), 
+    "productId" : "2186218699000003969", 
+    "productName" : "FENDI黑色连帽荧光小怪兽眼睛图案个性拼接男装鹅绒羽绒服外套", 
+    "product_type" : "Configurable", 
+    "brandName" : "FENDI", 
+    "glsCode" : "FD0-246-100003-C", 
+    "price" : "17649", 
+    "marketPrice" : "25470", 
+    "imageUrl" : "https://cdn13.mei.com/product/FD0-246-100003-C/40e5b1ce2869db42b5ffaf77a9cca0894f79830c00e755117602b4d6e41365d2.jpg@300w_400h_2e_75q", 
+    "stockStatus" : "1", 
+    "status" : "1", 
+    "isRecommend" : "0", 
+    "saleableQty" : "5", 
+    "eventStatus" : "open", 
+    "enableWaitingList" : "0", 
+    "allOutOfStock" : "0", 
+    "discount" : "7.0", 
+    "purchaseType" : "D-Vendor Delivery", 
+    "isNewProduct" : "1", 
+    "isCrossBorder" : "0", 
+    "isLimitedTimeOffer" : "0", 
+    "tNewProduct" : NumberInt(0), 
+    "itemPriceDto" : {
+        "price" : "17649", 
+        "discount" : "7.0", 
+        "begin" : "1578104502", 
+        "end" : "1583283600"
+    }, 
+    "tagListDto" : [
+        {
+            "tag" : "当季新品", 
+            "isHasExpiration" : "0", 
+            "fontColor" : "FFFFFF", 
+            "fontBackgroudColor" : "DD2828", 
+            "frameColor" : "DD2828", 
+            "isRadius" : NumberInt(0), 
+            "isGradient" : NumberInt(0)
+        }
+    ], 
+    "productSizes" : [
+        {
+            "id" : "2016201699000070004", 
+            "size" : "48", 
+            "qty" : NumberInt(2)
+        }, 
+        {
+            "id" : "2186218699000002856", 
+            "size" : "50", 
+            "qty" : NumberInt(2)
+        }, 
+        {
+            "id" : "2087208799000021432", 
+            "size" : "52", 
+            "qty" : NumberInt(1)
+        }
+    ]
+}
+{ 
+    "_id" : ObjectId("5e16d53e03c371374c20f491"), 
+    "productId" : "2087208799000022428", 
+    "productName" : "FENDI棕色毛条连帽双F图案时尚撞色百搭男装短款羽绒服外套", 
+    "product_type" : "Configurable", 
+    "brandName" : "FENDI", 
+    "glsCode" : "FD0-246-100005-C", 
+    "price" : "25089", 
+    "marketPrice" : "30500", 
+    "imageUrl" : "https://cdn12.mei.com/product/FD0-246-100005-C/40e5b1ce2869db425f59e4d3dcfe1a1f4e2609487ffb8ee89d0382a1e61f2483.jpg@300w_400h_2e_75q", 
+    "stockStatus" : "1", 
+    "status" : "1", 
+    "isRecommend" : "0", 
+    "saleableQty" : "2", 
+    "eventStatus" : "open", 
+    "enableWaitingList" : "0", 
+    "allOutOfStock" : "0", 
+    "discount" : "8.3", 
+    "purchaseType" : "D-Vendor Delivery", 
+    "isNewProduct" : "1", 
+    "isCrossBorder" : "0", 
+    "isLimitedTimeOffer" : "0", 
+    "tNewProduct" : NumberInt(0), 
+    "itemPriceDto" : {
+        "price" : "25089", 
+        "discount" : "8.3", 
+        "begin" : "1578104502", 
+        "end" : "1583283600"
+    }, 
+    "tagListDto" : [
+        {
+            "tag" : "当季新品", 
+            "isHasExpiration" : "0", 
+            "fontColor" : "FFFFFF", 
+            "fontBackgroudColor" : "DD2828", 
+            "frameColor" : "DD2828", 
+            "isRadius" : NumberInt(0), 
+            "isGradient" : NumberInt(0)
+        }
+    ], 
+    "productSizes" : [
+        {
+            "id" : "2014201499000048885", 
+            "size" : "46", 
+            "qty" : NumberInt(1)
+        }, 
+        {
+            "id" : "2022202299000029359", 
+            "size" : "48", 
+            "qty" : NumberInt(1)
+        }
+    ]
+}
+{ 
+    "_id" : ObjectId("5e16d53e03c371374c20f492"), 
+    "productId" : "2015201599000024970", 
+    "productName" : "FENDI黑色小怪兽眼睛图案潮流百搭男装可拆连帽羽绒服外套", 
+    "product_type" : "Configurable", 
+    "brandName" : "FENDI", 
+    "glsCode" : "FD0-246-100006-C", 
+    "price" : "15199", 
+    "marketPrice" : "21940", 
+    "imageUrl" : "https://cdn12.mei.com/product/FD0-246-100006-C/40e5b1ce2869db42b11023ed9e151ef33f8d949882af2b749f6fa904ed136708.jpg@300w_400h_2e_75q", 
+    "stockStatus" : "1", 
+    "status" : "1", 
+    "isRecommend" : "0", 
+    "saleableQty" : "3", 
+    "eventStatus" : "open", 
+    "enableWaitingList" : "0", 
+    "allOutOfStock" : "0", 
+    "discount" : "7.0", 
+    "purchaseType" : "D-Vendor Delivery", 
+    "isNewProduct" : "1", 
+    "isCrossBorder" : "0", 
+    "isLimitedTimeOffer" : "0", 
+    "tNewProduct" : NumberInt(0), 
+    "itemPriceDto" : {
+        "price" : "15199", 
+        "discount" : "7.0", 
+        "begin" : "1578104502", 
+        "end" : "1583283600"
+    }, 
+    "tagListDto" : [
+        {
+            "tag" : "当季新品", 
+            "isHasExpiration" : "0", 
+            "fontColor" : "FFFFFF", 
+            "fontBackgroudColor" : "DD2828", 
+            "frameColor" : "DD2828", 
+            "isRadius" : NumberInt(0), 
+            "isGradient" : NumberInt(0)
+        }
+    ], 
+    "productSizes" : [
+        {
+            "id" : "2020202099000024354", 
+            "size" : "44", 
+            "qty" : NumberInt(1)
+        }, 
+        {
+            "id" : "2022202299000029358", 
+            "size" : "50", 
+            "qty" : NumberInt(1)
+        }, 
+        {
+            "id" : "2186218699000002857", 
+            "size" : "52", 
+            "qty" : NumberInt(1)
+        }
+    ]
+}
+{ 
+    "_id" : ObjectId("5e16d53e03c371374c20f493"), 
+    "productId" : "2014201499000046142", 
+    "productName" : "FENDI棕色双F字母图案时尚复古休闲男士连帽卫衣外套", 
+    "product_type" : "Configurable", 
+    "brandName" : "FENDI", 
+    "glsCode" : "FD0-244-100001-C", 
+    "price" : "9329", 
+    "marketPrice" : "10400", 
+    "imageUrl" : "https://cdn13.mei.com/product/FD0-244-100001-C/40e5b1ce2869db4238d9753d1208e2118d4852c3e5679356111d4dc2bdd2e16c.jpg@300w_400h_2e_75q", 
+    "stockStatus" : "1", 
+    "status" : "1", 
+    "isRecommend" : "0", 
+    "saleableQty" : "1", 
+    "eventStatus" : "open", 
+    "enableWaitingList" : "0", 
+    "allOutOfStock" : "0", 
+    "discount" : "9.0", 
+    "purchaseType" : "D-Vendor Delivery", 
+    "isNewProduct" : "1", 
+    "isCrossBorder" : "0", 
+    "isLimitedTimeOffer" : "0", 
+    "tNewProduct" : NumberInt(0), 
+    "itemPriceDto" : {
+        "price" : "9329", 
+        "discount" : "9.0", 
+        "begin" : "1578104502", 
+        "end" : "1578240000"
+    }, 
+    "tagListDto" : [
+        {
+            "tag" : "新年价", 
+            "isHasExpiration" : "1", 
+            "beginDate" : "1578240000", 
+            "endDate" : "1578672000", 
+            "fontColor" : "FFFFFF", 
+            "fontBackgroudColor" : "DD2828", 
+            "frameColor" : "DD2828", 
+            "isRadius" : NumberInt(0), 
+            "isGradient" : NumberInt(0)
+        }, 
+        {
+            "tag" : "当季新品", 
+            "isHasExpiration" : "0", 
+            "fontColor" : "FFFFFF", 
+            "fontBackgroudColor" : "DD2828", 
+            "frameColor" : "DD2828", 
+            "isRadius" : NumberInt(0), 
+            "isGradient" : NumberInt(0)
+        }
+    ], 
+    "productSizes" : [
+        {
+            "id" : "2017201799000018242", 
+            "size" : "S", 
+            "qty" : NumberInt(1)
+        }
+    ]
+}
+{ 
+    "_id" : ObjectId("5e16d53e03c371374c20f494"), 
+    "productId" : "2084208499000018513", 
+    "productName" : "FENDI黑色FF印花可拆卸兜帽两面穿时尚男士羽绒夹克上衣", 
+    "product_type" : "Configurable", 
+    "brandName" : "FENDI", 
+    "glsCode" : "FD0-244-100003-C", 
+    "price" : "11949", 
+    "marketPrice" : "17000", 
+    "imageUrl" : "https://cdn12.mei.com/product/FD0-244-100003-C/40e5b1ce2869db42c15221f64a677043843f9cf13b547aa40af3f5a2ffa13e29.jpg@300w_400h_2e_75q", 
+    "stockStatus" : "1", 
+    "status" : "1", 
+    "isRecommend" : "0", 
+    "saleableQty" : "1", 
+    "eventStatus" : "open", 
+    "enableWaitingList" : "0", 
+    "allOutOfStock" : "0", 
+    "discount" : "7.1", 
+    "purchaseType" : "D-Vendor Delivery", 
+    "isNewProduct" : "1", 
+    "isCrossBorder" : "0", 
+    "isLimitedTimeOffer" : "0", 
+    "tNewProduct" : NumberInt(0), 
+    "itemPriceDto" : {
+        "price" : "11949", 
+        "discount" : "7.1", 
+        "begin" : "1578104502", 
+        "end" : "1578240000"
+    }, 
+    "tagListDto" : [
+        {
+            "tag" : "新年价", 
+            "isHasExpiration" : "1", 
+            "beginDate" : "1578240000", 
+            "endDate" : "1578672000", 
+            "fontColor" : "FFFFFF", 
+            "fontBackgroudColor" : "DD2828", 
+            "frameColor" : "DD2828", 
+            "isRadius" : NumberInt(0), 
+            "isGradient" : NumberInt(0)
+        }, 
+        {
+            "tag" : "当季新品", 
+            "isHasExpiration" : "0", 
+            "fontColor" : "FFFFFF", 
+            "fontBackgroudColor" : "DD2828", 
+            "frameColor" : "DD2828", 
+            "isRadius" : NumberInt(0), 
+            "isGradient" : NumberInt(0)
+        }
+    ], 
+    "productSizes" : [
+        {
+            "id" : "2018201899000050096", 
+            "size" : "44", 
+            "qty" : NumberInt(1)
+        }
+    ]
+}
+{ 
+    "_id" : ObjectId("5e16d53e03c371374c20f495"), 
+    "productId" : "2015201599000021197", 
+    "productName" : "FENDI深棕色复古FF印花时尚百搭拉链款长袖男士休闲外套", 
+    "product_type" : "Configurable", 
+    "brandName" : "FENDI", 
+    "glsCode" : "FD0-244-100004-C", 
+    "price" : "6029", 
+    "marketPrice" : "7770", 
+    "imageUrl" : "https://cdn15.mei.com/product/FD0-244-100004-C/40e5b1ce2869db42dea066f6a247a2d0d690f49deeb1fa9becca565b0ddfdab5.jpg@300w_400h_2e_75q", 
+    "stockStatus" : "1", 
+    "status" : "1", 
+    "isRecommend" : "0", 
+    "saleableQty" : "1", 
+    "eventStatus" : "open", 
+    "enableWaitingList" : "0", 
+    "allOutOfStock" : "0", 
+    "discount" : "7.8", 
+    "purchaseType" : "D-Vendor Delivery", 
+    "isNewProduct" : "1", 
+    "isCrossBorder" : "0", 
+    "isLimitedTimeOffer" : "0", 
+    "tNewProduct" : NumberInt(0), 
+    "itemPriceDto" : {
+        "price" : "6029", 
+        "discount" : "7.8", 
+        "begin" : "1578104502", 
+        "end" : "1585184400"
+    }, 
+    "tagListDto" : [
+        {
+            "tag" : "当季新品", 
+            "isHasExpiration" : "0", 
+            "fontColor" : "FFFFFF", 
+            "fontBackgroudColor" : "DD2828", 
+            "frameColor" : "DD2828", 
+            "isRadius" : NumberInt(0), 
+            "isGradient" : NumberInt(0)
+        }, 
+        {
+            "tag" : "仅剩一件", 
+            "isHasExpiration" : "0", 
+            "fontColor" : "000000", 
+            "fontBackgroudColor" : "FFFFFF", 
+            "frameColor" : "000000", 
+            "isRadius" : NumberInt(0), 
+            "isGradient" : NumberInt(0)
+        }
+    ], 
+    "productSizes" : [
+        {
+            "id" : "2017201799000018262", 
+            "size" : "L", 
+            "qty" : NumberInt(1)
+        }
+    ]
+}
+{ 
+    "_id" : ObjectId("5e16d53e03c371374c20f496"), 
+    "productId" : "2022202299000030383", 
+    "productName" : "FENDI棕色棉质徽标图案毛绒口袋时尚保暖男装连帽羽绒服外套", 
+    "product_type" : "Configurable", 
+    "brandName" : "FENDI", 
+    "glsCode" : "FD0-244-100007-C", 
+    "price" : "21859", 
+    "marketPrice" : "29500", 
+    "imageUrl" : "https://cdn15.mei.com/product/FD0-244-100007-C/4478d1b2ebcd4a423283c13ace35ce3b00758132f61a7a00aba08c4741123031.jpg@300w_400h_2e_75q", 
+    "stockStatus" : "1", 
+    "status" : "1", 
+    "isRecommend" : "0", 
+    "saleableQty" : "3", 
+    "eventStatus" : "open", 
+    "enableWaitingList" : "0", 
+    "allOutOfStock" : "0", 
+    "discount" : "7.5", 
+    "purchaseType" : "D-Vendor Delivery", 
+    "isNewProduct" : "1", 
+    "isCrossBorder" : "0", 
+    "isLimitedTimeOffer" : "0", 
+    "tNewProduct" : NumberInt(0), 
+    "itemPriceDto" : {
+        "price" : "21859", 
+        "discount" : "7.5", 
+        "begin" : "1578104502", 
+        "end" : "1583283600"
+    }, 
+    "tagListDto" : [
+        {
+            "tag" : "当季新品", 
+            "isHasExpiration" : "0", 
+            "fontColor" : "FFFFFF", 
+            "fontBackgroudColor" : "DD2828", 
+            "frameColor" : "DD2828", 
+            "isRadius" : NumberInt(0), 
+            "isGradient" : NumberInt(0)
+        }
+    ], 
+    "productSizes" : [
+        {
+            "id" : "2084208499000021230", 
+            "size" : "44", 
+            "qty" : NumberInt(1)
+        }, 
+        {
+            "id" : "2184218499000003006", 
+            "size" : "46", 
+            "qty" : NumberInt(1)
+        }, 
+        {
+            "id" : "2018201899000056722", 
+            "size" : "50", 
+            "qty" : NumberInt(1)
+        }
+    ]
+}
+{ 
+    "_id" : ObjectId("5e16d53e03c371374c20f497"), 
+    "productId" : "2017201799000022193", 
+    "productName" : "FENDI19秋冬黑色棉质双F标识织带松紧系带女士休闲喇叭长裤", 
+    "product_type" : "Configurable", 
+    "brandName" : "FENDI", 
+    "glsCode" : "FD0-103-100002-C", 
+    "price" : "5809", 
+    "marketPrice" : "8800", 
+    "imageUrl" : "https://cdn12.mei.com/product/FD0-103-100002-C/40e5b1ce2869db425ad07ebd56cfcb8d0d7b7528e51eca81f0dc71629ab9c5ce.jpg@300w_400h_2e_75q", 
+    "stockStatus" : "1", 
+    "status" : "1", 
+    "isRecommend" : "0", 
+    "saleableQty" : "5", 
+    "eventStatus" : "open", 
+    "enableWaitingList" : "0", 
+    "allOutOfStock" : "0", 
+    "discount" : "6.7", 
+    "purchaseType" : "D-Vendor Delivery", 
+    "isNewProduct" : "1", 
+    "isCrossBorder" : "0", 
+    "isLimitedTimeOffer" : "0", 
+    "tNewProduct" : NumberInt(0), 
+    "itemPriceDto" : {
+        "price" : "5809", 
+        "discount" : "6.7", 
+        "begin" : "1578104502", 
+        "end" : "1578240000"
+    }, 
+    "tagListDto" : [
+        {
+            "tag" : "新年价", 
+            "isHasExpiration" : "1", 
+            "beginDate" : "1578240000", 
+            "endDate" : "1578672000", 
+            "fontColor" : "FFFFFF", 
+            "fontBackgroudColor" : "DD2828", 
+            "frameColor" : "DD2828", 
+            "isRadius" : NumberInt(0), 
+            "isGradient" : NumberInt(0)
+        }, 
+        {
+            "tag" : "当季新品", 
+            "isHasExpiration" : "0", 
+            "fontColor" : "FFFFFF", 
+            "fontBackgroudColor" : "DD2828", 
+            "frameColor" : "DD2828", 
+            "isRadius" : NumberInt(0), 
+            "isGradient" : NumberInt(0)
+        }
+    ], 
+    "productSizes" : [
+        {
+            "id" : "2015201599000017258", 
+            "size" : "40", 
+            "qty" : NumberInt(3)
+        }, 
+        {
+            "id" : "2086208699000014290", 
+            "size" : "42", 
+            "qty" : NumberInt(2)
+        }
+    ]
+}
+{ 
+    "_id" : ObjectId("5e16d53e03c371374c20f498"), 
+    "productId" : "2019201999000024368", 
+    "productName" : "FENDI19秋冬黑色棉质LOGO标识织带松紧系带女士微喇休闲长裤", 
+    "product_type" : "Configurable", 
+    "brandName" : "FENDI", 
+    "glsCode" : "FD0-103-100003-C", 
+    "price" : "6129", 
+    "marketPrice" : "9260", 
+    "imageUrl" : "https://cdn12.mei.com/product/FD0-103-100003-C/40e5b1ce2869db42f249729110cc2fca209891562b4aa6ff2df82924abbfccc8.jpg@300w_400h_2e_75q", 
+    "stockStatus" : "1", 
+    "status" : "1", 
+    "isRecommend" : "0", 
+    "saleableQty" : "5", 
+    "eventStatus" : "open", 
+    "enableWaitingList" : "0", 
+    "allOutOfStock" : "0", 
+    "discount" : "6.7", 
+    "purchaseType" : "D-Vendor Delivery", 
+    "isNewProduct" : "1", 
+    "isCrossBorder" : "0", 
+    "isLimitedTimeOffer" : "0", 
+    "tNewProduct" : NumberInt(0), 
+    "itemPriceDto" : {
+        "price" : "6129", 
+        "discount" : "6.7", 
+        "begin" : "1578104502", 
+        "end" : "1578240000"
+    }, 
+    "tagListDto" : [
+        {
+            "tag" : "新年价", 
+            "isHasExpiration" : "1", 
+            "beginDate" : "1578240000", 
+            "endDate" : "1578672000", 
+            "fontColor" : "FFFFFF", 
+            "fontBackgroudColor" : "DD2828", 
+            "frameColor" : "DD2828", 
+            "isRadius" : NumberInt(0), 
+            "isGradient" : NumberInt(0)
+        }, 
+        {
+            "tag" : "当季新品", 
+            "isHasExpiration" : "0", 
+            "fontColor" : "FFFFFF", 
+            "fontBackgroudColor" : "DD2828", 
+            "frameColor" : "DD2828", 
+            "isRadius" : NumberInt(0), 
+            "isGradient" : NumberInt(0)
+        }
+    ], 
+    "productSizes" : [
+        {
+            "id" : "2085208599000014655", 
+            "size" : "38", 
+            "qty" : NumberInt(1)
+        }, 
+        {
+            "id" : "2022202299000022771", 
+            "size" : "40", 
+            "qty" : NumberInt(3)
+        }, 
+        {
+            "id" : "2086208699000014292", 
+            "size" : "42", 
+            "qty" : NumberInt(1)
+        }
+    ]
+}
+{ 
+    "_id" : ObjectId("5e16d53e03c371374c20f499"), 
+    "productId" : "2019201999000027072", 
+    "productName" : "FENDI黑色字母图案点缀时尚圆领长袖羊绒衫针织衫毛衣男装", 
+    "product_type" : "Configurable", 
+    "brandName" : "FENDI", 
+    "glsCode" : "FD0-2666-100001-C", 
+    "price" : "8889", 
+    "marketPrice" : "10200", 
+    "imageUrl" : "https://cdn12.mei.com/product/FD0-2666-100001-C/40e5b1ce2869db42150f899859909e81d3ef03828ca71468ecc2aa26f397f6d7.jpg@300w_400h_2e_75q", 
+    "stockStatus" : "1", 
+    "status" : "1", 
+    "isRecommend" : "0", 
+    "saleableQty" : "2", 
+    "eventStatus" : "open", 
+    "enableWaitingList" : "0", 
+    "allOutOfStock" : "0", 
+    "discount" : "8.8", 
+    "purchaseType" : "D-Vendor Delivery", 
+    "isNewProduct" : "1", 
+    "isCrossBorder" : "0", 
+    "isLimitedTimeOffer" : "0", 
+    "tNewProduct" : NumberInt(0), 
+    "itemPriceDto" : {
+        "price" : "8889", 
+        "discount" : "8.8", 
+        "begin" : "1578104502", 
+        "end" : "1582333200"
+    }, 
+    "tagListDto" : [
+        {
+            "tag" : "当季新品", 
+            "isHasExpiration" : "0", 
+            "fontColor" : "FFFFFF", 
+            "fontBackgroudColor" : "DD2828", 
+            "frameColor" : "DD2828", 
+            "isRadius" : NumberInt(0), 
+            "isGradient" : NumberInt(0)
+        }
+    ], 
+    "productSizes" : [
+        {
+            "id" : "2015201599000023268", 
+            "size" : "48", 
+            "qty" : NumberInt(1)
+        }, 
+        {
+            "id" : "2018201899000056027", 
+            "size" : "50", 
+            "qty" : NumberInt(1)
+        }
+    ]
+}
+{ 
+    "_id" : ObjectId("5e16d53e03c371374c20f49a"), 
+    "productId" : "2087208799000010127", 
+    "productName" : "FENDI黑色棉质roma 1925 Logo徽标男士休闲运动衫卫衣", 
+    "product_type" : "Configurable", 
+    "brandName" : "FENDI", 
+    "glsCode" : "FD0-213-00017-C", 
+    "price" : "5829", 
+    "marketPrice" : "8950", 
+    "imageUrl" : "https://cdn14.mei.com/product/FD0-213-00017-C/40e5b1ce2869db424296c4d625016d48c3aba356e628bf0313f4386ee3086bb4.jpg@300w_400h_2e_75q", 
+    "stockStatus" : "1", 
+    "status" : "1", 
+    "isRecommend" : "0", 
+    "saleableQty" : "2", 
+    "eventStatus" : "open", 
+    "enableWaitingList" : "0", 
+    "allOutOfStock" : "0", 
+    "discount" : "6.6", 
+    "purchaseType" : "D-Vendor Delivery", 
+    "isNewProduct" : "1", 
+    "isCrossBorder" : "0", 
+    "isLimitedTimeOffer" : "0", 
+    "tNewProduct" : NumberInt(0), 
+    "itemPriceDto" : {
+        "price" : "5829", 
+        "discount" : "6.6", 
+        "begin" : "1578104502", 
+        "end" : "1582938000"
+    }, 
+    "tagListDto" : [
+        {
+            "tag" : "当季新品", 
+            "isHasExpiration" : "0", 
+            "fontColor" : "FFFFFF", 
+            "fontBackgroudColor" : "DD2828", 
+            "frameColor" : "DD2828", 
+            "isRadius" : NumberInt(0), 
+            "isGradient" : NumberInt(0)
+        }
+    ], 
+    "productSizes" : [
+        {
+            "id" : "2020202099000011751", 
+            "size" : "48", 
+            "qty" : NumberInt(2)
+        }
+    ]
+}
+{ 
+    "_id" : ObjectId("5e16d53e03c371374c20f49b"), 
+    "productId" : "2015201599000012935", 
+    "productName" : "FENDI深蓝色棉质roma 1925 Logo徽标男士运动衫卫衣", 
+    "product_type" : "Configurable", 
+    "brandName" : "FENDI", 
+    "glsCode" : "FD0-213-00018-C", 
+    "price" : "5829", 
+    "marketPrice" : "8950", 
+    "imageUrl" : "https://cdn13.mei.com/product/FD0-213-00018-C/40e5b1ce2869db4209a1118f32fdfd68e953eacd3684877f30e356ff3f70f0aa.jpg@300w_400h_2e_75q", 
+    "stockStatus" : "1", 
+    "status" : "1", 
+    "isRecommend" : "0", 
+    "saleableQty" : "3", 
+    "eventStatus" : "open", 
+    "enableWaitingList" : "0", 
+    "allOutOfStock" : "0", 
+    "discount" : "6.6", 
+    "purchaseType" : "D-Vendor Delivery", 
+    "isNewProduct" : "1", 
+    "isCrossBorder" : "0", 
+    "isLimitedTimeOffer" : "0", 
+    "tNewProduct" : NumberInt(0), 
+    "itemPriceDto" : {
+        "price" : "5829", 
+        "discount" : "6.6", 
+        "begin" : "1578104502", 
+        "end" : "1582938000"
+    }, 
+    "tagListDto" : [
+        {
+            "tag" : "当季新品", 
+            "isHasExpiration" : "0", 
+            "fontColor" : "FFFFFF", 
+            "fontBackgroudColor" : "DD2828", 
+            "frameColor" : "DD2828", 
+            "isRadius" : NumberInt(0), 
+            "isGradient" : NumberInt(0)
+        }
+    ], 
+    "productSizes" : [
+        {
+            "id" : "2018201899000044429", 
+            "size" : "46", 
+            "qty" : NumberInt(1)
+        }, 
+        {
+            "id" : "2086208699000008740", 
+            "size" : "48", 
+            "qty" : NumberInt(1)
+        }, 
+        {
+            "id" : "2087208799000008941", 
+            "size" : "50", 
+            "qty" : NumberInt(1)
+        }
+    ]
+}
+{ 
+    "_id" : ObjectId("5e16d53e03c371374c20f49c"), 
+    "productId" : "2021202199000023695", 
+    "productName" : "FENDI黑色圆领棉质时尚小怪兽眼睛装饰休闲男士卫衣", 
+    "product_type" : "Configurable", 
+    "brandName" : "FENDI", 
+    "glsCode" : "FD0-213-100001-C", 
+    "price" : "6409", 
+    "marketPrice" : "9690", 
+    "imageUrl" : "https://cdn12.mei.com/product/FD0-213-100001-C/40e5b1ce2869db4224919314d4984f03a32283582c86a922e833ad5f7498521e.jpg@300w_400h_2e_75q", 
+    "stockStatus" : "1", 
+    "status" : "1", 
+    "isRecommend" : "0", 
+    "saleableQty" : "9", 
+    "eventStatus" : "open", 
+    "enableWaitingList" : "0", 
+    "allOutOfStock" : "0", 
+    "discount" : "6.7", 
+    "purchaseType" : "D-Vendor Delivery", 
+    "isNewProduct" : "1", 
+    "isCrossBorder" : "0", 
+    "isLimitedTimeOffer" : "0", 
+    "tNewProduct" : NumberInt(0), 
+    "itemPriceDto" : {
+        "price" : "6409", 
+        "discount" : "6.7", 
+        "begin" : "1578104502", 
+        "end" : "1578240000"
+    }, 
+    "tagListDto" : [
+        {
+            "tag" : "新年价", 
+            "isHasExpiration" : "1", 
+            "beginDate" : "1578240000", 
+            "endDate" : "1578672000", 
+            "fontColor" : "FFFFFF", 
+            "fontBackgroudColor" : "DD2828", 
+            "frameColor" : "DD2828", 
+            "isRadius" : NumberInt(0), 
+            "isGradient" : NumberInt(0)
+        }, 
+        {
+            "tag" : "当季新品", 
+            "isHasExpiration" : "0", 
+            "fontColor" : "FFFFFF", 
+            "fontBackgroudColor" : "DD2828", 
+            "frameColor" : "DD2828", 
+            "isRadius" : NumberInt(0), 
+            "isGradient" : NumberInt(0)
+        }
+    ], 
+    "productSizes" : [
+        {
+            "id" : "2085208599000014670", 
+            "size" : "XS", 
+            "qty" : NumberInt(2)
+        }, 
+        {
+            "id" : "2017201799000018248", 
+            "size" : "S", 
+            "qty" : NumberInt(2)
+        }, 
+        {
+            "id" : "2086208699000014303", 
+            "size" : "M", 
+            "qty" : NumberInt(2)
+        }, 
+        {
+            "id" : "2086208699000014302", 
+            "size" : "L", 
+            "qty" : NumberInt(2)
+        }, 
+        {
+            "id" : "2021202199000019472", 
+            "size" : "XL", 
+            "qty" : NumberInt(1)
+        }
+    ]
+}
+{ 
+    "_id" : ObjectId("5e16d53e03c371374c20f49d"), 
+    "productId" : "2087208799000021268", 
+    "productName" : "FENDI/芬迪 深蓝色棉混羊毛小怪兽眼睛男士圆领套头卫衣上衣", 
+    "product_type" : "Configurable", 
+    "brandName" : "FENDI", 
+    "glsCode" : "FD0-213-100005-C", 
+    "price" : "6759", 
+    "marketPrice" : "9300", 
+    "imageUrl" : "https://cdn13.mei.com/product/FD0-213-100005-C/40e5b1ce2869db429c2e868e49313e755660f6c0f57c76bca100c0f348130607.jpg@300w_400h_2e_75q", 
+    "stockStatus" : "1", 
+    "status" : "1", 
+    "isRecommend" : "0", 
+    "saleableQty" : "1", 
+    "eventStatus" : "open", 
+    "enableWaitingList" : "0", 
+    "allOutOfStock" : "0", 
+    "discount" : "7.3", 
+    "purchaseType" : "D-Vendor Delivery", 
+    "isNewProduct" : "0", 
+    "isCrossBorder" : "0", 
+    "isLimitedTimeOffer" : "0", 
+    "tNewProduct" : NumberInt(0), 
+    "itemPriceDto" : {
+        "price" : "6759", 
+        "discount" : "7.3", 
+        "begin" : "1578104502", 
+        "end" : "1582938000"
+    }, 
+    "tagListDto" : [
+        {
+            "tag" : "仅剩一件", 
+            "isHasExpiration" : "0", 
+            "fontColor" : "000000", 
+            "fontBackgroudColor" : "FFFFFF", 
+            "frameColor" : "000000", 
+            "isRadius" : NumberInt(0), 
+            "isGradient" : NumberInt(0)
+        }
+    ], 
+    "productSizes" : [
+        {
+            "id" : "2186218699000002175", 
+            "size" : "50", 
+            "qty" : NumberInt(1)
+        }
+    ]
+}
+{ 
+    "_id" : ObjectId("5e16d53e03c371374c20f49e"), 
+    "productId" : "2015201599000012933", 
+    "productName" : "FENDI黑色棉质恶魔眼睛图案时尚潮流男士长袖上衣连帽运动衫外套", 
+    "product_type" : "Configurable", 
+    "brandName" : "FENDI", 
+    "glsCode" : "FD0-2677-00002-C", 
+    "price" : "8519", 
+    "marketPrice" : "13090", 
+    "imageUrl" : "https://cdn12.mei.com/product/FD0-2677-00002-C/40e5b1ce2869db42287bb876678117a93f881ea71d0f602ee4d6c1798445f0d5.jpg@300w_400h_2e_75q", 
+    "stockStatus" : "1", 
+    "status" : "1", 
+    "isRecommend" : "0", 
+    "saleableQty" : "16", 
+    "eventStatus" : "open", 
+    "enableWaitingList" : "0", 
+    "allOutOfStock" : "0", 
+    "discount" : "6.6", 
+    "purchaseType" : "D-Vendor Delivery", 
+    "isNewProduct" : "1", 
+    "isCrossBorder" : "0", 
+    "isLimitedTimeOffer" : "0", 
+    "tNewProduct" : NumberInt(0), 
+    "itemPriceDto" : {
+        "price" : "8519", 
+        "discount" : "6.6", 
+        "begin" : "1578104502", 
+        "end" : "1582938000"
+    }, 
+    "tagListDto" : [
+        {
+            "tag" : "当季新品", 
+            "isHasExpiration" : "0", 
+            "fontColor" : "FFFFFF", 
+            "fontBackgroudColor" : "DD2828", 
+            "frameColor" : "DD2828", 
+            "isRadius" : NumberInt(0), 
+            "isGradient" : NumberInt(0)
+        }
+    ], 
+    "productSizes" : [
+        {
+            "id" : "2019201999000014624", 
+            "size" : "S", 
+            "qty" : NumberInt(2)
+        }, 
+        {
+            "id" : "2020202099000011749", 
+            "size" : "M", 
+            "qty" : NumberInt(4)
+        }, 
+        {
+            "id" : "2020202099000011750", 
+            "size" : "L", 
+            "qty" : NumberInt(6)
+        }, 
+        {
+            "id" : "2087208799000008940", 
+            "size" : "XL", 
+            "qty" : NumberInt(2)
+        }, 
+        {
+            "id" : "2084208499000009017", 
+            "size" : "XXL", 
+            "qty" : NumberInt(2)
+        }
+    ]
+}
+{ 
+    "_id" : ObjectId("5e16d54d03c371374c20f49f"), 
+    "productId" : "2041204199000827590", 
+    "productName" : "公主独角兽儿童双面防晒浴巾", 
+    "product_type" : "Simple", 
+    "brandName" : "Flap jack kids", 
+    "glsCode" : "UNQ-820-00007", 
+    "price" : "216", 
+    "marketPrice" : "229", 
+    "imageUrl" : "https://cdn15.mei.com/product/UNQ-820-00007/e5ec3ecb3b2b93606521f7557fc54fd0.jpg@300w_400h_2e_75q", 
+    "stockStatus" : "1", 
+    "status" : "1", 
+    "isRecommend" : "0", 
+    "saleableQty" : "20", 
+    "eventStatus" : "open", 
+    "enableWaitingList" : "0", 
+    "allOutOfStock" : "0", 
+    "discount" : "9.5", 
+    "purchaseType" : "D-Vendor Delivery", 
+    "isNewProduct" : "0", 
+    "isCrossBorder" : "0", 
+    "isLimitedTimeOffer" : "0", 
+    "tNewProduct" : NumberInt(0), 
+    "itemPriceDto" : {
+        "price" : "216", 
+        "discount" : "9.5", 
+        "begin" : "1578105232", 
+        "end" : "1582905600"
+    }
+}
+{ 
+    "_id" : ObjectId("5e16d54d03c371374c20f4a0"), 
+    "productId" : "2041204199000827591", 
+    "productName" : "鲨鱼螃蟹儿童双面防晒浴巾", 
+    "product_type" : "Simple", 
+    "brandName" : "Flap jack kids", 
+    "glsCode" : "UNQ-820-00008", 
+    "price" : "216", 
+    "marketPrice" : "229", 
+    "imageUrl" : "https://cdn12.mei.com/product/UNQ-820-00008/e5ec3ecb3b2b93603f5e8227aefde768.jpg@300w_400h_2e_75q", 
+    "stockStatus" : "1", 
+    "status" : "1", 
+    "isRecommend" : "0", 
+    "saleableQty" : "20", 
+    "eventStatus" : "open", 
+    "enableWaitingList" : "0", 
+    "allOutOfStock" : "0", 
+    "discount" : "9.5", 
+    "purchaseType" : "D-Vendor Delivery", 
+    "isNewProduct" : "0", 
+    "isCrossBorder" : "0", 
+    "isLimitedTimeOffer" : "0", 
+    "tNewProduct" : NumberInt(0), 
+    "itemPriceDto" : {
+        "price" : "216", 
+        "discount" : "9.5", 
+        "begin" : "1578105232", 
+        "end" : "1582905600"
+    }
+}
+{ 
+    "_id" : ObjectId("5e16d54d03c371374c20f4a1"), 
+    "productId" : "2042204299000814074", 
+    "productName" : "森林小屋有机棉男童学习裤(3条装)2-3岁", 
+    "product_type" : "Simple", 
+    "brandName" : "ZOOCCHiNi", 
+    "glsCode" : "UNR-318-00001", 
+    "price" : "216", 
+    "marketPrice" : "228", 
+    "imageUrl" : "https://cdn15.mei.com/product/UNR-318-00001/1d61d6971d0c5f59e187e81117a5304e.jpg@300w_400h_2e_75q", 
+    "stockStatus" : "1", 
+    "status" : "1", 
+    "isRecommend" : "0", 
+    "saleableQty" : "20", 
+    "eventStatus" : "open", 
+    "enableWaitingList" : "0", 
+    "allOutOfStock" : "0", 
+    "discount" : "9.5", 
+    "purchaseType" : "D-Vendor Delivery", 
+    "isNewProduct" : "0", 
+    "isCrossBorder" : "0", 
+    "isLimitedTimeOffer" : "0", 
+    "tNewProduct" : NumberInt(0), 
+    "itemPriceDto" : {
+        "price" : "216", 
+        "discount" : "9.5", 
+        "begin" : "1578105232", 
+        "end" : "1582905600"
+    }
+}
+{ 
+    "_id" : ObjectId("5e16d54d03c371374c20f4a2"), 
+    "productId" : "2042204299000814076", 
+    "productName" : "海洋世界有机棉男童学习裤(3条装)2-3岁", 
+    "product_type" : "Simple", 
+    "brandName" : "ZOOCCHiNi", 
+    "glsCode" : "UNR-318-00003", 
+    "price" : "216", 
+    "marketPrice" : "228", 
+    "imageUrl" : "https://cdn12.mei.com/product/UNR-318-00003/1d61d6971d0c5f59fdd1873d169e42a8.jpg@300w_400h_2e_75q", 
+    "stockStatus" : "1", 
+    "status" : "1", 
+    "isRecommend" : "0", 
+    "saleableQty" : "20", 
+    "eventStatus" : "open", 
+    "enableWaitingList" : "0", 
+    "allOutOfStock" : "0", 
+    "discount" : "9.5", 
+    "purchaseType" : "D-Vendor Delivery", 
+    "isNewProduct" : "0", 
+    "isCrossBorder" : "0", 
+    "isLimitedTimeOffer" : "0", 
+    "tNewProduct" : NumberInt(0), 
+    "itemPriceDto" : {
+        "price" : "216", 
+        "discount" : "9.5", 
+        "begin" : "1578105232", 
+        "end" : "1582905600"
+    }
+}
+{ 
+    "_id" : ObjectId("5e16d54d03c371374c20f4a3"), 
+    "productId" : "2042204299000814081", 
+    "productName" : "动物世界有机棉女童学习裤(3条装)3-4岁", 
+    "product_type" : "Simple", 
+    "brandName" : "ZOOCCHiNi", 
+    "glsCode" : "UNR-318-00008", 
+    "price" : "216", 
+    "marketPrice" : "228", 
+    "imageUrl" : "https://cdn14.mei.com/product/UNR-318-00008/1d61d6971d0c5f593f5e8227aefde768.jpg@300w_400h_2e_75q", 
+    "stockStatus" : "1", 
+    "status" : "1", 
+    "isRecommend" : "0", 
+    "saleableQty" : "20", 
+    "eventStatus" : "open", 
+    "enableWaitingList" : "0", 
+    "allOutOfStock" : "0", 
+    "discount" : "9.5", 
+    "purchaseType" : "D-Vendor Delivery", 
+    "isNewProduct" : "0", 
+    "isCrossBorder" : "0", 
+    "isLimitedTimeOffer" : "0", 
+    "tNewProduct" : NumberInt(0), 
+    "itemPriceDto" : {
+        "price" : "216", 
+        "discount" : "9.5", 
+        "begin" : "1578105232", 
+        "end" : "1582905600"
+    }
+}
+{ 
+    "_id" : ObjectId("5e16d54d03c371374c20f4a4"), 
+    "productId" : "2042204299000814083", 
+    "productName" : "海洋世界有机棉女童学习裤(3条装)3-4岁", 
+    "product_type" : "Simple", 
+    "brandName" : "ZOOCCHiNi", 
+    "glsCode" : "UNR-318-00010", 
+    "price" : "216", 
+    "marketPrice" : "228", 
+    "imageUrl" : "https://cdn15.mei.com/product/UNR-318-00010/1d61d6971d0c5f59b327cfbc51bed4af.jpg@300w_400h_2e_75q", 
+    "stockStatus" : "1", 
+    "status" : "1", 
+    "isRecommend" : "0", 
+    "saleableQty" : "20", 
+    "eventStatus" : "open", 
+    "enableWaitingList" : "0", 
+    "allOutOfStock" : "0", 
+    "discount" : "9.5", 
+    "purchaseType" : "D-Vendor Delivery", 
+    "isNewProduct" : "0", 
+    "isCrossBorder" : "0", 
+    "isLimitedTimeOffer" : "0", 
+    "tNewProduct" : NumberInt(0), 
+    "itemPriceDto" : {
+        "price" : "216", 
+        "discount" : "9.5", 
+        "begin" : "1578105232", 
+        "end" : "1582905600"
+    }
+}
+{ 
+    "_id" : ObjectId("5e16d54d03c371374c20f4a5"), 
+    "productId" : "2042204299000814180", 
+    "productName" : "棕色猴子造型儿童双肩背包", 
+    "product_type" : "Simple", 
+    "brandName" : "miYim SIMPLY ORGANIC", 
+    "glsCode" : "UNP-140-00002", 
+    "price" : "238", 
+    "marketPrice" : "278", 
+    "imageUrl" : "https://cdn12.mei.com/product/UNP-140-00002/7fd06da7646bd62bf5bc584eb3e94530.jpg@300w_400h_2e_75q", 
+    "stockStatus" : "1", 
+    "status" : "1", 
+    "isRecommend" : "0", 
+    "saleableQty" : "20", 
+    "eventStatus" : "open", 
+    "enableWaitingList" : "0", 
+    "allOutOfStock" : "0", 
+    "discount" : "8.6", 
+    "purchaseType" : "D-Vendor Delivery", 
+    "isNewProduct" : "0", 
+    "isCrossBorder" : "0", 
+    "isLimitedTimeOffer" : "0", 
+    "tNewProduct" : NumberInt(0), 
+    "itemPriceDto" : {
+        "price" : "238", 
+        "discount" : "8.6", 
+        "begin" : "1578105232", 
+        "end" : "1582905600"
+    }
+}
+{ 
+    "_id" : ObjectId("5e16d54d03c371374c20f4a6"), 
+    "productId" : "2121212199000166295", 
+    "productName" : "鲸鱼章鱼双面儿童防晒浴巾", 
+    "product_type" : "Simple", 
+    "brandName" : "Flap jack kids", 
+    "glsCode" : "UNQ-820-00006", 
+    "price" : "216", 
+    "marketPrice" : "229", 
+    "imageUrl" : "https://cdn13.mei.com/product/UNQ-820-00006/e5ec3ecb3b2b93600f8e8445cec70ca7.jpg@300w_400h_2e_75q", 
+    "stockStatus" : "1", 
+    "status" : "1", 
+    "isRecommend" : "0", 
+    "saleableQty" : "20", 
+    "eventStatus" : "open", 
+    "enableWaitingList" : "0", 
+    "allOutOfStock" : "0", 
+    "discount" : "9.5", 
+    "purchaseType" : "D-Vendor Delivery", 
+    "isNewProduct" : "0", 
+    "isCrossBorder" : "0", 
+    "isLimitedTimeOffer" : "0", 
+    "tNewProduct" : NumberInt(0), 
+    "itemPriceDto" : {
+        "price" : "216", 
+        "discount" : "9.5", 
+        "begin" : "1578105232", 
+        "end" : "1582905600"
+    }
+}
+{ 
+    "_id" : ObjectId("5e16d54d03c371374c20f4a7"), 
+    "productId" : "2042204299000814077", 
+    "productName" : "海洋世界有机棉男童学习裤(3条装)3-4岁", 
+    "product_type" : "Simple", 
+    "brandName" : "ZOOCCHiNi", 
+    "glsCode" : "UNR-318-00004", 
+    "price" : "216", 
+    "marketPrice" : "228", 
+    "imageUrl" : "https://cdn15.mei.com/product/UNR-318-00004/1d61d6971d0c5f5973881caec082ccf4.jpg@300w_400h_2e_75q", 
+    "stockStatus" : "1", 
+    "status" : "1", 
+    "isRecommend" : "0", 
+    "saleableQty" : "19", 
+    "eventStatus" : "open", 
+    "enableWaitingList" : "0", 
+    "allOutOfStock" : "0", 
+    "discount" : "9.5", 
+    "purchaseType" : "D-Vendor Delivery", 
+    "isNewProduct" : "0", 
+    "isCrossBorder" : "0", 
+    "isLimitedTimeOffer" : "0", 
+    "tNewProduct" : NumberInt(0), 
+    "itemPriceDto" : {
+        "price" : "216", 
+        "discount" : "9.5", 
+        "begin" : "1578105232", 
+        "end" : "1582905600"
+    }
+}
+{ 
+    "_id" : ObjectId("5e16d54d03c371374c20f4a8"), 
+    "productId" : "2042204299000814082", 
+    "productName" : "海洋世界有机棉女童学习裤(3条装)2-3岁", 
+    "product_type" : "Simple", 
+    "brandName" : "ZOOCCHiNi", 
+    "glsCode" : "UNR-318-00009", 
+    "price" : "216", 
+    "marketPrice" : "228", 
+    "imageUrl" : "https://cdn12.mei.com/product/UNR-318-00009/1d61d6971d0c5f59d246827cf6993edc.jpg@300w_400h_2e_75q", 
+    "stockStatus" : "1", 
+    "status" : "1", 
+    "isRecommend" : "0", 
+    "saleableQty" : "19", 
+    "eventStatus" : "open", 
+    "enableWaitingList" : "0", 
+    "allOutOfStock" : "0", 
+    "discount" : "9.5", 
+    "purchaseType" : "D-Vendor Delivery", 
+    "isNewProduct" : "0", 
+    "isCrossBorder" : "0", 
+    "isLimitedTimeOffer" : "0", 
+    "tNewProduct" : NumberInt(0), 
+    "itemPriceDto" : {
+        "price" : "216", 
+        "discount" : "9.5", 
+        "begin" : "1578105232", 
+        "end" : "1582905600"
+    }
+}
+{ 
+    "_id" : ObjectId("5e16d54d03c371374c20f4a9"), 
+    "productId" : "2042204299000814075", 
+    "productName" : "动物世界有机棉男童学习裤(3条装)2-3岁", 
+    "product_type" : "Simple", 
+    "brandName" : "ZOOCCHiNi", 
+    "glsCode" : "UNR-318-00002", 
+    "price" : "216", 
+    "marketPrice" : "228", 
+    "imageUrl" : "https://cdn13.mei.com/product/UNR-318-00002/1d61d6971d0c5f59f5bc584eb3e94530.jpg@300w_400h_2e_75q", 
+    "stockStatus" : "1", 
+    "status" : "1", 
+    "isRecommend" : "0", 
+    "saleableQty" : "18", 
+    "eventStatus" : "open", 
+    "enableWaitingList" : "0", 
+    "allOutOfStock" : "0", 
+    "discount" : "9.5", 
+    "purchaseType" : "D-Vendor Delivery", 
+    "isNewProduct" : "0", 
+    "isCrossBorder" : "0", 
+    "isLimitedTimeOffer" : "0", 
+    "tNewProduct" : NumberInt(0), 
+    "itemPriceDto" : {
+        "price" : "216", 
+        "discount" : "9.5", 
+        "begin" : "1578105232", 
+        "end" : "1582905600"
+    }
+}
+{ 
+    "_id" : ObjectId("5e16d54d03c371374c20f4aa"), 
+    "productId" : "2042204299000814080", 
+    "productName" : "动物世界有机棉女童学习裤(3条装)2-3岁", 
+    "product_type" : "Simple", 
+    "brandName" : "ZOOCCHiNi", 
+    "glsCode" : "UNR-318-00007", 
+    "price" : "216", 
+    "marketPrice" : "228", 
+    "imageUrl" : "https://cdn13.mei.com/product/UNR-318-00007/1d61d6971d0c5f596521f7557fc54fd0.jpg@300w_400h_2e_75q", 
+    "stockStatus" : "1", 
+    "status" : "1", 
+    "isRecommend" : "0", 
+    "saleableQty" : "18", 
+    "eventStatus" : "open", 
+    "enableWaitingList" : "0", 
+    "allOutOfStock" : "0", 
+    "discount" : "9.5", 
+    "purchaseType" : "D-Vendor Delivery", 
+    "isNewProduct" : "0", 
+    "isCrossBorder" : "0", 
+    "isLimitedTimeOffer" : "0", 
+    "tNewProduct" : NumberInt(0), 
+    "itemPriceDto" : {
+        "price" : "216", 
+        "discount" : "9.5", 
+        "begin" : "1578105232", 
+        "end" : "1582905600"
+    }
+}
+{ 
+    "_id" : ObjectId("5e16d54d03c371374c20f4ab"), 
+    "productId" : "2121212199000166290", 
+    "productName" : "机器人小火箭双面儿童防晒浴巾", 
+    "product_type" : "Simple", 
+    "brandName" : "Flap jack kids", 
+    "glsCode" : "UNQ-820-00001", 
+    "price" : "216", 
+    "marketPrice" : "229", 
+    "imageUrl" : "https://cdn15.mei.com/product/UNQ-820-00001/e5ec3ecb3b2b9360e187e81117a5304e.jpg@300w_400h_2e_75q", 
+    "stockStatus" : "1", 
+    "status" : "1", 
+    "isRecommend" : "0", 
+    "saleableQty" : "15", 
+    "eventStatus" : "open", 
+    "enableWaitingList" : "0", 
+    "allOutOfStock" : "0", 
+    "discount" : "9.5", 
+    "purchaseType" : "D-Vendor Delivery", 
+    "isNewProduct" : "0", 
+    "isCrossBorder" : "0", 
+    "isLimitedTimeOffer" : "0", 
+    "tNewProduct" : NumberInt(0), 
+    "itemPriceDto" : {
+        "price" : "216", 
+        "discount" : "9.5", 
+        "begin" : "1578105232", 
+        "end" : "1582905600"
+    }
+}
+{ 
+    "_id" : ObjectId("5e16d54d03c371374c20f4ac"), 
+    "productId" : "2121212199000166291", 
+    "productName" : "章鱼海龟双面儿童防晒浴巾", 
+    "product_type" : "Simple", 
+    "brandName" : "Flap jack kids", 
+    "glsCode" : "UNQ-820-00002", 
+    "price" : "216", 
+    "marketPrice" : "229", 
+    "imageUrl" : "https://cdn13.mei.com/product/UNQ-820-00002/e5ec3ecb3b2b9360f5bc584eb3e94530.jpg@300w_400h_2e_75q", 
+    "stockStatus" : "1", 
+    "status" : "1", 
+    "isRecommend" : "0", 
+    "saleableQty" : "14", 
+    "eventStatus" : "open", 
+    "enableWaitingList" : "0", 
+    "allOutOfStock" : "0", 
+    "discount" : "9.5", 
+    "purchaseType" : "D-Vendor Delivery", 
+    "isNewProduct" : "0", 
+    "isCrossBorder" : "0", 
+    "isLimitedTimeOffer" : "0", 
+    "tNewProduct" : NumberInt(0), 
+    "itemPriceDto" : {
+        "price" : "216", 
+        "discount" : "9.5", 
+        "begin" : "1578105232", 
+        "end" : "1582905600"
+    }
+}
+{ 
+    "_id" : ObjectId("5e16d54d03c371374c20f4ad"), 
+    "productId" : "2042204299000807731", 
+    "productName" : "白色蝴蝶美利奴羊毛基本睡袋18-36个月", 
+    "product_type" : "Simple", 
+    "brandName" : "WOOLINO", 
+    "glsCode" : "UOI-820-00008", 
+    "price" : "548", 
+    "marketPrice" : "949", 
+    "imageUrl" : "https://cdn12.mei.com/product/UOI-820-00008/e87cd90a8414ca473f5e8227aefde768.jpg@300w_400h_2e_75q", 
+    "stockStatus" : "1", 
+    "status" : "1", 
+    "isRecommend" : "0", 
+    "saleableQty" : "11", 
+    "eventStatus" : "open", 
+    "enableWaitingList" : "0", 
+    "allOutOfStock" : "0", 
+    "discount" : "5.8", 
+    "purchaseType" : "D-Vendor Delivery", 
+    "isNewProduct" : "0", 
+    "isCrossBorder" : "0", 
+    "isLimitedTimeOffer" : "0", 
+    "tNewProduct" : NumberInt(0), 
+    "itemPriceDto" : {
+        "price" : "548", 
+        "discount" : "5.8", 
+        "begin" : "1578105232", 
+        "end" : "1582905600"
+    }
+}
+{ 
+    "_id" : ObjectId("5e16d54d03c371374c20f4ae"), 
+    "productId" : "2042204299000814100", 
+    "productName" : "魔法森林有机棉女童三角裤(3条装)5-6岁", 
+    "product_type" : "Simple", 
+    "brandName" : "ZOOCCHiNi", 
+    "glsCode" : "UNR-318-00027", 
+    "price" : "189", 
+    "marketPrice" : "205", 
+    "imageUrl" : "https://cdn13.mei.com/product/UNR-318-00027/1d61d6971d0c5f59548afbbfdc32c96d.jpg@300w_400h_2e_75q", 
+    "stockStatus" : "1", 
+    "status" : "1", 
+    "isRecommend" : "0", 
+    "saleableQty" : "11", 
+    "eventStatus" : "open", 
+    "enableWaitingList" : "0", 
+    "allOutOfStock" : "0", 
+    "discount" : "9.3", 
+    "purchaseType" : "D-Vendor Delivery", 
+    "isNewProduct" : "0", 
+    "isCrossBorder" : "0", 
+    "isLimitedTimeOffer" : "0", 
+    "tNewProduct" : NumberInt(0), 
+    "itemPriceDto" : {
+        "price" : "189", 
+        "discount" : "9.3", 
+        "begin" : "1578105232", 
+        "end" : "1582905600"
+    }
+}
+{ 
+    "_id" : ObjectId("5e16d54d03c371374c20f4af"), 
+    "productId" : "2121212199000166293", 
+    "productName" : "美人鱼小海马双面儿童防晒浴巾", 
+    "product_type" : "Simple", 
+    "brandName" : "Flap jack kids", 
+    "glsCode" : "UNQ-820-00004", 
+    "price" : "216", 
+    "marketPrice" : "229", 
+    "imageUrl" : "https://cdn15.mei.com/product/UNQ-820-00004/e5ec3ecb3b2b936073881caec082ccf4.jpg@300w_400h_2e_75q", 
+    "stockStatus" : "1", 
+    "status" : "1", 
+    "isRecommend" : "0", 
+    "saleableQty" : "11", 
+    "eventStatus" : "open", 
+    "enableWaitingList" : "0", 
+    "allOutOfStock" : "0", 
+    "discount" : "9.5", 
+    "purchaseType" : "D-Vendor Delivery", 
+    "isNewProduct" : "0", 
+    "isCrossBorder" : "0", 
+    "isLimitedTimeOffer" : "0", 
+    "tNewProduct" : NumberInt(0), 
+    "itemPriceDto" : {
+        "price" : "216", 
+        "discount" : "9.5", 
+        "begin" : "1578105232", 
+        "end" : "1582905600"
+    }
+}
+{ 
+    "_id" : ObjectId("5e16d54d03c371374c20f4b0"), 
+    "productId" : "2042204299000807736", 
+    "productName" : "蓝色条纹美利奴羊毛基本睡袋18-36个月", 
+    "product_type" : "Simple", 
+    "brandName" : "WOOLINO", 
+    "glsCode" : "UOI-820-00013", 
+    "price" : "548", 
+    "marketPrice" : "949", 
+    "imageUrl" : "https://cdn13.mei.com/product/UOI-820-00013/e87cd90a8414ca472a868fa49a5d44e9.jpg@300w_400h_2e_75q", 
+    "stockStatus" : "1", 
+    "status" : "1", 
+    "isRecommend" : "0", 
+    "saleableQty" : "10", 
+    "eventStatus" : "open", 
+    "enableWaitingList" : "0", 
+    "allOutOfStock" : "0", 
+    "discount" : "5.8", 
+    "purchaseType" : "D-Vendor Delivery", 
+    "isNewProduct" : "0", 
+    "isCrossBorder" : "0", 
+    "isLimitedTimeOffer" : "0", 
+    "tNewProduct" : NumberInt(0), 
+    "itemPriceDto" : {
+        "price" : "548", 
+        "discount" : "5.8", 
+        "begin" : "1578105232", 
+        "end" : "1582905600"
+    }
+}
+{ 
+    "_id" : ObjectId("5e16d54d03c371374c20f4b1"), 
+    "productId" : "2042204299000814078", 
+    "productName" : "恐龙有机棉男童学习裤(3条装)2-3岁", 
+    "product_type" : "Simple", 
+    "brandName" : "ZOOCCHiNi", 
+    "glsCode" : "UNR-318-00005", 
+    "price" : "216", 
+    "marketPrice" : "228", 
+    "imageUrl" : "https://cdn12.mei.com/product/UNR-318-00005/1d61d6971d0c5f59aa158959d4ceae1a.jpg@300w_400h_2e_75q", 
+    "stockStatus" : "1", 
+    "status" : "1", 
+    "isRecommend" : "0", 
+    "saleableQty" : "10", 
+    "eventStatus" : "open", 
+    "enableWaitingList" : "0", 
+    "allOutOfStock" : "0", 
+    "discount" : "9.5", 
+    "purchaseType" : "D-Vendor Delivery", 
+    "isNewProduct" : "0", 
+    "isCrossBorder" : "0", 
+    "isLimitedTimeOffer" : "0", 
+    "tNewProduct" : NumberInt(0), 
+    "itemPriceDto" : {
+        "price" : "216", 
+        "discount" : "9.5", 
+        "begin" : "1578105232", 
+        "end" : "1582905600"
+    }
+}
+{ 
+    "_id" : ObjectId("5e16d54d03c371374c20f4b2"), 
+    "productId" : "2042204299000814079", 
+    "productName" : "恐龙有机棉男童学习裤(3条装)3-4岁", 
+    "product_type" : "Simple", 
+    "brandName" : "ZOOCCHiNi", 
+    "glsCode" : "UNR-318-00006", 
+    "price" : "216", 
+    "marketPrice" : "228", 
+    "imageUrl" : "https://cdn13.mei.com/product/UNR-318-00006/1d61d6971d0c5f590f8e8445cec70ca7.jpg@300w_400h_2e_75q", 
+    "stockStatus" : "1", 
+    "status" : "1", 
+    "isRecommend" : "0", 
+    "saleableQty" : "10", 
+    "eventStatus" : "open", 
+    "enableWaitingList" : "0", 
+    "allOutOfStock" : "0", 
+    "discount" : "9.5", 
+    "purchaseType" : "D-Vendor Delivery", 
+    "isNewProduct" : "0", 
+    "isCrossBorder" : "0", 
+    "isLimitedTimeOffer" : "0", 
+    "tNewProduct" : NumberInt(0), 
+    "itemPriceDto" : {
+        "price" : "216", 
+        "discount" : "9.5", 
+        "begin" : "1578105232", 
+        "end" : "1582905600"
+    }
+}
+{ 
+    "_id" : ObjectId("5e16d56203c371374c20f4b3"), 
+    "productId" : "2042204299000183441", 
+    "productName" : "赋活发膜500ml", 
+    "product_type" : "Simple", 
+    "brandName" : "KÉRASTASE", 
+    "glsCode" : "KYU-525-00063", 
+    "price" : "745", 
+    "marketPrice" : "850", 
+    "imageUrl" : "https://cdn15.mei.com/product/KYU-525-00063/KYU-525-00063a.jpg@300w_400h_2e_75q", 
+    "stockStatus" : "1", 
+    "status" : "1", 
+    "isRecommend" : "1", 
+    "saleableQty" : "78", 
+    "eventStatus" : "open", 
+    "enableWaitingList" : "0", 
+    "allOutOfStock" : "0", 
+    "discount" : "8.8", 
+    "purchaseType" : "D-Vendor Delivery", 
+    "isNewProduct" : "0", 
+    "isCrossBorder" : "0", 
+    "isLimitedTimeOffer" : "0", 
+    "tNewProduct" : NumberInt(0), 
+    "itemPriceDto" : {
+        "price" : "745", 
+        "discount" : "8.8", 
+        "begin" : "1578104881", 
+        "end" : "1593478800"
+    }, 
+    "tagListDto" : [
+        {
+            "tag" : "买手推荐", 
+            "isHasExpiration" : "0", 
+            "fontColor" : "000000", 
+            "fontBackgroudColor" : "FFFFFF", 
+            "frameColor" : "000000", 
+            "isRadius" : NumberInt(0), 
+            "isGradient" : NumberInt(0)
+        }
+    ]
+}
+{ 
+    "_id" : ObjectId("5e16d56203c371374c20f4b4"), 
+    "productId" : "2041204199000106188", 
+    "productName" : "KERASTASE卡诗 双重菁纯白茶油100ml", 
+    "product_type" : "Simple", 
+    "brandName" : "KÉRASTASE", 
+    "glsCode" : "KYU-525-00054", 
+    "price" : "369", 
+    "marketPrice" : "420", 
+    "imageUrl" : "https://cdn13.mei.com/product/KYU-525-00054/KYU-525-00054a.jpg@300w_400h_2e_75q", 
+    "stockStatus" : "1", 
+    "status" : "1", 
+    "isRecommend" : "0", 
+    "saleableQty" : "249", 
+    "eventStatus" : "open", 
+    "enableWaitingList" : "0", 
+    "allOutOfStock" : "0", 
+    "discount" : "8.8", 
+    "purchaseType" : "D-Vendor Delivery", 
+    "isNewProduct" : "0", 
+    "isCrossBorder" : "0", 
+    "isLimitedTimeOffer" : "0", 
+    "tNewProduct" : NumberInt(0), 
+    "itemPriceDto" : {
+        "price" : "369", 
+        "discount" : "8.8", 
+        "begin" : "1578104881", 
+        "end" : "1593478800"
+    }
+}
+{ 
+    "_id" : ObjectId("5e16d56203c371374c20f4b5"), 
+    "productId" : "2041204199000106184", 
+    "productName" : "黑钻凝时香氛修护油120ml", 
+    "product_type" : "Simple", 
+    "brandName" : "KÉRASTASE", 
+    "glsCode" : "KYU-525-00050", 
+    "price" : "499", 
+    "marketPrice" : "680", 
+    "imageUrl" : "https://cdn12.mei.com/product/KYU-525-00050/ae5b7f5492dfe218d7befc592d0d3a34.jpg@300w_400h_2e_75q", 
+    "stockStatus" : "1", 
+    "status" : "1", 
+    "isRecommend" : "0", 
+    "saleableQty" : "103", 
+    "eventStatus" : "open", 
+    "enableWaitingList" : "0", 
+    "allOutOfStock" : "0", 
+    "discount" : "7.4", 
+    "purchaseType" : "D-Vendor Delivery", 
+    "isNewProduct" : "0", 
+    "isCrossBorder" : "0", 
+    "isLimitedTimeOffer" : "0", 
+    "tNewProduct" : NumberInt(0), 
+    "itemPriceDto" : {
+        "price" : "499", 
+        "discount" : "7.4", 
+        "begin" : "1578104881", 
+        "end" : "1593478800"
+    }
+}
+{ 
+    "_id" : ObjectId("5e16d56203c371374c20f4b6"), 
+    "productId" : "2041204199000149919", 
+    "productName" : "卡诗强韧修护发膜500ml", 
+    "product_type" : "Simple", 
+    "brandName" : "KÉRASTASE", 
+    "glsCode" : "KYU-525-00056", 
+    "price" : "745", 
+    "marketPrice" : "850", 
+    "imageUrl" : "https://cdn13.mei.com/product/KYU-525-00056/KYU-525-00056a.jpg@300w_400h_2e_75q", 
+    "stockStatus" : "1", 
+    "status" : "1", 
+    "isRecommend" : "0", 
+    "saleableQty" : "73", 
+    "eventStatus" : "open", 
+    "enableWaitingList" : "0", 
+    "allOutOfStock" : "0", 
+    "discount" : "8.8", 
+    "purchaseType" : "D-Vendor Delivery", 
+    "isNewProduct" : "0", 
+    "isCrossBorder" : "0", 
+    "isLimitedTimeOffer" : "0", 
+    "tNewProduct" : NumberInt(0), 
+    "itemPriceDto" : {
+        "price" : "745", 
+        "discount" : "8.8", 
+        "begin" : "1578104881", 
+        "end" : "1593478800"
+    }
+}
+{ 
+    "_id" : ObjectId("5e16d56203c371374c20f4b7"), 
+    "productId" : "2041204199000106159", 
+    "productName" : "卡诗头皮系列舒缓丝盈洗发水250ml", 
+    "product_type" : "Simple", 
+    "brandName" : "KÉRASTASE", 
+    "glsCode" : "KYU-525-00025", 
+    "price" : "220", 
+    "marketPrice" : "240", 
+    "imageUrl" : "https://cdn15.mei.com/product/KYU-525-00025/KYU-525-00025a.jpg@300w_400h_2e_75q", 
+    "stockStatus" : "1", 
+    "status" : "1", 
+    "isRecommend" : "0", 
+    "saleableQty" : "37", 
+    "eventStatus" : "open", 
+    "enableWaitingList" : "0", 
+    "allOutOfStock" : "0", 
+    "discount" : "9.2", 
+    "purchaseType" : "D-Vendor Delivery", 
+    "isNewProduct" : "0", 
+    "isCrossBorder" : "0", 
+    "isLimitedTimeOffer" : "0", 
+    "tNewProduct" : NumberInt(0), 
+    "itemPriceDto" : {
+        "price" : "220", 
+        "discount" : "9.2", 
+        "begin" : "1578104881", 
+        "end" : "1593478800"
+    }
+}
+{ 
+    "_id" : ObjectId("5e16d56203c371374c20f4b8"), 
+    "productId" : "2041204199000529549", 
+    "productName" : "双重功能洗发水250ML", 
+    "product_type" : "Simple", 
+    "brandName" : "KÉRASTASE", 
+    "glsCode" : "KYU-537-00009", 
+    "price" : "220", 
+    "marketPrice" : "240", 
+    "imageUrl" : "https://cdn13.mei.com/product/KYU-537-00009/KYU-537-00009a.jpg@300w_400h_2e_75q", 
+    "stockStatus" : "1", 
+    "status" : "1", 
+    "isRecommend" : "0", 
+    "saleableQty" : "36", 
+    "eventStatus" : "open", 
+    "enableWaitingList" : "0", 
+    "allOutOfStock" : "0", 
+    "discount" : "9.2", 
+    "purchaseType" : "D-Vendor Delivery", 
+    "isNewProduct" : "0", 
+    "isCrossBorder" : "0", 
+    "isLimitedTimeOffer" : "0", 
+    "tNewProduct" : NumberInt(0), 
+    "itemPriceDto" : {
+        "price" : "220", 
+        "discount" : "9.2", 
+        "begin" : "1578104881", 
+        "end" : "1593478800"
+    }
+}
+{ 
+    "_id" : ObjectId("5e16d56203c371374c20f4b9"), 
+    "productId" : "2041204199000149921", 
+    "productName" : "强韧修护洗发水1000ml", 
+    "product_type" : "Simple", 
+    "brandName" : "KÉRASTASE", 
+    "glsCode" : "KYU-525-00058", 
+    "price" : "548", 
+    "marketPrice" : "790", 
+    "imageUrl" : "https://cdn13.mei.com/product/KYU-525-00058/ae5b7f5492dfe218d647430b52f208d8.jpg@300w_400h_2e_75q", 
+    "stockStatus" : "1", 
+    "status" : "1", 
+    "isRecommend" : "0", 
+    "saleableQty" : "35", 
+    "eventStatus" : "open", 
+    "enableWaitingList" : "0", 
+    "allOutOfStock" : "0", 
+    "discount" : "7.0", 
+    "purchaseType" : "D-Vendor Delivery", 
+    "isNewProduct" : "0", 
+    "isCrossBorder" : "0", 
+    "isLimitedTimeOffer" : "0", 
+    "tNewProduct" : NumberInt(0), 
+    "itemPriceDto" : {
+        "price" : "548", 
+        "discount" : "7.0", 
+        "begin" : "1578104881", 
+        "end" : "1593478800"
+    }
+}
+{ 
+    "_id" : ObjectId("5e16d56203c371374c20f4ba"), 
+    "productId" : "2041204199000529545", 
+    "productName" : "黑钻凝时洗发水250ML", 
+    "product_type" : "Simple", 
+    "brandName" : "KÉRASTASE", 
+    "glsCode" : "KYU-537-00005", 
+    "price" : "345", 
+    "marketPrice" : "380", 
+    "imageUrl" : "https://cdn15.mei.com/product/KYU-537-00005/KYU-537-00005a.jpg@300w_400h_2e_75q", 
+    "stockStatus" : "1", 
+    "status" : "1", 
+    "isRecommend" : "0", 
+    "saleableQty" : "34", 
+    "eventStatus" : "open", 
+    "enableWaitingList" : "0", 
+    "allOutOfStock" : "0", 
+    "discount" : "9.1", 
+    "purchaseType" : "D-Vendor Delivery", 
+    "isNewProduct" : "0", 
+    "isCrossBorder" : "0", 
+    "isLimitedTimeOffer" : "0", 
+    "tNewProduct" : NumberInt(0), 
+    "itemPriceDto" : {
+        "price" : "345", 
+        "discount" : "9.1", 
+        "begin" : "1578104881", 
+        "end" : "1593478800"
+    }
+}
+{ 
+    "_id" : ObjectId("5e16d56203c371374c20f4bb"), 
+    "productId" : "2042204299000569191", 
+    "productName" : "卡诗去屑净化洗发水250ml", 
+    "product_type" : "Simple", 
+    "brandName" : "KÉRASTASE", 
+    "glsCode" : "KYU-537-00010", 
+    "price" : "220", 
+    "marketPrice" : "240", 
+    "imageUrl" : "https://cdn14.mei.com/product/20171114/20171114102456554.jpg@300w_400h_2e_75q", 
+    "stockStatus" : "1", 
+    "status" : "1", 
+    "isRecommend" : "0", 
+    "saleableQty" : "34", 
+    "eventStatus" : "open", 
+    "enableWaitingList" : "0", 
+    "allOutOfStock" : "0", 
+    "discount" : "9.2", 
+    "purchaseType" : "D-Vendor Delivery", 
+    "isNewProduct" : "0", 
+    "isCrossBorder" : "0", 
+    "isLimitedTimeOffer" : "0", 
+    "tNewProduct" : NumberInt(0), 
+    "itemPriceDto" : {
+        "price" : "220", 
+        "discount" : "9.2", 
+        "begin" : "1578104881", 
+        "end" : "1593478800"
+    }
+}
+{ 
+    "_id" : ObjectId("5e16d56203c371374c20f4bc"), 
+    "productId" : "2041204199000106164", 
+    "productName" : "卡诗头皮系列舒缓滋润洗发水250ml", 
+    "product_type" : "Simple", 
+    "brandName" : "KÉRASTASE", 
+    "glsCode" : "KYU-525-00030", 
+    "price" : "220", 
+    "marketPrice" : "240", 
+    "imageUrl" : "https://cdn13.mei.com/product/KYU-525-00030/KYU-525-00030a.jpg@300w_400h_2e_75q", 
+    "stockStatus" : "1", 
+    "status" : "1", 
+    "isRecommend" : "0", 
+    "saleableQty" : "30", 
+    "eventStatus" : "open", 
+    "enableWaitingList" : "0", 
+    "allOutOfStock" : "0", 
+    "discount" : "9.2", 
+    "purchaseType" : "D-Vendor Delivery", 
+    "isNewProduct" : "0", 
+    "isCrossBorder" : "0", 
+    "isLimitedTimeOffer" : "0", 
+    "tNewProduct" : NumberInt(0), 
+    "itemPriceDto" : {
+        "price" : "220", 
+        "discount" : "9.2", 
+        "begin" : "1578104881", 
+        "end" : "1593478800"
+    }
+}
+{ 
+    "_id" : ObjectId("5e16d56203c371374c20f4bd"), 
+    "productId" : "2041204199000529547", 
+    "productName" : "强韧发质洗发水250ML", 
+    "product_type" : "Simple", 
+    "brandName" : "KÉRASTASE", 
+    "glsCode" : "KYU-537-00007", 
+    "price" : "220", 
+    "marketPrice" : "240", 
+    "imageUrl" : "https://cdn15.mei.com/product/KYU-537-00007/KYU-537-00007a.jpg@300w_400h_2e_75q", 
+    "stockStatus" : "1", 
+    "status" : "1", 
+    "isRecommend" : "0", 
+    "saleableQty" : "30", 
+    "eventStatus" : "open", 
+    "enableWaitingList" : "0", 
+    "allOutOfStock" : "0", 
+    "discount" : "9.2", 
+    "purchaseType" : "D-Vendor Delivery", 
+    "isNewProduct" : "0", 
+    "isCrossBorder" : "0", 
+    "isLimitedTimeOffer" : "0", 
+    "tNewProduct" : NumberInt(0), 
+    "itemPriceDto" : {
+        "price" : "220", 
+        "discount" : "9.2", 
+        "begin" : "1578104881", 
+        "end" : "1593478800"
+    }
+}
+{ 
+    "_id" : ObjectId("5e16d56203c371374c20f4be"), 
+    "productId" : "2040204099000511249", 
+    "productName" : "滋养2号洗发水250ml", 
+    "product_type" : "Simple", 
+    "brandName" : "KÉRASTASE", 
+    "glsCode" : "KYU-537-00017", 
+    "price" : "220", 
+    "marketPrice" : "240", 
+    "imageUrl" : "https://cdn13.mei.com/product/KYU-537-00017/KYU-537-00017a.jpg@300w_400h_2e_75q", 
+    "stockStatus" : "1", 
+    "status" : "1", 
+    "isRecommend" : "0", 
+    "saleableQty" : "29", 
+    "eventStatus" : "open", 
+    "enableWaitingList" : "0", 
+    "allOutOfStock" : "0", 
+    "discount" : "9.2", 
+    "purchaseType" : "D-Vendor Delivery", 
+    "isNewProduct" : "0", 
+    "isCrossBorder" : "0", 
+    "isLimitedTimeOffer" : "0", 
+    "tNewProduct" : NumberInt(0), 
+    "itemPriceDto" : {
+        "price" : "220", 
+        "discount" : "9.2", 
+        "begin" : "1578104881", 
+        "end" : "1593478800"
+    }
+}
+{ 
+    "_id" : ObjectId("5e16d56203c371374c20f4bf"), 
+    "productId" : "2042204299000685227", 
+    "productName" : "根源（原纤细发质）洗发乳 250ML", 
+    "product_type" : "Simple", 
+    "brandName" : "KÉRASTASE", 
+    "glsCode" : "KYU-537-00015", 
+    "price" : "240", 
+    "marketPrice" : "260", 
+    "imageUrl" : "https://cdn15.mei.com/product/KYU-537-00015/KYU-537-00015a.jpg@300w_400h_2e_75q", 
+    "stockStatus" : "1", 
+    "status" : "1", 
+    "isRecommend" : "0", 
+    "saleableQty" : "29", 
+    "eventStatus" : "open", 
+    "enableWaitingList" : "0", 
+    "allOutOfStock" : "0", 
+    "discount" : "9.3", 
+    "purchaseType" : "D-Vendor Delivery", 
+    "isNewProduct" : "0", 
+    "isCrossBorder" : "0", 
+    "isLimitedTimeOffer" : "0", 
+    "tNewProduct" : NumberInt(0), 
+    "itemPriceDto" : {
+        "price" : "240", 
+        "discount" : "9.3", 
+        "begin" : "1578104881", 
+        "end" : "1593478800"
+    }
+}
+{ 
+    "_id" : ObjectId("5e16d56203c371374c20f4c0"), 
+    "productId" : "2042204299000708352", 
+    "productName" : "舒缓滋润洗发水1000ml", 
+    "product_type" : "Simple", 
+    "brandName" : "KÉRASTASE", 
+    "glsCode" : "KYU-537-00018", 
+    "price" : "548", 
+    "marketPrice" : "790", 
+    "imageUrl" : "https://cdn15.mei.com/product/KYU-537-00018/KYU-537-00018a.jpg@300w_400h_2e_75q", 
+    "stockStatus" : "1", 
+    "status" : "1", 
+    "isRecommend" : "0", 
+    "saleableQty" : "29", 
+    "eventStatus" : "open", 
+    "enableWaitingList" : "0", 
+    "allOutOfStock" : "0", 
+    "discount" : "7.0", 
+    "purchaseType" : "D-Vendor Delivery", 
+    "isNewProduct" : "0", 
+    "isCrossBorder" : "0", 
+    "isLimitedTimeOffer" : "0", 
+    "tNewProduct" : NumberInt(0), 
+    "itemPriceDto" : {
+        "price" : "548", 
+        "discount" : "7.0", 
+        "begin" : "1578104881", 
+        "end" : "1593478800"
+    }
+}
+{ 
+    "_id" : ObjectId("5e16d56203c371374c20f4c1"), 
+    "productId" : "2041204199000106135", 
+    "productName" : "卡诗头皮系列舒缓丝盈洗发水1000ml", 
+    "product_type" : "Simple", 
+    "brandName" : "KÉRASTASE", 
+    "glsCode" : "KYU-525-00001", 
+    "price" : "548", 
+    "marketPrice" : "790", 
+    "imageUrl" : "https://cdn13.mei.com/product/KYU-525-00001/KYU-525-00001a.jpg@300w_400h_2e_75q", 
+    "stockStatus" : "1", 
+    "status" : "1", 
+    "isRecommend" : "0", 
+    "saleableQty" : "28", 
+    "eventStatus" : "open", 
+    "enableWaitingList" : "0", 
+    "allOutOfStock" : "0", 
+    "discount" : "7.0", 
+    "purchaseType" : "D-Vendor Delivery", 
+    "isNewProduct" : "0", 
+    "isCrossBorder" : "0", 
+    "isLimitedTimeOffer" : "0", 
+    "tNewProduct" : NumberInt(0), 
+    "itemPriceDto" : {
+        "price" : "548", 
+        "discount" : "7.0", 
+        "begin" : "1578104881", 
+        "end" : "1593478800"
+    }
+}
+{ 
+    "_id" : ObjectId("5e16d56203c371374c20f4c2"), 
+    "productId" : "2041204199000106171", 
+    "productName" : "恒护洗发水2号1L", 
+    "product_type" : "Simple", 
+    "brandName" : "KÉRASTASE", 
+    "glsCode" : "KYU-525-00037", 
+    "price" : "548", 
+    "marketPrice" : "790", 
+    "imageUrl" : "https://cdn15.mei.com/product/KYU-525-00037/ae5b7f5492dfe2182ea0ecd3caef05eb.jpg@300w_400h_2e_75q", 
+    "stockStatus" : "1", 
+    "status" : "1", 
+    "isRecommend" : "0", 
+    "saleableQty" : "28", 
+    "eventStatus" : "open", 
+    "enableWaitingList" : "0", 
+    "allOutOfStock" : "0", 
+    "discount" : "7.0", 
+    "purchaseType" : "D-Vendor Delivery", 
+    "isNewProduct" : "0", 
+    "isCrossBorder" : "0", 
+    "isLimitedTimeOffer" : "0", 
+    "tNewProduct" : NumberInt(0), 
+    "itemPriceDto" : {
+        "price" : "548", 
+        "discount" : "7.0", 
+        "begin" : "1578104881", 
+        "end" : "1593478800"
+    }
+}
+{ 
+    "_id" : ObjectId("5e16d56203c371374c20f4c3"), 
+    "productId" : "2041204199000652226", 
+    "productName" : "去屑净化洗发水1000ml", 
+    "product_type" : "Simple", 
+    "brandName" : "KÉRASTASE", 
+    "glsCode" : "KYU-537-00013", 
+    "price" : "548", 
+    "marketPrice" : "790", 
+    "imageUrl" : "https://cdn15.mei.com/product/KYU-537-00013/KYU-537-00013a.jpg@300w_400h_2e_75q", 
+    "stockStatus" : "1", 
+    "status" : "1", 
+    "isRecommend" : "0", 
+    "saleableQty" : "27", 
+    "eventStatus" : "open", 
+    "enableWaitingList" : "0", 
+    "allOutOfStock" : "0", 
+    "discount" : "7.0", 
+    "purchaseType" : "D-Vendor Delivery", 
+    "isNewProduct" : "0", 
+    "isCrossBorder" : "0", 
+    "isLimitedTimeOffer" : "0", 
+    "tNewProduct" : NumberInt(0), 
+    "itemPriceDto" : {
+        "price" : "548", 
+        "discount" : "7.0", 
+        "begin" : "1578104881", 
+        "end" : "1593478800"
+    }
+}
+{ 
+    "_id" : ObjectId("5e16d56203c371374c20f4c4"), 
+    "productId" : "2042204299000456243", 
+    "productName" : "奥丽柔顺洗发水250ML", 
+    "product_type" : "Simple", 
+    "brandName" : "KÉRASTASE", 
+    "glsCode" : "KYU-540-00001", 
+    "price" : "220", 
+    "marketPrice" : "240", 
+    "imageUrl" : "https://cdn13.mei.com/product/KYU-540-00001/KYU-540-00001a.jpg@300w_400h_2e_75q", 
+    "stockStatus" : "1", 
+    "status" : "1", 
+    "isRecommend" : "0", 
+    "saleableQty" : "27", 
+    "eventStatus" : "open", 
+    "enableWaitingList" : "0", 
+    "allOutOfStock" : "0", 
+    "discount" : "9.2", 
+    "purchaseType" : "D-Vendor Delivery", 
+    "isNewProduct" : "0", 
+    "isCrossBorder" : "0", 
+    "isLimitedTimeOffer" : "0", 
+    "tNewProduct" : NumberInt(0), 
+    "itemPriceDto" : {
+        "price" : "220", 
+        "discount" : "9.2", 
+        "begin" : "1578104881", 
+        "end" : "1593478800"
+    }
+}
+{ 
+    "_id" : ObjectId("5e16d56203c371374c20f4c5"), 
+    "productId" : "2042204299000183445", 
+    "productName" : "赋活洗发水1000ml", 
+    "product_type" : "Simple", 
+    "brandName" : "KÉRASTASE", 
+    "glsCode" : "KYU-525-00067", 
+    "price" : "548", 
+    "marketPrice" : "780", 
+    "imageUrl" : "https://cdn13.mei.com/product/KYU-525-00067/KYU-525-00067a.jpg@300w_400h_2e_75q", 
+    "stockStatus" : "1", 
+    "status" : "1", 
+    "isRecommend" : "0", 
+    "saleableQty" : "26", 
+    "eventStatus" : "open", 
+    "enableWaitingList" : "0", 
+    "allOutOfStock" : "0", 
+    "discount" : "7.1", 
+    "purchaseType" : "D-Vendor Delivery", 
+    "isNewProduct" : "0", 
+    "isCrossBorder" : "0", 
+    "isLimitedTimeOffer" : "0", 
+    "tNewProduct" : NumberInt(0), 
+    "itemPriceDto" : {
+        "price" : "548", 
+        "discount" : "7.1", 
+        "begin" : "1578104881", 
+        "end" : "1593478800"
+    }
+}
+{ 
+    "_id" : ObjectId("5e16d56203c371374c20f4c6"), 
+    "productId" : "2042204299000685228", 
+    "productName" : "根源（原纤细发质）洗发乳 1000ML", 
+    "product_type" : "Simple", 
+    "brandName" : "KÉRASTASE", 
+    "glsCode" : "KYU-537-00016", 
+    "price" : "548", 
+    "marketPrice" : "790", 
+    "imageUrl" : "https://cdn15.mei.com/product/KYU-537-00016/KYU-537-00016a.jpg@300w_400h_2e_75q", 
+    "stockStatus" : "1", 
+    "status" : "1", 
+    "isRecommend" : "0", 
+    "saleableQty" : "25", 
+    "eventStatus" : "open", 
+    "enableWaitingList" : "0", 
+    "allOutOfStock" : "0", 
+    "discount" : "7.0", 
+    "purchaseType" : "D-Vendor Delivery", 
+    "isNewProduct" : "0", 
+    "isCrossBorder" : "0", 
+    "isLimitedTimeOffer" : "0", 
+    "tNewProduct" : NumberInt(0), 
+    "itemPriceDto" : {
+        "price" : "548", 
+        "discount" : "7.0", 
+        "begin" : "1578104881", 
+        "end" : "1593478800"
+    }
+}

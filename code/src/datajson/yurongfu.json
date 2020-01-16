@@ -1,0 +1,591 @@
+{
+	"errorInfo": "",
+	"errorNum": "0",
+	"360AB": "B",
+	"skusInfo": [
+		{
+			"id": "2014201499000040389",
+			"glsCode": "TRI-2655-100001-C",
+			"name": "TRICKCOO墨绿色时尚保暖男士机能羽绒服",
+			"brandName": "TRICKCOO",
+			"categoryName": "羽绒服",
+			"discount": "",
+			"stockQty": 40,
+			"imgUrl": [
+				"https://cdn15.mei.com/product/TRI-2655-100001-C/02d0349937958c7f806c3883abf9c9fa46100aed681e678271fe99410db7403a.jpg@390w_518h_2e_75q"
+			],
+			"marketPrice": "3280",
+			"itemPriceDto": {
+				"price": "1968",
+				"tax": "",
+				"discount": "6.0",
+				"begin": "1576544400",
+				"end": "1582992000",
+				"vipPrice": "",
+				"vipTax": "",
+				"vipDiscount": "",
+				"vipBegin": "",
+				"vipEnd": "",
+				"newPrice": "",
+				"newTax": "",
+				"newDiscount": "",
+				"newBegin": "",
+				"newEnd": ""
+			},
+			"tagListDto": [],
+			"products": [],
+			"share": {
+				"content": "TRICKCOO TRICKCOO墨绿色时尚保暖男士机能羽绒服 在魅力惠的价格简直太棒啦！偷偷告诉你们，现在注册成为魅力惠会员还可以额外拿到现金券，并且即刻使用哟！ ",
+				"imgUrl": "https://cdn15.mei.com/product/TRI-2655-100001-C/02d0349937958c7f806c3883abf9c9fa46100aed681e678271fe99410db7403a.jpg@390w_518h_2e_75q",
+				"productUrl": "http://www.mei.com/productdetail?glsCode=TRI-2655-100001-C",
+				"shareTag": "@魅力惠GlamourSales",
+				"shareLinkWx": "http://www.mei.com/productdetail?glsCode=TRI-2655-100001-C",
+				"shareLinkWxcircle": "http://www.mei.com/productdetail?glsCode=TRI-2655-100001-C",
+				"shareLinkWb": "http://www.mei.com/productdetail?glsCode=TRI-2655-100001-C"
+			},
+			"mix360Url": "",
+			"gif360Url": ""
+		},
+		{
+			"id": "2040204099000718531",
+			"glsCode": "CQC-209-00008",
+			"name": "蓝色纯棉撞色条纹字母男女同款T恤上衣",
+			"brandName": "CHI ZHANG",
+			"categoryName": "T恤",
+			"discount": "",
+			"stockQty": 31,
+			"imgUrl": [
+				"https://cdn15.mei.com/product/CQC-209-00008/64e16787ec8771c33f5e8227aefde768.jpg@390w_518h_2e_75q",
+				"https://cdn13.mei.com/product/CQC-209-00008/64e16787ec8771c3edab5bc8217a6201.jpg@390w_518h_2e_75q",
+				"https://cdn14.mei.com/product/CQC-209-00008/64e16787ec8771c3f6d67396e806599f.jpg@390w_518h_2e_75q",
+				"https://cdn13.mei.com/product/CQC-209-00008/64e16787ec8771c34a62aef49366d6d1.jpg@390w_518h_2e_75q",
+				"https://cdn15.mei.com/product/CQC-209-00008/64e16787ec8771c3501c7464fb225d67.jpg@390w_518h_2e_75q"
+			],
+			"marketPrice": "398",
+			"itemPriceDto": {
+				"price": "199",
+				"tax": "",
+				"discount": "5.0",
+				"begin": "1564243200",
+				"end": "1582938000",
+				"vipPrice": "",
+				"vipTax": "",
+				"vipDiscount": "",
+				"vipBegin": "",
+				"vipEnd": "",
+				"newPrice": "",
+				"newTax": "",
+				"newDiscount": "",
+				"newBegin": "",
+				"newEnd": ""
+			},
+			"tagListDto": [],
+			"products": [],
+			"share": {
+				"content": "CHI ZHANG 蓝色纯棉撞色条纹字母男女同款T恤上衣 在魅力惠的价格简直太棒啦！偷偷告诉你们，现在注册成为魅力惠会员还可以额外拿到现金券，并且即刻使用哟！ ",
+				"imgUrl": "https://cdn15.mei.com/product/CQC-209-00008/64e16787ec8771c33f5e8227aefde768.jpg@390w_518h_2e_75q",
+				"productUrl": "http://www.mei.com/productdetail?glsCode=CQC-209-00008",
+				"shareTag": "@魅力惠GlamourSales",
+				"shareLinkWx": "http://www.mei.com/productdetail?glsCode=CQC-209-00008",
+				"shareLinkWxcircle": "http://www.mei.com/productdetail?glsCode=CQC-209-00008",
+				"shareLinkWb": "http://www.mei.com/productdetail?glsCode=CQC-209-00008"
+			},
+			"mix360Url": "",
+			"gif360Url": ""
+		},
+		{
+			"id": "2042204299000330882",
+			"glsCode": "GVP-113-00019",
+			"name": "灰色杰瑞印花男女同款全棉卫衣",
+			"brandName": "GRAFIKUS",
+			"categoryName": "卫衣",
+			"discount": "",
+			"stockQty": 23,
+			"imgUrl": [
+				"https://cdn15.mei.com/product/GVP-113-00019/GVP-113-00019a.jpg@390w_518h_2e_75q",
+				"https://cdn12.mei.com/product/GVP-113-00019/GVP-113-00019b.jpg@390w_518h_2e_75q",
+				"https://cdn13.mei.com/product/GVP-113-00019/GVP-113-00019c.jpg@390w_518h_2e_75q",
+				"https://cdn14.mei.com/product/GVP-113-00019/GVP-113-00019d.jpg@390w_518h_2e_75q"
+			],
+			"marketPrice": "668",
+			"itemPriceDto": {
+				"price": "200",
+				"tax": "",
+				"discount": "3.0",
+				"begin": "1569859200",
+				"end": "1580482800",
+				"vipPrice": "",
+				"vipTax": "",
+				"vipDiscount": "",
+				"vipBegin": "",
+				"vipEnd": "",
+				"newPrice": "",
+				"newTax": "",
+				"newDiscount": "",
+				"newBegin": "",
+				"newEnd": ""
+			},
+			"tagListDto": [],
+			"products": [],
+			"share": {
+				"content": "GRAFIKUS 灰色杰瑞印花男女同款全棉卫衣 在魅力惠的价格简直太棒啦！偷偷告诉你们，现在注册成为魅力惠会员还可以额外拿到现金券，并且即刻使用哟！ ",
+				"imgUrl": "https://cdn15.mei.com/product/GVP-113-00019/GVP-113-00019a.jpg@390w_518h_2e_75q",
+				"productUrl": "http://www.mei.com/productdetail?glsCode=GVP-113-00019",
+				"shareTag": "@魅力惠GlamourSales",
+				"shareLinkWx": "http://www.mei.com/productdetail?glsCode=GVP-113-00019",
+				"shareLinkWxcircle": "http://www.mei.com/productdetail?glsCode=GVP-113-00019",
+				"shareLinkWb": "http://www.mei.com/productdetail?glsCode=GVP-113-00019"
+			},
+			"mix360Url": "",
+			"gif360Url": ""
+		},
+		{
+			"id": "2019201999000018735",
+			"glsCode": "TRI-2655-100007-C",
+			"name": "TRICKCOO蓝色男士时尚保暖轻薄款羽绒服",
+			"brandName": "TRICKCOO",
+			"categoryName": "羽绒服",
+			"discount": "",
+			"stockQty": 39,
+			"imgUrl": [
+				"https://cdn12.mei.com/product/TRI-2655-100007-C/02d0349937958c7f4437be0e4e4a6fe0fe7ab665eaf8fd93a8061bdac015e16c.jpg@390w_518h_2e_75q"
+			],
+			"marketPrice": "2980",
+			"itemPriceDto": {
+				"price": "1788",
+				"tax": "",
+				"discount": "6.0",
+				"begin": "1576544400",
+				"end": "1582992000",
+				"vipPrice": "",
+				"vipTax": "",
+				"vipDiscount": "",
+				"vipBegin": "",
+				"vipEnd": "",
+				"newPrice": "",
+				"newTax": "",
+				"newDiscount": "",
+				"newBegin": "",
+				"newEnd": ""
+			},
+			"tagListDto": [],
+			"products": [],
+			"share": {
+				"content": "TRICKCOO TRICKCOO蓝色男士时尚保暖轻薄款羽绒服 在魅力惠的价格简直太棒啦！偷偷告诉你们，现在注册成为魅力惠会员还可以额外拿到现金券，并且即刻使用哟！ ",
+				"imgUrl": "https://cdn12.mei.com/product/TRI-2655-100007-C/02d0349937958c7f4437be0e4e4a6fe0fe7ab665eaf8fd93a8061bdac015e16c.jpg@390w_518h_2e_75q",
+				"productUrl": "http://www.mei.com/productdetail?glsCode=TRI-2655-100007-C",
+				"shareTag": "@魅力惠GlamourSales",
+				"shareLinkWx": "http://www.mei.com/productdetail?glsCode=TRI-2655-100007-C",
+				"shareLinkWxcircle": "http://www.mei.com/productdetail?glsCode=TRI-2655-100007-C",
+				"shareLinkWb": "http://www.mei.com/productdetail?glsCode=TRI-2655-100007-C"
+			},
+			"mix360Url": "",
+			"gif360Url": ""
+		},
+		{
+			"id": "2087208799000021505",
+			"glsCode": "TRI-2655-100102-C",
+			"name": "TRICKCOO灰色休闲百搭便携式无帽男士白鹅绒羽绒服外套",
+			"brandName": "TRICKCOO",
+			"categoryName": "羽绒服",
+			"discount": "",
+			"stockQty": 58,
+			"imgUrl": [
+				"https://cdn15.mei.com/product/TRI-2655-100102-C/02d0349937958c7fcaaf14e50bdd20e823f407678a680931f2cab290d01da3cb.jpg@390w_518h_2e_75q"
+			],
+			"marketPrice": "1999",
+			"itemPriceDto": {
+				"price": "499",
+				"tax": "",
+				"discount": "2.5",
+				"begin": "1576544400",
+				"end": "1578538800",
+				"vipPrice": "",
+				"vipTax": "",
+				"vipDiscount": "",
+				"vipBegin": "",
+				"vipEnd": "",
+				"newPrice": "",
+				"newTax": "",
+				"newDiscount": "",
+				"newBegin": "",
+				"newEnd": ""
+			},
+			"tagListDto": [
+				{
+					"tag": "今日疯抢",
+					"isHasExpiration": "1",
+					"beginDate": "1578538800",
+					"endDate": "1578545999",
+					"image": "",
+					"fontColor": "FFFFFF",
+					"fontBackgroudColor": "DD2828",
+					"frameColor": "DD2828",
+					"isRadius": 0,
+					"isGradient": 0,
+					"beginColor": "",
+					"endColor": ""
+				}
+			],
+			"products": [],
+			"share": {
+				"content": "TRICKCOO TRICKCOO灰色休闲百搭便携式无帽男士白鹅绒羽绒服外套 在魅力惠的价格简直太棒啦！偷偷告诉你们，现在注册成为魅力惠会员还可以额外拿到现金券，并且即刻使用哟！ ",
+				"imgUrl": "https://cdn15.mei.com/product/TRI-2655-100102-C/02d0349937958c7fcaaf14e50bdd20e823f407678a680931f2cab290d01da3cb.jpg@390w_518h_2e_75q",
+				"productUrl": "http://www.mei.com/productdetail?glsCode=TRI-2655-100102-C",
+				"shareTag": "@魅力惠GlamourSales",
+				"shareLinkWx": "http://www.mei.com/productdetail?glsCode=TRI-2655-100102-C",
+				"shareLinkWxcircle": "http://www.mei.com/productdetail?glsCode=TRI-2655-100102-C",
+				"shareLinkWb": "http://www.mei.com/productdetail?glsCode=TRI-2655-100102-C"
+			},
+			"mix360Url": "",
+			"gif360Url": ""
+		},
+		{
+			"id": "2015201599000016494",
+			"glsCode": "TRI-2655-100014-C",
+			"name": "TRICKCOO黄色休闲百搭便携式无帽男士白鹅绒羽绒服外套",
+			"brandName": "TRICKCOO",
+			"categoryName": "羽绒服",
+			"discount": "",
+			"stockQty": 247,
+			"imgUrl": [
+				"https://cdn12.mei.com/product/TRI-2655-100014-C/02d0349937958c7f87799e74f5a66ee2f5fd44974f0d0507f2cab290d01da3cb.jpg@390w_518h_2e_75q"
+			],
+			"marketPrice": "1999",
+			"itemPriceDto": {
+				"price": "499",
+				"tax": "",
+				"discount": "2.5",
+				"begin": "1576544400",
+				"end": "1578538800",
+				"vipPrice": "",
+				"vipTax": "",
+				"vipDiscount": "",
+				"vipBegin": "",
+				"vipEnd": "",
+				"newPrice": "",
+				"newTax": "",
+				"newDiscount": "",
+				"newBegin": "",
+				"newEnd": ""
+			},
+			"tagListDto": [
+				{
+					"tag": "今日疯抢",
+					"isHasExpiration": "1",
+					"beginDate": "1578538800",
+					"endDate": "1578545999",
+					"image": "",
+					"fontColor": "FFFFFF",
+					"fontBackgroudColor": "DD2828",
+					"frameColor": "DD2828",
+					"isRadius": 0,
+					"isGradient": 0,
+					"beginColor": "",
+					"endColor": ""
+				}
+			],
+			"products": [],
+			"share": {
+				"content": "TRICKCOO TRICKCOO黄色休闲百搭便携式无帽男士白鹅绒羽绒服外套 在魅力惠的价格简直太棒啦！偷偷告诉你们，现在注册成为魅力惠会员还可以额外拿到现金券，并且即刻使用哟！ ",
+				"imgUrl": "https://cdn12.mei.com/product/TRI-2655-100014-C/02d0349937958c7f87799e74f5a66ee2f5fd44974f0d0507f2cab290d01da3cb.jpg@390w_518h_2e_75q",
+				"productUrl": "http://www.mei.com/productdetail?glsCode=TRI-2655-100014-C",
+				"shareTag": "@魅力惠GlamourSales",
+				"shareLinkWx": "http://www.mei.com/productdetail?glsCode=TRI-2655-100014-C",
+				"shareLinkWxcircle": "http://www.mei.com/productdetail?glsCode=TRI-2655-100014-C",
+				"shareLinkWb": "http://www.mei.com/productdetail?glsCode=TRI-2655-100014-C"
+			},
+			"mix360Url": "",
+			"gif360Url": ""
+		},
+		{
+			"id": "2085208599000012936",
+			"glsCode": "TRI-2655-100005-C",
+			"name": "TRICKCOO黑色男士时尚保暖短款羽绒服",
+			"brandName": "TRICKCOO",
+			"categoryName": "羽绒服",
+			"discount": "",
+			"stockQty": 44,
+			"imgUrl": [
+				"https://cdn14.mei.com/product/TRI-2655-100005-C/02d0349937958c7f8d88bec9f8eca94dfcee6393e57e7129b2c9b631320cd2b2.jpg@390w_518h_2e_75q"
+			],
+			"marketPrice": "2999",
+			"itemPriceDto": {
+				"price": "899",
+				"tax": "",
+				"discount": "3.0",
+				"begin": "1576544400",
+				"end": "1578279600",
+				"vipPrice": "",
+				"vipTax": "",
+				"vipDiscount": "",
+				"vipBegin": "",
+				"vipEnd": "",
+				"newPrice": "",
+				"newTax": "",
+				"newDiscount": "",
+				"newBegin": "",
+				"newEnd": ""
+			},
+			"tagListDto": [
+				{
+					"tag": "今日疯抢",
+					"isHasExpiration": "1",
+					"beginDate": "1578279600",
+					"endDate": "1578286799",
+					"image": "",
+					"fontColor": "FFFFFF",
+					"fontBackgroudColor": "DD2828",
+					"frameColor": "DD2828",
+					"isRadius": 0,
+					"isGradient": 0,
+					"beginColor": "",
+					"endColor": ""
+				}
+			],
+			"products": [],
+			"share": {
+				"content": "TRICKCOO TRICKCOO黑色男士时尚保暖短款羽绒服 在魅力惠的价格简直太棒啦！偷偷告诉你们，现在注册成为魅力惠会员还可以额外拿到现金券，并且即刻使用哟！ ",
+				"imgUrl": "https://cdn14.mei.com/product/TRI-2655-100005-C/02d0349937958c7f8d88bec9f8eca94dfcee6393e57e7129b2c9b631320cd2b2.jpg@390w_518h_2e_75q",
+				"productUrl": "http://www.mei.com/productdetail?glsCode=TRI-2655-100005-C",
+				"shareTag": "@魅力惠GlamourSales",
+				"shareLinkWx": "http://www.mei.com/productdetail?glsCode=TRI-2655-100005-C",
+				"shareLinkWxcircle": "http://www.mei.com/productdetail?glsCode=TRI-2655-100005-C",
+				"shareLinkWb": "http://www.mei.com/productdetail?glsCode=TRI-2655-100005-C"
+			},
+			"mix360Url": "",
+			"gif360Url": ""
+		},
+		{
+			"id": "2019201999000018695",
+			"glsCode": "TRI-2655-100003-C",
+			"name": "TRICKCOO绿色绗缝时尚保暖短款羽绒服",
+			"brandName": "TRICKCOO",
+			"categoryName": "羽绒服",
+			"discount": "",
+			"stockQty": 106,
+			"imgUrl": [
+				"https://cdn15.mei.com/product/TRI-2655-100003-C/02d0349937958c7f935fe8bfc5b17cf387831d8fb0d5c26fb2c9b631320cd2b2.jpg@390w_518h_2e_75q"
+			],
+			"marketPrice": "2999",
+			"itemPriceDto": {
+				"price": "899",
+				"tax": "",
+				"discount": "3.0",
+				"begin": "1576544400",
+				"end": "1578538800",
+				"vipPrice": "",
+				"vipTax": "",
+				"vipDiscount": "",
+				"vipBegin": "",
+				"vipEnd": "",
+				"newPrice": "",
+				"newTax": "",
+				"newDiscount": "",
+				"newBegin": "",
+				"newEnd": ""
+			},
+			"tagListDto": [
+				{
+					"tag": "今日疯抢",
+					"isHasExpiration": "1",
+					"beginDate": "1578538800",
+					"endDate": "1578545999",
+					"image": "",
+					"fontColor": "FFFFFF",
+					"fontBackgroudColor": "DD2828",
+					"frameColor": "DD2828",
+					"isRadius": 0,
+					"isGradient": 0,
+					"beginColor": "",
+					"endColor": ""
+				}
+			],
+			"products": [],
+			"share": {
+				"content": "TRICKCOO TRICKCOO绿色绗缝时尚保暖短款羽绒服 在魅力惠的价格简直太棒啦！偷偷告诉你们，现在注册成为魅力惠会员还可以额外拿到现金券，并且即刻使用哟！ ",
+				"imgUrl": "https://cdn15.mei.com/product/TRI-2655-100003-C/02d0349937958c7f935fe8bfc5b17cf387831d8fb0d5c26fb2c9b631320cd2b2.jpg@390w_518h_2e_75q",
+				"productUrl": "http://www.mei.com/productdetail?glsCode=TRI-2655-100003-C",
+				"shareTag": "@魅力惠GlamourSales",
+				"shareLinkWx": "http://www.mei.com/productdetail?glsCode=TRI-2655-100003-C",
+				"shareLinkWxcircle": "http://www.mei.com/productdetail?glsCode=TRI-2655-100003-C",
+				"shareLinkWb": "http://www.mei.com/productdetail?glsCode=TRI-2655-100003-C"
+			},
+			"mix360Url": "",
+			"gif360Url": ""
+		},
+		{
+			"id": "2084208499000012972",
+			"glsCode": "TRI-2655-100006-C",
+			"name": "TRICKCOO黑色时尚保暖女士连帽羽绒服",
+			"brandName": "TRICKCOO",
+			"categoryName": "羽绒服",
+			"discount": "",
+			"stockQty": 36,
+			"imgUrl": [
+				"https://cdn12.mei.com/product/TRI-2655-100006-C/02d0349937958c7fbf22c36b48768b9352619ab5ece0ef3c4c3406df5a5aac0e.jpg@390w_518h_2e_75q"
+			],
+			"marketPrice": "3680",
+			"itemPriceDto": {
+				"price": "2208",
+				"tax": "",
+				"discount": "6.0",
+				"begin": "1576544400",
+				"end": "1582992000",
+				"vipPrice": "",
+				"vipTax": "",
+				"vipDiscount": "",
+				"vipBegin": "",
+				"vipEnd": "",
+				"newPrice": "",
+				"newTax": "",
+				"newDiscount": "",
+				"newBegin": "",
+				"newEnd": ""
+			},
+			"tagListDto": [],
+			"products": [],
+			"share": {
+				"content": "TRICKCOO TRICKCOO黑色时尚保暖女士连帽羽绒服 在魅力惠的价格简直太棒啦！偷偷告诉你们，现在注册成为魅力惠会员还可以额外拿到现金券，并且即刻使用哟！ ",
+				"imgUrl": "https://cdn12.mei.com/product/TRI-2655-100006-C/02d0349937958c7fbf22c36b48768b9352619ab5ece0ef3c4c3406df5a5aac0e.jpg@390w_518h_2e_75q",
+				"productUrl": "http://www.mei.com/productdetail?glsCode=TRI-2655-100006-C",
+				"shareTag": "@魅力惠GlamourSales",
+				"shareLinkWx": "http://www.mei.com/productdetail?glsCode=TRI-2655-100006-C",
+				"shareLinkWxcircle": "http://www.mei.com/productdetail?glsCode=TRI-2655-100006-C",
+				"shareLinkWb": "http://www.mei.com/productdetail?glsCode=TRI-2655-100006-C"
+			},
+			"mix360Url": "",
+			"gif360Url": ""
+		},
+		{
+			"id": "2022202299000021029",
+			"glsCode": "TRI-2655-100011-C",
+			"name": "TRICKCOO红色女士时尚保暖短款羽绒服",
+			"brandName": "TRICKCOO",
+			"categoryName": "羽绒服",
+			"discount": "",
+			"stockQty": 2,
+			"imgUrl": [
+				"https://cdn12.mei.com/product/TRI-2655-100011-C/02d0349937958c7fb5e136b1fc8c8c10ebcb923d7a5eb4acd04bae7cd322bd3b.jpg@390w_518h_2e_75q"
+			],
+			"marketPrice": "3980",
+			"itemPriceDto": {
+				"price": "1790",
+				"tax": "",
+				"discount": "4.5",
+				"begin": "1576544400",
+				"end": "1582992000",
+				"vipPrice": "",
+				"vipTax": "",
+				"vipDiscount": "",
+				"vipBegin": "",
+				"vipEnd": "",
+				"newPrice": "",
+				"newTax": "",
+				"newDiscount": "",
+				"newBegin": "",
+				"newEnd": ""
+			},
+			"tagListDto": [],
+			"products": [],
+			"share": {
+				"content": "TRICKCOO TRICKCOO红色女士时尚保暖短款羽绒服 在魅力惠的价格简直太棒啦！偷偷告诉你们，现在注册成为魅力惠会员还可以额外拿到现金券，并且即刻使用哟！ ",
+				"imgUrl": "https://cdn12.mei.com/product/TRI-2655-100011-C/02d0349937958c7fb5e136b1fc8c8c10ebcb923d7a5eb4acd04bae7cd322bd3b.jpg@390w_518h_2e_75q",
+				"productUrl": "http://www.mei.com/productdetail?glsCode=TRI-2655-100011-C",
+				"shareTag": "@魅力惠GlamourSales",
+				"shareLinkWx": "http://www.mei.com/productdetail?glsCode=TRI-2655-100011-C",
+				"shareLinkWxcircle": "http://www.mei.com/productdetail?glsCode=TRI-2655-100011-C",
+				"shareLinkWb": "http://www.mei.com/productdetail?glsCode=TRI-2655-100011-C"
+			},
+			"mix360Url": "",
+			"gif360Url": ""
+		},
+		{
+			"id": "2017201799000022041",
+			"glsCode": "XZE-2655-100006-C",
+			"name": "xxxtrenta黑色潮流时尚个性百搭立领大廓形短款男女同款羽绒服",
+			"brandName": "XXXTRENTA",
+			"categoryName": "羽绒服",
+			"discount": "",
+			"stockQty": 30,
+			"imgUrl": [
+				"https://cdn14.mei.com/product/XZE-2655-100006-C/02d0349937958c7f3cbaa1ba9ef3dc56fbeff53f42bbcb3995c8438c57c431b6.jpg@390w_518h_2e_75q"
+			],
+			"marketPrice": "1998",
+			"itemPriceDto": {
+				"price": "999",
+				"tax": "",
+				"discount": "5.0",
+				"begin": "1571274000",
+				"end": "1582938000",
+				"vipPrice": "",
+				"vipTax": "",
+				"vipDiscount": "",
+				"vipBegin": "",
+				"vipEnd": "",
+				"newPrice": "",
+				"newTax": "",
+				"newDiscount": "",
+				"newBegin": "",
+				"newEnd": ""
+			},
+			"tagListDto": [],
+			"products": [],
+			"share": {
+				"content": "XXXTRENTA xxxtrenta黑色潮流时尚个性百搭立领大廓形短款男女同款羽绒服 在魅力惠的价格简直太棒啦！偷偷告诉你们，现在注册成为魅力惠会员还可以额外拿到现金券，并且即刻使用哟！ ",
+				"imgUrl": "https://cdn14.mei.com/product/XZE-2655-100006-C/02d0349937958c7f3cbaa1ba9ef3dc56fbeff53f42bbcb3995c8438c57c431b6.jpg@390w_518h_2e_75q",
+				"productUrl": "http://www.mei.com/productdetail?glsCode=XZE-2655-100006-C",
+				"shareTag": "@魅力惠GlamourSales",
+				"shareLinkWx": "http://www.mei.com/productdetail?glsCode=XZE-2655-100006-C",
+				"shareLinkWxcircle": "http://www.mei.com/productdetail?glsCode=XZE-2655-100006-C",
+				"shareLinkWb": "http://www.mei.com/productdetail?glsCode=XZE-2655-100006-C"
+			},
+			"mix360Url": "",
+			"gif360Url": ""
+		},
+		{
+			"id": "2086208699000018232",
+			"glsCode": "CVY-246-100022-C",
+			"name": "CREAZIONI IL CONCETTO DELLO SPAZIO多色压线连帽男士短款羽绒服",
+			"brandName": "CREAZIONI",
+			"categoryName": "羽绒服",
+			"discount": "",
+			"stockQty": 7,
+			"imgUrl": [
+				"https://cdn14.mei.com/product/CVY-246-100022-C/02d0349937958c7f2aa0644ad1758bb8ca53e73be400d633894b7c67b9def462.jpg@390w_518h_2e_75q"
+			],
+			"marketPrice": "3690",
+			"itemPriceDto": {
+				"price": "1390",
+				"tax": "",
+				"discount": "3.8",
+				"begin": "1571360400",
+				"end": "1582938000",
+				"vipPrice": "",
+				"vipTax": "",
+				"vipDiscount": "",
+				"vipBegin": "",
+				"vipEnd": "",
+				"newPrice": "",
+				"newTax": "",
+				"newDiscount": "",
+				"newBegin": "",
+				"newEnd": ""
+			},
+			"tagListDto": [],
+			"products": [],
+			"share": {
+				"content": "CREAZIONI CREAZIONI IL CONCETTO DELLO SPAZIO多色压线连帽男士短款羽绒服 在魅力惠的价格简直太棒啦！偷偷告诉你们，现在注册成为魅力惠会员还可以额外拿到现金券，并且即刻使用哟！ ",
+				"imgUrl": "https://cdn14.mei.com/product/CVY-246-100022-C/02d0349937958c7f2aa0644ad1758bb8ca53e73be400d633894b7c67b9def462.jpg@390w_518h_2e_75q",
+				"productUrl": "http://www.mei.com/productdetail?glsCode=CVY-246-100022-C",
+				"shareTag": "@魅力惠GlamourSales",
+				"shareLinkWx": "http://www.mei.com/productdetail?glsCode=CVY-246-100022-C",
+				"shareLinkWxcircle": "http://www.mei.com/productdetail?glsCode=CVY-246-100022-C",
+				"shareLinkWb": "http://www.mei.com/productdetail?glsCode=CVY-246-100022-C"
+			},
+			"mix360Url": "",
+			"gif360Url": ""
+		}
+	],
+	"totalPage": 2
+}

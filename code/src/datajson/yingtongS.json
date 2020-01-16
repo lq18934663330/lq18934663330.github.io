@@ -1,0 +1,182 @@
+{
+	"errorNum": "0",
+	"silo": {
+		"id": "2013000100000000005",
+		"siloCode": "5",
+		"siloNameEn": "kids",
+		"displayName": "婴童",
+		"linkAddr": "/silo/",
+		"secondCategories": [
+			{
+				"categoryId": "1000000359",
+				"categoryName": "服装",
+				"childCategoryList": [
+					{
+						"categoryId": "1000000380",
+						"categoryName": "T恤",
+						"categoryCode": "K-T-shirts",
+						"categoryLogoUrl": "http://cdn13.mei.com/category/20170828/20170828193837215.jpg@150w_150h",
+						"imagePrefix": "http://cdn13.mei.com/category/"
+					},
+					{
+						"categoryId": "1000000378",
+						"categoryName": "卫衣",
+						"categoryCode": "K-Hoodies",
+						"categoryLogoUrl": "http://cdn13.mei.com/category/20170828/20170828193853911.jpg@150w_150h",
+						"imagePrefix": "http://cdn13.mei.com/category/"
+					},
+					{
+						"categoryId": "1000000376",
+						"categoryName": "连衣裙",
+						"categoryCode": "K-Dress",
+						"categoryLogoUrl": "http://cdn13.mei.com/category/20170828/20170828193905763.jpg@150w_150h",
+						"imagePrefix": "http://cdn13.mei.com/category/"
+					},
+					{
+						"categoryId": "1000000320",
+						"categoryName": "大衣",
+						"categoryCode": "K-Outwear",
+						"categoryLogoUrl": "http://cdn13.mei.com/category/20170828/20170828193930893.jpg@150w_150h",
+						"imagePrefix": "http://cdn13.mei.com/category/"
+					},
+					{
+						"categoryId": "1000000381",
+						"categoryName": "衬衫",
+						"categoryCode": "K-Shirts",
+						"categoryLogoUrl": "http://cdn13.mei.com/category/20170828/20170828193955896.jpg@150w_150h",
+						"imagePrefix": "http://cdn13.mei.com/category/"
+					},
+					{
+						"categoryId": "1000000377",
+						"categoryName": "毛衣",
+						"categoryCode": "K-Sweaters",
+						"categoryLogoUrl": "http://cdn13.mei.com/category/20170828/20170828194007691.jpg@150w_150h",
+						"imagePrefix": "http://cdn13.mei.com/category/"
+					},
+					{
+						"categoryId": "1000000327",
+						"categoryName": "家居服",
+						"categoryCode": "K-Home wear",
+						"categoryLogoUrl": "http://cdn13.mei.com/category/20170828/20170828194018168.jpg@150w_150h",
+						"imagePrefix": "http://cdn13.mei.com/category/"
+					},
+					{
+						"categoryId": "1000000323",
+						"categoryName": "裤子",
+						"categoryCode": "K-Pants",
+						"categoryLogoUrl": "http://cdn13.mei.com/category/20170828/20170828194029526.jpg@150w_150h",
+						"imagePrefix": "http://cdn13.mei.com/category/"
+					},
+					{
+						"categoryId": "1000000326",
+						"categoryName": "内衣/泳装",
+						"categoryCode": "K-Lingerie/Swimwear",
+						"categoryLogoUrl": "http://cdn13.mei.com/category/20170828/20170828194108436.jpg@150w_150h",
+						"imagePrefix": "http://cdn13.mei.com/category/"
+					}
+				]
+			},
+			{
+				"categoryId": "1000000360",
+				"categoryName": "童鞋",
+				"childCategoryList": [
+					{
+						"categoryId": "1192201704011110009",
+						"categoryName": "皮鞋",
+						"categoryCode": "K-Leather shoes",
+						"categoryLogoUrl": "http://cdn13.mei.com/category/20170828/20170828194143817.jpg@150w_150h",
+						"imagePrefix": "http://cdn13.mei.com/category/"
+					},
+					{
+						"categoryId": "1192007900000000237",
+						"categoryName": "运动户外",
+						"categoryCode": "K-Shoe-SportsOutdoor",
+						"categoryLogoUrl": "http://cdn13.mei.com/category/20170828/20170828194206712.jpg@150w_150h",
+						"imagePrefix": "http://cdn13.mei.com/category/"
+					}
+				]
+			},
+			{
+				"categoryId": "1000000362",
+				"categoryName": "母婴用具",
+				"childCategoryList": [
+					{
+						"categoryId": "1000000335",
+						"categoryName": "婴儿用品",
+						"categoryCode": "K-Baby products",
+						"categoryLogoUrl": "http://cdn13.mei.com/category/20170828/20170828194334657.jpg@150w_150h",
+						"imagePrefix": "http://cdn13.mei.com/category/"
+					},
+					{
+						"categoryId": "1000000334",
+						"categoryName": "孕妇用品",
+						"categoryCode": "K-Maternity products",
+						"categoryLogoUrl": "http://cdn13.mei.com/category/20170828/20170828194345138.jpg@150w_150h",
+						"imagePrefix": "http://cdn13.mei.com/category/"
+					}
+				]
+			},
+			{
+				"categoryId": "1000000361",
+				"categoryName": "玩具文具",
+				"childCategoryList": [
+					{
+						"categoryId": "1000000331",
+						"categoryName": "玩具",
+						"categoryCode": "K-Toys",
+						"categoryLogoUrl": "http://cdn13.mei.com/category/20170828/20170828194256747.jpg@150w_150h",
+						"imagePrefix": "http://cdn13.mei.com/category/"
+					},
+					{
+						"categoryId": "1000000333",
+						"categoryName": "包",
+						"categoryCode": "K-Bag",
+						"categoryLogoUrl": "http://cdn13.mei.com/category/20170828/20170828194309976.jpg@150w_150h",
+						"imagePrefix": "http://cdn13.mei.com/category/"
+					}
+				]
+			},
+			{
+				"categoryId": "1192007900000000111",
+				"categoryName": "配饰",
+				"childCategoryList": [
+					{
+						"categoryId": "1192201704011110004",
+						"categoryName": "帽子",
+						"categoryCode": "K-Hats new",
+						"categoryLogoUrl": "http://cdn13.mei.com/category/20170828/20170828194405044.jpg@150w_150h",
+						"imagePrefix": "http://cdn13.mei.com/category/"
+					},
+					{
+						"categoryId": "1192201704011110007",
+						"categoryName": "围巾",
+						"categoryCode": "K-Scarves",
+						"categoryLogoUrl": "http://cdn13.mei.com/category/20170828/20170828194416779.jpg@150w_150h",
+						"imagePrefix": "http://cdn13.mei.com/category/"
+					},
+					{
+						"categoryId": "1192201704011110005",
+						"categoryName": "手套",
+						"categoryCode": "K-Gloves",
+						"categoryLogoUrl": "http://cdn13.mei.com/category/20170828/20170828194427792.jpg@150w_150h",
+						"imagePrefix": "http://cdn13.mei.com/category/"
+					},
+					{
+						"categoryId": "1192201704011110006",
+						"categoryName": "袜子",
+						"categoryCode": "K-Socks",
+						"categoryLogoUrl": "http://cdn13.mei.com/category/20170828/20170828194439726.jpg@150w_150h",
+						"imagePrefix": "http://cdn13.mei.com/category/"
+					},
+					{
+						"categoryId": "1192007900000000113",
+						"categoryName": "眼镜",
+						"categoryCode": "K-Eyewear",
+						"categoryLogoUrl": "http://cdn13.mei.com/category/20170828/20170828194451645.jpg@150w_150h",
+						"imagePrefix": "http://cdn13.mei.com/category/"
+					}
+				]
+			}
+		]
+	}
+}

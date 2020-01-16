@@ -1,0 +1,3453 @@
+[
+	{ "fenleiliebiao": ["精选打牌", "品牌", "女士", "美妆", "家居", "婴童"] },
+	{
+		"dapai": [
+			{
+				"logoId": "2087200100000000139",
+				"brandName": "GUCCI",
+				"logoUrl": "http://cdn13.mei.com/category/20181019/355b4a78b904756cae4c51f9ef5771a839e4db8297e1f0dc.jpg@240w_122h",
+				"isBazzar": "",
+				"url": ""
+			},
+			{
+				"logoId": "3616200100000000514",
+				"brandName": "GUCCI",
+				"logoUrl": "http://cdn13.mei.com/category/20181019/355b4a78b904756cae4c51f9ef5771a839e4db8297e1f0dc.jpg@240w_122h",
+				"isBazzar": "",
+				"url": ""
+			},
+			{
+				"logoId": "3616200100000000345",
+				"brandName": "CHLOE",
+				"logoUrl": "http://cdn13.mei.com/category/20190122/8bc07a6fd5aca89a1c480c12c83793411ac47f6e1a03bdfe.jpg@240w_122h",
+				"isBazzar": "",
+				"url": ""
+			},
+			{
+				"logoId": "3616200100000000592",
+				"brandName": "KENZO",
+				"logoUrl": "http://cdn13.mei.com/category/20190520/5e914b28c6b844aab7dd12699f51f07078124244265805bc.jpg@240w_122h",
+				"isBazzar": "",
+				"url": ""
+			},
+			{
+				"logoId": "3616200100000000853",
+				"brandName": "Salvatore Ferragamo",
+				"logoUrl": "http://cdn13.mei.com/category/20180914/a9e46506d05d4a9754074080bfe9c71f071407a2f321be85.jpg@240w_122h",
+				"isBazzar": "",
+				"url": ""
+			},
+			{
+				"logoId": "3616200100000000201",
+				"brandName": "ALEXANDER MCQUEEN",
+				"logoUrl": "http://cdn13.mei.com/category/20200102/40e5b1ce2869db42159b3d25b17bd45525aecd78fee7fcaf.jpg@240w_122h",
+				"isBazzar": "",
+				"url": ""
+			},
+			{
+				"logoId": "3616200100000000465",
+				"brandName": "FENDI",
+				"logoUrl": "http://cdn13.mei.com/category/20190619/b3be74f6d9fb01a0b6fc5020830e0572e15d3cf3671d4998.jpg@240w_122h",
+				"isBazzar": "",
+				"url": ""
+			},
+			{
+				"logoId": "3616200100000000503",
+				"brandName": "GIVENCHY",
+				"logoUrl": "http://cdn13.mei.com/category/20190122/8bc07a6fd5aca89ae114eccf04502bfbe15d3cf3671d4998.jpg@240w_122h",
+				"isBazzar": "",
+				"url": ""
+			},
+			{
+				"logoId": "3616200100000000818",
+				"brandName": "PRADA",
+				"logoUrl": "http://cdn13.mei.com/category/20180604/7f4f795ee0981a5c8747c9680b925deb25aecd78fee7fcaf.jpg@240w_122h",
+				"isBazzar": "",
+				"url": ""
+			},
+			{
+				"logoId": "3616200100000000899",
+				"brandName": "TORY BURCH",
+				"logoUrl": "http://cdn13.mei.com/category/20180914/a9e46506d05d4a97dbd94551a8592dacce6dc3676f54cd06.jpg@240w_122h",
+				"isBazzar": "",
+				"url": ""
+			},
+			{
+				"logoId": "3616200100000000869",
+				"brandName": "STELLA McCARTNEY",
+				"logoUrl": "http://cdn13.mei.com/category/20190520/5e914b28c6b844aa590e64aed86da0c8d72eb86efc6c943a.jpg@240w_122h",
+				"isBazzar": "",
+				"url": ""
+			},
+			{
+				"logoId": "3616200100000000404",
+				"brandName": "DIOR",
+				"logoUrl": "http://cdn13.mei.com/category/20200102/40e5b1ce2869db42cccd780351ef9cc7071407a2f321be85.jpg@240w_122h",
+				"isBazzar": "",
+				"url": ""
+			},
+			{
+				"logoId": "3616200100000001898",
+				"brandName": "SK-II",
+				"logoUrl": "http://cdn13.mei.com/category/20181130/a30823aabbcc32d28292a2560ccfaf4f39e4db8297e1f0dc.jpg@240w_122h",
+				"isBazzar": "",
+				"url": ""
+			}
+		]
+	},
+	{
+		"pingpai": [
+			{
+				"index": "A",
+				"brandList": [
+					{
+						"logoId": "3616200100000002834",
+						"brandName": "AALTO"
+					},
+					{
+						"logoId": "2041200100000000010",
+						"brandName": "Acne"
+					},
+					{
+						"logoId": "3616200100000000185",
+						"brandName": "Acne Studios"
+					},
+					{
+						"logoId": "3616200100000001653",
+						"brandName": "ACQUA DI PARMA"
+					},
+					{
+						"logoId": "2040200100000000186",
+						"brandName": "Activate Water",
+						"logoUrl": "http://cdn13.mei.com/category/20161102/20161102190237888.jpg@240w_122h"
+					},
+					{
+						"logoId": "3616200100000002161",
+						"brandName": "Adidas",
+						"logoUrl": "http://cdn13.mei.com/category/20160603/20160603213613786.jpg@240w_122h"
+					},
+					{
+						"logoId": "3616200100000000188",
+						"brandName": "Adidas by Stella McCartney"
+					},
+					{
+						"logoId": "2040200100000000091",
+						"brandName": "AGNONA",
+						"logoUrl": "http://cdn13.mei.com/category/20160906/20160906111030371.jpg@240w_122h"
+					},
+					{
+						"logoId": "2120200100000000093",
+						"brandName": "AITO"
+					},
+					{
+						"logoId": "3616200100000000196",
+						"brandName": "ALBERTA FERRETTI"
+					},
+					{
+						"logoId": "3616200100000001654",
+						"brandName": "ALBION",
+						"logoUrl": "http://cdn13.mei.com/category/20160612/20160612162907354.jpg@240w_122h"
+					},
+					{
+						"logoId": "3616200100000002845",
+						"brandName": "Alex Mullins"
+					},
+					{
+						"logoId": "3616200100000000201",
+						"brandName": "ALEXANDER MCQUEEN",
+						"logoUrl": "http://cdn13.mei.com/category/20160615/20160615150131214.jpg@240w_122h"
+					},
+					{
+						"logoId": "3616200100000000200",
+						"brandName": "ALEXANDER WANG"
+					},
+					{
+						"logoId": "3616200100000000205",
+						"brandName": "Alllllllbright",
+						"logoUrl": "http://cdn13.mei.com/category/20161220/20161220173239178.jpg@240w_122h"
+					},
+					{
+						"logoId": "2040200100000000260",
+						"brandName": "AMI"
+					},
+					{
+						"logoId": "3616200100000001082",
+						"brandName": "AMK JUNIOR",
+						"logoUrl": "http://cdn13.mei.com/category/20181108/7ddd14ca772c778e720ebf7de5b715ec78124244265805bc.jpg@240w_122h"
+					},
+					{
+						"logoId": "3616200100000000217",
+						"brandName": "Ancient Greek Sandals",
+						"logoUrl": "http://cdn13.mei.com/category/20170614/20170614140754129.jpg@240w_122h"
+					},
+					{
+						"logoId": "2120200100000000112",
+						"brandName": "Andre Maurice",
+						"logoUrl": "http://cdn13.mei.com/category/20180906/7aeabb44e1f336a53e493537ba24dbb6ce6dc3676f54cd06.jpg@240w_122h"
+					},
+					{
+						"logoId": "2042200100000000143",
+						"brandName": "ANDREW MACKENZIE",
+						"logoUrl": "http://cdn13.mei.com/category/20161128/20161128104301176.jpg@240w_122h"
+					},
+					{
+						"logoId": "3616200100000002171",
+						"brandName": "ANDREW MARC",
+						"logoUrl": "http://cdn13.mei.com/category/20160823/20160823172045627.jpg@240w_122h"
+					},
+					{
+						"logoId": "2120200100000000185",
+						"brandName": "ANIRAC"
+					},
+					{
+						"logoId": "3616200100000000223",
+						"brandName": "ANNA SUI",
+						"logoUrl": "http://cdn13.mei.com/category/20161215/20161215162527035.jpg@240w_122h"
+					},
+					{
+						"logoId": "2041200100000000184",
+						"brandName": "apm MONACO",
+						"logoUrl": "http://cdn13.mei.com/category/20161219/20161219175716190.jpg@240w_122h"
+					},
+					{
+						"logoId": "3616200100000000236",
+						"brandName": "Aquazzura"
+					},
+					{
+						"logoId": "2120200100000000202",
+						"brandName": "AREA OF NETHER TRUMP"
+					},
+					{
+						"logoId": "3616200100000000242",
+						"brandName": "ARMANI COLLEZIONI",
+						"logoUrl": "http://cdn13.mei.com/category/20170224/20170224171856037.jpg@240w_122h"
+					},
+					{
+						"logoId": "3616200100000000243",
+						"brandName": "ARMANI EXCHANGE",
+						"logoUrl": "http://cdn13.mei.com/category/20160705/20160705161416058.jpg@240w_122h"
+					},
+					{
+						"logoId": "3616200100000000244",
+						"brandName": "ARMANI JEANS",
+						"logoUrl": "http://cdn13.mei.com/category/20170609/20170609173745635.jpg@240w_122h"
+					},
+					{
+						"logoId": "2041200100000000365",
+						"brandName": "ASTRID ANDERSEN"
+					},
+					{
+						"logoId": "2121200100000000098",
+						"brandName": "ATELIER PARK"
+					},
+					{
+						"logoId": "2042200100000000044",
+						"brandName": "Aubade",
+						"logoUrl": "http://cdn13.mei.com/category/20160817/20160817102324334.jpg@240w_122h"
+					}
+				]
+			},
+			{
+				"index": "B",
+				"brandList": [
+					{
+						"logoId": "3616200100000001096",
+						"brandName": "B.",
+						"logoUrl": "http://cdn13.mei.com/category/20161028/20161028150436713.jpg@240w_122h"
+					},
+					{
+						"logoId": "2040200100000000492",
+						"brandName": "B5 BY BLOCCO 5"
+					},
+					{
+						"logoId": "3616200100000000258",
+						"brandName": "BADGLEY MISCHKA"
+					},
+					{
+						"logoId": "3616200100000000260",
+						"brandName": "BALENCIAGA",
+						"logoUrl": "http://cdn13.mei.com/category/20170904/20170904135407242.jpg@240w_122h"
+					},
+					{
+						"logoId": "3616200100000000262",
+						"brandName": "BALLETCHEENA"
+					},
+					{
+						"logoId": "3616200100000000263",
+						"brandName": "BALLY",
+						"logoUrl": "http://cdn13.mei.com/category/20180109/c7a0279f6f898bcbbff57af56552af9dd72eb86efc6c943a.jpg@240w_122h"
+					},
+					{
+						"logoId": "3616200100000000264",
+						"brandName": "BALMAIN"
+					},
+					{
+						"logoId": "2120200100000000155",
+						"brandName": "BANZ",
+						"logoUrl": "http://cdn13.mei.com/category/20181225/100edb0c075a5aa6daf87253c09939bb1ac47f6e1a03bdfe.jpg@240w_122h"
+					},
+					{
+						"logoId": "2120200100000000126",
+						"brandName": "BARBARA ALAN"
+					},
+					{
+						"logoId": "2040200100000000581",
+						"brandName": "bebe",
+						"logoUrl": "http://cdn13.mei.com/category/20170810/20170810153251649.jpg@240w_122h"
+					},
+					{
+						"logoId": "2120200100000000204",
+						"brandName": "Bella Freud"
+					},
+					{
+						"logoId": "2042200100000000533",
+						"brandName": "bencross"
+					},
+					{
+						"logoId": "3616200100000001114",
+						"brandName": "BIBI",
+						"logoUrl": "http://cdn13.mei.com/category/20160615/20160615145331390.jpg@240w_122h"
+					},
+					{
+						"logoId": "3616200100000001691",
+						"brandName": "BIOTHERM"
+					},
+					{
+						"logoId": "2040200100000000588",
+						"brandName": "BLACKBARRETT",
+						"logoUrl": "http://cdn13.mei.com/category/20170720/20170720145314354.jpg@240w_122h"
+					},
+					{
+						"logoId": "3616200100000002191",
+						"brandName": "BLACKGATEONE",
+						"logoUrl": "http://cdn13.mei.com/category/20160811/20160811171003582.jpg@240w_122h"
+					},
+					{
+						"logoId": "2042200100000000457",
+						"brandName": "BLINK GALLERY",
+						"logoUrl": "http://cdn13.mei.com/category/20181102/e7d6ce17474c5e1f1d6a44d962bdfff478124244265805bc.jpg@240w_122h"
+					},
+					{
+						"logoId": "3616200100000002876",
+						"brandName": "BLOCCO 5",
+						"logoUrl": "http://cdn13.mei.com/category/20160516/20160516171338433.jpg@240w_122h"
+					},
+					{
+						"logoId": "3616200100000001119",
+						"brandName": "BLU VILLA",
+						"logoUrl": "http://cdn13.mei.com/category/20160622/20160622112440151.jpg@240w_122h"
+					},
+					{
+						"logoId": "3616200100000002571",
+						"brandName": "blugirl"
+					},
+					{
+						"logoId": "2040200100000000707",
+						"brandName": "BOCCADAMO"
+					},
+					{
+						"logoId": "2042200100000000222",
+						"brandName": "BOSS"
+					},
+					{
+						"logoId": "3616200100000000291",
+						"brandName": "BOSS Orange"
+					},
+					{
+						"logoId": "3616200100000000294",
+						"brandName": "Bottega Veneta",
+						"logoUrl": "http://cdn13.mei.com/category/20160622/20160622120720811.jpg@240w_122h"
+					},
+					{
+						"logoId": "2041200100000000441",
+						"brandName": "BOYY"
+					},
+					{
+						"logoId": "3616200100000000304",
+						"brandName": "BURBERRY",
+						"logoUrl": "http://cdn13.mei.com/category/20161117/20161117174733600.jpg@240w_122h"
+					},
+					{
+						"logoId": "3616200100000000307",
+						"brandName": "BVLGARI",
+						"logoUrl": "http://cdn13.mei.com/category/20160603/20160603220042252.jpg@240w_122h"
+					},
+					{
+						"logoId": "3616200100000002201",
+						"brandName": "BY CREATIONS"
+					},
+					{
+						"logoId": "2120200100000000193",
+						"brandName": "By Creations Lite"
+					},
+					{
+						"logoId": "3616200100000001136",
+						"brandName": "BYBLOS",
+						"logoUrl": "http://cdn13.mei.com/category/20170912/20170912174107497.jpg@240w_122h"
+					}
+				]
+			},
+			{
+				"index": "C",
+				"brandList": [
+					{
+						"logoId": "2120200100000000192",
+						"brandName": "C&C",
+						"logoUrl": "http://cdn13.mei.com/category/20190220/bfe10a304a67c0d6a6aa616c1bf5d45825aecd78fee7fcaf.jpg@240w_122h"
+					},
+					{
+						"logoId": "3616200100000001139",
+						"brandName": "Calvin Klein"
+					},
+					{
+						"logoId": "3616200100000002206",
+						"brandName": "Calvin Klein Jeans"
+					},
+					{
+						"logoId": "3616200100000002887",
+						"brandName": "Camelio Toscalini",
+						"logoUrl": "http://cdn13.mei.com/category/20160615/20160615161542341.jpg@240w_122h"
+					},
+					{
+						"logoId": "2040200100000000146",
+						"brandName": "CANADA GOOSE",
+						"logoUrl": "http://cdn13.mei.com/category/20161108/20161108164629065.jpg@240w_122h"
+					},
+					{
+						"logoId": "3616200100000000320",
+						"brandName": "CAR SHOE"
+					},
+					{
+						"logoId": "2042200100000000442",
+						"brandName": "CARREMENT BEAU",
+						"logoUrl": "http://cdn13.mei.com/category/20170816/20170816173554246.jpg@240w_122h"
+					},
+					{
+						"logoId": "3616200100000000323",
+						"brandName": "Carven",
+						"logoUrl": "http://cdn13.mei.com/category/20160603/20160603220343184.jpg@240w_122h"
+					},
+					{
+						"logoId": "3616200100000002894",
+						"brandName": "ccilu"
+					},
+					{
+						"logoId": "3616200100000000332",
+						"brandName": "CELINE",
+						"logoUrl": "http://cdn13.mei.com/category/20171108/20171108180741841.jpg@240w_122h"
+					},
+					{
+						"logoId": "3616200100000002213",
+						"brandName": "CESARE CASADEI"
+					},
+					{
+						"logoId": "3616200100000002214",
+						"brandName": "CESARE PACIOTTI"
+					},
+					{
+						"logoId": "3616200100000001145",
+						"brandName": "CHAMPION"
+					},
+					{
+						"logoId": "3616200100000000335",
+						"brandName": "CHANEL",
+						"logoUrl": "http://cdn13.mei.com/category/20160509/20160509171342448.jpg@240w_122h"
+					},
+					{
+						"logoId": "3616200100000001146",
+						"brandName": "Chantal Thomass",
+						"logoUrl": "http://cdn13.mei.com/category/20160603/20160603215018180.jpg@240w_122h"
+					},
+					{
+						"logoId": "3616200100000000003",
+						"brandName": "CHARLES PHILIP SHANGHAI",
+						"logoUrl": "http://cdn13.mei.com/category/20160530/20160530181822126.jpg@240w_122h"
+					},
+					{
+						"logoId": "3616200100000000340",
+						"brandName": "CHARLOTTE OLYMPIA"
+					},
+					{
+						"logoId": "2040200100000000073",
+						"brandName": "CHELSEA AND WALKER",
+						"logoUrl": "http://cdn13.mei.com/category/20160826/20160826193636262.jpg@240w_122h"
+					},
+					{
+						"logoId": "2040200100000000352",
+						"brandName": "CHI ZHANG"
+					},
+					{
+						"logoId": "3616200100000000342",
+						"brandName": "CHIARA FERRAGNI",
+						"logoUrl": "http://cdn13.mei.com/category/20170915/20170915170936826.jpg@240w_122h"
+					},
+					{
+						"logoId": "2040200100000000328",
+						"brandName": "CHILEWICH"
+					},
+					{
+						"logoId": "3616200100000000345",
+						"brandName": "Chloé",
+						"logoUrl": "http://cdn13.mei.com/category/20160527/20160527173110679.jpg@240w_122h"
+					},
+					{
+						"logoId": "3616200100000001709",
+						"brandName": "Chopard/萧邦"
+					},
+					{
+						"logoId": "3616200100000000354",
+						"brandName": "CHURCH'S"
+					},
+					{
+						"logoId": "3616200100000001712",
+						"brandName": "CLARINS",
+						"logoUrl": "http://cdn13.mei.com/category/20160705/20160705154820233.jpg@240w_122h"
+					},
+					{
+						"logoId": "3616200100000001713",
+						"brandName": "CLARISONIC",
+						"logoUrl": "http://cdn13.mei.com/category/20160719/20160719155537250.jpg@240w_122h"
+					},
+					{
+						"logoId": "3616200100000000359",
+						"brandName": "CLASS ROBERTO CAVALLI",
+						"logoUrl": "http://cdn13.mei.com/category/20160705/20160705154749661.jpg@240w_122h"
+					},
+					{
+						"logoId": "3616200100000001715",
+						"brandName": "CLINIQUE",
+						"logoUrl": "http://cdn13.mei.com/category/20161017/20161017112733473.jpg@240w_122h"
+					},
+					{
+						"logoId": "3616200100000001714",
+						"brandName": "Clé de Peau Beauté",
+						"logoUrl": "http://cdn13.mei.com/category/20160527/20160527160834762.jpg@240w_122h"
+					},
+					{
+						"logoId": "3616200100000000364",
+						"brandName": "COACH",
+						"logoUrl": "http://cdn13.mei.com/category/20160805/20160805161325056.jpg@240w_122h"
+					},
+					{
+						"logoId": "3616200100000001157",
+						"brandName": "COCCINELLE",
+						"logoUrl": "http://cdn13.mei.com/category/20160921/20160921163058001.jpg@240w_122h"
+					},
+					{
+						"logoId": "3616200100000002902",
+						"brandName": "Comme des Garcons HOMME PLUS"
+					},
+					{
+						"logoId": "3616200100000002901",
+						"brandName": "Comme des Garcons SHIRT"
+					},
+					{
+						"logoId": "3616200100000000370",
+						"brandName": "COMMON PROJECTS"
+					},
+					{
+						"logoId": "3616200100000001164",
+						"brandName": "COTTON SHOP"
+					},
+					{
+						"logoId": "3616200100000002910",
+						"brandName": "CRAIG GREEN"
+					},
+					{
+						"logoId": "2120200100000000132",
+						"brandName": "CREAZIONI",
+						"logoUrl": "http://cdn13.mei.com/category/20180927/39126cbecae3c0c04c8010f6d41e980c25aecd78fee7fcaf.jpg@240w_122h"
+					},
+					{
+						"logoId": "3616200100000001975",
+						"brandName": "Crocus by gk-beck",
+						"logoUrl": "http://cdn13.mei.com/category/20160621/20160621104315985.jpg@240w_122h"
+					},
+					{
+						"logoId": "2120200100000000058",
+						"brandName": "CUBIC",
+						"logoUrl": "http://cdn13.mei.com/category/20181220/ecdd3fbce0089a6c56e2a89be46db95b25aecd78fee7fcaf.jpg@240w_122h"
+					}
+				]
+			},
+			{
+				"index": "D",
+				"brandList": [
+					{
+						"logoId": "2041200100000000082",
+						"brandName": "D.EXTERIOR"
+					},
+					{
+						"logoId": "3616200100000001181",
+						"brandName": "DAVID CHARLES",
+						"logoUrl": "http://cdn13.mei.com/category/20160601/20160601114316866.jpg@240w_122h"
+					},
+					{
+						"logoId": "3616200100000000005",
+						"brandName": "DAVID NAMAN",
+						"logoUrl": "http://cdn13.mei.com/category/20170612/20170612113818657.jpg@240w_122h"
+					},
+					{
+						"logoId": "3616200100000002915",
+						"brandName": "DAZZLE",
+						"logoUrl": "http://cdn13.mei.com/category/20160705/20160705140159830.jpg@240w_122h"
+					},
+					{
+						"logoId": "3616200100000001725",
+						"brandName": "DECORTÉ",
+						"logoUrl": "http://cdn13.mei.com/category/20160810/20160810165838092.jpg@240w_122h"
+					},
+					{
+						"logoId": "3616200100000002919",
+						"brandName": "DIAMOND DAZZLE",
+						"logoUrl": "http://cdn13.mei.com/category/20160621/20160621115724012.jpg@240w_122h"
+					},
+					{
+						"logoId": "3616200100000000399",
+						"brandName": "DIANE VON FURSTENBERG",
+						"logoUrl": "http://cdn13.mei.com/category/20170308/20170308151821073.jpg@240w_122h"
+					},
+					{
+						"logoId": "3616200100000001729",
+						"brandName": "diego dalla palma",
+						"logoUrl": "http://cdn13.mei.com/category/20160615/20160615161247104.jpg@240w_122h"
+					},
+					{
+						"logoId": "3616200100000001981",
+						"brandName": "DIESEL",
+						"logoUrl": "http://cdn13.mei.com/category/20160705/20160705154838384.jpg@240w_122h"
+					},
+					{
+						"logoId": "2041200100000000210",
+						"brandName": "DIM_EC_KIM HONG BUM"
+					},
+					{
+						"logoId": "3616200100000000404",
+						"brandName": "Dior",
+						"logoUrl": "http://cdn13.mei.com/category/20160516/20160516113640085.jpg@240w_122h"
+					},
+					{
+						"logoId": "2040200100000000045",
+						"brandName": "Dior Homme"
+					},
+					{
+						"logoId": "2120200100000000128",
+						"brandName": "DIVANNA"
+					},
+					{
+						"logoId": "2040200100000000725",
+						"brandName": "DORATEYMUR"
+					},
+					{
+						"logoId": "3616200100000000413",
+						"brandName": "DOUCAL'S"
+					},
+					{
+						"logoId": "3616200100000001737",
+						"brandName": "DR JART",
+						"logoUrl": "http://cdn13.mei.com/category/20161010/20161010142706717.jpg@240w_122h"
+					},
+					{
+						"logoId": "2042200100000000156",
+						"brandName": "Dr.Brandt/柏瑞特",
+						"logoUrl": "http://cdn13.mei.com/category/20161205/20161205111047630.jpg@240w_122h"
+					},
+					{
+						"logoId": "3616200100000002604",
+						"brandName": "DRKSHDW"
+					},
+					{
+						"logoId": "3616200100000001740",
+						"brandName": "DSQUARED2",
+						"logoUrl": "http://cdn13.mei.com/category/20160612/20160612171126488.jpg@240w_122h"
+					},
+					{
+						"logoId": "3616200100000001741",
+						"brandName": "Dunhill/登喜路",
+						"logoUrl": "http://cdn13.mei.com/category/20160612/20160612155443956.jpg@240w_122h"
+					},
+					{
+						"logoId": "2120200100000000177",
+						"brandName": "Dunoon"
+					},
+					{
+						"logoId": "2042200100000000089",
+						"brandName": "DUVETICA",
+						"logoUrl": "http://cdn13.mei.com/category/20160908/20160908173022777.jpg@240w_122h"
+					},
+					{
+						"logoId": "3616200100000002603",
+						"brandName": "D’MOU",
+						"logoUrl": "http://cdn13.mei.com/category/20160516/20160516171202692.jpg@240w_122h"
+					}
+				]
+			},
+			{
+				"index": "E",
+				"brandList": [
+					{
+						"logoId": "3616200100000001210",
+						"brandName": "E-LAND KIDS"
+					},
+					{
+						"logoId": "2041200100000000258",
+						"brandName": "EA7"
+					},
+					{
+						"logoId": "3616200100000000418",
+						"brandName": "EACH X OTHER"
+					},
+					{
+						"logoId": "3616200100000001205",
+						"brandName": "Echolac",
+						"logoUrl": "http://cdn13.mei.com/category/20160612/20160612161533926.jpg@240w_122h"
+					},
+					{
+						"logoId": "2121200100000000137",
+						"brandName": "ECKHAUS LATTA"
+					},
+					{
+						"logoId": "3616200100000002930",
+						"brandName": "EDWIN",
+						"logoUrl": "http://cdn13.mei.com/category/20160621/20160621120900920.jpg@240w_122h"
+					},
+					{
+						"logoId": "2041200100000000477",
+						"brandName": "Elixir/怡丽丝尔"
+					},
+					{
+						"logoId": "3616200100000001744",
+						"brandName": "Elizabeth Arden",
+						"logoUrl": "http://cdn13.mei.com/category/20160603/20160603220217589.jpg@240w_122h"
+					},
+					{
+						"logoId": "3616200100000000436",
+						"brandName": "EMILIO PUCCI",
+						"logoUrl": "http://cdn13.mei.com/category/20160603/20160603121749623.jpg@240w_122h"
+					},
+					{
+						"logoId": "3616200100000000441",
+						"brandName": "EMPORIO ARMANI",
+						"logoUrl": "http://cdn13.mei.com/category/20170224/20170224171944104.jpg@240w_122h"
+					},
+					{
+						"logoId": "3616200100000002937",
+						"brandName": "EQ:IQ",
+						"logoUrl": "http://cdn13.mei.com/category/20160612/20160612155346920.jpg@240w_122h"
+					},
+					{
+						"logoId": "3616200100000001221",
+						"brandName": "ERGOBABY"
+					},
+					{
+						"logoId": "3616200100000000448",
+						"brandName": "Ermenegildo Zegna",
+						"logoUrl": "http://cdn13.mei.com/category/20160516/20160516184117487.jpg@240w_122h"
+					},
+					{
+						"logoId": "3616200100000000450",
+						"brandName": "ESCADA",
+						"logoUrl": "http://cdn13.mei.com/category/20160622/20160622114918438.jpg@240w_122h"
+					},
+					{
+						"logoId": "2120200100000000161",
+						"brandName": "Esthederm/雅诗敦",
+						"logoUrl": "http://cdn13.mei.com/category/20190328/ac5a9e283671c078c774d99b492edf75dc0bc45b7bb6d783.jpg@240w_122h"
+					},
+					{
+						"logoId": "3616200100000001751",
+						"brandName": "Estée Lauder",
+						"logoUrl": "http://cdn13.mei.com/category/20161206/20161206105202996.jpg@240w_122h"
+					},
+					{
+						"logoId": "3616200100000001752",
+						"brandName": "Eve Lom",
+						"logoUrl": "http://cdn13.mei.com/category/20160728/20160728163226388.jpg@240w_122h"
+					},
+					{
+						"logoId": "3616200100000001226",
+						"brandName": "EVE’S TEMPTATION",
+						"logoUrl": "http://cdn13.mei.com/category/20161014/20161014121731722.jpg@240w_122h"
+					}
+				]
+			},
+			{
+				"index": "F",
+				"brandList": [
+					{
+						"logoId": "2042200100000000131",
+						"brandName": "Facetasm"
+					},
+					{
+						"logoId": "2041200100000000079",
+						"brandName": "FAITH CONNEXION"
+					},
+					{
+						"logoId": "2041200100000000437",
+						"brandName": "FARRO GRANO",
+						"logoUrl": "http://cdn13.mei.com/category/20170628/20170628154527028.jpg@240w_122h"
+					},
+					{
+						"logoId": "3616200100000000465",
+						"brandName": "FENDI",
+						"logoUrl": "http://cdn13.mei.com/category/20160516/20160516114413425.jpg@240w_122h"
+					},
+					{
+						"logoId": "2042200100000000256",
+						"brandName": "Fenty Puma by Rihanna"
+					},
+					{
+						"logoId": "2121200100000000103",
+						"brandName": "FFBYHR"
+					},
+					{
+						"logoId": "3616200100000001240",
+						"brandName": "Fissler",
+						"logoUrl": "http://cdn13.mei.com/category/20160805/20160805155658487.jpg@240w_122h"
+					},
+					{
+						"logoId": "2121200100000000126",
+						"brandName": "Flap jack kids",
+						"logoUrl": "http://cdn13.mei.com/category/20190124/9bcb00a02e96a860b570a493aa10eb6825aecd78fee7fcaf.jpg@240w_122h"
+					},
+					{
+						"logoId": "2040200100000000632",
+						"brandName": "FLOeCLO",
+						"logoUrl": "http://cdn13.mei.com/category/20171012/20171012172625908.jpg@240w_122h"
+					},
+					{
+						"logoId": "3616200100000001245",
+						"brandName": "FOSSFLAKES",
+						"logoUrl": "http://cdn13.mei.com/category/20160615/20160615144505932.jpg@240w_122h"
+					},
+					{
+						"logoId": "3616200100000002958",
+						"brandName": "FRANCO SARTO",
+						"logoUrl": "http://cdn13.mei.com/category/20160603/20160603220554843.jpg@240w_122h"
+					},
+					{
+						"logoId": "3616200100000002268",
+						"brandName": "FREE PEOPLE",
+						"logoUrl": "http://cdn13.mei.com/category/20160805/20160805162736689.jpg@240w_122h"
+					},
+					{
+						"logoId": "3616200100000001763",
+						"brandName": "freeplus",
+						"logoUrl": "http://cdn13.mei.com/category/20160615/20160615161405901.jpg@240w_122h"
+					},
+					{
+						"logoId": "3616200100000002269",
+						"brandName": "FRENCH FOLLIES"
+					},
+					{
+						"logoId": "3616200100000001764",
+						"brandName": "FRESH",
+						"logoUrl": "http://cdn13.mei.com/category/20160603/20160603114452585.jpg@240w_122h"
+					},
+					{
+						"logoId": "3616200100000001248",
+						"brandName": "FRETTE",
+						"logoUrl": "http://cdn13.mei.com/category/20160810/20160810120036523.jpg@240w_122h"
+					},
+					{
+						"logoId": "3616200100000002621",
+						"brandName": "FURLA",
+						"logoUrl": "http://cdn13.mei.com/category/20161226/20161226183138240.jpg@240w_122h"
+					}
+				]
+			},
+			{
+				"index": "G",
+				"brandList": [
+					{
+						"logoId": "2040200100000000149",
+						"brandName": "GATEONE",
+						"logoUrl": "http://cdn13.mei.com/category/20171229/2e1268993213e849ed7b9f4aea9facd5071407a2f321be85.jpg@240w_122h"
+					},
+					{
+						"logoId": "3616200100000002964",
+						"brandName": "Gatta",
+						"logoUrl": "http://cdn13.mei.com/category/20160603/20160603114514898.jpg@240w_122h"
+					},
+					{
+						"logoId": "2040200100000000641",
+						"brandName": "GCDS"
+					},
+					{
+						"logoId": "3616200100000002272",
+						"brandName": "GEGINA",
+						"logoUrl": "http://cdn13.mei.com/category/20180213/e77e47657cc55c3250a499b563f213bece6dc3676f54cd06.jpg@240w_122h"
+					},
+					{
+						"logoId": "3616200100000001252",
+						"brandName": "GELEISTORY",
+						"logoUrl": "http://cdn13.mei.com/category/20160728/20160728163430058.jpg@240w_122h"
+					},
+					{
+						"logoId": "3616200100000002273",
+						"brandName": "GEOX"
+					},
+					{
+						"logoId": "2042200100000000342",
+						"brandName": "GIORGIO ARMANI",
+						"logoUrl": "http://cdn13.mei.com/category/20170908/20170908162540227.jpg@240w_122h"
+					},
+					{
+						"logoId": "2041200100000000189",
+						"brandName": "Giuseppe Zanotti"
+					},
+					{
+						"logoId": "3616200100000000503",
+						"brandName": "GIVENCHY",
+						"logoUrl": "http://cdn13.mei.com/category/20160512/20160512170400840.jpg@240w_122h"
+					},
+					{
+						"logoId": "2042200100000000150",
+						"brandName": "GOLDEN GOOSE",
+						"logoUrl": "http://cdn13.mei.com/category/20170612/20170612115253732.jpg@240w_122h"
+					},
+					{
+						"logoId": "2041200100000000609",
+						"brandName": "GOSHA RUBCHINSKIY"
+					},
+					{
+						"logoId": "3616200100000001259",
+						"brandName": "GOURMET KITCHEN",
+						"logoUrl": "http://cdn13.mei.com/category/20160705/20160705140955032.jpg@240w_122h"
+					},
+					{
+						"logoId": "2041200100000000249",
+						"brandName": "GPEN"
+					},
+					{
+						"logoId": "2040200100000000236",
+						"brandName": "GRAFIKUS"
+					},
+					{
+						"logoId": "2040200100000000358",
+						"brandName": "GRENDHA"
+					},
+					{
+						"logoId": "3616200100000000514",
+						"brandName": "GUCCI",
+						"logoUrl": "http://cdn13.mei.com/category/20160805/20160805155757113.jpg@240w_122h"
+					},
+					{
+						"logoId": "3616200100000001771",
+						"brandName": "GUERLAIN",
+						"logoUrl": "http://cdn13.mei.com/category/20160811/20160811174858566.jpg@240w_122h"
+					},
+					{
+						"logoId": "3616200100000001265",
+						"brandName": "GUESS",
+						"logoUrl": "http://cdn13.mei.com/category/20160527/20160527174229819.jpg@240w_122h"
+					}
+				]
+			},
+			{
+				"index": "H",
+				"brandList": [
+					{
+						"logoId": "3616200100000001269",
+						"brandName": "H.A.O.",
+						"logoUrl": "http://cdn13.mei.com/category/20170831/20170831144052073.jpg@240w_122h"
+					},
+					{
+						"logoId": "2040200100000000410",
+						"brandName": "HACKETT"
+					},
+					{
+						"logoId": "2121200100000000001",
+						"brandName": "HAEKIM"
+					},
+					{
+						"logoId": "2040200100000000746",
+						"brandName": "Hair Rituel by Sisley "
+					},
+					{
+						"logoId": "3616200100000001774",
+						"brandName": "HAIRMAX"
+					},
+					{
+						"logoId": "3616200100000001278",
+						"brandName": "HAPE",
+						"logoUrl": "http://cdn13.mei.com/category/20160612/20160612162958057.jpg@240w_122h"
+					},
+					{
+						"logoId": "2121200100000000151",
+						"brandName": "HAZE"
+					},
+					{
+						"logoId": "2040200100000000096",
+						"brandName": "HEIDI KLUM INTIMATES",
+						"logoUrl": "http://cdn13.mei.com/category/20161121/20161121162529333.jpg@240w_122h"
+					},
+					{
+						"logoId": "2121200100000000143",
+						"brandName": "HEIMPLANET"
+					},
+					{
+						"logoId": "3616200100000001780",
+						"brandName": "HELENA RUBINSTEIN",
+						"logoUrl": "http://cdn13.mei.com/category/20160603/20160603114612292.jpg@240w_122h"
+					},
+					{
+						"logoId": "3616200100000000526",
+						"brandName": "Helmut Lang",
+						"logoUrl": "http://cdn13.mei.com/category/20160805/20160805161446730.jpg@240w_122h"
+					},
+					{
+						"logoId": "2120200100000000131",
+						"brandName": "Heurueh"
+					},
+					{
+						"logoId": "3616200100000000528",
+						"brandName": "HOGAN",
+						"logoUrl": "http://cdn13.mei.com/category/20160622/20160622120910125.jpg@240w_122h"
+					},
+					{
+						"logoId": "3616200100000001298",
+						"brandName": "Homi"
+					},
+					{
+						"logoId": "3616200100000000536",
+						"brandName": "HUGO BOSS",
+						"logoUrl": "http://cdn13.mei.com/category/20161214/20161214183749156.jpg@240w_122h"
+					},
+					{
+						"logoId": "3616200100000001305",
+						"brandName": "Hush Puppies",
+						"logoUrl": "http://cdn13.mei.com/category/20160713/20160713145631622.jpg@240w_122h"
+					}
+				]
+			},
+			{
+				"index": "I",
+				"brandList": [
+					{
+						"logoId": "2041200100000000514",
+						"brandName": "ibride"
+					},
+					{
+						"logoId": "3616200100000000538",
+						"brandName": "ICEBERG"
+					},
+					{
+						"logoId": "3616200100000001311",
+						"brandName": "IKKS",
+						"logoUrl": "http://cdn13.mei.com/category/20160805/20160805161535099.jpg@240w_122h"
+					},
+					{
+						"logoId": "2120200100000000170",
+						"brandName": "ILADO",
+						"logoUrl": "http://cdn13.mei.com/category/20190201/aa6033b5f4384e8dc123d00c4a7a6561d72eb86efc6c943a.jpg@240w_122h"
+					},
+					{
+						"logoId": "2041200100000000044",
+						"brandName": "IMM LIVING"
+					},
+					{
+						"logoId": "2120200100000000175",
+						"brandName": "IMMI"
+					},
+					{
+						"logoId": "3616200100000002306",
+						"brandName": "IPANEMA",
+						"logoUrl": "http://cdn13.mei.com/category/20160527/20160527173836154.jpg@240w_122h"
+					},
+					{
+						"logoId": "3616200100000001796",
+						"brandName": "IPSA",
+						"logoUrl": "http://cdn13.mei.com/category/20160621/20160621102950230.jpg@240w_122h"
+					},
+					{
+						"logoId": "2041200100000000392",
+						"brandName": "IRO"
+					},
+					{
+						"logoId": "3616200100000001322",
+						"brandName": "iRobot"
+					},
+					{
+						"logoId": "3616200100000000550",
+						"brandName": "Isabel Marant Etoile"
+					},
+					{
+						"logoId": "2040200100000000479",
+						"brandName": "ISABELLA BY PORTS",
+						"logoUrl": "http://cdn13.mei.com/category/20170724/20170724162832748.jpg@240w_122h"
+					},
+					{
+						"logoId": "2040200100000000332",
+						"brandName": "IVV",
+						"logoUrl": "http://cdn13.mei.com/category/20170329/20170329193937615.jpg@240w_122h"
+					}
+				]
+			},
+			{
+				"index": "J",
+				"brandList": [
+					{
+						"logoId": "3616200100000002992",
+						"brandName": "J.W. Anderson",
+						"logoUrl": "http://cdn13.mei.com/category/20170912/20170912163710915.jpg@240w_122h"
+					},
+					{
+						"logoId": "2120200100000000049",
+						"brandName": "JACE"
+					},
+					{
+						"logoId": "2041200100000000109",
+						"brandName": "JANE HARLOW",
+						"logoUrl": "http://cdn13.mei.com/category/20170703/20170703152208309.jpg@240w_122h"
+					},
+					{
+						"logoId": "3616200100000001332",
+						"brandName": "Jeep"
+					},
+					{
+						"logoId": "3616200100000003000",
+						"brandName": "Jessica",
+						"logoUrl": "http://cdn13.mei.com/category/20160621/20160621103825216.jpg@240w_122h"
+					},
+					{
+						"logoId": "3616200100000000560",
+						"brandName": "JIL SANDER"
+					},
+					{
+						"logoId": "3616200100000003002",
+						"brandName": "Jimi roos"
+					},
+					{
+						"logoId": "3616200100000002317",
+						"brandName": "JIMMY CHOO",
+						"logoUrl": "http://cdn13.mei.com/category/20160603/20160603114925291.jpg@240w_122h"
+					},
+					{
+						"logoId": "2041200100000000003",
+						"brandName": "JIORA",
+						"logoUrl": "http://cdn13.mei.com/category/20160805/20160805163022651.jpg@240w_122h"
+					},
+					{
+						"logoId": "3616200100000001800",
+						"brandName": "Jo Malone",
+						"logoUrl": "http://cdn13.mei.com/category/20160603/20160603114948871.jpg@240w_122h"
+					},
+					{
+						"logoId": "3616200100000000572",
+						"brandName": "JOSEPH"
+					},
+					{
+						"logoId": "3616200100000000573",
+						"brandName": "JOSHUA SANDERS",
+						"logoUrl": "http://cdn13.mei.com/category/20170608/20170608102804927.jpg@240w_122h"
+					},
+					{
+						"logoId": "3616200100000000575",
+						"brandName": "JUICY COUTURE",
+						"logoUrl": "http://cdn13.mei.com/category/20170327/20170327152044669.jpg@240w_122h"
+					},
+					{
+						"logoId": "3616200100000003007",
+						"brandName": "JUMBO/简帛",
+						"logoUrl": "http://cdn13.mei.com/category/20160823/20160823104858760.jpg@240w_122h"
+					},
+					{
+						"logoId": "3616200100000002662",
+						"brandName": "JUMP"
+					},
+					{
+						"logoId": "3616200100000003009",
+						"brandName": "Juun J"
+					}
+				]
+			},
+			{
+				"index": "K",
+				"brandList": [
+					{
+						"logoId": "3616200100000001340",
+						"brandName": "KAHLA"
+					},
+					{
+						"logoId": "3616200100000002664",
+						"brandName": "KAREN MILLEN",
+						"logoUrl": "http://cdn13.mei.com/category/20160509/20160509181810367.jpg@240w_122h"
+					},
+					{
+						"logoId": "3616200100000002668",
+						"brandName": "KATE SPADE",
+						"logoUrl": "http://cdn13.mei.com/category/20161027/20161027182351006.jpg@240w_122h"
+					},
+					{
+						"logoId": "2042200100000000198",
+						"brandName": "Katy Huang Style",
+						"logoUrl": "http://cdn13.mei.com/category/20170308/20170308170052650.jpg@240w_122h"
+					},
+					{
+						"logoId": "3616200100000000592",
+						"brandName": "KENZO",
+						"logoUrl": "http://cdn13.mei.com/category/20160621/20160621115459469.jpg@240w_122h"
+					},
+					{
+						"logoId": "3616200100000001810",
+						"brandName": "Kiehl’s",
+						"logoUrl": "http://cdn13.mei.com/category/20160601/20160601105549794.jpg@240w_122h"
+					},
+					{
+						"logoId": "2040200100000000624",
+						"brandName": "KIZ KIZ"
+					},
+					{
+						"logoId": "2042200100000000019",
+						"brandName": "Krooom"
+					},
+					{
+						"logoId": "3616200100000000604",
+						"brandName": "KTZ"
+					},
+					{
+						"logoId": "3616200100000001809",
+						"brandName": "KÉRASTASE",
+						"logoUrl": "http://cdn13.mei.com/category/20160530/20160530182212607.jpg@240w_122h"
+					}
+				]
+			},
+			{
+				"index": "L",
+				"brandList": [
+					{
+						"logoId": "2121200100000000021",
+						"brandName": "La Maison de Domitille"
+					},
+					{
+						"logoId": "3616200100000001819",
+						"brandName": "LA MER",
+						"logoUrl": "http://cdn13.mei.com/category/20160603/20160603115110078.jpg@240w_122h"
+					},
+					{
+						"logoId": "3616200100000001821",
+						"brandName": "la prairie",
+						"logoUrl": "http://cdn13.mei.com/category/20161028/20161028172015462.jpg@240w_122h"
+					},
+					{
+						"logoId": "2041200100000000485",
+						"brandName": "LAMUCHA"
+					},
+					{
+						"logoId": "2040200100000000488",
+						"brandName": "LANCASTER PARIS",
+						"logoUrl": "http://cdn13.mei.com/category/20171108/20171108180405080.jpg@240w_122h"
+					},
+					{
+						"logoId": "3616200100000000612",
+						"brandName": "LANCEL"
+					},
+					{
+						"logoId": "2042200100000000083",
+						"brandName": "Lancôme",
+						"logoUrl": "http://cdn13.mei.com/category/20160823/20160823114123971.jpg@240w_122h"
+					},
+					{
+						"logoId": "3616200100000000613",
+						"brandName": "LANVIN/浪凡"
+					},
+					{
+						"logoId": "3616200100000001371",
+						"brandName": "LAQ DESIGN"
+					},
+					{
+						"logoId": "2040200100000000148",
+						"brandName": "laurence dacade"
+					},
+					{
+						"logoId": "3616200100000001831",
+						"brandName": "LEADERS",
+						"logoUrl": "http://cdn13.mei.com/category/20160612/20160612160210143.jpg@240w_122h"
+					},
+					{
+						"logoId": "2121200100000000121",
+						"brandName": "LEE",
+						"logoUrl": "http://cdn13.mei.com/category/20190108/33ddea97544fa876afa415a303beec63d72eb86efc6c943a.jpg@240w_122h"
+					},
+					{
+						"logoId": "2041200100000000194",
+						"brandName": "LEWITT",
+						"logoUrl": "http://cdn13.mei.com/category/20170103/20170103161702896.jpg@240w_122h"
+					},
+					{
+						"logoId": "3616200100000000641",
+						"brandName": "LIU·JO UOMO",
+						"logoUrl": "http://cdn13.mei.com/category/20180408/1fb504ff2f6ceb329c3efaf79fc03c4825aecd78fee7fcaf.jpg@240w_122h"
+					},
+					{
+						"logoId": "3616200100000001837",
+						"brandName": "LOEWE/罗意威"
+					},
+					{
+						"logoId": "3616200100000002696",
+						"brandName": "LOVE MOSCHINO",
+						"logoUrl": "http://cdn13.mei.com/category/20160603/20160603221714605.jpg@240w_122h"
+					},
+					{
+						"logoId": "3616200100000003034",
+						"brandName": "LYMK",
+						"logoUrl": "http://cdn13.mei.com/category/20170407/20170407185037451.jpg@240w_122h"
+					}
+				]
+			},
+			{
+				"index": "M",
+				"brandList": [
+					{
+						"logoId": "3616200100000000660",
+						"brandName": "M MISSONI",
+						"logoUrl": "http://cdn13.mei.com/category/20160615/20160615155615964.jpg@240w_122h"
+					},
+					{
+						"logoId": "2041200100000000085",
+						"brandName": "M&E",
+						"logoUrl": "http://cdn13.mei.com/category/20160901/20160901145238635.jpg@240w_122h"
+					},
+					{
+						"logoId": "2040200100000000065",
+						"brandName": "M-GRAPH",
+						"logoUrl": "http://cdn13.mei.com/category/20160805/20160805155458616.jpg@240w_122h"
+					},
+					{
+						"logoId": "3616200100000001842",
+						"brandName": "M.A.C"
+					},
+					{
+						"logoId": "3616200100000001417",
+						"brandName": "Maison Close"
+					},
+					{
+						"logoId": "3616200100000002700",
+						"brandName": "MAISON KITSUNE"
+					},
+					{
+						"logoId": "2121200100000000148",
+						"brandName": "MAISON LABICHE"
+					},
+					{
+						"logoId": "2040200100000000472",
+						"brandName": "MAISON MARGIELA PARIS"
+					},
+					{
+						"logoId": "3616200100000000673",
+						"brandName": "MANOUSH",
+						"logoUrl": "http://cdn13.mei.com/category/20160516/20160516181753372.jpg@240w_122h"
+					},
+					{
+						"logoId": "2120200100000000079",
+						"brandName": "MANU ATELIER"
+					},
+					{
+						"logoId": "3616200100000002030",
+						"brandName": "MARC BY MARC JACOBS",
+						"logoUrl": "http://cdn13.mei.com/category/20170308/20170308144139166.jpg@240w_122h"
+					},
+					{
+						"logoId": "3616200100000000678",
+						"brandName": "MARC JACOBS",
+						"logoUrl": "http://cdn13.mei.com/category/20170308/20170308103802530.jpg@240w_122h"
+					},
+					{
+						"logoId": "3616200100000000680",
+						"brandName": "MARCELO BURLON"
+					},
+					{
+						"logoId": "3616200100000000688",
+						"brandName": "MARNI",
+						"logoUrl": "http://cdn13.mei.com/category/20180228/852456a4f8621873185239ee409c481839e4db8297e1f0dc.png@240w_122h"
+					},
+					{
+						"logoId": "2040200100000000261",
+						"brandName": "Marques' Almeida"
+					},
+					{
+						"logoId": "2120200100000000159",
+						"brandName": "MARTINE ROSE"
+					},
+					{
+						"logoId": "2120200100000000109",
+						"brandName": "MAX STUDIO",
+						"logoUrl": "http://cdn13.mei.com/category/20190104/a1a670d1fd75e3df0fb15d21f697bf68e15d3cf3671d4998.jpg@240w_122h"
+					},
+					{
+						"logoId": "3616200100000002710",
+						"brandName": "MaxMara",
+						"logoUrl": "http://cdn13.mei.com/category/20160612/20160612171615907.jpg@240w_122h"
+					},
+					{
+						"logoId": "3616200100000000698",
+						"brandName": "MCM",
+						"logoUrl": "http://cdn13.mei.com/category/20160509/20160509175926753.jpg@240w_122h"
+					},
+					{
+						"logoId": "3616200100000000699",
+						"brandName": "McQ"
+					},
+					{
+						"logoId": "2040200100000000222",
+						"brandName": "MCQ ALEXANDER MCQUEEN",
+						"logoUrl": "http://cdn13.mei.com/category/20171108/20171108175742239.jpg@240w_122h"
+					},
+					{
+						"logoId": "3616200100000000703",
+						"brandName": "melissa",
+						"logoUrl": "http://cdn13.mei.com/category/20180404/c66e9ccbabd56d22e59eca03616665ccce6dc3676f54cd06.jpg@240w_122h"
+					},
+					{
+						"logoId": "3616200100000000709",
+						"brandName": "MICHAEL KORS",
+						"logoUrl": "http://cdn13.mei.com/category/20160603/20160603121619262.jpg@240w_122h"
+					},
+					{
+						"logoId": "3616200100000000710",
+						"brandName": "MICHAEL MICHAEL KORS",
+						"logoUrl": "http://cdn13.mei.com/category/20170908/20170908115010208.jpg@240w_122h"
+					},
+					{
+						"logoId": "2041200100000000502",
+						"brandName": "mikiHOUSE",
+						"logoUrl": "http://cdn13.mei.com/category/20181108/7ddd14ca772c778e1c44eb8df873fda11ac47f6e1a03bdfe.jpg@240w_122h"
+					},
+					{
+						"logoId": "2120200100000000061",
+						"brandName": "MIKIHOUSE DOUBLE_B",
+						"logoUrl": "http://cdn13.mei.com/category/20181109/dc10ca21916b8845ecd631fc9b29bb11d4fa53a986efd91b.jpg@240w_122h"
+					},
+					{
+						"logoId": "2120200100000000060",
+						"brandName": "MIKIHOUSE HOT BISCUITS",
+						"logoUrl": "http://cdn13.mei.com/category/20181109/dc10ca21916b8845366d8c3ac05664bad72eb86efc6c943a.jpg@240w_122h"
+					},
+					{
+						"logoId": "2120200100000000008",
+						"brandName": "MINOTAUR"
+					},
+					{
+						"logoId": "3616200100000000719",
+						"brandName": "MISSONI",
+						"logoUrl": "http://cdn13.mei.com/category/20180831/628e46e070e890c8960d9dff5f6535e978124244265805bc.jpg@240w_122h"
+					},
+					{
+						"logoId": "3616200100000000721",
+						"brandName": "miu miu/缪缪",
+						"logoUrl": "http://cdn13.mei.com/category/20171108/20171108180635031.jpg@240w_122h"
+					},
+					{
+						"logoId": "2042200100000000531",
+						"brandName": "miYim SIMPLY ORGANIC",
+						"logoUrl": "http://cdn13.mei.com/category/20190124/9bcb00a02e96a8602be3f3855698ea66e15d3cf3671d4998.jpg@240w_122h"
+					},
+					{
+						"logoId": "3616200100000000723",
+						"brandName": "MM6",
+						"logoUrl": "http://cdn13.mei.com/category/20160929/20160929182931338.jpg@240w_122h"
+					},
+					{
+						"logoId": "2041200100000000221",
+						"brandName": "MM6 maison martin margiela"
+					},
+					{
+						"logoId": "3616200100000000034",
+						"brandName": "MO&Co.edition 10",
+						"logoUrl": "http://cdn13.mei.com/category/20160615/20160615143856638.jpg@240w_122h"
+					},
+					{
+						"logoId": "3616200100000002715",
+						"brandName": "moco 摩安珂",
+						"logoUrl": "http://cdn13.mei.com/category/20160615/20160615143942006.jpg@240w_122h"
+					},
+					{
+						"logoId": "3616200100000000725",
+						"brandName": "MONCLER"
+					},
+					{
+						"logoId": "3616200100000001455",
+						"brandName": "MonnAlisA",
+						"logoUrl": "http://cdn13.mei.com/category/20170925/20170925172123273.jpg@240w_122h"
+					},
+					{
+						"logoId": "3616200100000002380",
+						"brandName": "MONO SPACE",
+						"logoUrl": "http://cdn13.mei.com/category/20160512/20160512173257954.jpg@240w_122h"
+					},
+					{
+						"logoId": "3616200100000000727",
+						"brandName": "MONTBLANC",
+						"logoUrl": "http://cdn13.mei.com/category/20160612/20160612155806964.jpg@240w_122h"
+					},
+					{
+						"logoId": "2120200100000000087",
+						"brandName": "MOOSE KNUCKLES"
+					},
+					{
+						"logoId": "3616200100000002717",
+						"brandName": "MORESCHI"
+					},
+					{
+						"logoId": "3616200100000000730",
+						"brandName": "MOSCHINO",
+						"logoUrl": "http://cdn13.mei.com/category/20160603/20160603221828852.jpg@240w_122h"
+					},
+					{
+						"logoId": "2120200100000000127",
+						"brandName": "Moschino/莫斯奇诺"
+					},
+					{
+						"logoId": "3616200100000001465",
+						"brandName": "Moulin Roty",
+						"logoUrl": "http://cdn13.mei.com/category/20160517/20160517170904199.jpg@240w_122h"
+					},
+					{
+						"logoId": "2040200100000000567",
+						"brandName": "MR&MRS ITALY",
+						"logoUrl": "http://cdn13.mei.com/category/20170627/20170627155747782.jpg@240w_122h"
+					},
+					{
+						"logoId": "3616200100000000736",
+						"brandName": "MSGM",
+						"logoUrl": "http://cdn13.mei.com/category/20170908/20170908162419412.jpg@240w_122h"
+					}
+				]
+			},
+			{
+				"index": "N",
+				"brandList": [
+					{
+						"logoId": "3616200100000001473",
+						"brandName": "NACHTMANN",
+						"logoUrl": "http://cdn13.mei.com/category/20160621/20160621121316687.jpg@240w_122h"
+					},
+					{
+						"logoId": "3616200100000000749",
+						"brandName": "naturalizer",
+						"logoUrl": "http://cdn13.mei.com/category/20160805/20160805161641284.jpg@240w_122h"
+					},
+					{
+						"logoId": "3616200100000001477",
+						"brandName": "NATURINO",
+						"logoUrl": "http://cdn13.mei.com/category/20160603/20160603115222424.jpg@240w_122h"
+					},
+					{
+						"logoId": "3616200100000001478",
+						"brandName": "NAUTICA",
+						"logoUrl": "http://cdn13.mei.com/category/20170614/20170614113738505.jpg@240w_122h"
+					},
+					{
+						"logoId": "2120200100000000062",
+						"brandName": "Navigare",
+						"logoUrl": "http://cdn13.mei.com/category/20180306/9347380bef3df5ee0f037c09e16eb18725aecd78fee7fcaf.jpg@240w_122h"
+					},
+					{
+						"logoId": "2040200100000000730",
+						"brandName": "NEHERA"
+					},
+					{
+						"logoId": "2042200100000000058",
+						"brandName": "NEIL BARRETT",
+						"logoUrl": "http://cdn13.mei.com/category/20160822/20160822111429960.jpg@240w_122h"
+					},
+					{
+						"logoId": "3616200100000002043",
+						"brandName": "NEW BALANCE",
+						"logoUrl": "http://cdn13.mei.com/category/20160622/20160622121806974.jpg@240w_122h"
+					},
+					{
+						"logoId": "2042200100000000134",
+						"brandName": "NICOPANDA"
+					},
+					{
+						"logoId": "2040200100000000086",
+						"brandName": "NO.21"
+					},
+					{
+						"logoId": "2041200100000000494",
+						"brandName": "NORMANN",
+						"logoUrl": "http://cdn13.mei.com/category/20171206/20171206105617908.jpg@240w_122h"
+					},
+					{
+						"logoId": "3616200100000000744",
+						"brandName": "N°21",
+						"logoUrl": "http://cdn13.mei.com/category/20170904/20170904141211708.jpg@240w_122h"
+					}
+				]
+			},
+			{
+				"index": "O",
+				"brandList": [
+					{
+						"logoId": "2041200100000000208",
+						"brandName": "O!OIMAIN"
+					},
+					{
+						"logoId": "2041200100000000449",
+						"brandName": "ObzeeKangjinyoung",
+						"logoUrl": "http://cdn13.mei.com/category/20170802/20170802115619466.jpg@240w_122h"
+					},
+					{
+						"logoId": "3616200100000000769",
+						"brandName": "OFF-WHITE"
+					},
+					{
+						"logoId": "2121200100000000149",
+						"brandName": "OLIVER SPENCER"
+					},
+					{
+						"logoId": "3616200100000001491",
+						"brandName": "OLIVIER DESFORGES",
+						"logoUrl": "http://cdn13.mei.com/category/20170713/20170713173723073.jpg@240w_122h"
+					},
+					{
+						"logoId": "3616200100000000778",
+						"brandName": "OPENING CEREMONY",
+						"logoUrl": "http://cdn13.mei.com/category/20160721/20160721112224230.jpg@240w_122h"
+					},
+					{
+						"logoId": "3616200100000001871",
+						"brandName": "ORIGINS",
+						"logoUrl": "http://cdn13.mei.com/category/20160621/20160621103429617.jpg@240w_122h"
+					}
+				]
+			},
+			{
+				"index": "P",
+				"brandList": [
+					{
+						"logoId": "2042200100000000151",
+						"brandName": "PALM ANGELS"
+					},
+					{
+						"logoId": "3616200100000001502",
+						"brandName": "PAMPILI",
+						"logoUrl": "http://cdn13.mei.com/category/20160603/20160603115427629.jpg@240w_122h"
+					},
+					{
+						"logoId": "2040200100000000379",
+						"brandName": "PANDORA",
+						"logoUrl": "http://cdn13.mei.com/category/20170817/20170817144117541.jpg@240w_122h"
+					},
+					{
+						"logoId": "2040200100000000601",
+						"brandName": "Paradies",
+						"logoUrl": "http://cdn13.mei.com/category/20171215/20171215173012217.jpg@240w_122h"
+					},
+					{
+						"logoId": "2121200100000000096",
+						"brandName": "PARAJUMPERS"
+					},
+					{
+						"logoId": "2041200100000000527",
+						"brandName": "paratex"
+					},
+					{
+						"logoId": "2042200100000000415",
+						"brandName": "Particle Fever",
+						"logoUrl": "http://cdn13.mei.com/category/20170612/20170612160403140.jpg@240w_122h"
+					},
+					{
+						"logoId": "2120200100000000113",
+						"brandName": "PASSIONATA"
+					},
+					{
+						"logoId": "3616200100000000796",
+						"brandName": "PATRIZIA PEPE",
+						"logoUrl": "http://cdn13.mei.com/category/20160816/20160816173310810.jpg@240w_122h"
+					},
+					{
+						"logoId": "3616200100000000799",
+						"brandName": "Paul Smith",
+						"logoUrl": "http://cdn13.mei.com/category/20160620/20160620185610590.jpg@240w_122h"
+					},
+					{
+						"logoId": "2041200100000000328",
+						"brandName": "Paul Smith junior",
+						"logoUrl": "http://cdn13.mei.com/category/20170629/20170629154630285.jpg@240w_122h"
+					},
+					{
+						"logoId": "3616200100000002415",
+						"brandName": "PESARO",
+						"logoUrl": "http://cdn13.mei.com/category/20160905/20160905111648893.jpg@240w_122h"
+					},
+					{
+						"logoId": "2040200100000000224",
+						"brandName": "PIDER BB"
+					},
+					{
+						"logoId": "3616200100000003082",
+						"brandName": "PIERRE BALMAIN",
+						"logoUrl": "http://cdn13.mei.com/category/20160612/20160612162222173.jpg@240w_122h"
+					},
+					{
+						"logoId": "3616200100000000812",
+						"brandName": "PINKO",
+						"logoUrl": "http://cdn13.mei.com/category/20170223/20170223160158594.jpg@240w_122h"
+					},
+					{
+						"logoId": "2120200100000000108",
+						"brandName": "poa/浦"
+					},
+					{
+						"logoId": "3616200100000001521",
+						"brandName": "POLO RALPH LAUREN"
+					},
+					{
+						"logoId": "3616200100000001889",
+						"brandName": "PORTS",
+						"logoUrl": "http://cdn13.mei.com/category/20170724/20170724161159403.jpg@240w_122h"
+					},
+					{
+						"logoId": "3616200100000002744",
+						"brandName": "PORTS 1961",
+						"logoUrl": "http://cdn13.mei.com/category/20170724/20170724161411198.jpg@240w_122h"
+					},
+					{
+						"logoId": "2042200100000000429",
+						"brandName": "PORTS PURE"
+					},
+					{
+						"logoId": "2041200100000000132",
+						"brandName": "PORTS STUDIO",
+						"logoUrl": "http://cdn13.mei.com/category/20170724/20170724162608534.jpg@240w_122h"
+					},
+					{
+						"logoId": "3616200100000001524",
+						"brandName": "POWER SUPPORT"
+					},
+					{
+						"logoId": "3616200100000000818",
+						"brandName": "PRADA",
+						"logoUrl": "http://cdn13.mei.com/category/20171108/20171108180840772.jpg@240w_122h"
+					},
+					{
+						"logoId": "3616200100000000821",
+						"brandName": "PREMIATA"
+					},
+					{
+						"logoId": "2120200100000000205",
+						"brandName": "PRESSURE"
+					},
+					{
+						"logoId": "3616200100000000824",
+						"brandName": "Pringle of Scotland"
+					},
+					{
+						"logoId": "2040200100000000549",
+						"brandName": "PS by Paul Smith",
+						"logoUrl": "http://cdn13.mei.com/category/20170703/20170703141955636.jpg@240w_122h"
+					},
+					{
+						"logoId": "3616200100000002427",
+						"brandName": "PUMA",
+						"logoUrl": "http://cdn13.mei.com/category/20160603/20160603115936805.jpg@240w_122h"
+					},
+					{
+						"logoId": "2041200100000000133",
+						"brandName": "PUMEI",
+						"logoUrl": "http://cdn13.mei.com/category/20170110/20170110101535157.jpg@240w_122h"
+					}
+				]
+			},
+			{
+				"index": "R",
+				"brandList": [
+					{
+						"logoId": "3616200100000000045",
+						"brandName": "RAF SIMONS"
+					},
+					{
+						"logoId": "3616200100000002747",
+						"brandName": "Ray·Ban",
+						"logoUrl": "http://cdn13.mei.com/category/20160711/20160711183743684.jpg@240w_122h"
+					},
+					{
+						"logoId": "2041200100000000507",
+						"brandName": "RCR",
+						"logoUrl": "http://cdn13.mei.com/category/20170817/20170817150301260.jpg@240w_122h"
+					},
+					{
+						"logoId": "3616200100000000830",
+						"brandName": "REBECCA MINKOFF",
+						"logoUrl": "http://cdn13.mei.com/category/20160615/20160615160231836.jpg@240w_122h"
+					},
+					{
+						"logoId": "3616200100000000831",
+						"brandName": "RED VALENTINO",
+						"logoUrl": "http://cdn13.mei.com/category/20161220/20161220174608960.jpg@240w_122h"
+					},
+					{
+						"logoId": "3616200100000002429",
+						"brandName": "Reebok"
+					},
+					{
+						"logoId": "3616200100000001579",
+						"brandName": "ReFa"
+					},
+					{
+						"logoId": "3616200100000000935",
+						"brandName": "REIMA",
+						"logoUrl": "http://cdn13.mei.com/category/20160823/20160823180449566.jpg@240w_122h"
+					},
+					{
+						"logoId": "2042200100000000268",
+						"brandName": "REINEREN"
+					},
+					{
+						"logoId": "3616200100000000833",
+						"brandName": "RENE CAOVILLA",
+						"logoUrl": "http://cdn13.mei.com/category/20160615/20160615160539816.jpg@240w_122h"
+					},
+					{
+						"logoId": "3616200100000002430",
+						"brandName": "REPLAY",
+						"logoUrl": "http://cdn13.mei.com/category/20170608/20170608151011843.jpg@240w_122h"
+					},
+					{
+						"logoId": "3616200100000000939",
+						"brandName": "RetinaGuard"
+					},
+					{
+						"logoId": "3616200100000000838",
+						"brandName": "Rick Owens"
+					},
+					{
+						"logoId": "3616200100000001532",
+						"brandName": "RIMOWA",
+						"logoUrl": "http://cdn13.mei.com/category/20160621/20160621110251083.jpg@240w_122h"
+					},
+					{
+						"logoId": "2120200100000000179",
+						"brandName": "Roamers & Seekers"
+					},
+					{
+						"logoId": "2040200100000000639",
+						"brandName": "ROBERT GELLER"
+					},
+					{
+						"logoId": "3616200100000000842",
+						"brandName": "roberto cavalli",
+						"logoUrl": "http://cdn13.mei.com/category/20160811/20160811153932188.jpg@240w_122h"
+					},
+					{
+						"logoId": "3616200100000000843",
+						"brandName": "ROBERTO FESTA",
+						"logoUrl": "http://cdn13.mei.com/category/20170608/20170608152656734.jpg@240w_122h"
+					},
+					{
+						"logoId": "3616200100000000844",
+						"brandName": "ROCHAS"
+					},
+					{
+						"logoId": "3616200100000000845",
+						"brandName": "Roger Vivier",
+						"logoUrl": "http://cdn13.mei.com/category/20160622/20160622121352266.jpg@240w_122h"
+					},
+					{
+						"logoId": "2121200100000000077",
+						"brandName": "RONA"
+					}
+				]
+			},
+			{
+				"index": "S",
+				"brandList": [
+					{
+						"logoId": "2120200100000000199",
+						"brandName": "S maxmara"
+					},
+					{
+						"logoId": "2042200100000000148",
+						"brandName": "SACAI"
+					},
+					{
+						"logoId": "3616200100000000852",
+						"brandName": "Saint Laurent Paris",
+						"logoUrl": "http://cdn13.mei.com/category/20170904/20170904141518247.jpg@240w_122h"
+					},
+					{
+						"logoId": "2120200100000000001",
+						"brandName": "SAKUN"
+					},
+					{
+						"logoId": "3616200100000000064",
+						"brandName": "SALAR",
+						"logoUrl": "http://cdn13.mei.com/category/20170904/20170904135922655.jpg@240w_122h"
+					},
+					{
+						"logoId": "3616200100000000853",
+						"brandName": "Salvatore Ferragamo",
+						"logoUrl": "http://cdn13.mei.com/category/20160601/20160601115434267.jpg@240w_122h"
+					},
+					{
+						"logoId": "3616200100000002752",
+						"brandName": "SCHOTT DAVIS",
+						"logoUrl": "http://cdn13.mei.com/category/20161107/20161107145428940.jpg@240w_122h"
+					},
+					{
+						"logoId": "3616200100000001539",
+						"brandName": "SCHWARTZ",
+						"logoUrl": "http://cdn13.mei.com/category/20160705/20160705160552688.jpg@240w_122h"
+					},
+					{
+						"logoId": "3616200100000000856",
+						"brandName": "See By Chloé",
+						"logoUrl": "http://cdn13.mei.com/category/20160601/20160601114231312.jpg@240w_122h"
+					},
+					{
+						"logoId": "2040200100000000618",
+						"brandName": "SELETTI"
+					},
+					{
+						"logoId": "2040200100000000348",
+						"brandName": "Self Portrait"
+					},
+					{
+						"logoId": "3616200100000000956",
+						"brandName": "SERGENT MAJOR",
+						"logoUrl": "http://cdn13.mei.com/category/20160622/20160622143743605.jpg@240w_122h"
+					},
+					{
+						"logoId": "3616200100000000857",
+						"brandName": "sergio rossi",
+						"logoUrl": "http://cdn13.mei.com/category/20170710/20170710121251967.jpg@240w_122h"
+					},
+					{
+						"logoId": "3616200100000000959",
+						"brandName": "SHERWOOD",
+						"logoUrl": "http://cdn13.mei.com/category/20160615/20160615161919422.jpg@240w_122h"
+					},
+					{
+						"logoId": "3616200100000001589",
+						"brandName": "SHISEIDO",
+						"logoUrl": "http://cdn13.mei.com/category/20160621/20160621104117029.jpg@240w_122h"
+					},
+					{
+						"logoId": "3616200100000001895",
+						"brandName": "SHISEIDO PROFESSIONAL",
+						"logoUrl": "http://cdn13.mei.com/category/20160603/20160603221614558.jpg@240w_122h"
+					},
+					{
+						"logoId": "3616200100000001896",
+						"brandName": "shu uemura",
+						"logoUrl": "http://cdn13.mei.com/category/20161205/20161205183325493.jpg@240w_122h"
+					},
+					{
+						"logoId": "2121200100000000072",
+						"brandName": "sigerson morrison"
+					},
+					{
+						"logoId": "3616200100000001544",
+						"brandName": "SIMONETTA",
+						"logoUrl": "http://cdn13.mei.com/category/20161123/20161123160323370.jpg@240w_122h"
+					},
+					{
+						"logoId": "3616200100000001897",
+						"brandName": "sisley",
+						"logoUrl": "http://cdn13.mei.com/category/20160612/20160612160332275.jpg@240w_122h"
+					},
+					{
+						"logoId": "2120200100000000136",
+						"brandName": "Sit On Trouble"
+					},
+					{
+						"logoId": "3616200100000001898",
+						"brandName": "SK-II",
+						"logoUrl": "http://cdn13.mei.com/category/20160612/20160612155918272.jpg@240w_122h"
+					},
+					{
+						"logoId": "3616200100000000965",
+						"brandName": "SKIP HOP",
+						"logoUrl": "http://cdn13.mei.com/category/20160621/20160621135000430.jpg@240w_122h"
+					},
+					{
+						"logoId": "2040200100000000093",
+						"brandName": "Sonia by Sonia Rykiel",
+						"logoUrl": "http://cdn13.mei.com/category/20160809/20160809135052026.jpg@240w_122h"
+					},
+					{
+						"logoId": "3616200100000000866",
+						"brandName": "SONIA RYKIEL",
+						"logoUrl": "http://cdn13.mei.com/category/20160628/20160628153936185.jpg@240w_122h"
+					},
+					{
+						"logoId": "2040200100000000193",
+						"brandName": "SPRAYGROUND"
+					},
+					{
+						"logoId": "2120200100000000130",
+						"brandName": "staffonly"
+					},
+					{
+						"logoId": "3616200100000000869",
+						"brandName": "STELLA McCARTNEY",
+						"logoUrl": "http://cdn13.mei.com/category/20160923/20160923181455167.jpg@240w_122h"
+					},
+					{
+						"logoId": "2041200100000000166",
+						"brandName": "STENDERS/施丹兰",
+						"logoUrl": "http://cdn13.mei.com/category/20161107/20161107180535322.jpg@240w_122h"
+					},
+					{
+						"logoId": "3616200100000003096",
+						"brandName": "STEVE MADDEN",
+						"logoUrl": "http://cdn13.mei.com/category/20160512/20160512173310214.jpg@240w_122h"
+					},
+					{
+						"logoId": "3616200100000002117",
+						"brandName": "STUART WEITZMAN",
+						"logoUrl": "http://cdn13.mei.com/category/20180109/c7a0279f6f898bcbd60383fc616de265d72eb86efc6c943a.JPG@240w_122h"
+					},
+					{
+						"logoId": "3616200100000001600",
+						"brandName": "Sulwhasoo",
+						"logoUrl": "http://cdn13.mei.com/category/20160603/20160603120639155.jpg@240w_122h"
+					},
+					{
+						"logoId": "2120200100000000166",
+						"brandName": "SUNCISCO",
+						"logoUrl": "http://cdn13.mei.com/category/20190129/ba4aaa66bd3292b3a34df650186fb32578124244265805bc.jpg@240w_122h"
+					},
+					{
+						"logoId": "3616200100000002442",
+						"brandName": "super.natural",
+						"logoUrl": "http://cdn13.mei.com/category/20160621/20160621150407039.jpg@240w_122h"
+					},
+					{
+						"logoId": "3616200100000000879",
+						"brandName": "SUPERGA",
+						"logoUrl": "http://cdn13.mei.com/category/20160621/20160621121433504.jpg@240w_122h"
+					},
+					{
+						"logoId": "3616200100000001902",
+						"brandName": "SWAROVSKI",
+						"logoUrl": "http://cdn13.mei.com/category/20160603/20160603120054283.jpg@240w_122h"
+					}
+				]
+			},
+			{
+				"index": "T",
+				"brandList": [
+					{
+						"logoId": "3616200100000000099",
+						"brandName": "Ted Baker",
+						"logoUrl": "http://cdn13.mei.com/category/20160805/20160805161552168.jpg@240w_122h"
+					},
+					{
+						"logoId": "3616200100000001554",
+						"brandName": "TEMPUR",
+						"logoUrl": "http://cdn13.mei.com/category/20160612/20160612161643226.jpg@240w_122h"
+					},
+					{
+						"logoId": "2040200100000000058",
+						"brandName": "The Beautools",
+						"logoUrl": "http://cdn13.mei.com/category/20160729/20160729141045961.jpg@240w_122h"
+					},
+					{
+						"logoId": "2041200100000000017",
+						"brandName": "The Gro Company"
+					},
+					{
+						"logoId": "3616200100000001907",
+						"brandName": "The history of whoo",
+						"logoUrl": "http://cdn13.mei.com/category/20160612/20160612160751860.jpg@240w_122h"
+					},
+					{
+						"logoId": "3616200100000000886",
+						"brandName": "The Kooples"
+					},
+					{
+						"logoId": "3616200100000002445",
+						"brandName": "THE NEXT",
+						"logoUrl": "http://cdn13.mei.com/category/20160823/20160823175503833.jpg@240w_122h"
+					},
+					{
+						"logoId": "3616200100000002126",
+						"brandName": "Theonne",
+						"logoUrl": "http://cdn13.mei.com/category/20160922/20160922145624951.jpg@240w_122h"
+					},
+					{
+						"logoId": "3616200100000000889",
+						"brandName": "Theory",
+						"logoUrl": "http://cdn13.mei.com/category/20170815/20170815135059949.jpg@240w_122h"
+					},
+					{
+						"logoId": "2040200100000000117",
+						"brandName": "THOM BROWNE"
+					},
+					{
+						"logoId": "3616200100000002760",
+						"brandName": "THOMAS WYLDE"
+					},
+					{
+						"logoId": "3616200100000001936",
+						"brandName": "TISSOT",
+						"logoUrl": "http://cdn13.mei.com/category/20171027/20171027140849291.jpg@240w_122h"
+					},
+					{
+						"logoId": "3616200100000000894",
+						"brandName": "TOD’S",
+						"logoUrl": "http://cdn13.mei.com/category/20160603/20160603120134584.jpg@240w_122h"
+					},
+					{
+						"logoId": "3616200100000002496",
+						"brandName": "TOGA"
+					},
+					{
+						"logoId": "3616200100000000895",
+						"brandName": "TOGA PULLA"
+					},
+					{
+						"logoId": "3616200100000002761",
+						"brandName": "TOM FORD",
+						"logoUrl": "http://cdn13.mei.com/category/20160612/20160612162711588.jpg@240w_122h"
+					},
+					{
+						"logoId": "3616200100000001003",
+						"brandName": "TOMIC",
+						"logoUrl": "http://cdn13.mei.com/category/20160927/20160927174420072.jpg@240w_122h"
+					},
+					{
+						"logoId": "3616200100000001912",
+						"brandName": "TOMMY HILFIGER",
+						"logoUrl": "http://cdn13.mei.com/category/20160809/20160809134744580.jpg@240w_122h"
+					},
+					{
+						"logoId": "3616200100000000899",
+						"brandName": "TORY BURCH",
+						"logoUrl": "http://cdn13.mei.com/category/20170912/20170912113038692.jpg@240w_122h"
+					},
+					{
+						"logoId": "3616200100000001005",
+						"brandName": "TOTES"
+					},
+					{
+						"logoId": "3616200100000002500",
+						"brandName": "TRANOI",
+						"logoUrl": "http://cdn13.mei.com/category/20160705/20160705160611678.jpg@240w_122h"
+					},
+					{
+						"logoId": "3616200100000000900",
+						"brandName": "TRU TRUSSARDI",
+						"logoUrl": "http://cdn13.mei.com/category/20160615/20160615154641406.jpg@240w_122h"
+					},
+					{
+						"logoId": "3616200100000001010",
+						"brandName": "TRUNKI"
+					},
+					{
+						"logoId": "3616200100000000902",
+						"brandName": "TRUSSARDI",
+						"logoUrl": "http://cdn13.mei.com/category/20160615/20160615154432582.jpg@240w_122h"
+					},
+					{
+						"logoId": "3616200100000002811",
+						"brandName": "TSE",
+						"logoUrl": "http://cdn13.mei.com/category/20161025/20161025185339036.jpg@240w_122h"
+					},
+					{
+						"logoId": "3616200100000000904",
+						"brandName": "TUMI",
+						"logoUrl": "http://cdn13.mei.com/category/20170922/20170922172632480.jpg@240w_122h"
+					},
+					{
+						"logoId": "2120200100000000069",
+						"brandName": "TVS INSPIRATION IS EVERWHERE"
+					},
+					{
+						"logoId": "2121200100000000068",
+						"brandName": "Twinset"
+					}
+				]
+			},
+			{
+				"index": "U",
+				"brandList": [
+					{
+						"logoId": "2120200100000000015",
+						"brandName": "U/TI",
+						"logoUrl": "http://cdn13.mei.com/category/20171213/20171213163720776.jpg@240w_122h"
+					},
+					{
+						"logoId": "3616200100000000905",
+						"brandName": "UGG",
+						"logoUrl": "http://cdn13.mei.com/category/20171018/20171018175508096.jpg@240w_122h"
+					},
+					{
+						"logoId": "3616200100000002762",
+						"brandName": "UNDERCOVER"
+					},
+					{
+						"logoId": "2120200100000000037",
+						"brandName": "UNRAVEL PROJECT"
+					}
+				]
+			},
+			{
+				"index": "V",
+				"brandList": [
+					{
+						"logoId": "3616200100000000907",
+						"brandName": "VALENTINO",
+						"logoUrl": "http://cdn13.mei.com/category/20160603/20160603120307032.jpg@240w_122h"
+					},
+					{
+						"logoId": "2121200100000000147",
+						"brandName": "VEIEIGHT_MUSEUM"
+					},
+					{
+						"logoId": "3616200100000000910",
+						"brandName": "VERSACE",
+						"logoUrl": "http://cdn13.mei.com/category/20160622/20160622115535585.jpg@240w_122h"
+					},
+					{
+						"logoId": "3616200100000000911",
+						"brandName": "VERSACE COLLECTION",
+						"logoUrl": "http://cdn13.mei.com/category/20160622/20160622115655607.jpg@240w_122h"
+					},
+					{
+						"logoId": "3616200100000000912",
+						"brandName": "VERSACE JEANS",
+						"logoUrl": "http://cdn13.mei.com/category/20160621/20160621105838741.jpg@240w_122h"
+					},
+					{
+						"logoId": "3616200100000000913",
+						"brandName": "VERSACE JEANS COUTURE"
+					},
+					{
+						"logoId": "3616200100000000914",
+						"brandName": "VERSUS",
+						"logoUrl": "http://cdn13.mei.com/category/20160715/20160715135327109.jpg@240w_122h"
+					},
+					{
+						"logoId": "2040200100000000578",
+						"brandName": "Via Delle Perle",
+						"logoUrl": "http://cdn13.mei.com/category/20170717/20170717153913108.jpg@240w_122h"
+					},
+					{
+						"logoId": "3616200100000002465",
+						"brandName": "VICTORIA BECKHAM"
+					},
+					{
+						"logoId": "2042200100000000449",
+						"brandName": "VICTORIA VICTORIA BECKHAM"
+					},
+					{
+						"logoId": "2120200100000000173",
+						"brandName": "VIDIVI/韦迪威"
+					},
+					{
+						"logoId": "3616200100000001566",
+						"brandName": "Villeroy & Boch",
+						"logoUrl": "http://cdn13.mei.com/category/20160805/20160805163147018.jpg@240w_122h"
+					},
+					{
+						"logoId": "3616200100000003106",
+						"brandName": "VINCE CAMUTO Louise et Cie"
+					},
+					{
+						"logoId": "3616200100000001940",
+						"brandName": "VIVA",
+						"logoUrl": "http://cdn13.mei.com/category/20160612/20160612171540717.jpg@240w_122h"
+					},
+					{
+						"logoId": "3616200100000000918",
+						"brandName": "Vivienne Westwood",
+						"logoUrl": "http://cdn13.mei.com/category/20160612/20160612161038253.jpg@240w_122h"
+					},
+					{
+						"logoId": "2040200100000000612",
+						"brandName": "vormir",
+						"logoUrl": "http://cdn13.mei.com/category/20170823/20170823160152386.jpg@240w_122h"
+					},
+					{
+						"logoId": "3616200100000000144",
+						"brandName": "VOV"
+					},
+					{
+						"logoId": "3616200100000001028",
+						"brandName": "voyagetime",
+						"logoUrl": "http://cdn13.mei.com/category/20160527/20160527153720311.jpg@240w_122h"
+					}
+				]
+			},
+			{
+				"index": "W",
+				"brandList": [
+					{
+						"logoId": "2042200100000000108",
+						"brandName": "WDLS",
+						"logoUrl": "http://cdn13.mei.com/category/20170925/20170925172527302.jpg@240w_122h"
+					},
+					{
+						"logoId": "3616200100000001033",
+						"brandName": "Weekender",
+						"logoUrl": "http://cdn13.mei.com/category/20160527/20160527153706968.jpg@240w_122h"
+					},
+					{
+						"logoId": "2040200100000000683",
+						"brandName": "WOOLINO",
+						"logoUrl": "http://cdn13.mei.com/category/20181220/ecdd3fbce0089a6ca5f56a544db25fc339e4db8297e1f0dc.jpg@240w_122h"
+					},
+					{
+						"logoId": "2042200100000000500",
+						"brandName": "WOOLRICH"
+					},
+					{
+						"logoId": "3616200100000001042",
+						"brandName": "wusthof"
+					}
+				]
+			},
+			{
+				"index": "X",
+				"brandList": [
+					{
+						"logoId": "3616200100000000152",
+						"brandName": "xander zhou"
+					},
+					{
+						"logoId": "2040200100000000171",
+						"brandName": "Xuzhi"
+					},
+					{
+						"logoId": "2040200100000000235",
+						"brandName": "XXXTRENTA",
+						"logoUrl": "http://cdn13.mei.com/category/20170220/20170220105625904.jpg@240w_122h"
+					}
+				]
+			},
+			{
+				"index": "Y",
+				"brandList": [
+					{
+						"logoId": "3616200100000002149",
+						"brandName": "Y-3"
+					},
+					{
+						"logoId": "2041200100000000002",
+						"brandName": "YA-MAN",
+						"logoUrl": "http://cdn13.mei.com/category/20160615/20160615144944908.jpg@240w_122h"
+					},
+					{
+						"logoId": "2042200100000000538",
+						"brandName": "yeezy"
+					},
+					{
+						"logoId": "3616200100000002517",
+						"brandName": "YMC"
+					},
+					{
+						"logoId": "2120200100000000135",
+						"brandName": "Yonge&Finch/扬芬缇"
+					},
+					{
+						"logoId": "3616200100000001568",
+						"brandName": "YVES DELORME",
+						"logoUrl": "http://cdn13.mei.com/category/20171130/20171130155044310.jpg@240w_122h"
+					},
+					{
+						"logoId": "3616200100000000926",
+						"brandName": "Yves Saint Laurent",
+						"logoUrl": "http://cdn13.mei.com/category/20161206/20161206110935517.jpg@240w_122h"
+					}
+				]
+			},
+			{
+				"index": "Z",
+				"brandList": [
+					{
+						"logoId": "2040200100000000557",
+						"brandName": "Z Zegna"
+					},
+					{
+						"logoId": "2120200100000000189",
+						"brandName": "Zeades"
+					},
+					{
+						"logoId": "3616200100000000927",
+						"brandName": "Zegna"
+					},
+					{
+						"logoId": "3616200100000002770",
+						"brandName": "ZegnaSport",
+						"logoUrl": "http://cdn13.mei.com/category/20160516/20160516184028771.jpg@240w_122h"
+					},
+					{
+						"logoId": "3616200100000001942",
+						"brandName": "ZHUELLA",
+						"logoUrl": "http://cdn13.mei.com/category/20160612/20160612154912712.jpg@240w_122h"
+					},
+					{
+						"logoId": "3616200100000002155",
+						"brandName": "ZIOTELLO",
+						"logoUrl": "http://cdn13.mei.com/category/20160705/20160705170258647.jpg@240w_122h"
+					},
+					{
+						"logoId": "2041200100000000618",
+						"brandName": "ZOOCCHiNi",
+						"logoUrl": "http://cdn13.mei.com/category/20190124/9bcb00a02e96a86093a75451538193afd72eb86efc6c943a.jpg@240w_122h"
+					},
+					{
+						"logoId": "3616200100000000031",
+						"brandName": "ZUKKA PRO",
+						"logoUrl": "http://cdn13.mei.com/category/20161104/20161104152117364.jpg@240w_122h"
+					}
+				]
+			},
+			{
+				"index": "#",
+				"brandList": [
+					{
+						"logoId": "2120200100000000137",
+						"brandName": "11 BY BBS"
+					},
+					{
+						"logoId": "2120200100000000133",
+						"brandName": "13MONTHBYSONGSUNMI"
+					},
+					{
+						"logoId": "2120200100000000147",
+						"brandName": "19LXXIX",
+						"logoUrl": "http://cdn13.mei.com/category/20181017/ed2db1eaa1b045a95373ec16f3324b93dc0bc45b7bb6d783.jpg@240w_122h"
+					},
+					{
+						"logoId": "2042200100000000057",
+						"brandName": "3.1 Phillip Lim",
+						"logoUrl": "http://cdn13.mei.com/category/20170105/20170105170721577.jpg@240w_122h"
+					},
+					{
+						"logoId": "2121200100000000127",
+						"brandName": "共禾京品"
+					},
+					{
+						"logoId": "3616200100000001723",
+						"brandName": "思妍丽"
+					},
+					{
+						"logoId": "3616200100000001635",
+						"brandName": "肌美精",
+						"logoUrl": "http://cdn13.mei.com/category/20160612/20160612161352038.jpg@240w_122h"
+					}
+				]
+			}
+		]
+	},
+	{
+		"women": {
+			"id": "2013000100000000001",
+			"siloCode": "1",
+			"siloNameEn": "women",
+			"displayName": "女士",
+			"linkAddr": "/silo/",
+			"secondCategories": [
+				{
+					"categoryId": "1000000337",
+					"categoryName": "服装",
+					"categoryCode": "",
+					"categoryLogoUrl": "",
+					"childCategoryList": [
+						{
+							"categoryId": "1000000388",
+							"categoryName": "连衣裙",
+							"categoryCode": "W-Dress",
+							"categoryLogoUrl": "http://cdn13.mei.com/category/20170828/20170828184032423.jpg@150w_150h",
+							"childCategoryList": "",
+							"imagePrefix": "http://cdn13.mei.com/category/"
+						},
+						{
+							"categoryId": "1000000392",
+							"categoryName": "T恤",
+							"categoryCode": "W-T-Shirts",
+							"categoryLogoUrl": "http://cdn13.mei.com/category/20170828/20170828184057930.jpg@150w_150h",
+							"childCategoryList": "",
+							"imagePrefix": "http://cdn13.mei.com/category/"
+						},
+						{
+							"categoryId": "1000000393",
+							"categoryName": "衬衫",
+							"categoryCode": "W-Blouses",
+							"categoryLogoUrl": "http://cdn13.mei.com/category/20170828/20170828184137548.jpg@150w_150h",
+							"childCategoryList": "",
+							"imagePrefix": "http://cdn13.mei.com/category/"
+						},
+						{
+							"categoryId": "1000000229",
+							"categoryName": "裤子",
+							"categoryCode": "W-Pants&Shorts",
+							"categoryLogoUrl": "http://cdn13.mei.com/category/20170828/20170828184150522.jpg@150w_150h",
+							"childCategoryList": "",
+							"imagePrefix": "http://cdn13.mei.com/category/"
+						},
+						{
+							"categoryId": "1000000390",
+							"categoryName": "卫衣",
+							"categoryCode": "W-Hoodies",
+							"categoryLogoUrl": "http://cdn13.mei.com/category/20170828/20170828184210762.jpg@150w_150h",
+							"childCategoryList": "",
+							"imagePrefix": "http://cdn13.mei.com/category/"
+						},
+						{
+							"categoryId": "1000000389",
+							"categoryName": "毛衣",
+							"categoryCode": "W-Sweaters",
+							"categoryLogoUrl": "http://cdn13.mei.com/category/20170828/20170828184233397.jpg@150w_150h",
+							"childCategoryList": "",
+							"imagePrefix": "http://cdn13.mei.com/category/"
+						},
+						{
+							"categoryId": "1000000226",
+							"categoryName": "大衣",
+							"categoryCode": "W-Outwear",
+							"categoryLogoUrl": "http://cdn13.mei.com/category/20170828/20170828184251114.jpg@150w_150h",
+							"childCategoryList": "",
+							"imagePrefix": "http://cdn13.mei.com/category/"
+						},
+						{
+							"categoryId": "1000000387",
+							"categoryName": "短裙",
+							"categoryCode": "W-Skirt",
+							"categoryLogoUrl": "http://cdn13.mei.com/category/20170828/20170828184302593.jpg@150w_150h",
+							"childCategoryList": "",
+							"imagePrefix": "http://cdn13.mei.com/category/"
+						},
+						{
+							"categoryId": "1192007900000000219",
+							"categoryName": "运动户外",
+							"categoryCode": "W-Clothing-SportsOutdoor",
+							"categoryLogoUrl": "http://cdn13.mei.com/category/20170828/20170828184331073.jpg@150w_150h",
+							"childCategoryList": "",
+							"imagePrefix": "http://cdn13.mei.com/category/"
+						}
+					],
+					"imagePrefix": ""
+				},
+				{
+					"categoryId": "1000000339",
+					"categoryName": "包袋钱包",
+					"categoryCode": "",
+					"categoryLogoUrl": "",
+					"childCategoryList": [
+						{
+							"categoryId": "1000000239",
+							"categoryName": "手提包",
+							"categoryCode": "W-Handbag",
+							"categoryLogoUrl": "http://cdn13.mei.com/category/20170828/20170828184429944.jpg@150w_150h",
+							"childCategoryList": "",
+							"imagePrefix": "http://cdn13.mei.com/category/"
+						},
+						{
+							"categoryId": "1000000240",
+							"categoryName": "侧背包",
+							"categoryCode": "W-Messenger",
+							"categoryLogoUrl": "http://cdn13.mei.com/category/20170828/20170828184444063.jpg@150w_150h",
+							"childCategoryList": "",
+							"imagePrefix": "http://cdn13.mei.com/category/"
+						},
+						{
+							"categoryId": "1000000238",
+							"categoryName": "肩包",
+							"categoryCode": "W-Shoulder Bag",
+							"categoryLogoUrl": "http://cdn13.mei.com/category/20170828/20170828184456636.jpg@150w_150h",
+							"childCategoryList": "",
+							"imagePrefix": "http://cdn13.mei.com/category/"
+						},
+						{
+							"categoryId": "1192201704011110051",
+							"categoryName": "手拿包",
+							"categoryCode": "W-Clutch",
+							"categoryLogoUrl": "http://cdn13.mei.com/category/20170828/20170828184538408.jpg@150w_150h",
+							"childCategoryList": "",
+							"imagePrefix": "http://cdn13.mei.com/category/"
+						},
+						{
+							"categoryId": "1000000252",
+							"categoryName": "钱包",
+							"categoryCode": "W-Wallets",
+							"categoryLogoUrl": "http://cdn13.mei.com/category/20170828/20170828184551611.jpg@150w_150h",
+							"childCategoryList": "",
+							"imagePrefix": "http://cdn13.mei.com/category/"
+						},
+						{
+							"categoryId": "1192201704011110047",
+							"categoryName": "化妆包",
+							"categoryCode": "W-Beauty Cases",
+							"categoryLogoUrl": "http://cdn13.mei.com/category/20170828/20170828184605286.jpg@150w_150h",
+							"childCategoryList": "",
+							"imagePrefix": "http://cdn13.mei.com/category/"
+						},
+						{
+							"categoryId": "1192201704011110049",
+							"categoryName": "女士卡包",
+							"categoryCode": "W-Card Holders",
+							"categoryLogoUrl": "http://cdn13.mei.com/category/20170828/20170828184633680.jpg@150w_150h",
+							"childCategoryList": "",
+							"imagePrefix": "http://cdn13.mei.com/category/"
+						}
+					],
+					"imagePrefix": ""
+				},
+				{
+					"categoryId": "1000000338",
+					"categoryName": "鞋履",
+					"categoryCode": "",
+					"categoryLogoUrl": "",
+					"childCategoryList": [
+						{
+							"categoryId": "1000000233",
+							"categoryName": "高跟鞋",
+							"categoryCode": "W-High Heels",
+							"categoryLogoUrl": "http://cdn13.mei.com/category/20170828/20170828184706738.jpg@150w_150h",
+							"childCategoryList": "",
+							"imagePrefix": "http://cdn13.mei.com/category/"
+						},
+						{
+							"categoryId": "1000000237",
+							"categoryName": "凉鞋/拖鞋",
+							"categoryCode": "W-Sandals/Slippers",
+							"categoryLogoUrl": "http://cdn13.mei.com/category/20170828/20170828184720683.jpg@150w_150h",
+							"childCategoryList": "",
+							"imagePrefix": "http://cdn13.mei.com/category/"
+						},
+						{
+							"categoryId": "1000000235",
+							"categoryName": "靴子",
+							"categoryCode": "W-Boots",
+							"categoryLogoUrl": "http://cdn13.mei.com/category/20170828/20170828184749290.jpg@150w_150h",
+							"childCategoryList": "",
+							"imagePrefix": "http://cdn13.mei.com/category/"
+						},
+						{
+							"categoryId": "1192201704011110062",
+							"categoryName": "休闲鞋",
+							"categoryCode": "W-Causal shoes",
+							"categoryLogoUrl": "http://cdn13.mei.com/category/20170828/20170828184808718.jpg@150w_150h",
+							"childCategoryList": "",
+							"imagePrefix": "http://cdn13.mei.com/category/"
+						},
+						{
+							"categoryId": "1192007900000000238",
+							"categoryName": "运动户外",
+							"categoryCode": "W-Shoes-SportsOutdoor",
+							"categoryLogoUrl": "http://cdn13.mei.com/category/20170828/20170828184824139.jpg@150w_150h",
+							"childCategoryList": "",
+							"imagePrefix": "http://cdn13.mei.com/category/"
+						}
+					],
+					"imagePrefix": ""
+				},
+				{
+					"categoryId": "1000000340",
+					"categoryName": "手表&首饰",
+					"categoryCode": "",
+					"categoryLogoUrl": "",
+					"childCategoryList": [
+						{
+							"categoryId": "1000000246",
+							"categoryName": "手表",
+							"categoryCode": "W-Watch",
+							"categoryLogoUrl": "http://cdn13.mei.com/category/20170828/20170828184850773.jpg@150w_150h",
+							"childCategoryList": "",
+							"imagePrefix": "http://cdn13.mei.com/category/"
+						},
+						{
+							"categoryId": "1000000242",
+							"categoryName": "项链",
+							"categoryCode": "W-Necklace",
+							"categoryLogoUrl": "http://cdn13.mei.com/category/20170828/20170828184927984.jpg@150w_150h",
+							"childCategoryList": "",
+							"imagePrefix": "http://cdn13.mei.com/category/"
+						},
+						{
+							"categoryId": "1000000245",
+							"categoryName": "戒指",
+							"categoryCode": "W-Rings",
+							"categoryLogoUrl": "http://cdn13.mei.com/category/20170828/20170828184948684.jpg@150w_150h",
+							"childCategoryList": "",
+							"imagePrefix": "http://cdn13.mei.com/category/"
+						},
+						{
+							"categoryId": "1000000243",
+							"categoryName": "耳环",
+							"categoryCode": "W-Earrings",
+							"categoryLogoUrl": "http://cdn13.mei.com/category/20170828/20170828185021350.jpg@150w_150h",
+							"childCategoryList": "",
+							"imagePrefix": "http://cdn13.mei.com/category/"
+						},
+						{
+							"categoryId": "1000000244",
+							"categoryName": "手链/胸针",
+							"categoryCode": "W-Bracelet&Brooch",
+							"categoryLogoUrl": "http://cdn13.mei.com/category/20170828/20170828185144099.jpg@150w_150h",
+							"childCategoryList": "",
+							"imagePrefix": "http://cdn13.mei.com/category/"
+						},
+						{
+							"categoryId": "1192007900000000058",
+							"categoryName": "其他",
+							"categoryCode": "W-Jewelry&Watch-others",
+							"categoryLogoUrl": "http://cdn13.mei.com/category/20170828/20170828185212824.jpg@150w_150h",
+							"childCategoryList": "",
+							"imagePrefix": "http://cdn13.mei.com/category/"
+						}
+					],
+					"imagePrefix": ""
+				},
+				{
+					"categoryId": "1000000341",
+					"categoryName": "配饰",
+					"categoryCode": "",
+					"categoryLogoUrl": "",
+					"childCategoryList": [
+						{
+							"categoryId": "1000000249",
+							"categoryName": "皮带",
+							"categoryCode": "W-Belts",
+							"categoryLogoUrl": "http://cdn13.mei.com/category/20170828/20170828185257447.jpg@150w_150h",
+							"childCategoryList": "",
+							"imagePrefix": "http://cdn13.mei.com/category/"
+						},
+						{
+							"categoryId": "1192201704011110060",
+							"categoryName": "围巾",
+							"categoryCode": "W-Scarves",
+							"categoryLogoUrl": "http://cdn13.mei.com/category/20170828/20170828185309783.jpg@150w_150h",
+							"childCategoryList": "",
+							"imagePrefix": "http://cdn13.mei.com/category/"
+						},
+						{
+							"categoryId": "1192201704011110058",
+							"categoryName": "手套",
+							"categoryCode": "W-Gloves new",
+							"categoryLogoUrl": "http://cdn13.mei.com/category/20170828/20170828185321116.jpg@150w_150h",
+							"childCategoryList": "",
+							"imagePrefix": "http://cdn13.mei.com/category/"
+						},
+						{
+							"categoryId": "1192007900000000220",
+							"categoryName": "运动户外",
+							"categoryCode": "W-Accessories-SportsOutdoor",
+							"categoryLogoUrl": "http://cdn13.mei.com/category/20170828/20170828185332061.jpg@150w_150h",
+							"childCategoryList": "",
+							"imagePrefix": "http://cdn13.mei.com/category/"
+						},
+						{
+							"categoryId": "1192201704011110057",
+							"categoryName": "帽子",
+							"categoryCode": "W-Hats",
+							"categoryLogoUrl": "http://cdn13.mei.com/category/20170828/20170828185345338.jpg@150w_150h",
+							"childCategoryList": "",
+							"imagePrefix": "http://cdn13.mei.com/category/"
+						},
+						{
+							"categoryId": "1192201704011110059",
+							"categoryName": "袜子",
+							"categoryCode": "W-Socks",
+							"categoryLogoUrl": "http://cdn13.mei.com/category/20170828/20170828185357339.jpg@150w_150h",
+							"childCategoryList": "",
+							"imagePrefix": "http://cdn13.mei.com/category/"
+						},
+						{
+							"categoryId": "1000000253",
+							"categoryName": "其它",
+							"categoryCode": "W-AccessoriesOthers",
+							"categoryLogoUrl": "http://cdn13.mei.com/category/20170828/20170828185408280.jpg@150w_150h",
+							"childCategoryList": "",
+							"imagePrefix": "http://cdn13.mei.com/category/"
+						}
+					],
+					"imagePrefix": ""
+				},
+				{
+					"categoryId": "1192007900000000258",
+					"categoryName": "眼镜",
+					"categoryCode": "",
+					"categoryLogoUrl": "",
+					"childCategoryList": [
+						{
+							"categoryId": "1192007900000000261",
+							"categoryName": "太阳眼镜",
+							"categoryCode": "W-SunGlasses",
+							"categoryLogoUrl": "http://cdn13.mei.com/category/20170828/20170828184353621.jpg@150w_150h",
+							"childCategoryList": "",
+							"imagePrefix": "http://cdn13.mei.com/category/"
+						},
+						{
+							"categoryId": "1192007900000000262",
+							"categoryName": "框架眼镜",
+							"categoryCode": "W-SpectacleFrame ",
+							"categoryLogoUrl": "http://cdn13.mei.com/category/20170828/20170828184407956.jpg@150w_150h",
+							"childCategoryList": "",
+							"imagePrefix": "http://cdn13.mei.com/category/"
+						}
+					],
+					"imagePrefix": ""
+				}
+			]
+		}
+	},
+	{
+		"lifestyle": {
+			"id": "2013000100000000004",
+			"siloCode": "4",
+			"siloNameEn": "lifestyle",
+			"displayName": "家居",
+			"linkAddr": "/silo/",
+
+			"thirdCategoryList": [
+				{
+					"thirdCategoryTitle": "轻奢床品",
+					"thirdCategoryPicUrl": "http://cdn13.mei.com/category/20171106/20171106183511814.jpg@242w_123h",
+					"thirdCategoryUrl": "https://www.mei.com/search?type=&searchKeyword=床品"
+				},
+				{
+					"thirdCategoryTitle": "精致厨房",
+					"thirdCategoryPicUrl": "http://cdn13.mei.com/category/20170915/20170915145925886.jpg@242w_123h",
+					"thirdCategoryUrl": "https://www.mei.com/search?type=&searchKeyword=厨房&searchKeyWord=厨房"
+				},
+				{
+					"thirdCategoryTitle": "颜值家居",
+					"thirdCategoryPicUrl": "http://cdn13.mei.com/category/20170915/20170915150004556.jpg@242w_123h",
+					"thirdCategoryUrl": "https://www.mei.com/search?type=&searchKeyword=艺术摆件&searchKeyWord=艺术摆件"
+				},
+				{
+					"thirdCategoryTitle": "精致小家电",
+					"thirdCategoryPicUrl": "http://cdn13.mei.com/category/20170915/20170915150033872.jpg@242w_123h",
+					"thirdCategoryUrl": "https://www.mei.com/search?type=&searchKeyword=家电&searchKeyWord=家电"
+				},
+				{
+					"thirdCategoryTitle": "卫浴香氛",
+					"thirdCategoryPicUrl": "http://cdn13.mei.com/category/20170915/20170915150233794.jpg@242w_123h",
+					"thirdCategoryUrl": "https://www.mei.com/search?type=&searchKeyword=家居香氛&searchKeyWord=家居香氛"
+				},
+				{
+					"thirdCategoryTitle": "保暖用品",
+					"thirdCategoryPicUrl": "http://cdn13.mei.com/category/20170915/20170915150237220.jpg@242w_123h",
+					"thirdCategoryUrl": "https://www.mei.com/search?type=&searchKeyword=羊毛毯&searchKeyWord=羊毛毯"
+				}
+			],
+
+			"secondCategories": [
+				{
+					"categoryId": "1000000351",
+					"categoryName": "床品",
+					"categoryCode": "",
+					"categoryLogoUrl": "",
+					"childCategoryList": [
+						{
+							"categoryId": "1000000295",
+							"categoryName": "床上件套",
+							"categoryCode": "L-Bedding set/Duvet",
+							"categoryLogoUrl": "http://cdn13.mei.com/category/20170828/20170828201735826.jpg@150w_150h",
+							"childCategoryList": "",
+							"imagePrefix": "http://cdn13.mei.com/category/"
+						},
+						{
+							"categoryId": "1000000297",
+							"categoryName": "被子",
+							"categoryCode": "L-Duvet",
+							"categoryLogoUrl": "http://cdn13.mei.com/category/20170828/20170828201748148.jpg@150w_150h",
+							"childCategoryList": "",
+							"imagePrefix": "http://cdn13.mei.com/category/"
+						},
+						{
+							"categoryId": "1000000296",
+							"categoryName": "枕头",
+							"categoryCode": "L-Pillows",
+							"categoryLogoUrl": "http://cdn13.mei.com/category/20170828/20170828201758846.jpg@150w_150h",
+							"childCategoryList": "",
+							"imagePrefix": "http://cdn13.mei.com/category/"
+						},
+						{
+							"categoryId": "1000000298",
+							"categoryName": "毯子",
+							"categoryCode": "L-Blanket",
+							"categoryLogoUrl": "http://cdn13.mei.com/category/20170828/20170828201812072.jpg@150w_150h",
+							"childCategoryList": "",
+							"imagePrefix": "http://cdn13.mei.com/category/"
+						},
+						{
+							"categoryId": "1192007900000000133",
+							"categoryName": "床垫",
+							"categoryCode": "L-Mattress",
+							"categoryLogoUrl": "http://cdn13.mei.com/category/20170828/20170828201824073.jpg@150w_150h",
+							"childCategoryList": "",
+							"imagePrefix": "http://cdn13.mei.com/category/"
+						}
+					],
+					"imagePrefix": ""
+				},
+				{
+					"categoryId": "1000000353",
+					"categoryName": "厨具",
+					"categoryCode": "",
+					"categoryLogoUrl": "",
+					"childCategoryList": [
+						{
+							"categoryId": "1000000303",
+							"categoryName": "锅",
+							"categoryCode": "L-Pot",
+							"categoryLogoUrl": "http://cdn13.mei.com/category/20170828/20170828202300342.jpg@150w_150h",
+							"childCategoryList": "",
+							"imagePrefix": "http://cdn13.mei.com/category/"
+						},
+						{
+							"categoryId": "1000000305",
+							"categoryName": "餐桌小件",
+							"categoryCode": "L-Table Wear",
+							"categoryLogoUrl": "http://cdn13.mei.com/category/20170828/20170828202312777.jpg@150w_150h",
+							"childCategoryList": "",
+							"imagePrefix": "http://cdn13.mei.com/category/"
+						},
+						{
+							"categoryId": "1000000304",
+							"categoryName": "烹饪小件",
+							"categoryCode": "L-Cook Accessories",
+							"categoryLogoUrl": "http://cdn13.mei.com/category/20170828/20170828202323676.jpg@150w_150h",
+							"childCategoryList": "",
+							"imagePrefix": "http://cdn13.mei.com/category/"
+						},
+						{
+							"categoryId": "1000000307",
+							"categoryName": "酒杯/开瓶器",
+							"categoryCode": "L-Wine glasses",
+							"categoryLogoUrl": "http://cdn13.mei.com/category/20170828/20170828202335780.jpg@150w_150h",
+							"childCategoryList": "",
+							"imagePrefix": "http://cdn13.mei.com/category/"
+						},
+						{
+							"categoryId": "1000000306",
+							"categoryName": "储物盒",
+							"categoryCode": "L-Storage",
+							"categoryLogoUrl": "http://cdn13.mei.com/category/20170828/20170828202411175.jpg@150w_150h",
+							"childCategoryList": "",
+							"imagePrefix": "http://cdn13.mei.com/category/"
+						}
+					],
+					"imagePrefix": ""
+				},
+				{
+					"categoryId": "1000000354",
+					"categoryName": "摆件",
+					"categoryCode": "",
+					"categoryLogoUrl": "",
+					"childCategoryList": [
+						{
+							"categoryId": "1192007900000000138",
+							"categoryName": "地毯/挂毯",
+							"categoryCode": "L-Carpet&Tapestry",
+							"categoryLogoUrl": "http://cdn13.mei.com/category/20170828/20170828202502852.jpg@150w_150h",
+							"childCategoryList": "",
+							"imagePrefix": "http://cdn13.mei.com/category/"
+						},
+						{
+							"categoryId": "1000000308",
+							"categoryName": "蜡烛香氛",
+							"categoryCode": "L-Candals/Champignon",
+							"categoryLogoUrl": "http://cdn13.mei.com/category/20170828/20170828202516373.jpg@150w_150h",
+							"childCategoryList": "",
+							"imagePrefix": "http://cdn13.mei.com/category/"
+						},
+						{
+							"categoryId": "1000000310",
+							"categoryName": "艺术摆件",
+							"categoryCode": "L-Art",
+							"categoryLogoUrl": "http://cdn13.mei.com/category/20170828/20170828202527487.jpg@150w_150h",
+							"childCategoryList": "",
+							"imagePrefix": "http://cdn13.mei.com/category/"
+						},
+						{
+							"categoryId": "1192007900000000135",
+							"categoryName": "收纳整理",
+							"categoryCode": "L-Storage-Accessories",
+							"categoryLogoUrl": "http://cdn13.mei.com/category/20170828/20170828202605063.jpg@150w_150h",
+							"childCategoryList": "",
+							"imagePrefix": "http://cdn13.mei.com/category/"
+						},
+						{
+							"categoryId": "1192007900000000137",
+							"categoryName": "居家布艺",
+							"categoryCode": "L-HomeFabric",
+							"categoryLogoUrl": "http://cdn13.mei.com/category/20170828/20170828202617767.jpg@150w_150h",
+							"childCategoryList": "",
+							"imagePrefix": "http://cdn13.mei.com/category/"
+						}
+					],
+					"imagePrefix": ""
+				},
+				{
+					"categoryId": "1000000357",
+					"categoryName": "家电",
+					"categoryCode": "",
+					"categoryLogoUrl": "",
+					"childCategoryList": [
+						{
+							"categoryId": "1192201704011110031",
+							"categoryName": "生活电器",
+							"categoryCode": "L-Life Appliance",
+							"categoryLogoUrl": "http://cdn13.mei.com/category/20170828/20170828202740039.jpg@150w_150h",
+							"childCategoryList": "",
+							"imagePrefix": "http://cdn13.mei.com/category/"
+						}
+					],
+					"imagePrefix": ""
+				},
+				{
+					"categoryId": "1000000352",
+					"categoryName": "卫浴",
+					"categoryCode": "",
+					"categoryLogoUrl": "",
+					"childCategoryList": [
+						{
+							"categoryId": "1000000299",
+							"categoryName": "卫浴用品",
+							"categoryCode": "L-Towels",
+							"categoryLogoUrl": "http://cdn13.mei.com/category/20170828/20170828202816109.jpg@150w_150h",
+							"childCategoryList": "",
+							"imagePrefix": "http://cdn13.mei.com/category/"
+						},
+						{
+							"categoryId": "1000000302",
+							"categoryName": "清洁用品",
+							"categoryCode": "L-Cleaning",
+							"categoryLogoUrl": "http://cdn13.mei.com/category/20170828/20170828202837237.jpg@150w_150h",
+							"childCategoryList": "",
+							"imagePrefix": "http://cdn13.mei.com/category/"
+						}
+					],
+					"imagePrefix": ""
+				},
+				{
+					"categoryId": "1000000358",
+					"categoryName": "旅游",
+					"categoryCode": "",
+					"categoryLogoUrl": "",
+					"childCategoryList": [
+						{
+							"categoryId": "1000000319",
+							"categoryName": "箱包",
+							"categoryCode": "L-Luggage",
+							"categoryLogoUrl": "http://cdn13.mei.com/category/20170828/20170828203001871.jpg@150w_150h",
+							"childCategoryList": "",
+							"imagePrefix": "http://cdn13.mei.com/category/"
+						}
+					],
+					"imagePrefix": ""
+				},
+				{
+					"categoryId": "1192007900000000140",
+					"categoryName": "3C数码产品",
+					"categoryCode": "",
+					"categoryLogoUrl": "",
+					"childCategoryList": [],
+					"imagePrefix": ""
+				}
+			]
+		}
+	},
+
+	{
+		"beauty": {
+			"id": "2013000100000000003",
+			"siloCode": "3",
+			"siloNameEn": "beauty",
+			"displayName": "美妆",
+			"linkAddr": "/silo/",
+			"secondCategories": [
+				{
+					"categoryId": "1000000345",
+					"categoryName": "护肤",
+					"childCategoryList": [
+						{
+							"categoryId": "1192201704011110067",
+							"categoryName": "防晒",
+							"categoryCode": "C-Sun Care",
+							"categoryLogoUrl": "http://cdn13.mei.com/category/20170905/20170905171944099.jpg@150w_150h",
+							"imagePrefix": "http://cdn13.mei.com/category/"
+						},
+						{
+							"categoryId": "1000000274",
+							"categoryName": "卸妆清洁",
+							"categoryCode": "C-Cleaning",
+							"categoryLogoUrl": "http://cdn13.mei.com/category/20170905/20170905172134064.jpg@150w_150h",
+							"imagePrefix": "http://cdn13.mei.com/category/"
+						},
+						{
+							"categoryId": "1000000275",
+							"categoryName": "化妆水",
+							"categoryCode": "C-Toner",
+							"categoryLogoUrl": "http://cdn13.mei.com/category/20170905/20170905172230279.jpg@150w_150h",
+							"imagePrefix": "http://cdn13.mei.com/category/"
+						},
+						{
+							"categoryId": "1000000276",
+							"categoryName": "乳液面霜",
+							"categoryCode": "C-lotion&Cream",
+							"categoryLogoUrl": "http://cdn13.mei.com/category/20170905/20170905172246309.jpg@150w_150h",
+							"imagePrefix": "http://cdn13.mei.com/category/"
+						},
+						{
+							"categoryId": "1000000277",
+							"categoryName": "精华",
+							"categoryCode": "C-Serum",
+							"categoryLogoUrl": "http://cdn13.mei.com/category/20170905/20170905172316678.jpg@150w_150h",
+							"imagePrefix": "http://cdn13.mei.com/category/"
+						},
+						{
+							"categoryId": "1000000279",
+							"categoryName": "眼部护理",
+							"categoryCode": "C-Eye care",
+							"categoryLogoUrl": "http://cdn13.mei.com/category/20170905/20170905172333068.jpg@150w_150h",
+							"imagePrefix": "http://cdn13.mei.com/category/"
+						},
+						{
+							"categoryId": "1192007900000000173",
+							"categoryName": "唇部护理",
+							"categoryCode": "C-Lipcare",
+							"categoryLogoUrl": "http://cdn13.mei.com/category/20170905/20170905172356417.jpg@150w_150h",
+							"imagePrefix": "http://cdn13.mei.com/category/"
+						},
+						{
+							"categoryId": "1192201704011110016",
+							"categoryName": "护肤套装",
+							"categoryCode": "C-Skincare Set",
+							"categoryLogoUrl": "http://cdn13.mei.com/category/20170905/20170905172420140.jpg@150w_150h",
+							"imagePrefix": "http://cdn13.mei.com/category/"
+						},
+						{
+							"categoryId": "1000000281",
+							"categoryName": "护肤套装及其他",
+							"categoryCode": "C-Skincare set&others",
+							"categoryLogoUrl": "http://cdn13.mei.com/category/20170905/20170905172434547.jpg@150w_150h",
+							"imagePrefix": "http://cdn13.mei.com/category/"
+						}
+					]
+				},
+				{
+					"categoryId": "1000000346",
+					"categoryName": "彩妆",
+					"childCategoryList": [
+						{
+							"categoryId": "1000000285",
+							"categoryName": "唇部彩妆",
+							"categoryCode": "C-Make up Lip",
+							"categoryLogoUrl": "http://cdn13.mei.com/category/20170905/20170905172734591.jpg@150w_150h",
+							"imagePrefix": "http://cdn13.mei.com/category/"
+						},
+						{
+							"categoryId": "1000000284",
+							"categoryName": "眼部彩妆",
+							"categoryCode": "C-Make up Eye",
+							"categoryLogoUrl": "http://cdn13.mei.com/category/20170905/20170905172754730.jpg@150w_150h",
+							"imagePrefix": "http://cdn13.mei.com/category/"
+						},
+						{
+							"categoryId": "1000000283",
+							"categoryName": "脸部彩妆",
+							"categoryCode": "C-Make up Face",
+							"categoryLogoUrl": "http://cdn13.mei.com/category/20170905/20170905172822805.jpg@150w_150h",
+							"imagePrefix": "http://cdn13.mei.com/category/"
+						},
+						{
+							"categoryId": "1192201704011110014",
+							"categoryName": "彩妆工具及其他",
+							"categoryCode": "C-Make-up Tool&Others",
+							"categoryLogoUrl": "http://cdn13.mei.com/category/20170905/20170905172856097.jpg@150w_150h",
+							"imagePrefix": "http://cdn13.mei.com/category/"
+						}
+					]
+				},
+				{
+					"categoryId": "1192007900000000260",
+					"categoryName": "美发",
+					"childCategoryList": [
+						{
+							"categoryId": "1192201704011110019",
+							"categoryName": "洗发",
+							"categoryCode": "C-Shampoo",
+							"categoryLogoUrl": "http://cdn13.mei.com/category/20170905/20170905172954095.jpg@150w_150h",
+							"imagePrefix": "http://cdn13.mei.com/category/"
+						},
+						{
+							"categoryId": "1192201704011110018",
+							"categoryName": "护发",
+							"categoryCode": "C-Hair Treatment",
+							"categoryLogoUrl": "http://cdn13.mei.com/category/20170905/20170905172938919.jpg@150w_150h",
+							"imagePrefix": "http://cdn13.mei.com/category/"
+						}
+					]
+				},
+				{
+					"categoryId": "1000000348",
+					"categoryName": "美体",
+					"childCategoryList": [
+						{
+							"categoryId": "1000000291",
+							"categoryName": "身体洗护",
+							"categoryCode": "C-Bath care",
+							"categoryLogoUrl": "http://cdn13.mei.com/category/20170905/20170905173047109.jpg@150w_150h",
+							"imagePrefix": "http://cdn13.mei.com/category/"
+						},
+						{
+							"categoryId": "1192201704011110021",
+							"categoryName": "SPA护理及其他",
+							"categoryCode": "C-SPA&Others",
+							"categoryLogoUrl": "http://cdn13.mei.com/category/20170905/20170905173155735.jpg@150w_150h",
+							"imagePrefix": "http://cdn13.mei.com/category/"
+						}
+					]
+				},
+				{
+					"categoryId": "1000000369",
+					"categoryName": "面膜",
+					"childCategoryList": [
+						{
+							"categoryId": "1192201704011110024",
+							"categoryName": "面膜",
+							"categoryCode": "C-Mask sub",
+							"categoryLogoUrl": "http://cdn13.mei.com/category/20170905/20170905173259454.jpg@150w_150h",
+							"imagePrefix": "http://cdn13.mei.com/category/"
+						}
+					]
+				},
+				{
+					"categoryId": "1000000372",
+					"categoryName": "美容仪",
+					"childCategoryList": [
+						{
+							"categoryId": "1192201704011110020",
+							"categoryName": "美容仪",
+							"categoryCode": "C-Beauty Apparatus sub",
+							"categoryLogoUrl": "http://cdn13.mei.com/category/20170905/20170905173321863.jpg@150w_150h",
+							"imagePrefix": "http://cdn13.mei.com/category/"
+						}
+					]
+				},
+				{
+					"categoryId": "1000000347",
+					"categoryName": "香氛",
+					"childCategoryList": [
+						{
+							"categoryId": "1000000288",
+							"categoryName": "女香",
+							"categoryCode": "C-Perfume Women",
+							"categoryLogoUrl": "http://cdn13.mei.com/category/20170905/20170905173405361.jpg@150w_150h",
+							"imagePrefix": "http://cdn13.mei.com/category/"
+						},
+						{
+							"categoryId": "1000000289",
+							"categoryName": "男香",
+							"categoryCode": "C-Perfume Men",
+							"categoryLogoUrl": "http://cdn13.mei.com/category/20170905/20170905173419430.jpg@150w_150h",
+							"imagePrefix": "http://cdn13.mei.com/category/"
+						},
+						{
+							"categoryId": "1192201704011110074",
+							"categoryName": "家居香氛及其他",
+							"categoryCode": "C-HomePerfume&Others",
+							"categoryLogoUrl": "http://cdn13.mei.com/category/20170905/20170905173438361.jpg@150w_150h",
+							"imagePrefix": "http://cdn13.mei.com/category/"
+						}
+					]
+				},
+				{
+					"categoryId": "1000000349",
+					"categoryName": "男士",
+					"childCategoryList": [
+						{
+							"categoryId": "1000000293",
+							"categoryName": "男士护理",
+							"categoryCode": "C-Men’s care",
+							"categoryLogoUrl": "http://cdn13.mei.com/category/20170905/20170905173453517.jpg@150w_150h",
+							"imagePrefix": "http://cdn13.mei.com/category/"
+						}
+					]
+				}
+			]
+		}
+	},
+	{
+		"kids": {
+			"id": "2013000100000000005",
+			"siloCode": "5",
+			"siloNameEn": "kids",
+			"displayName": "婴童",
+			"linkAddr": "/silo/",
+			"secondCategories": [
+				{
+					"categoryId": "1000000359",
+					"categoryName": "服装",
+					"childCategoryList": [
+						{
+							"categoryId": "1000000380",
+							"categoryName": "T恤",
+							"categoryCode": "K-T-shirts",
+							"categoryLogoUrl": "http://cdn13.mei.com/category/20170828/20170828193837215.jpg@150w_150h",
+							"imagePrefix": "http://cdn13.mei.com/category/"
+						},
+						{
+							"categoryId": "1000000378",
+							"categoryName": "卫衣",
+							"categoryCode": "K-Hoodies",
+							"categoryLogoUrl": "http://cdn13.mei.com/category/20170828/20170828193853911.jpg@150w_150h",
+							"imagePrefix": "http://cdn13.mei.com/category/"
+						},
+						{
+							"categoryId": "1000000376",
+							"categoryName": "连衣裙",
+							"categoryCode": "K-Dress",
+							"categoryLogoUrl": "http://cdn13.mei.com/category/20170828/20170828193905763.jpg@150w_150h",
+							"imagePrefix": "http://cdn13.mei.com/category/"
+						},
+						{
+							"categoryId": "1000000320",
+							"categoryName": "大衣",
+							"categoryCode": "K-Outwear",
+							"categoryLogoUrl": "http://cdn13.mei.com/category/20170828/20170828193930893.jpg@150w_150h",
+							"imagePrefix": "http://cdn13.mei.com/category/"
+						},
+						{
+							"categoryId": "1000000381",
+							"categoryName": "衬衫",
+							"categoryCode": "K-Shirts",
+							"categoryLogoUrl": "http://cdn13.mei.com/category/20170828/20170828193955896.jpg@150w_150h",
+							"imagePrefix": "http://cdn13.mei.com/category/"
+						},
+						{
+							"categoryId": "1000000377",
+							"categoryName": "毛衣",
+							"categoryCode": "K-Sweaters",
+							"categoryLogoUrl": "http://cdn13.mei.com/category/20170828/20170828194007691.jpg@150w_150h",
+							"imagePrefix": "http://cdn13.mei.com/category/"
+						},
+						{
+							"categoryId": "1000000327",
+							"categoryName": "家居服",
+							"categoryCode": "K-Home wear",
+							"categoryLogoUrl": "http://cdn13.mei.com/category/20170828/20170828194018168.jpg@150w_150h",
+							"imagePrefix": "http://cdn13.mei.com/category/"
+						},
+						{
+							"categoryId": "1000000323",
+							"categoryName": "裤子",
+							"categoryCode": "K-Pants",
+							"categoryLogoUrl": "http://cdn13.mei.com/category/20170828/20170828194029526.jpg@150w_150h",
+							"imagePrefix": "http://cdn13.mei.com/category/"
+						},
+						{
+							"categoryId": "1000000326",
+							"categoryName": "内衣/泳装",
+							"categoryCode": "K-Lingerie/Swimwear",
+							"categoryLogoUrl": "http://cdn13.mei.com/category/20170828/20170828194108436.jpg@150w_150h",
+							"imagePrefix": "http://cdn13.mei.com/category/"
+						}
+					]
+				},
+				{
+					"categoryId": "1000000360",
+					"categoryName": "童鞋",
+					"childCategoryList": [
+						{
+							"categoryId": "1192201704011110009",
+							"categoryName": "皮鞋",
+							"categoryCode": "K-Leather shoes",
+							"categoryLogoUrl": "http://cdn13.mei.com/category/20170828/20170828194143817.jpg@150w_150h",
+							"imagePrefix": "http://cdn13.mei.com/category/"
+						},
+						{
+							"categoryId": "1192007900000000237",
+							"categoryName": "运动户外",
+							"categoryCode": "K-Shoe-SportsOutdoor",
+							"categoryLogoUrl": "http://cdn13.mei.com/category/20170828/20170828194206712.jpg@150w_150h",
+							"imagePrefix": "http://cdn13.mei.com/category/"
+						}
+					]
+				},
+				{
+					"categoryId": "1000000362",
+					"categoryName": "母婴用具",
+					"childCategoryList": [
+						{
+							"categoryId": "1000000335",
+							"categoryName": "婴儿用品",
+							"categoryCode": "K-Baby products",
+							"categoryLogoUrl": "http://cdn13.mei.com/category/20170828/20170828194334657.jpg@150w_150h",
+							"imagePrefix": "http://cdn13.mei.com/category/"
+						},
+						{
+							"categoryId": "1000000334",
+							"categoryName": "孕妇用品",
+							"categoryCode": "K-Maternity products",
+							"categoryLogoUrl": "http://cdn13.mei.com/category/20170828/20170828194345138.jpg@150w_150h",
+							"imagePrefix": "http://cdn13.mei.com/category/"
+						}
+					]
+				},
+				{
+					"categoryId": "1000000361",
+					"categoryName": "玩具文具",
+					"childCategoryList": [
+						{
+							"categoryId": "1000000331",
+							"categoryName": "玩具",
+							"categoryCode": "K-Toys",
+							"categoryLogoUrl": "http://cdn13.mei.com/category/20170828/20170828194256747.jpg@150w_150h",
+							"imagePrefix": "http://cdn13.mei.com/category/"
+						},
+						{
+							"categoryId": "1000000333",
+							"categoryName": "包",
+							"categoryCode": "K-Bag",
+							"categoryLogoUrl": "http://cdn13.mei.com/category/20170828/20170828194309976.jpg@150w_150h",
+							"imagePrefix": "http://cdn13.mei.com/category/"
+						}
+					]
+				},
+				{
+					"categoryId": "1192007900000000111",
+					"categoryName": "配饰",
+					"childCategoryList": [
+						{
+							"categoryId": "1192201704011110004",
+							"categoryName": "帽子",
+							"categoryCode": "K-Hats new",
+							"categoryLogoUrl": "http://cdn13.mei.com/category/20170828/20170828194405044.jpg@150w_150h",
+							"imagePrefix": "http://cdn13.mei.com/category/"
+						},
+						{
+							"categoryId": "1192201704011110007",
+							"categoryName": "围巾",
+							"categoryCode": "K-Scarves",
+							"categoryLogoUrl": "http://cdn13.mei.com/category/20170828/20170828194416779.jpg@150w_150h",
+							"imagePrefix": "http://cdn13.mei.com/category/"
+						},
+						{
+							"categoryId": "1192201704011110005",
+							"categoryName": "手套",
+							"categoryCode": "K-Gloves",
+							"categoryLogoUrl": "http://cdn13.mei.com/category/20170828/20170828194427792.jpg@150w_150h",
+							"imagePrefix": "http://cdn13.mei.com/category/"
+						},
+						{
+							"categoryId": "1192201704011110006",
+							"categoryName": "袜子",
+							"categoryCode": "K-Socks",
+							"categoryLogoUrl": "http://cdn13.mei.com/category/20170828/20170828194439726.jpg@150w_150h",
+							"imagePrefix": "http://cdn13.mei.com/category/"
+						},
+						{
+							"categoryId": "1192007900000000113",
+							"categoryName": "眼镜",
+							"categoryCode": "K-Eyewear",
+							"categoryLogoUrl": "http://cdn13.mei.com/category/20170828/20170828194451645.jpg@150w_150h",
+							"imagePrefix": "http://cdn13.mei.com/category/"
+						}
+					]
+				}
+			]
+		}
+	}
+]

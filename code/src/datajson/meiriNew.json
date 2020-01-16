@@ -1,0 +1,195 @@
+{
+	"show2": [
+		{
+			"is_del": 0,
+			"create_userid": "",
+			"create_userName": "",
+			"create_date": "",
+			"update_userid": "",
+			"update_userName": "",
+			"update_date": "",
+			"id": "1",
+			"type": "1",
+			"show_type": 2,
+			"main_title": "每日新品",
+			"sub_title": "09:00上新",
+			"show_product_pic": 1,
+			"pic_url": "",
+			"main_title_color": "",
+			"sub_title_color": "",
+			"background_color": "",
+			"begin_date": "",
+			"end_date": "",
+			"order": "",
+			"status": "",
+			"go_url": "https://a.mei.com/wow/meilihui/act/dailynew?wh_biz=tm&wh_weex=true&wx_navbar_transparent=true",
+			"typeName": "9点上新",
+			"products": [
+				{
+					"productId": "2120212099000159691",
+					"productName": "拼色抽象印花圆领短袖修身女士连衣裙",
+					"brandName": "PORTS",
+					"glsCode": "TS8-112-02483",
+					"picUrl": "https://cdn15.mei.com/product/TS8-112-02488/e7c8ed748ba73472f4b49581d88d0626.jpg@300w_400h_2e_75q",
+					"tag": "精选新品"
+				},
+				{
+					"productId": "2085208599000022927",
+					"productName": "PORTS INTERNATIONAL黑色修身简约都市通勤百搭女装中长裙半身裙",
+					"brandName": "Ports international",
+					"glsCode": "PSL-2597-100001-C",
+					"picUrl": "https://cdn12.mei.com/product/PSL-2597-100001-C/68f544ecdef9b9b159e3d71877e33289c1f3524679894265678acf049450d92a.jpg@300w_400h_2e_75q",
+					"tag": "精选新品"
+				}
+			],
+			"top_show_type": "",
+			"pic_main_title": "",
+			"pic_sub_title": ""
+		},
+		{
+			"is_del": 0,
+			"create_userid": "",
+			"create_userName": "",
+			"create_date": "",
+			"update_userid": "",
+			"update_userName": "",
+			"update_date": "",
+			"id": "2",
+			"type": "2",
+			"show_type": 2,
+			"main_title": "清仓特卖",
+			"sub_title": "周三上新",
+			"show_product_pic": 1,
+			"pic_url": "",
+			"main_title_color": "",
+			"sub_title_color": "",
+			"background_color": "",
+			"begin_date": "",
+			"end_date": "",
+			"order": "",
+			"status": "",
+			"go_url": "https://a.mei.com/wow/meilihui/act/qingcang3?wh_biz=tm&wh_weex=true",
+			"typeName": "清仓特卖",
+			"products": [
+				{
+					"productId": "",
+					"productName": "黑色简约圆领长袖女士上衣",
+					"brandName": "FREE PEOPLE",
+					"glsCode": "FP3-108-00533",
+					"picUrl": "https://cdn12.mei.com/product/FP3-108-00536/1f7d0be9320acb5e5185a2e2d7272192.jpg@300w_400h_2e_75q",
+					"tag": "直降591元"
+				},
+				{
+					"productId": "",
+					"productName": "黑色棉质圆领logo字母夏季男士短袖T恤",
+					"brandName": "EMPORIO ARMANI",
+					"glsCode": "VRX-209-00016",
+					"picUrl": "https://cdn12.mei.com/product/VRX-209-00019/b672c917d24e6293a29081fa677b26cf.jpg@300w_400h_2e_75q",
+					"tag": "直降361元"
+				}
+			],
+			"top_show_type": "",
+			"pic_main_title": "",
+			"pic_sub_title": ""
+		}
+	],
+	"show3size": 0,
+	"userIP": "119.79.228.23",
+	"show2size": 4,
+	"errorInfo": "",
+	"errorNum": "0",
+	"show21": [
+		{
+			"is_del": 0,
+			"create_userid": "",
+			"create_userName": "",
+			"create_date": "",
+			"update_userid": "",
+			"update_userName": "",
+			"update_date": "",
+			"id": "3",
+			"type": "4",
+			"show_type": 2,
+			"main_title": "必买清单",
+			"sub_title": "潮奢指南",
+			"show_product_pic": 1,
+			"pic_url": "",
+			"main_title_color": "",
+			"sub_title_color": "",
+			"background_color": "",
+			"begin_date": "",
+			"end_date": "",
+			"order": "",
+			"status": "",
+			"go_url": "",
+			"typeName": "热门清单",
+			"products": [
+				{
+					"productId": "2120212099000132047",
+					"productName": "蓝色100%山羊绒女士连帽针织羊绒衫",
+					"brandName": "Theory",
+					"glsCode": "TH4-115-00336",
+					"picUrl": "https://cdn14.mei.com/product/T4N-115-B7229/b888d5e138b69087bc5c9ebd8ae0db9a.jpg@200w_300h_2e_100q",
+					"tag": "质感夯货"
+				},
+				{
+					"productId": "2042204299000677134",
+					"productName": "摩卡棕色复古丝绒背带裤",
+					"brandName": "moco 摩安珂",
+					"glsCode": "YVR-114-00048",
+					"picUrl": "https://cdn13.mei.com/product/YVR-114-00048/YVR-114-00048a.jpg@200w_300h_2e_100q",
+					"tag": "复古风尚"
+				}
+			],
+			"top_show_type": "",
+			"pic_main_title": "",
+			"pic_sub_title": ""
+		},
+		{
+			"is_del": 0,
+			"create_userid": "",
+			"create_userName": "",
+			"create_date": "",
+			"update_userid": "",
+			"update_userName": "",
+			"update_date": "",
+			"id": "4",
+			"type": "7",
+			"show_type": 2,
+			"main_title": "二手奢品",
+			"sub_title": "日本直供",
+			"show_product_pic": 1,
+			"pic_url": "",
+			"main_title_color": "",
+			"sub_title_color": "",
+			"background_color": "",
+			"begin_date": "",
+			"end_date": "",
+			"order": "",
+			"status": "",
+			"go_url": "https://a.mei.com/wow/meilihui/act/used-lux-main?wh_weex=true&wx_navbar_transparent=true",
+			"typeName": "",
+			"products": [
+				{
+					"productId": "",
+					"productName": "EllipsePM 老花手提包 PVC 皮 茶色",
+					"brandName": "Louis Vuitton",
+					"glsCode": "LV3-2966-REC474371",
+					"picUrl": "https://cdn13.mei.com/product/LV3-2966-REC474371/8a4efa675c041e95d8084fdee47e418e9339855880d9f961d6e867890d79e6ec.jpg@300w_400h_2e_75q",
+					"tag": "9新"
+				},
+				{
+					"productId": "",
+					"productName": "Marcello de cartierSM 皮手提包 茶色",
+					"brandName": "Cartier",
+					"glsCode": "CPJ-2966-REC471465",
+					"picUrl": "https://cdn13.mei.com/product/CPJ-2966-REC471465/8a4efa675c041e95c74891e5840f3d0cf1a5192258fe98a63edc3ca5cdf4a314.jpg@300w_400h_2e_75q",
+					"tag": "9新"
+				}
+			],
+			"top_show_type": "",
+			"pic_main_title": "",
+			"pic_sub_title": ""
+		}
+	]
+}

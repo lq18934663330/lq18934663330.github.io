@@ -1,0 +1,2473 @@
+{
+	"userIP": "119.79.228.23",
+	"errorNum": "0",
+	"totalPage": 13,
+	"eventList": [
+		{
+			"eventId": "2120005100000003346",
+			"eventCode": "45683",
+			"siloId": "2018000100000000003",
+			"siloName": "包配",
+			"englishName": "CHLOE & MIU MIU",
+			"chineseName": "这个秋冬唤醒你的少女心",
+			"imageUrl": "https://cdn13.mei.com/category/20191226/16385f423b3629c64489160ec2777e21071407a2f321be85.jpg",
+			"discount": "6.2折",
+			"spm_b": "13755147",
+			"isBazzer": "1",
+			"isCrossBorder": "0",
+			"isSeasonNew": "0",
+			"isOverseasend": "0",
+			"isMobile": "0",
+			"isFullprice": "0",
+			"isDisplayBrand": "1",
+			"tagListDto": [],
+			"totalCount": 541,
+			"products": [
+				{
+					"productId": "2041204199000812072",
+					"productName": "女士白色T恤",
+					"brandName": "MOSCHINO",
+					"glsCode": "UB2-108-00019",
+					"imageUrl": "https://cdn15.mei.com/product/UB2-108-00020/2019030500592/d31e06bb2599c9acc5f1ba0f1192b1e0b19fd90a0e5339a1.jpg@300w_400h_2e_75q",
+					"marketPrice": "10580",
+					"itemPriceDto": {
+						"price": "7479",
+						"tax": "0.00",
+						"discount": "7.1",
+						"begin": "1578225327",
+						"end": "1578240000"
+					},
+					"tagListDto": [
+						{
+							"tag": "新年价",
+							"isHasExpiration": "1",
+							"beginDate": "1578240000",
+							"endDate": "1578672000",
+							"fontColor": "FFFFFF",
+							"fontBackgroudColor": "DD2828",
+							"frameColor": "DD2828",
+							"isRadius": 0,
+							"isGradient": 0
+						},
+						{
+							"tag": "买手推荐",
+							"isHasExpiration": "0",
+							"fontColor": "000000",
+							"fontBackgroudColor": "FFFFFF",
+							"frameColor": "000000",
+							"isRadius": 0,
+							"isGradient": 0
+						}
+					],
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2041204199000812074", "size": "40（160/84A）", "qty": 2 }
+					]
+				},
+				{
+					"productId": "2121212199000169464",
+					"productName": "女士红色小羊皮单肩包斜挎包",
+					"brandName": "Chloé",
+					"glsCode": "UCF-405-00010",
+					"imageUrl": "https://cdn14.mei.com/product/UCF-405-00010/2019031500086/d31e06bb2599c9acd06e0b4e0607d3aecfe634ff6b2390d5.jpg@300w_400h_2e_75q",
+					"marketPrice": "13820",
+					"itemPriceDto": {
+						"price": "12929",
+						"tax": "0.00",
+						"discount": "9.4",
+						"begin": "1578225327",
+						"end": "1578240000"
+					},
+					"tagListDto": [
+						{
+							"tag": "新年价",
+							"isHasExpiration": "1",
+							"beginDate": "1578240000",
+							"endDate": "1578672000",
+							"fontColor": "FFFFFF",
+							"fontBackgroudColor": "DD2828",
+							"frameColor": "DD2828",
+							"isRadius": 0,
+							"isGradient": 0
+						},
+						{
+							"tag": "买手推荐",
+							"isHasExpiration": "0",
+							"fontColor": "000000",
+							"fontBackgroudColor": "FFFFFF",
+							"frameColor": "000000",
+							"isRadius": 0,
+							"isGradient": 0
+						}
+					],
+					"tNewProduct": 0,
+					"productSizes": []
+				},
+				{
+					"productId": "2121212199000169478",
+					"productName": "女士粉色小牛皮单肩斜挎包",
+					"brandName": "Chloé",
+					"glsCode": "UCF-405-00022",
+					"imageUrl": "https://cdn15.mei.com/product/UCF-405-00022/2019031500100/d31e06bb2599c9acd06e0b4e0607d3ae03be8a6aac8504d8.jpg@300w_400h_2e_75q",
+					"marketPrice": "15530",
+					"itemPriceDto": {
+						"price": "14769",
+						"tax": "0.00",
+						"discount": "9.6",
+						"begin": "1578225327",
+						"end": "1578240000"
+					},
+					"tagListDto": [
+						{
+							"tag": "新年价",
+							"isHasExpiration": "1",
+							"beginDate": "1578240000",
+							"endDate": "1578672000",
+							"fontColor": "FFFFFF",
+							"fontBackgroudColor": "DD2828",
+							"frameColor": "DD2828",
+							"isRadius": 0,
+							"isGradient": 0
+						},
+						{
+							"tag": "买手推荐",
+							"isHasExpiration": "0",
+							"fontColor": "000000",
+							"fontBackgroudColor": "FFFFFF",
+							"frameColor": "000000",
+							"isRadius": 0,
+							"isGradient": 0
+						}
+					],
+					"tNewProduct": 0,
+					"productSizes": []
+				},
+				{
+					"productId": "2121212199000150936",
+					"productName": "女士小牛皮粉色手提包",
+					"brandName": "MARNI",
+					"glsCode": "WK4-403-00021",
+					"imageUrl": "https://cdn13.mei.com/product/WK4-403-00021/2033201921660/d31e06bb2599c9ac09d8b8e6a7fda4dfd1785bd5c656e8fe.jpg@300w_400h_2e_75q",
+					"marketPrice": "15729",
+					"itemPriceDto": {
+						"price": "12369",
+						"tax": "0.00",
+						"discount": "7.9",
+						"begin": "1578225327",
+						"end": "1578240000"
+					},
+					"tagListDto": [
+						{
+							"tag": "新年价",
+							"isHasExpiration": "1",
+							"beginDate": "1578240000",
+							"endDate": "1578672000",
+							"fontColor": "FFFFFF",
+							"fontBackgroudColor": "DD2828",
+							"frameColor": "DD2828",
+							"isRadius": 0,
+							"isGradient": 0
+						},
+						{
+							"tag": "当季新品",
+							"isHasExpiration": "0",
+							"fontColor": "FFFFFF",
+							"fontBackgroudColor": "DD2828",
+							"frameColor": "DD2828",
+							"isRadius": 0,
+							"isGradient": 0
+						}
+					],
+					"tNewProduct": 0,
+					"productSizes": []
+				},
+				{
+					"productId": "2121212199000150926",
+					"productName": "女士黑色皮质时尚单肩斜挎包",
+					"brandName": "MARNI",
+					"glsCode": "WK4-405-00132",
+					"imageUrl": "https://cdn12.mei.com/product/WK4-405-00132/2033201921650/d31e06bb2599c9ac09d8b8e6a7fda4df7f296a8ddd4a834f.jpg@300w_400h_2e_75q",
+					"marketPrice": "14359",
+					"itemPriceDto": {
+						"price": "11249",
+						"tax": "0.00",
+						"discount": "7.9",
+						"begin": "1578225327",
+						"end": "1578240000"
+					},
+					"tagListDto": [
+						{
+							"tag": "新年价",
+							"isHasExpiration": "1",
+							"beginDate": "1578240000",
+							"endDate": "1578672000",
+							"fontColor": "FFFFFF",
+							"fontBackgroudColor": "DD2828",
+							"frameColor": "DD2828",
+							"isRadius": 0,
+							"isGradient": 0
+						},
+						{
+							"tag": "当季新品",
+							"isHasExpiration": "0",
+							"fontColor": "FFFFFF",
+							"fontBackgroudColor": "DD2828",
+							"frameColor": "DD2828",
+							"isRadius": 0,
+							"isGradient": 0
+						}
+					],
+					"tNewProduct": 0,
+					"productSizes": []
+				},
+				{
+					"productId": "2121212199000150938",
+					"productName": "女士黑色小牛皮单肩包斜挎包",
+					"brandName": "MARNI",
+					"glsCode": "WK4-401-00006",
+					"imageUrl": "https://cdn14.mei.com/product/WK4-401-00006/2033201921662/d31e06bb2599c9ac09d8b8e6a7fda4dfcc9f9c2f1d2f31bf.jpg@300w_400h_2e_75q",
+					"marketPrice": "15099",
+					"itemPriceDto": {
+						"price": "11859",
+						"tax": "0.00",
+						"discount": "7.9",
+						"begin": "1578225327",
+						"end": "1578240000"
+					},
+					"tagListDto": [
+						{
+							"tag": "新年价",
+							"isHasExpiration": "1",
+							"beginDate": "1578240000",
+							"endDate": "1578672000",
+							"fontColor": "FFFFFF",
+							"fontBackgroudColor": "DD2828",
+							"frameColor": "DD2828",
+							"isRadius": 0,
+							"isGradient": 0
+						},
+						{
+							"tag": "当季新品",
+							"isHasExpiration": "0",
+							"fontColor": "FFFFFF",
+							"fontBackgroudColor": "DD2828",
+							"frameColor": "DD2828",
+							"isRadius": 0,
+							"isGradient": 0
+						}
+					],
+					"tNewProduct": 0,
+					"productSizes": []
+				},
+				{
+					"productId": "2121212199000150669",
+					"productName": "女士NILE系列黑色牛皮单肩手提斜挎包",
+					"brandName": "Chloé",
+					"glsCode": "ZDS-405-00173",
+					"imageUrl": "https://cdn14.mei.com/product/ZDS-405-00173/7001201921251/d31e06bb2599c9ac2ee1a96adb8fe6110dd39e016ef5bd46.jpg@300w_400h_2e_75q",
+					"marketPrice": "16349",
+					"itemPriceDto": {
+						"price": "12889",
+						"tax": "0.00",
+						"discount": "7.9",
+						"begin": "1578225327",
+						"end": "1578240000"
+					},
+					"tagListDto": [
+						{
+							"tag": "新年价",
+							"isHasExpiration": "1",
+							"beginDate": "1578240000",
+							"endDate": "1578672000",
+							"fontColor": "FFFFFF",
+							"fontBackgroudColor": "DD2828",
+							"frameColor": "DD2828",
+							"isRadius": 0,
+							"isGradient": 0
+						}
+					],
+					"tNewProduct": 0,
+					"productSizes": []
+				},
+				{
+					"productId": "2121212199000150949",
+					"productName": "女士黑色羊皮手提包",
+					"brandName": "miu miu/缪缪",
+					"glsCode": "ZNQ-403-00027",
+					"imageUrl": "https://cdn12.mei.com/product/ZNQ-403-00027/2044201921673/d31e06bb2599c9ac0503d931ffbe4c66d441bdecc2a7f4ff.jpg@300w_400h_2e_75q",
+					"marketPrice": "18989",
+					"itemPriceDto": {
+						"price": "15039",
+						"tax": "0.00",
+						"discount": "8.0",
+						"begin": "1578225327",
+						"end": "1578240000"
+					},
+					"tagListDto": [
+						{
+							"tag": "新年价",
+							"isHasExpiration": "1",
+							"beginDate": "1578240000",
+							"endDate": "1578672000",
+							"fontColor": "FFFFFF",
+							"fontBackgroudColor": "DD2828",
+							"frameColor": "DD2828",
+							"isRadius": 0,
+							"isGradient": 0
+						},
+						{
+							"tag": "当季新品",
+							"isHasExpiration": "0",
+							"fontColor": "FFFFFF",
+							"fontBackgroudColor": "DD2828",
+							"frameColor": "DD2828",
+							"isRadius": 0,
+							"isGradient": 0
+						}
+					],
+					"tNewProduct": 0,
+					"productSizes": []
+				},
+				{
+					"productId": "2121212199000166198",
+					"productName": "女士时尚小牛皮深蓝色斜挎单肩包",
+					"brandName": "MARNI",
+					"glsCode": "UCN-405-00001",
+					"imageUrl": "https://cdn15.mei.com/product/UCN-405-00001/d31e06bb2599c9ac0503d931ffbe4c669443f2b8ecf97b0b.jpg@300w_400h_2e_75q",
+					"marketPrice": "17228",
+					"itemPriceDto": {
+						"price": "11749",
+						"tax": "0.00",
+						"discount": "6.9",
+						"begin": "1578225327",
+						"end": "1578240000"
+					},
+					"tagListDto": [
+						{
+							"tag": "新年价",
+							"isHasExpiration": "1",
+							"beginDate": "1578240000",
+							"endDate": "1578672000",
+							"fontColor": "FFFFFF",
+							"fontBackgroudColor": "DD2828",
+							"frameColor": "DD2828",
+							"isRadius": 0,
+							"isGradient": 0
+						},
+						{
+							"tag": "当季新品",
+							"isHasExpiration": "0",
+							"fontColor": "FFFFFF",
+							"fontBackgroudColor": "DD2828",
+							"frameColor": "DD2828",
+							"isRadius": 0,
+							"isGradient": 0
+						}
+					],
+					"tNewProduct": 0,
+					"productSizes": []
+				}
+			],
+			"block_status": 0,
+			"isHKBlock": 0
+		},
+		{
+			"eventId": "2120005100000003312",
+			"eventCode": "45483",
+			"siloId": "2018000100000000003",
+			"siloName": "包配",
+			"englishName": "秋冬上新",
+			"chineseName": "时髦有型又保暖,让你出街吸睛满满",
+			"imageUrl": "https://cdn13.mei.com/category/20191122/0f2c28537a7df17f4ebd567061a07b45dc0bc45b7bb6d783.jpg",
+			"discount": "4.8折",
+			"spm_b": "13719953",
+			"isBazzer": "1",
+			"isCrossBorder": "0",
+			"isSeasonNew": "0",
+			"isOverseasend": "0",
+			"isMobile": "0",
+			"isFullprice": "0",
+			"isDisplayBrand": "1",
+			"tagListDto": [],
+			"totalCount": 94,
+			"products": [
+				{
+					"productId": "2015201599000023663",
+					"productName": "Moncler黑色简约条纹压缝连帽长袖百搭保暖秋冬女士外套",
+					"brandName": "MONCLER",
+					"glsCode": "MC7-2553-100005-C",
+					"imageUrl": "https://cdn13.mei.com/product/MC7-2553-100005-C/40e5b1ce2869db42ae4818e5bf411cb850486382c379763a72fae6076a7c0e1e.jpg@300w_400h_2e_75q",
+					"marketPrice": "14420",
+					"itemPriceDto": {
+						"price": "9979",
+						"discount": "7.0",
+						"begin": "1578225327",
+						"end": "1585098000"
+					},
+					"tagListDto": [
+						{
+							"tag": "买手推荐",
+							"isHasExpiration": "0",
+							"fontColor": "000000",
+							"fontBackgroudColor": "FFFFFF",
+							"frameColor": "000000",
+							"isRadius": 0,
+							"isGradient": 0
+						},
+						{
+							"tag": "当季新品",
+							"isHasExpiration": "0",
+							"fontColor": "FFFFFF",
+							"fontBackgroudColor": "DD2828",
+							"frameColor": "DD2828",
+							"isRadius": 0,
+							"isGradient": 0
+						}
+					],
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2186218699000001477", "size": "0", "qty": 1 }
+					]
+				},
+				{
+					"productId": "2018201899000056410",
+					"productName": "Moncler黄色条纹压缝立领长袖百搭秋冬保暖男士棉服外套",
+					"brandName": "MONCLER",
+					"glsCode": "MC7-2566-100002-C",
+					"imageUrl": "https://cdn14.mei.com/product/MC7-2566-100002-C/40e5b1ce2869db427a42ec07e2212eeecbc6c0da4234630c6cf0be2bc2bb0fda.jpg@300w_400h_2e_75q",
+					"marketPrice": "15430",
+					"itemPriceDto": {
+						"price": "12009",
+						"discount": "7.8",
+						"begin": "1578225327",
+						"end": "1585098000"
+					},
+					"tagListDto": [
+						{
+							"tag": "买手推荐",
+							"isHasExpiration": "0",
+							"fontColor": "000000",
+							"fontBackgroudColor": "FFFFFF",
+							"frameColor": "000000",
+							"isRadius": 0,
+							"isGradient": 0
+						},
+						{
+							"tag": "当季新品",
+							"isHasExpiration": "0",
+							"fontColor": "FFFFFF",
+							"fontBackgroudColor": "DD2828",
+							"frameColor": "DD2828",
+							"isRadius": 0,
+							"isGradient": 0
+						}
+					],
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2020202099000023016", "size": "1", "qty": 1 },
+						{ "id": "2184218499000001625", "size": "2", "qty": 1 }
+					]
+				},
+				{
+					"productId": "2087208799000020792",
+					"productName": "Yves Saint Laurent黑色牛皮修身短款女士拉链机车皮衣夹克外套",
+					"brandName": "Yves Saint Laurent",
+					"glsCode": "YL1-102-16CBCA",
+					"imageUrl": "https://cdn13.mei.com/product/YL1-102-16CBCA/8a4efa675c041e9562d242205910fcfda7d58e19e2701bd36810e9ace245ae8c.jpg@300w_400h_2e_75q",
+					"marketPrice": "41950",
+					"itemPriceDto": {
+						"price": "32729",
+						"discount": "7.9",
+						"begin": "1578225327",
+						"end": "1585098000"
+					},
+					"tagListDto": [
+						{
+							"tag": "买手推荐",
+							"isHasExpiration": "0",
+							"fontColor": "000000",
+							"fontBackgroudColor": "FFFFFF",
+							"frameColor": "000000",
+							"isRadius": 0,
+							"isGradient": 0
+						},
+						{
+							"tag": "仅剩一件",
+							"isHasExpiration": "0",
+							"fontColor": "000000",
+							"fontBackgroudColor": "FFFFFF",
+							"frameColor": "000000",
+							"isRadius": 0,
+							"isGradient": 0
+						}
+					],
+					"tNewProduct": 0,
+					"productSizes": []
+				},
+				{
+					"productId": "2185218599000002226",
+					"productName": "Yves Saint Laurent军绿色棉质贴布抽绳休闲女士中长款连帽外套",
+					"brandName": "Yves Saint Laurent",
+					"glsCode": "YL1-102-16CBCB",
+					"imageUrl": "https://cdn13.mei.com/product/YL1-102-16CBCB/8a4efa675c041e95fffcaba5e8c27fc15ba69efc81e03078a57a58c184231f6f.jpg@300w_400h_2e_75q",
+					"marketPrice": "28390",
+					"itemPriceDto": {
+						"price": "22139",
+						"discount": "7.8",
+						"begin": "1578225327",
+						"end": "1585098000"
+					},
+					"tagListDto": [
+						{
+							"tag": "买手推荐",
+							"isHasExpiration": "0",
+							"fontColor": "000000",
+							"fontBackgroudColor": "FFFFFF",
+							"frameColor": "000000",
+							"isRadius": 0,
+							"isGradient": 0
+						},
+						{
+							"tag": "仅剩一件",
+							"isHasExpiration": "0",
+							"fontColor": "000000",
+							"fontBackgroudColor": "FFFFFF",
+							"frameColor": "000000",
+							"isRadius": 0,
+							"isGradient": 0
+						}
+					],
+					"tNewProduct": 0,
+					"productSizes": []
+				},
+				{
+					"productId": "2019201999000026348",
+					"productName": "Yves Saint Laurent黑色V领红唇图案百搭女士羊毛衫针织开衫外套",
+					"brandName": "Yves Saint Laurent",
+					"glsCode": "YL1-2572-16CBC6",
+					"imageUrl": "https://cdn12.mei.com/product/YL1-2572-16CBC6/40e5b1ce2869db429723b6e7a436e8b62960f194be1ce3eed9274c46b23df32d.jpg@300w_400h_2e_75q",
+					"marketPrice": "11510",
+					"itemPriceDto": {
+						"price": "8949",
+						"discount": "7.8",
+						"begin": "1578225327",
+						"end": "1585098000"
+					},
+					"tagListDto": [
+						{
+							"tag": "买手推荐",
+							"isHasExpiration": "0",
+							"fontColor": "000000",
+							"fontBackgroudColor": "FFFFFF",
+							"frameColor": "000000",
+							"isRadius": 0,
+							"isGradient": 0
+						},
+						{
+							"tag": "仅剩一件",
+							"isHasExpiration": "0",
+							"fontColor": "000000",
+							"fontBackgroudColor": "FFFFFF",
+							"frameColor": "000000",
+							"isRadius": 0,
+							"isGradient": 0
+						}
+					],
+					"tNewProduct": 0,
+					"productSizes": []
+				},
+				{
+					"productId": "2021202199000025583",
+					"productName": "Balenciaga/巴黎世家黑色围脖领绗缝宽松百搭女士中长款棉服棉衣",
+					"brandName": "BALENCIAGA",
+					"glsCode": "BG3-148-16CBD5",
+					"imageUrl": "https://cdn14.mei.com/product/BG3-148-16CBD5/8a4efa675c041e9528f3ce93ffaf1c1fea4c66e3801b1446520c69007e37dffe.jpg@300w_400h_2e_75q",
+					"marketPrice": "23670",
+					"itemPriceDto": {
+						"price": "18449",
+						"discount": "7.8",
+						"begin": "1578225327",
+						"end": "1585098000"
+					},
+					"tagListDto": [
+						{
+							"tag": "仅剩一件",
+							"isHasExpiration": "0",
+							"fontColor": "000000",
+							"fontBackgroudColor": "FFFFFF",
+							"frameColor": "000000",
+							"isRadius": 0,
+							"isGradient": 0
+						}
+					],
+					"tNewProduct": 0,
+					"productSizes": []
+				},
+				{
+					"productId": "2016201699000069317",
+					"productName": "MaxMara驼色牛角扣毛条连帽气质百搭女士中长款羊毛呢大衣外套",
+					"brandName": "MaxMara",
+					"glsCode": "MX1-2560-16CBCE",
+					"imageUrl": "https://cdn13.mei.com/product/MX1-2560-16CBCE/8a4efa675c041e95d1535989d8af16b5a1e4fd4ece345040b1b29f4f53217dcd.jpg@300w_400h_2e_75q",
+					"marketPrice": "10250",
+					"itemPriceDto": {
+						"price": "7959",
+						"discount": "7.8",
+						"begin": "1578225327",
+						"end": "1585098000"
+					},
+					"tagListDto": [
+						{
+							"tag": "仅剩一件",
+							"isHasExpiration": "0",
+							"fontColor": "000000",
+							"fontBackgroudColor": "FFFFFF",
+							"frameColor": "000000",
+							"isRadius": 0,
+							"isGradient": 0
+						}
+					],
+					"tNewProduct": 0,
+					"productSizes": []
+				},
+				{
+					"productId": "2017201799000024196",
+					"productName": "MaxMara灰色翻驳领宽松气质女士中长款长绒羊毛呢大衣外套",
+					"brandName": "MaxMara",
+					"glsCode": "MX1-2560-16CBEA",
+					"imageUrl": "https://cdn15.mei.com/product/MX1-2560-16CBEA/8a4efa675c041e953dc86184552d4f5ae7f9c1e7753c8db6d37d05756ac8907e.jpg@300w_400h_2e_75q",
+					"marketPrice": "25460",
+					"itemPriceDto": {
+						"price": "19849",
+						"discount": "7.8",
+						"begin": "1578225327",
+						"end": "1585098000"
+					},
+					"tagListDto": [
+						{
+							"tag": "仅剩一件",
+							"isHasExpiration": "0",
+							"fontColor": "000000",
+							"fontBackgroudColor": "FFFFFF",
+							"frameColor": "000000",
+							"isRadius": 0,
+							"isGradient": 0
+						}
+					],
+					"tNewProduct": 0,
+					"productSizes": []
+				},
+				{
+					"productId": "2020202099000024199",
+					"productName": "MaxMara深蓝色枪驳领系带都市时尚女士中长款羊绒毛呢大衣外套",
+					"brandName": "MaxMara",
+					"glsCode": "MX1-2562-100004-C",
+					"imageUrl": "https://cdn14.mei.com/product/MX1-2562-100004-C/8a4efa675c041e9597846e3696aa96b47d1105c8275f7352c05c611955e5b3f5.jpg@300w_400h_2e_75q",
+					"marketPrice": "28320",
+					"itemPriceDto": {
+						"price": "22079",
+						"discount": "7.8",
+						"begin": "1578225327",
+						"end": "1578240000"
+					},
+					"tagListDto": [
+						{
+							"tag": "新年价",
+							"isHasExpiration": "1",
+							"beginDate": "1578240000",
+							"endDate": "1578672000",
+							"fontColor": "FFFFFF",
+							"fontBackgroudColor": "DD2828",
+							"frameColor": "DD2828",
+							"isRadius": 0,
+							"isGradient": 0
+						},
+						{
+							"tag": "仅剩一件",
+							"isHasExpiration": "0",
+							"fontColor": "000000",
+							"fontBackgroudColor": "FFFFFF",
+							"frameColor": "000000",
+							"isRadius": 0,
+							"isGradient": 0
+						}
+					],
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2021202199000025585", "size": "42", "qty": 1 }
+					]
+				}
+			],
+			"block_status": 0,
+			"isHKBlock": 0
+		},
+		{
+			"eventId": "2042204290000006962",
+			"eventCode": "44413",
+			"siloId": "2018000100000000003",
+			"siloName": "包配",
+			"englishName": "BURBERRY女士",
+			"chineseName": " “我只想把格纹穿时髦！”",
+			"imageUrl": "https://cdn14.mei.com/category/20191015/102719672f525dafd58c4c49e317ebcf1ac47f6e1a03bdfe.jpg",
+			"discount": "6.5折",
+			"spm_b": "13519279",
+			"isBazzer": "0",
+			"isCrossBorder": "0",
+			"isSeasonNew": "0",
+			"isOverseasend": "0",
+			"isMobile": "0",
+			"isFullprice": "0",
+			"isDisplayBrand": "1",
+			"tagListDto": [],
+			"totalCount": 259,
+			"products": [
+				{
+					"productId": "2121212199000185102",
+					"productName": "女士棕色格子涤纶外套",
+					"brandName": "BURBERRY",
+					"glsCode": "UCD-102-00007",
+					"imageUrl": "https://cdn15.mei.com/product/UCD-102-00008/d31e06bb2599c9ace4d1bbce132951f29a24e356f21978a0.jpg@300w_400h_2e_75q",
+					"marketPrice": "9980",
+					"itemPriceDto": {
+						"price": "7669",
+						"tax": "0.00",
+						"discount": "7.7",
+						"begin": "1578225327",
+						"end": "1582938000"
+					},
+					"tagListDto": [
+						{
+							"tag": "买手推荐",
+							"isHasExpiration": "0",
+							"fontColor": "000000",
+							"fontBackgroudColor": "FFFFFF",
+							"frameColor": "000000",
+							"isRadius": 0,
+							"isGradient": 0
+						},
+						{
+							"tag": "当季新品",
+							"isHasExpiration": "0",
+							"fontColor": "FFFFFF",
+							"fontBackgroudColor": "DD2828",
+							"frameColor": "DD2828",
+							"isRadius": 0,
+							"isGradient": 0
+						}
+					],
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2121212199000185103", "size": "4", "qty": 1 },
+						{ "id": "2121212199000185104", "size": "6", "qty": 4 },
+						{ "id": "2121212199000185105", "size": "8", "qty": 4 },
+						{ "id": "2121212199000185106", "size": "10", "qty": 3 }
+					]
+				},
+				{
+					"productId": "2121212199000150590",
+					"productName": "女士黑色尼龙配皮双肩包",
+					"brandName": "BURBERRY",
+					"glsCode": "BTM-470-00042",
+					"imageUrl": "https://cdn13.mei.com/product/BTM-470-00042/4001201921153/d31e06bb2599c9ac72b740c0a86264fd150cbd2b271fccfd.jpg@300w_400h_2e_75q",
+					"marketPrice": "12229",
+					"itemPriceDto": {
+						"price": "9859",
+						"tax": "0.00",
+						"discount": "8.1",
+						"begin": "1578225327",
+						"end": "1578240000"
+					},
+					"tagListDto": [
+						{
+							"tag": "新年价",
+							"isHasExpiration": "1",
+							"beginDate": "1578240000",
+							"endDate": "1578672000",
+							"fontColor": "FFFFFF",
+							"fontBackgroudColor": "DD2828",
+							"frameColor": "DD2828",
+							"isRadius": 0,
+							"isGradient": 0
+						},
+						{
+							"tag": "买手推荐",
+							"isHasExpiration": "0",
+							"fontColor": "000000",
+							"fontBackgroudColor": "FFFFFF",
+							"frameColor": "000000",
+							"isRadius": 0,
+							"isGradient": 0
+						}
+					],
+					"tNewProduct": 0,
+					"productSizes": []
+				},
+				{
+					"productId": "2120212099000169701",
+					"productName": "女士黑色新logo腰包",
+					"brandName": "BURBERRY",
+					"glsCode": "UCD-460-00001",
+					"imageUrl": "https://cdn13.mei.com/product/UCD-460-00001/ypj/2019041700026/d31e06bb2599c9acebc933020e1a78113029be62a3c7069d.jpg@300w_400h_2e_75q",
+					"marketPrice": "10500",
+					"itemPriceDto": {
+						"price": "7749",
+						"tax": "0.00",
+						"discount": "7.4",
+						"begin": "1578225327",
+						"end": "1582938000"
+					},
+					"tagListDto": [
+						{
+							"tag": "买手推荐",
+							"isHasExpiration": "0",
+							"fontColor": "000000",
+							"fontBackgroudColor": "FFFFFF",
+							"frameColor": "000000",
+							"isRadius": 0,
+							"isGradient": 0
+						},
+						{
+							"tag": "当季新品",
+							"isHasExpiration": "0",
+							"fontColor": "FFFFFF",
+							"fontBackgroudColor": "DD2828",
+							"frameColor": "DD2828",
+							"isRadius": 0,
+							"isGradient": 0
+						}
+					],
+					"tNewProduct": 0,
+					"productSizes": []
+				},
+				{
+					"productId": "2121212199000169443",
+					"productName": "女士斜背式军旅背包",
+					"brandName": "BURBERRY",
+					"glsCode": "UCD-470-00006",
+					"imageUrl": "https://cdn14.mei.com/product/UCD-470-00006/2019031500063/d31e06bb2599c9acd06e0b4e0607d3aeea96872907edcf68.jpg@300w_400h_2e_75q",
+					"marketPrice": "10500",
+					"itemPriceDto": {
+						"price": "8759",
+						"tax": "0.00",
+						"discount": "8.4",
+						"begin": "1578225327",
+						"end": "1578240000"
+					},
+					"tagListDto": [
+						{
+							"tag": "新年价",
+							"isHasExpiration": "1",
+							"beginDate": "1578240000",
+							"endDate": "1578672000",
+							"fontColor": "FFFFFF",
+							"fontBackgroudColor": "DD2828",
+							"frameColor": "DD2828",
+							"isRadius": 0,
+							"isGradient": 0
+						},
+						{
+							"tag": "买手推荐",
+							"isHasExpiration": "0",
+							"fontColor": "000000",
+							"fontBackgroudColor": "FFFFFF",
+							"frameColor": "000000",
+							"isRadius": 0,
+							"isGradient": 0
+						}
+					],
+					"tNewProduct": 0,
+					"productSizes": []
+				},
+				{
+					"productId": "2121212199000166073",
+					"productName": "女士纯棉深军卡其色双排扣收腰长款风衣",
+					"brandName": "BURBERRY",
+					"glsCode": "UCD-101-00020",
+					"imageUrl": "https://cdn12.mei.com/product/UCD-101-00021/4001201921119/d31e06bb2599c9ac72b740c0a86264fda4072c12b40b350e.jpg@300w_400h_2e_75q",
+					"marketPrice": "22645",
+					"itemPriceDto": {
+						"price": "15549",
+						"tax": "0.00",
+						"discount": "6.9",
+						"begin": "1578225327",
+						"end": "1578240000"
+					},
+					"tagListDto": [
+						{
+							"tag": "新年价",
+							"isHasExpiration": "1",
+							"beginDate": "1578240000",
+							"endDate": "1578672000",
+							"fontColor": "FFFFFF",
+							"fontBackgroudColor": "DD2828",
+							"frameColor": "DD2828",
+							"isRadius": 0,
+							"isGradient": 0
+						},
+						{
+							"tag": "当季新品",
+							"isHasExpiration": "0",
+							"fontColor": "FFFFFF",
+							"fontBackgroudColor": "DD2828",
+							"frameColor": "DD2828",
+							"isRadius": 0,
+							"isGradient": 0
+						}
+					],
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2121212199000166077", "size": "10（170/92A）", "qty": 2 },
+						{ "id": "2121212199000166076", "size": "8（165/88A）", "qty": 2 }
+					]
+				},
+				{
+					"productId": "2121212199000150612",
+					"productName": "女士中号粒面皮革手提包",
+					"brandName": "BURBERRY",
+					"glsCode": "BTM-405-00159",
+					"imageUrl": "https://cdn14.mei.com/product/BTM-405-00159/4001201921175/d31e06bb2599c9ac72b740c0a86264fd7df941a2e80ea840.jpg@300w_400h_2e_75q",
+					"marketPrice": "15799",
+					"itemPriceDto": {
+						"price": "12429",
+						"tax": "0.00",
+						"discount": "7.9",
+						"begin": "1578225327",
+						"end": "1578240000"
+					},
+					"tagListDto": [
+						{
+							"tag": "新年价",
+							"isHasExpiration": "1",
+							"beginDate": "1578240000",
+							"endDate": "1578672000",
+							"fontColor": "FFFFFF",
+							"fontBackgroudColor": "DD2828",
+							"frameColor": "DD2828",
+							"isRadius": 0,
+							"isGradient": 0
+						},
+						{
+							"tag": "当季新品",
+							"isHasExpiration": "0",
+							"fontColor": "FFFFFF",
+							"fontBackgroudColor": "DD2828",
+							"frameColor": "DD2828",
+							"isRadius": 0,
+							"isGradient": 0
+						}
+					],
+					"tNewProduct": 0,
+					"productSizes": []
+				},
+				{
+					"productId": "2121212199000150619",
+					"productName": "女士棕色格纹山羊皮单肩斜挎包",
+					"brandName": "BURBERRY",
+					"glsCode": "BTM-405-00160",
+					"imageUrl": "https://cdn15.mei.com/product/BTM-405-00160/4001201921182/d31e06bb2599c9ac72b740c0a86264fdeb54798386a87496.jpg@300w_400h_2e_75q",
+					"marketPrice": "10379",
+					"itemPriceDto": {
+						"price": "7989",
+						"tax": "0.00",
+						"discount": "7.7",
+						"begin": "1578225327",
+						"end": "1578240000"
+					},
+					"tagListDto": [
+						{
+							"tag": "新年价",
+							"isHasExpiration": "1",
+							"beginDate": "1578240000",
+							"endDate": "1578672000",
+							"fontColor": "FFFFFF",
+							"fontBackgroudColor": "DD2828",
+							"frameColor": "DD2828",
+							"isRadius": 0,
+							"isGradient": 0
+						},
+						{
+							"tag": "当季新品",
+							"isHasExpiration": "0",
+							"fontColor": "FFFFFF",
+							"fontBackgroudColor": "DD2828",
+							"frameColor": "DD2828",
+							"isRadius": 0,
+							"isGradient": 0
+						}
+					],
+					"tNewProduct": 0,
+					"productSizes": []
+				},
+				{
+					"productId": "2121212199000185138",
+					"productName": "女士浅棕色小羊皮腰包",
+					"brandName": "BURBERRY",
+					"glsCode": "UCD-406-00001",
+					"imageUrl": "https://cdn15.mei.com/product/UCD-406-00001/d31e06bb2599c9ace4d1bbce132951f22317fa262206455e.jpg@300w_400h_2e_75q",
+					"marketPrice": "11010",
+					"itemPriceDto": {
+						"price": "8479",
+						"tax": "0.00",
+						"discount": "7.8",
+						"begin": "1578225327",
+						"end": "1582938000"
+					},
+					"tagListDto": [
+						{
+							"tag": "当季新品",
+							"isHasExpiration": "0",
+							"fontColor": "FFFFFF",
+							"fontBackgroudColor": "DD2828",
+							"frameColor": "DD2828",
+							"isRadius": 0,
+							"isGradient": 0
+						}
+					],
+					"tNewProduct": 0,
+					"productSizes": []
+				},
+				{
+					"productId": "2121212199000150591",
+					"productName": "女士深蓝色双肩背包",
+					"brandName": "BURBERRY",
+					"glsCode": "BTM-470-00043",
+					"imageUrl": "https://cdn15.mei.com/product/BTM-470-00043/4001201921154/d31e06bb2599c9ac72b740c0a86264fd4eb942cf740871b1.jpg@300w_400h_2e_75q",
+					"marketPrice": "12379",
+					"itemPriceDto": {
+						"price": "9989",
+						"tax": "0.00",
+						"discount": "8.1",
+						"begin": "1578225327",
+						"end": "1578240000"
+					},
+					"tagListDto": [
+						{
+							"tag": "新年价",
+							"isHasExpiration": "1",
+							"beginDate": "1578240000",
+							"endDate": "1578672000",
+							"fontColor": "FFFFFF",
+							"fontBackgroudColor": "DD2828",
+							"frameColor": "DD2828",
+							"isRadius": 0,
+							"isGradient": 0
+						},
+						{
+							"tag": "当季新品",
+							"isHasExpiration": "0",
+							"fontColor": "FFFFFF",
+							"fontBackgroudColor": "DD2828",
+							"frameColor": "DD2828",
+							"isRadius": 0,
+							"isGradient": 0
+						}
+					],
+					"tNewProduct": 0,
+					"productSizes": []
+				}
+			],
+			"block_status": 0,
+			"isHKBlock": 0
+		},
+		{
+			"eventId": "2041204190000007537",
+			"eventCode": "46230",
+			"siloId": "2018000100000000003",
+			"siloName": "包配",
+			"englishName": "THOM BROWNE&MONTBLANC等品牌",
+			"chineseName": "引领时尚潮流",
+			"imageUrl": "https://cdn12.mei.com/category/20200103/8a4efa675c041e953313a2737a1c19c8d4fa53a986efd91b.jpg",
+			"discount": "6.5折",
+			"spm_b": "13865123",
+			"isBazzer": "1",
+			"isCrossBorder": "0",
+			"isSeasonNew": "0",
+			"isOverseasend": "0",
+			"isMobile": "0",
+			"isFullprice": "0",
+			"isDisplayBrand": "1",
+			"tagListDto": [],
+			"totalCount": 77,
+			"products": [
+				{
+					"productId": "2185218599000004084",
+					"productName": "Prada/普拉达黑色尼龙三角徽标饰经典百搭腰包斜挎包男包",
+					"brandName": "PRADA",
+					"glsCode": "PR2-2777-175AE9",
+					"imageUrl": "https://cdn15.mei.com/product/PR2-2777-175AE9/40e5b1ce2869db425f5fa4ccb4b34ee81e25b0cba8eae5bff6a1231d446c1add.jpg@300w_400h_2e_75q",
+					"marketPrice": "8050",
+					"itemPriceDto": {
+						"price": "6159",
+						"discount": "7.7",
+						"begin": "1578225327",
+						"end": "1585530000"
+					},
+					"tagListDto": [
+						{
+							"tag": "买手推荐",
+							"isHasExpiration": "0",
+							"fontColor": "000000",
+							"fontBackgroudColor": "FFFFFF",
+							"frameColor": "000000",
+							"isRadius": 0,
+							"isGradient": 0
+						}
+					],
+					"tNewProduct": 0,
+					"productSizes": []
+				},
+				{
+					"productId": "2184218499000000291",
+					"productName": "Prada/普拉达黑蓝拼色尼龙倒三角LOGO金属徽标单肩挎包男包",
+					"brandName": "PRADA",
+					"glsCode": "PR2-446-166EC7",
+					"imageUrl": "https://cdn12.mei.com/product/PR2-446-166EC7/4478d1b2ebcd4a42e0c10f234ae37cc04b9abd6bce7df8945eccc9b7b4f2b2df.jpg@300w_400h_2e_75q",
+					"marketPrice": "10450",
+					"itemPriceDto": {
+						"price": "8259",
+						"discount": "8.0",
+						"begin": "1578225327",
+						"end": "1585530000"
+					},
+					"tagListDto": [
+						{
+							"tag": "买手推荐",
+							"isHasExpiration": "0",
+							"fontColor": "000000",
+							"fontBackgroudColor": "FFFFFF",
+							"frameColor": "000000",
+							"isRadius": 0,
+							"isGradient": 0
+						},
+						{
+							"tag": "当季新品",
+							"isHasExpiration": "0",
+							"fontColor": "FFFFFF",
+							"fontBackgroudColor": "DD2828",
+							"frameColor": "DD2828",
+							"isRadius": 0,
+							"isGradient": 0
+						}
+					],
+					"tNewProduct": 0,
+					"productSizes": []
+				},
+				{
+					"productId": "2086208699000022050",
+					"productName": "Prada/普拉达黑色十字纹牛皮三角徽标饰公文包手提包单肩包男包",
+					"brandName": "PRADA",
+					"glsCode": "PR2-446-175AF6",
+					"imageUrl": "https://cdn15.mei.com/product/PR2-446-175AF6/40e5b1ce2869db4270aa693b4a3cd850fa4fdeea8a273f461da1d5be61b8edee.jpg@300w_400h_2e_75q",
+					"marketPrice": "21450",
+					"itemPriceDto": {
+						"price": "14859",
+						"discount": "7.0",
+						"begin": "1578225327",
+						"end": "1585530000"
+					},
+					"tagListDto": [
+						{
+							"tag": "买手推荐",
+							"isHasExpiration": "0",
+							"fontColor": "000000",
+							"fontBackgroudColor": "FFFFFF",
+							"frameColor": "000000",
+							"isRadius": 0,
+							"isGradient": 0
+						},
+						{
+							"tag": "仅剩一件",
+							"isHasExpiration": "0",
+							"fontColor": "000000",
+							"fontBackgroudColor": "FFFFFF",
+							"frameColor": "000000",
+							"isRadius": 0,
+							"isGradient": 0
+						}
+					],
+					"tNewProduct": 0,
+					"productSizes": []
+				},
+				{
+					"productId": "2014201499000049996",
+					"productName": "Prada/普拉达黑色粒面牛皮三角徽标饰时尚双肩包背包男包",
+					"brandName": "PRADA",
+					"glsCode": "PR2-481-175AC2",
+					"imageUrl": "https://cdn13.mei.com/product/PR2-481-175AC2/40e5b1ce2869db42105876b1ddf91506dac8ccae2a3b73920c0009fa182dd005.jpg@300w_400h_2e_75q",
+					"marketPrice": "17550",
+					"itemPriceDto": {
+						"price": "12679",
+						"discount": "7.3",
+						"begin": "1578225327",
+						"end": "1585530000"
+					},
+					"tagListDto": [
+						{
+							"tag": "买手推荐",
+							"isHasExpiration": "0",
+							"fontColor": "000000",
+							"fontBackgroudColor": "FFFFFF",
+							"frameColor": "000000",
+							"isRadius": 0,
+							"isGradient": 0
+						},
+						{
+							"tag": "当季新品",
+							"isHasExpiration": "0",
+							"fontColor": "FFFFFF",
+							"fontBackgroudColor": "DD2828",
+							"frameColor": "DD2828",
+							"isRadius": 0,
+							"isGradient": 0
+						}
+					],
+					"tNewProduct": 0,
+					"productSizes": []
+				},
+				{
+					"productId": "2185218599000002165",
+					"productName": "Montblanc/万宝龙黑色牛皮徽标装饰简约时尚手拿包长款钱包男包",
+					"brandName": "MONTBLANC",
+					"glsCode": "MB0-2775-16C4F2",
+					"imageUrl": "https://cdn13.mei.com/product/MB0-2775-16C4F2/4478d1b2ebcd4a42d9702e88fcf07ca751d7837a4e4d146abdb8bfcf625b2f30.jpg@300w_400h_2e_75q",
+					"marketPrice": "8640",
+					"itemPriceDto": {
+						"price": "5959",
+						"discount": "6.9",
+						"begin": "1578225327",
+						"end": "1585530000"
+					},
+					"tagListDto": [
+						{
+							"tag": "当季新品",
+							"isHasExpiration": "0",
+							"fontColor": "FFFFFF",
+							"fontBackgroudColor": "DD2828",
+							"frameColor": "DD2828",
+							"isRadius": 0,
+							"isGradient": 0
+						}
+					],
+					"tNewProduct": 0,
+					"productSizes": []
+				},
+				{
+					"productId": "2018201899000056002",
+					"productName": "Montblanc/万宝龙黑色牛皮徽标饰双隔袋手拿包手挽包男包",
+					"brandName": "MONTBLANC",
+					"glsCode": "MB0-2775-16C526",
+					"imageUrl": "https://cdn13.mei.com/product/MB0-2775-16C526/4478d1b2ebcd4a42436e51ee67be552625fbfb40858f80452fafcdd4ca814517.jpg@300w_400h_2e_75q",
+					"marketPrice": "9050",
+					"itemPriceDto": {
+						"price": "5929",
+						"discount": "6.6",
+						"begin": "1578225327",
+						"end": "1585530000"
+					},
+					"tagListDto": [
+						{
+							"tag": "当季新品",
+							"isHasExpiration": "0",
+							"fontColor": "FFFFFF",
+							"fontBackgroudColor": "DD2828",
+							"frameColor": "DD2828",
+							"isRadius": 0,
+							"isGradient": 0
+						},
+						{
+							"tag": "仅剩一件",
+							"isHasExpiration": "0",
+							"fontColor": "000000",
+							"fontBackgroudColor": "FFFFFF",
+							"frameColor": "000000",
+							"isRadius": 0,
+							"isGradient": 0
+						}
+					],
+					"tNewProduct": 0,
+					"productSizes": []
+				},
+				{
+					"productId": "2186218699000002908",
+					"productName": "Montblanc/万宝龙黑色牛皮金属拉链拼接百搭手提斜挎男包",
+					"brandName": "MONTBLANC",
+					"glsCode": "MB0-444-16EE98",
+					"imageUrl": "https://cdn15.mei.com/product/MB0-444-16EE98/cdbdee763cdc342cacf5a52a7ab1fb5e4e081a826541e48693747af0c7ef9a24.jpg@300w_400h_2e_75q",
+					"marketPrice": "11530",
+					"itemPriceDto": {
+						"price": "7979",
+						"discount": "7.0",
+						"begin": "1578225327",
+						"end": "1585530000"
+					},
+					"tagListDto": [],
+					"tNewProduct": 0,
+					"productSizes": []
+				},
+				{
+					"productId": "2087208799000020715",
+					"productName": "Montblanc/万宝龙黑色牛皮经典商务时尚公文包手提包单肩包男包",
+					"brandName": "MONTBLANC",
+					"glsCode": "MB0-445-16C4FD",
+					"imageUrl": "https://cdn14.mei.com/product/MB0-445-16C4FD/4478d1b2ebcd4a42673ab855309a99f7d200908995afb0843fa265f5fa692485.jpg@300w_400h_2e_75q",
+					"marketPrice": "12730",
+					"itemPriceDto": {
+						"price": "9329",
+						"discount": "7.4",
+						"begin": "1578225327",
+						"end": "1585530000"
+					},
+					"tagListDto": [
+						{
+							"tag": "当季新品",
+							"isHasExpiration": "0",
+							"fontColor": "FFFFFF",
+							"fontBackgroudColor": "DD2828",
+							"frameColor": "DD2828",
+							"isRadius": 0,
+							"isGradient": 0
+						}
+					],
+					"tNewProduct": 0,
+					"productSizes": []
+				},
+				{
+					"productId": "2185218599000002166",
+					"productName": "Montblanc/万宝龙蓝色牛皮徽标饰简约商务公文包手提包单肩包男包",
+					"brandName": "MONTBLANC",
+					"glsCode": "MB0-445-16C511",
+					"imageUrl": "https://cdn12.mei.com/product/MB0-445-16C511/4478d1b2ebcd4a42aa7c78f86bbd84832dfe7e9ac619117e7a27e48618bbd3ec.jpg@300w_400h_2e_75q",
+					"marketPrice": "11700",
+					"itemPriceDto": {
+						"price": "8089",
+						"discount": "7.0",
+						"begin": "1578225327",
+						"end": "1585530000"
+					},
+					"tagListDto": [
+						{
+							"tag": "当季新品",
+							"isHasExpiration": "0",
+							"fontColor": "FFFFFF",
+							"fontBackgroudColor": "DD2828",
+							"frameColor": "DD2828",
+							"isRadius": 0,
+							"isGradient": 0
+						}
+					],
+					"tNewProduct": 0,
+					"productSizes": []
+				}
+			],
+			"block_status": 0,
+			"isHKBlock": 0
+		},
+		{
+			"eventId": "2121005100000003115",
+			"eventCode": "44482",
+			"siloId": "2018000100000000003",
+			"siloName": "包配",
+			"englishName": "奢华包袋配饰专场",
+			"chineseName": "给你不一样的穿搭灵感",
+			"imageUrl": "https://cdn14.mei.com/category/20191015/102719672f525dafa35f9113730dd635071407a2f321be85.jpg",
+			"discount": "5.6折",
+			"spm_b": "13532253",
+			"isBazzer": "1",
+			"isCrossBorder": "0",
+			"isSeasonNew": "0",
+			"isOverseasend": "0",
+			"isMobile": "0",
+			"isFullprice": "0",
+			"isDisplayBrand": "1",
+			"tagListDto": [],
+			"totalCount": 189,
+			"products": [
+				{
+					"productId": "2020202099000018083",
+					"productName": "Gucci/古驰黑色皮质几何压缝双G金属徽标手拿包女包",
+					"brandName": "GUCCI",
+					"glsCode": "GU0-404-160129",
+					"imageUrl": "https://cdn12.mei.com/product/GU0-404-160129/40e5b1ce2869db42fdf82062a9b790f207b4de4355d4d21ede891829762ee62c.jpg@300w_400h_2e_75q",
+					"marketPrice": "11100",
+					"itemPriceDto": {
+						"price": "10800",
+						"discount": "9.8",
+						"begin": "1578225328",
+						"end": "1585616400"
+					},
+					"tagListDto": [
+						{
+							"tag": "买手推荐",
+							"isHasExpiration": "0",
+							"fontColor": "000000",
+							"fontBackgroudColor": "FFFFFF",
+							"frameColor": "000000",
+							"isRadius": 0,
+							"isGradient": 0
+						}
+					],
+					"tNewProduct": 0,
+					"productSizes": []
+				},
+				{
+					"productId": "2015201599000017658",
+					"productName": "Gucci/古驰多色皮质拼接金属镶钻链条单肩斜挎女包",
+					"brandName": "GUCCI",
+					"glsCode": "GU0-401-160123",
+					"imageUrl": "https://cdn14.mei.com/product/GU0-401-160123/40e5b1ce2869db4241964fadc451393309c5fc78dd5328022e847de33ec1dbcb.jpg@300w_400h_2e_75q",
+					"marketPrice": "23700",
+					"itemPriceDto": {
+						"price": "22800",
+						"discount": "9.7",
+						"begin": "1578225328",
+						"end": "1585616400"
+					},
+					"tagListDto": [
+						{
+							"tag": "买手推荐",
+							"isHasExpiration": "0",
+							"fontColor": "000000",
+							"fontBackgroudColor": "FFFFFF",
+							"frameColor": "000000",
+							"isRadius": 0,
+							"isGradient": 0
+						}
+					],
+					"tNewProduct": 0,
+					"productSizes": []
+				},
+				{
+					"productId": "2014201499000042640",
+					"productName": "Gucci/古驰黑色皮质纹理金属链条饰单肩包斜挎包女包",
+					"brandName": "GUCCI",
+					"glsCode": "GU0-401-160122",
+					"imageUrl": "https://cdn14.mei.com/product/GU0-401-160122/40e5b1ce2869db42c9581526c39e6b6e7356d8dbeb16b9ffcca8bebe053de360.jpg@300w_400h_2e_75q",
+					"marketPrice": "23700",
+					"itemPriceDto": {
+						"price": "22800",
+						"discount": "9.7",
+						"begin": "1578225328",
+						"end": "1585616400"
+					},
+					"tagListDto": [
+						{
+							"tag": "买手推荐",
+							"isHasExpiration": "0",
+							"fontColor": "000000",
+							"fontBackgroudColor": "FFFFFF",
+							"frameColor": "000000",
+							"isRadius": 0,
+							"isGradient": 0
+						}
+					],
+					"tNewProduct": 0,
+					"productSizes": []
+				},
+				{
+					"productId": "2016201699000063606",
+					"productName": "Gucci/古驰黑色皮质LOGO字母印花拉链饰男士手拿包",
+					"brandName": "GUCCI",
+					"glsCode": "GU0-2775-160137",
+					"imageUrl": "https://cdn14.mei.com/product/GU0-2775-160137/32114d1b76ed471e35e0a55abb6183ee9c6a09fc4b1aec4dd80cd260f7bd11f2.jpg@300w_400h_2e_75q",
+					"marketPrice": "9900",
+					"itemPriceDto": {
+						"price": "9780",
+						"discount": "9.9",
+						"begin": "1578225328",
+						"end": "1585616400"
+					},
+					"tagListDto": [
+						{
+							"tag": "买手推荐",
+							"isHasExpiration": "0",
+							"fontColor": "000000",
+							"fontBackgroudColor": "FFFFFF",
+							"frameColor": "000000",
+							"isRadius": 0,
+							"isGradient": 0
+						}
+					],
+					"tNewProduct": 0,
+					"productSizes": []
+				},
+				{
+					"productId": "2021202199000027494",
+					"productName": "GUCCI/古驰古奇 经典款多色GG金属扣男士时尚潮流皮带腰带",
+					"brandName": "GUCCI",
+					"glsCode": "GU0-451-100006-C",
+					"imageUrl": "https://cdn12.mei.com/product/GU0-451-100006-C/32114d1b76ed471e36f911174f49c381105827be788f0502e6dffb29e73d3f91.jpg@300w_400h_2e_75q",
+					"marketPrice": "3700",
+					"itemPriceDto": {
+						"price": "3559",
+						"discount": "9.7",
+						"begin": "1578225328",
+						"end": "1585616400"
+					},
+					"tagListDto": [],
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2184218499000002953", "size": "85cm", "qty": 2 },
+						{ "id": "2086208699000020909", "size": "105cm", "qty": 29 },
+						{ "id": "2015201599000023899", "size": "95cm", "qty": 116 },
+						{ "id": "2021202199000026212", "size": "100cm", "qty": 88 },
+						{ "id": "2021202199000026211", "size": "90cm", "qty": 56 },
+						{ "id": "2022202299000029290", "size": "110cm", "qty": 10 }
+					]
+				},
+				{
+					"productId": "2086208699000022019",
+					"productName": "Gucci/古驰 咖啡色牛皮双G压花图案logo标识休闲男士皮带腰带",
+					"brandName": "GUCCI",
+					"glsCode": "GU0-451-100004-C",
+					"imageUrl": "https://cdn13.mei.com/product/GU0-451-100004-C/40e5b1ce2869db42f59f5b5791a10a16d7bf324f66679009f3e4754fc6742640.jpg@300w_400h_2e_75q",
+					"marketPrice": "3800",
+					"itemPriceDto": {
+						"price": "3709",
+						"discount": "9.8",
+						"begin": "1578225328",
+						"end": "1585616400"
+					},
+					"tagListDto": [],
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2185218599000002910", "size": "90cm", "qty": 18 },
+						{ "id": "2184218499000002952", "size": "95cm", "qty": 43 },
+						{ "id": "2018201899000056668", "size": "105cm", "qty": 13 },
+						{ "id": "2018201899000056670", "size": "110cm", "qty": 1 },
+						{ "id": "2019201999000026988", "size": "100cm", "qty": 24 }
+					]
+				},
+				{
+					"productId": "2021202199000027493",
+					"productName": "GUCCI/古驰古奇 经典款多色GG金属扣男士时尚潮流皮带腰带",
+					"brandName": "GUCCI",
+					"glsCode": "GU0-451-100005-C",
+					"imageUrl": "https://cdn14.mei.com/product/GU0-451-100005-C/32114d1b76ed471eaaf0fe58533f8afaa20eed984c0c08f0e6dffb29e73d3f91.jpg@300w_400h_2e_75q",
+					"marketPrice": "3700",
+					"itemPriceDto": {
+						"price": "3559",
+						"discount": "9.7",
+						"begin": "1578225328",
+						"end": "1585616400"
+					},
+					"tagListDto": [],
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2086208699000020910", "size": "95cm", "qty": 39 },
+						{ "id": "2019201999000026989", "size": "100cm", "qty": 23 },
+						{ "id": "2020202099000024308", "size": "115cm", "qty": 1 },
+						{ "id": "2018201899000056672", "size": "105cm", "qty": 11 },
+						{ "id": "2185218599000002911", "size": "90cm", "qty": 13 }
+					]
+				},
+				{
+					"productId": "2015201599000025388",
+					"productName": "Gucci/古驰黑色牛皮荔枝纹双G金属徽标百搭长款女士钱包",
+					"brandName": "GUCCI",
+					"glsCode": "GU0-415-176BCD",
+					"imageUrl": "https://cdn13.mei.com/product/GU0-415-176BCD/32114d1b76ed471eacfe670509e97a4e8b5005ad4f95f8b7393cfe3ea46d9209.jpg@300w_400h_2e_75q",
+					"marketPrice": "6400",
+					"itemPriceDto": {
+						"price": "6039",
+						"discount": "9.5",
+						"begin": "1578225328",
+						"end": "1585616400"
+					},
+					"tagListDto": [],
+					"tNewProduct": 0,
+					"productSizes": []
+				},
+				{
+					"productId": "2087208799000022840",
+					"productName": "Prada/普拉达黑色简约织物拼接LOGO徽标百搭休闲单肩男包",
+					"brandName": "PRADA",
+					"glsCode": "PR2-446-176BDF",
+					"imageUrl": "https://cdn15.mei.com/product/PR2-446-176BDF/32114d1b76ed471e487fd298ca5b7902c75529ee6de7c5a4d3ced2541411339e.jpg@300w_400h_2e_75q",
+					"marketPrice": "8240",
+					"itemPriceDto": {
+						"price": "6879",
+						"discount": "8.4",
+						"begin": "1578225328",
+						"end": "1585616400"
+					},
+					"tagListDto": [],
+					"tNewProduct": 0,
+					"productSizes": []
+				}
+			],
+			"block_status": 0,
+			"isHKBlock": 0
+		},
+		{
+			"eventId": "2121005100000003036",
+			"eventCode": "44096",
+			"siloId": "2018000100000000003",
+			"siloName": "包配",
+			"englishName": "LINGO CODES",
+			"chineseName": "秋冬帽子围巾配饰 吸晴特辑",
+			"imageUrl": "https://cdn14.mei.com/category/20191114/c2a2d000948785904e4c87d0ffff70bee15d3cf3671d4998.jpg",
+			"discount": "2.8折",
+			"spm_b": "13425899",
+			"isBazzer": "0",
+			"isCrossBorder": "0",
+			"isSeasonNew": "0",
+			"isOverseasend": "0",
+			"isMobile": "0",
+			"isFullprice": "0",
+			"isDisplayBrand": "1",
+			"tagListDto": [],
+			"totalCount": 305,
+			"products": [
+				{
+					"productId": "2014201499000046616",
+					"productName": "Lingo Codes 多色加厚可调节纯色复古文艺气质时尚百搭女士贝雷帽",
+					"brandName": "LINGO CODES",
+					"glsCode": "GO1-420-1674FD",
+					"imageUrl": "https://cdn14.mei.com/product/GO1-420-1674FD/40e5b1ce2869db420dba53e4e78d22e1f460c11bf3dfbd2111ab02017cb7c743.jpg@300w_400h_2e_75q",
+					"marketPrice": "368",
+					"itemPriceDto": {
+						"price": "128",
+						"discount": "3.5",
+						"begin": "1578225328",
+						"end": "1585584000"
+					},
+					"tagListDto": [
+						{
+							"tag": "买手推荐",
+							"isHasExpiration": "0",
+							"fontColor": "000000",
+							"fontBackgroudColor": "FFFFFF",
+							"frameColor": "000000",
+							"isRadius": 0,
+							"isGradient": 0
+						}
+					],
+					"tNewProduct": 0,
+					"productSizes": []
+				},
+				{
+					"productId": "2022202299000026991",
+					"productName": "Lingo Codes 多色毛绒加厚复古甜美可爱百搭文艺气质女士贝雷帽",
+					"brandName": "LINGO CODES",
+					"glsCode": "GO1-420-167500",
+					"imageUrl": "https://cdn15.mei.com/product/GO1-420-167500/40e5b1ce2869db42908c9e40428dbfdb63f36fb29d954f33fe97bfb8e8107e61.jpg@300w_400h_2e_75q",
+					"marketPrice": "468",
+					"itemPriceDto": {
+						"price": "158",
+						"discount": "3.4",
+						"begin": "1578225328",
+						"end": "1578646800"
+					},
+					"tagListDto": [
+						{
+							"tag": "今日疯抢",
+							"isHasExpiration": "1",
+							"beginDate": "1578646800",
+							"endDate": "1578653999",
+							"fontColor": "FFFFFF",
+							"fontBackgroudColor": "DD2828",
+							"frameColor": "DD2828",
+							"isRadius": 0,
+							"isGradient": 0
+						},
+						{
+							"tag": "买手推荐",
+							"isHasExpiration": "0",
+							"fontColor": "000000",
+							"fontBackgroudColor": "FFFFFF",
+							"frameColor": "000000",
+							"isRadius": 0,
+							"isGradient": 0
+						}
+					],
+					"tNewProduct": 0,
+					"productSizes": []
+				},
+				{
+					"productId": "2018201899000054420",
+					"productName": "Lingo Codes 黑色撞色小蜜蜂装饰网纱设计时尚女士贝雷帽色",
+					"brandName": "LINGO CODES",
+					"glsCode": "GO1-420-167502",
+					"imageUrl": "https://cdn12.mei.com/product/GO1-420-167502/40e5b1ce2869db423133fdf22e2720b8fd3cfc1bd9d19c2c5f958bec7d60ccc2.jpg@300w_400h_2e_75q",
+					"marketPrice": "828",
+					"itemPriceDto": {
+						"price": "298",
+						"discount": "3.6",
+						"begin": "1578225328",
+						"end": "1585584000"
+					},
+					"tagListDto": [
+						{
+							"tag": "买手推荐",
+							"isHasExpiration": "0",
+							"fontColor": "000000",
+							"fontBackgroudColor": "FFFFFF",
+							"frameColor": "000000",
+							"isRadius": 0,
+							"isGradient": 0
+						}
+					],
+					"tNewProduct": 0,
+					"productSizes": []
+				},
+				{
+					"productId": "2016201699000071405",
+					"productName": "lingo Codes 绿色锁链印花毛边时尚百搭加厚保暖女士长款围巾",
+					"brandName": "LINGO CODES",
+					"glsCode": "GO1-416-17674F",
+					"imageUrl": "https://cdn14.mei.com/product/GO1-416-17674F/432b251b65dfc9cae37099fc2fe911bad5b6d947b8727e889b57846fca65c6b5.jpg@300w_400h_2e_75q",
+					"marketPrice": "728",
+					"itemPriceDto": {
+						"price": "228",
+						"discount": "3.2",
+						"begin": "1578225328",
+						"end": "1585584000"
+					},
+					"tagListDto": [],
+					"tNewProduct": 0,
+					"productSizes": []
+				},
+				{
+					"productId": "2020202099000025727",
+					"productName": "lingo Codes 灰色烫钻蕾丝蝴蝶饰优雅女士秋冬羊毛针织帽贝雷帽",
+					"brandName": "LINGO CODES",
+					"glsCode": "GO1-420-17675D",
+					"imageUrl": "https://cdn15.mei.com/product/GO1-420-17675D/432b251b65dfc9ca587870ddf19dc1ed6c3ed703a6ab488f9296aee44a27668b.jpg@300w_400h_2e_75q",
+					"marketPrice": "658",
+					"itemPriceDto": {
+						"price": "228",
+						"discount": "3.5",
+						"begin": "1578225328",
+						"end": "1585584000"
+					},
+					"tagListDto": [],
+					"tNewProduct": 0,
+					"productSizes": []
+				},
+				{
+					"productId": "2085208599000022523",
+					"productName": "lingo Codes 拼色晚霞花色毛边时尚百搭加厚保暖女士长款围巾",
+					"brandName": "LINGO CODES",
+					"glsCode": "GO1-416-17674E",
+					"imageUrl": "https://cdn13.mei.com/product/GO1-416-17674E/432b251b65dfc9ca5007907388463328750f990379c2194ae6e7416ad8588827.jpg@300w_400h_2e_75q",
+					"marketPrice": "568",
+					"itemPriceDto": {
+						"price": "198",
+						"discount": "3.5",
+						"begin": "1578225328",
+						"end": "1585584000"
+					},
+					"tagListDto": [],
+					"tNewProduct": 0,
+					"productSizes": []
+				},
+				{
+					"productId": "2019201999000028317",
+					"productName": "lingo Codes 卡其色细波浪纹路百搭时尚女士秋冬学生帽八角帽",
+					"brandName": "LINGO CODES",
+					"glsCode": "GO1-420-17676E",
+					"imageUrl": "https://cdn12.mei.com/product/GO1-420-17676E/432b251b65dfc9ca979ff1bf13a106342a37b58143479fedd1c58d5d50609ee9.jpg@300w_400h_2e_75q",
+					"marketPrice": "498",
+					"itemPriceDto": {
+						"price": "168",
+						"discount": "3.4",
+						"begin": "1578225328",
+						"end": "1585584000"
+					},
+					"tagListDto": [],
+					"tNewProduct": 0,
+					"productSizes": []
+				},
+				{
+					"productId": "2014201499000050317",
+					"productName": "lingo Codes 黑色拉绒灯芯绒窄檐简约百搭女士秋冬帽子渔夫帽",
+					"brandName": "LINGO CODES",
+					"glsCode": "GO1-420-17676F",
+					"imageUrl": "https://cdn13.mei.com/product/GO1-420-17676F/432b251b65dfc9ca320e5095d0e92b3951705f39b641bf148b0faec51a5cbe1d.jpg@300w_400h_2e_75q",
+					"marketPrice": "498",
+					"itemPriceDto": {
+						"price": "168",
+						"discount": "3.4",
+						"begin": "1578225328",
+						"end": "1585584000"
+					},
+					"tagListDto": [],
+					"tNewProduct": 0,
+					"productSizes": []
+				},
+				{
+					"productId": "2087208799000022782",
+					"productName": "lingo Codes 灰蓝色英伦格纹复古时尚女士秋冬毛呢帽子贝雷帽",
+					"brandName": "LINGO CODES",
+					"glsCode": "GO1-420-176758",
+					"imageUrl": "https://cdn12.mei.com/product/GO1-420-176758/432b251b65dfc9ca70c15376d3249d9a16c2aff285297ebdf7ea7287e62901f8.jpg@300w_400h_2e_75q",
+					"marketPrice": "368",
+					"itemPriceDto": {
+						"price": "128",
+						"discount": "3.5",
+						"begin": "1578225328",
+						"end": "1585584000"
+					},
+					"tagListDto": [],
+					"tNewProduct": 0,
+					"productSizes": []
+				}
+			],
+			"block_status": 0,
+			"isHKBlock": 0
+		},
+		{
+			"eventId": "2040204090000007129",
+			"eventCode": "43070",
+			"siloId": "2018000100000000003",
+			"siloName": "包配",
+			"englishName": "AGOVSKI K金&银饰",
+			"chineseName": "简约大气女神范",
+			"imageUrl": "https://cdn13.mei.com/category/20190919/b3bdec87fe41a6b96356a8bdae15326439e4db8297e1f0dc.jpg",
+			"discount": "1折",
+			"spm_b": "13346602",
+			"isBazzer": "0",
+			"isCrossBorder": "0",
+			"isSeasonNew": "0",
+			"isOverseasend": "0",
+			"isMobile": "0",
+			"isFullprice": "0",
+			"isDisplayBrand": "1",
+			"tagListDto": [],
+			"totalCount": 127,
+			"products": [
+				{
+					"productId": "2042204299000519877",
+					"productName": "金色14K金精致花环锆石闪耀锁骨链",
+					"brandName": "AGOVSKI",
+					"glsCode": "AG2-601-00820",
+					"imageUrl": "https://cdn13.mei.com/product/AG2-601-00820/AG2-601-00820a.jpg@300w_400h_2e_75q",
+					"marketPrice": "2988",
+					"itemPriceDto": {
+						"price": "588",
+						"discount": "2.0",
+						"begin": "1578225328",
+						"end": "1588262400"
+					},
+					"tagListDto": [
+						{
+							"tag": "买手推荐",
+							"isHasExpiration": "0",
+							"fontColor": "000000",
+							"fontBackgroudColor": "FFFFFF",
+							"frameColor": "000000",
+							"isRadius": 0,
+							"isGradient": 0
+						}
+					],
+					"tNewProduct": 0,
+					"productSizes": []
+				},
+				{
+					"productId": "2042204299000519878",
+					"productName": "金色14K金璀璨闪钻螺纹简约项链",
+					"brandName": "AGOVSKI",
+					"glsCode": "AG2-601-00821",
+					"imageUrl": "https://cdn15.mei.com/product/AG2-601-00821/AG2-601-00821a.jpg@300w_400h_2e_75q",
+					"marketPrice": "7998",
+					"itemPriceDto": {
+						"price": "1598",
+						"discount": "2.0",
+						"begin": "1578225328",
+						"end": "1588262400"
+					},
+					"tagListDto": [
+						{
+							"tag": "买手推荐",
+							"isHasExpiration": "0",
+							"fontColor": "000000",
+							"fontBackgroudColor": "FFFFFF",
+							"frameColor": "000000",
+							"isRadius": 0,
+							"isGradient": 0
+						}
+					],
+					"tNewProduct": 0,
+					"productSizes": []
+				},
+				{
+					"productId": "2042204299000519881",
+					"productName": "金色14K金简约单颗珍珠气质项链",
+					"brandName": "AGOVSKI",
+					"glsCode": "AG2-601-00823",
+					"imageUrl": "https://cdn15.mei.com/product/AG2-601-00823/AG2-601-00823a.jpg@300w_400h_2e_75q",
+					"marketPrice": "2998",
+					"itemPriceDto": {
+						"price": "599",
+						"discount": "2.0",
+						"begin": "1578225328",
+						"end": "1588262400"
+					},
+					"tagListDto": [
+						{
+							"tag": "买手推荐",
+							"isHasExpiration": "0",
+							"fontColor": "000000",
+							"fontBackgroudColor": "FFFFFF",
+							"frameColor": "000000",
+							"isRadius": 0,
+							"isGradient": 0
+						}
+					],
+					"tNewProduct": 0,
+					"productSizes": []
+				},
+				{
+					"productId": "2186218699000004094",
+					"productName": "Agovski金色可爱萌趣粉耳十二生肖鼠年女士小老鼠披萨手链",
+					"brandName": "AGOVSKI",
+					"glsCode": "AG2-602-175C2B",
+					"imageUrl": "https://cdn14.mei.com/product/AG2-602-175C2B/40e5b1ce2869db42e8338fd75dee0f87dae21aeb55a93239ff907cdf82d28a1c.jpg@300w_400h_2e_75q",
+					"marketPrice": "558",
+					"itemPriceDto": {
+						"price": "119",
+						"discount": "2.2",
+						"begin": "1578225328",
+						"end": "1578474000"
+					},
+					"tagListDto": [
+						{
+							"tag": "今日疯抢",
+							"isHasExpiration": "1",
+							"beginDate": "1578474000",
+							"endDate": "1578481199",
+							"fontColor": "FFFFFF",
+							"fontBackgroudColor": "DD2828",
+							"frameColor": "DD2828",
+							"isRadius": 0,
+							"isGradient": 0
+						}
+					],
+					"tNewProduct": 0,
+					"productSizes": []
+				},
+				{
+					"productId": "2015201599000025083",
+					"productName": "Agovski金色S999银萌趣老鼠本命年招福招财女士红绳手链",
+					"brandName": "AGOVSKI",
+					"glsCode": "AG2-603-175C21",
+					"imageUrl": "https://cdn14.mei.com/product/AG2-603-175C21/40e5b1ce2869db42dd6a2db3c493eafcda37c86c43ade3dcb5df743f485abdfa.jpg@300w_400h_2e_75q",
+					"marketPrice": "888",
+					"itemPriceDto": {
+						"price": "189",
+						"discount": "2.2",
+						"begin": "1578225328",
+						"end": "1578387600"
+					},
+					"tagListDto": [
+						{
+							"tag": "今日疯抢",
+							"isHasExpiration": "1",
+							"beginDate": "1578387600",
+							"endDate": "1578394799",
+							"fontColor": "FFFFFF",
+							"fontBackgroudColor": "DD2828",
+							"frameColor": "DD2828",
+							"isRadius": 0,
+							"isGradient": 0
+						}
+					],
+					"tNewProduct": 0,
+					"productSizes": []
+				},
+				{
+					"productId": "2041204199000775392",
+					"productName": "金色镶钻路路通转运女士项链锁骨链",
+					"brandName": "AGOVSKI",
+					"glsCode": "AG2-601-00998",
+					"imageUrl": "https://cdn14.mei.com/product/AG2-601-00998/7467f72ccd93580942b8e2e127ec807e.jpg@300w_400h_2e_75q",
+					"marketPrice": "888",
+					"itemPriceDto": {
+						"price": "198",
+						"discount": "2.3",
+						"begin": "1578225328",
+						"end": "1578301200"
+					},
+					"tagListDto": [
+						{
+							"tag": "今日疯抢",
+							"isHasExpiration": "1",
+							"beginDate": "1578301200",
+							"endDate": "1578308399",
+							"fontColor": "FFFFFF",
+							"fontBackgroudColor": "DD2828",
+							"frameColor": "DD2828",
+							"isRadius": 0,
+							"isGradient": 0
+						}
+					],
+					"tNewProduct": 0,
+					"productSizes": []
+				},
+				{
+					"productId": "2020202099000025454",
+					"productName": "Agovski金色S999银萌趣老鼠本命年招福招财女士红绳手链",
+					"brandName": "AGOVSKI",
+					"glsCode": "AG2-603-175C20",
+					"imageUrl": "https://cdn13.mei.com/product/AG2-603-175C20/40e5b1ce2869db4245308c4f4cf8ba63da37c86c43ade3dcb5df743f485abdfa.jpg@300w_400h_2e_75q",
+					"marketPrice": "888",
+					"itemPriceDto": {
+						"price": "189",
+						"discount": "2.2",
+						"begin": "1578225328",
+						"end": "1578560400"
+					},
+					"tagListDto": [
+						{
+							"tag": "今日疯抢",
+							"isHasExpiration": "1",
+							"beginDate": "1578560400",
+							"endDate": "1578567599",
+							"fontColor": "FFFFFF",
+							"fontBackgroudColor": "DD2828",
+							"frameColor": "DD2828",
+							"isRadius": 0,
+							"isGradient": 0
+						}
+					],
+					"tNewProduct": 0,
+					"productSizes": []
+				},
+				{
+					"productId": "2120212099000098302",
+					"productName": "金色镂空树叶女士时尚耳饰耳钉",
+					"brandName": "AGOVSKI",
+					"glsCode": "AG2-602-00818",
+					"imageUrl": "https://cdn13.mei.com/product/AG2-602-00818/b10492f8b671112652e62ac9b6b794f9.jpg@300w_400h_2e_75q",
+					"marketPrice": "398",
+					"itemPriceDto": {
+						"price": "99",
+						"discount": "2.5",
+						"begin": "1578225328",
+						"end": "1578646800"
+					},
+					"tagListDto": [
+						{
+							"tag": "今日疯抢",
+							"isHasExpiration": "1",
+							"beginDate": "1578646800",
+							"endDate": "1578653999",
+							"fontColor": "FFFFFF",
+							"fontBackgroudColor": "DD2828",
+							"frameColor": "DD2828",
+							"isRadius": 0,
+							"isGradient": 0
+						}
+					],
+					"tNewProduct": 0,
+					"productSizes": []
+				},
+				{
+					"productId": "2121212199000130558",
+					"productName": "新年新品S925银小猪本命年平安红绳手链",
+					"brandName": "AGOVSKI",
+					"glsCode": "AG2-603-00196",
+					"imageUrl": "https://cdn14.mei.com/product/AG2-603-00196/7e66448eae41457a1fc89a4212ca1a6a.jpg@300w_400h_2e_75q",
+					"marketPrice": "1098",
+					"itemPriceDto": {
+						"price": "229",
+						"discount": "2.1",
+						"begin": "1578225328",
+						"end": "1578646800"
+					},
+					"tagListDto": [
+						{
+							"tag": "今日疯抢",
+							"isHasExpiration": "1",
+							"beginDate": "1578646800",
+							"endDate": "1578653999",
+							"fontColor": "FFFFFF",
+							"fontBackgroudColor": "DD2828",
+							"frameColor": "DD2828",
+							"isRadius": 0,
+							"isGradient": 0
+						}
+					],
+					"tNewProduct": 0,
+					"productSizes": []
+				}
+			],
+			"block_status": 0,
+			"isHKBlock": 0
+		},
+		{
+			"eventId": "2040204090000007687",
+			"eventCode": "45990",
+			"siloId": "2018000100000000003",
+			"siloName": "包配",
+			"englishName": "女士时髦穿搭",
+			"chineseName": "冬季潮奢看这里",
+			"imageUrl": "https://cdn12.mei.com/category/20191224/9bc95326afa6dfae3364626ba6e7611ce15d3cf3671d4998.jpg",
+			"discount": "3折",
+			"spm_b": "13821209",
+			"isBazzer": "1",
+			"isCrossBorder": "1",
+			"isSeasonNew": "0",
+			"isOverseasend": "0",
+			"isMobile": "0",
+			"isFullprice": "0",
+			"isDisplayBrand": "1",
+			"tagListDto": [],
+			"totalCount": 284,
+			"products": [
+				{
+					"productId": "2015201599000015271",
+					"productName": "Michael Kors19秋冬款黑色时尚拉链百搭翻领女士羽绒服外套",
+					"brandName": "MICHAEL KORS",
+					"glsCode": "MK1-2568-100001-C",
+					"imageUrl": "https://cdn15.mei.com/product/MK1-2568-100001-C/40e5b1ce2869db42ceb5bb851ac1d45510a0caffc07d54ae629cd55b20be3c0c.jpg@300w_400h_2e_75q",
+					"marketPrice": "2110",
+					"itemPriceDto": {
+						"price": "1619",
+						"tax": "0.00",
+						"discount": "7.7",
+						"begin": "1578225328",
+						"end": "1582938000"
+					},
+					"tagListDto": [
+						{
+							"tag": "买手推荐",
+							"isHasExpiration": "0",
+							"fontColor": "000000",
+							"fontBackgroudColor": "FFFFFF",
+							"frameColor": "000000",
+							"isRadius": 0,
+							"isGradient": 0
+						},
+						{
+							"tag": "当季新品",
+							"isHasExpiration": "0",
+							"fontColor": "FFFFFF",
+							"fontBackgroudColor": "DD2828",
+							"frameColor": "DD2828",
+							"isRadius": 0,
+							"isGradient": 0
+						}
+					],
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2018201899000046140", "size": "S", "qty": 2 },
+						{ "id": "2087208799000010743", "size": "M", "qty": 2 },
+						{ "id": "2085208599000010820", "size": "L", "qty": 1 }
+					]
+				},
+				{
+					"productId": "2019201999000017257",
+					"productName": "MaxMara浅棕色羊绒简约百搭V领女士长袖针织衫",
+					"brandName": "MaxMara",
+					"glsCode": "MX1-2577-00001-C",
+					"imageUrl": "https://cdn14.mei.com/product/MX1-2577-00001-C/40e5b1ce2869db42c6185105149e40ad5c8029b25e362ddc4a76cdbd446ba743.jpg@300w_400h_2e_75q",
+					"marketPrice": "4560",
+					"itemPriceDto": {
+						"price": "3399",
+						"tax": "0.00",
+						"discount": "7.5",
+						"begin": "1578225328",
+						"end": "1582938000"
+					},
+					"tagListDto": [
+						{
+							"tag": "买手推荐",
+							"isHasExpiration": "0",
+							"fontColor": "000000",
+							"fontBackgroudColor": "FFFFFF",
+							"frameColor": "000000",
+							"isRadius": 0,
+							"isGradient": 0
+						},
+						{
+							"tag": "当季新品",
+							"isHasExpiration": "0",
+							"fontColor": "FFFFFF",
+							"fontBackgroudColor": "DD2828",
+							"frameColor": "DD2828",
+							"isRadius": 0,
+							"isGradient": 0
+						}
+					],
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2086208699000009154", "size": "M", "qty": 2 },
+						{ "id": "2015201599000012064", "size": "L", "qty": 2 }
+					]
+				},
+				{
+					"productId": "2086208699000010289",
+					"productName": "2019秋冬新款蓝拼白色字母logo时尚女士纯羊毛围巾",
+					"brandName": "BALENCIAGA",
+					"glsCode": "BG3-416-14ADF2",
+					"imageUrl": "https://cdn12.mei.com/product/BG3-416-14ADF2/40e5b1ce2869db4268dad88585593b29b429f9196709718e6b89fc37c7cd17ea.jpg@300w_400h_2e_75q",
+					"marketPrice": "5100",
+					"itemPriceDto": {
+						"price": "3929",
+						"tax": "0.00",
+						"discount": "7.8",
+						"begin": "1578225328",
+						"end": "1582938000"
+					},
+					"tagListDto": [
+						{
+							"tag": "买手推荐",
+							"isHasExpiration": "0",
+							"fontColor": "000000",
+							"fontBackgroudColor": "FFFFFF",
+							"frameColor": "000000",
+							"isRadius": 0,
+							"isGradient": 0
+						},
+						{
+							"tag": "当季新品",
+							"isHasExpiration": "0",
+							"fontColor": "FFFFFF",
+							"fontBackgroudColor": "DD2828",
+							"frameColor": "DD2828",
+							"isRadius": 0,
+							"isGradient": 0
+						}
+					],
+					"tNewProduct": 0,
+					"productSizes": []
+				},
+				{
+					"productId": "2184218499000001775",
+					"productName": "MCM棕色经典LOGO花纹复古潮流个性百搭单肩斜挎包腰包女包",
+					"brandName": "MCM",
+					"glsCode": "MC4-2766-16AA07",
+					"imageUrl": "https://cdn14.mei.com/product/MC4-2766-16AA07/40e5b1ce2869db42ace57c8107721099a99ddbfd5c8a9a65bd412b5956858959.jpg@300w_400h_2e_75q",
+					"marketPrice": "4000",
+					"itemPriceDto": {
+						"price": "3259",
+						"tax": "0.00",
+						"discount": "8.2",
+						"begin": "1578225328",
+						"end": "1578240000"
+					},
+					"tagListDto": [
+						{
+							"tag": "新年价",
+							"isHasExpiration": "1",
+							"beginDate": "1578240000",
+							"endDate": "1578672000",
+							"fontColor": "FFFFFF",
+							"fontBackgroudColor": "DD2828",
+							"frameColor": "DD2828",
+							"isRadius": 0,
+							"isGradient": 0
+						},
+						{
+							"tag": "买手推荐",
+							"isHasExpiration": "0",
+							"fontColor": "000000",
+							"fontBackgroudColor": "FFFFFF",
+							"frameColor": "000000",
+							"isRadius": 0,
+							"isGradient": 0
+						}
+					],
+					"tNewProduct": 0,
+					"productSizes": []
+				},
+				{
+					"productId": "2018201899000045270",
+					"productName": "19秋冬时尚灰拼粉色LOGO图饰羊毛女士围巾",
+					"brandName": "GUCCI",
+					"glsCode": "GQ0-416-144C7B",
+					"imageUrl": "https://cdn14.mei.com/product/GQ0-416-144C7B/40e5b1ce2869db42f7bed8286adfa155ef087e12215512663b214b3fe6ed8a29.jpg@300w_400h_2e_75q",
+					"marketPrice": "2310",
+					"itemPriceDto": {
+						"price": "1769",
+						"tax": "0.00",
+						"discount": "7.7",
+						"begin": "1578225328",
+						"end": "1582938000"
+					},
+					"tagListDto": [
+						{
+							"tag": "当季新品",
+							"isHasExpiration": "0",
+							"fontColor": "FFFFFF",
+							"fontBackgroudColor": "DD2828",
+							"frameColor": "DD2828",
+							"isRadius": 0,
+							"isGradient": 0
+						},
+						{
+							"tag": "海外直发",
+							"isHasExpiration": "0",
+							"fontColor": "000000",
+							"fontBackgroudColor": "FFFFFF",
+							"frameColor": "000000",
+							"isRadius": 0,
+							"isGradient": 0
+						}
+					],
+					"tNewProduct": 0,
+					"productSizes": []
+				},
+				{
+					"productId": "2022202299000022268",
+					"productName": "黑色羊毛女士秋冬时尚百搭保暖围巾",
+					"brandName": "GUCCI",
+					"glsCode": "GQ0-416-15BEF9",
+					"imageUrl": "https://cdn14.mei.com/product/GQ0-416-15BEF9/40e5b1ce2869db424df1c446ef6f5e23b3ba81f55174b33b1c6e65a1e67962e0.jpg@300w_400h_2e_75q",
+					"marketPrice": "3690",
+					"itemPriceDto": {
+						"price": "2949",
+						"tax": "0.00",
+						"discount": "8.0",
+						"begin": "1578225328",
+						"end": "1578240000"
+					},
+					"tagListDto": [
+						{
+							"tag": "新年价",
+							"isHasExpiration": "1",
+							"beginDate": "1578240000",
+							"endDate": "1578672000",
+							"fontColor": "FFFFFF",
+							"fontBackgroudColor": "DD2828",
+							"frameColor": "DD2828",
+							"isRadius": 0,
+							"isGradient": 0
+						},
+						{
+							"tag": "当季新品",
+							"isHasExpiration": "0",
+							"fontColor": "FFFFFF",
+							"fontBackgroudColor": "DD2828",
+							"frameColor": "DD2828",
+							"isRadius": 0,
+							"isGradient": 0
+						}
+					],
+					"tNewProduct": 0,
+					"productSizes": []
+				},
+				{
+					"productId": "2015201599000016787",
+					"productName": "黑灰色gg标识羊毛女士时尚保暖秋冬毛边围巾",
+					"brandName": "GUCCI",
+					"glsCode": "GQ0-416-15BEFD",
+					"imageUrl": "https://cdn15.mei.com/product/GQ0-416-15BEFD/3287aaff35b0092051a894c9f15223cd17c89981ab8b50e48c777c674f56e20a.jpg@300w_400h_2e_75q",
+					"marketPrice": "3720",
+					"itemPriceDto": {
+						"price": "2959",
+						"tax": "0.00",
+						"discount": "8.0",
+						"begin": "1578225328",
+						"end": "1578240000"
+					},
+					"tagListDto": [
+						{
+							"tag": "新年价",
+							"isHasExpiration": "1",
+							"beginDate": "1578240000",
+							"endDate": "1578672000",
+							"fontColor": "FFFFFF",
+							"fontBackgroudColor": "DD2828",
+							"frameColor": "DD2828",
+							"isRadius": 0,
+							"isGradient": 0
+						},
+						{
+							"tag": "当季新品",
+							"isHasExpiration": "0",
+							"fontColor": "FFFFFF",
+							"fontBackgroudColor": "DD2828",
+							"frameColor": "DD2828",
+							"isRadius": 0,
+							"isGradient": 0
+						}
+					],
+					"tNewProduct": 0,
+					"productSizes": []
+				},
+				{
+					"productId": "2014201499000042114",
+					"productName": "深蓝色羊毛蚕丝混纺毛边时尚简约百搭女士围巾",
+					"brandName": "GUCCI",
+					"glsCode": "GQ0-416-15E108",
+					"imageUrl": "https://cdn12.mei.com/product/GQ0-416-15E108/40e5b1ce2869db42ca301706decbc715f4580d36fe9461aa51bc15c906a85bf8.jpg@300w_400h_2e_75q",
+					"marketPrice": "4240",
+					"itemPriceDto": {
+						"price": "3389",
+						"tax": "0.00",
+						"discount": "8.0",
+						"begin": "1578225328",
+						"end": "1578240000"
+					},
+					"tagListDto": [
+						{
+							"tag": "新年价",
+							"isHasExpiration": "1",
+							"beginDate": "1578240000",
+							"endDate": "1578672000",
+							"fontColor": "FFFFFF",
+							"fontBackgroudColor": "DD2828",
+							"frameColor": "DD2828",
+							"isRadius": 0,
+							"isGradient": 0
+						},
+						{
+							"tag": "当季新品",
+							"isHasExpiration": "0",
+							"fontColor": "FFFFFF",
+							"fontBackgroudColor": "DD2828",
+							"frameColor": "DD2828",
+							"isRadius": 0,
+							"isGradient": 0
+						}
+					],
+					"tNewProduct": 0,
+					"productSizes": []
+				},
+				{
+					"productId": "2084208499000014576",
+					"productName": "乌木色羊毛双G灵蛇图案毛边时尚简约女士围巾",
+					"brandName": "GUCCI",
+					"glsCode": "GQ0-416-15E10A",
+					"imageUrl": "https://cdn14.mei.com/product/GQ0-416-15E10A/40e5b1ce2869db427960974d79607ab24c806531aee1851253b84d80ce083364.jpg@300w_400h_2e_75q",
+					"marketPrice": "4580",
+					"itemPriceDto": {
+						"price": "3649",
+						"tax": "0.00",
+						"discount": "8.0",
+						"begin": "1578225328",
+						"end": "1578240000"
+					},
+					"tagListDto": [
+						{
+							"tag": "新年价",
+							"isHasExpiration": "1",
+							"beginDate": "1578240000",
+							"endDate": "1578672000",
+							"fontColor": "FFFFFF",
+							"fontBackgroudColor": "DD2828",
+							"frameColor": "DD2828",
+							"isRadius": 0,
+							"isGradient": 0
+						},
+						{
+							"tag": "当季新品",
+							"isHasExpiration": "0",
+							"fontColor": "FFFFFF",
+							"fontBackgroudColor": "DD2828",
+							"frameColor": "DD2828",
+							"isRadius": 0,
+							"isGradient": 0
+						}
+					],
+					"tNewProduct": 0,
+					"productSizes": []
+				}
+			],
+			"block_status": 0,
+			"isHKBlock": 0
+		}
+	]
+}

@@ -1,0 +1,1861 @@
+{
+	"userIP": "119.79.228.23",
+	"errorNum": "0",
+	"totalPage": 2,
+	"eventList": [
+		{
+			"eventId": "2040204090000007553",
+			"eventCode": "45281",
+			"siloId": "2018000100000000007",
+			"siloName": "婴童",
+			"englishName": "精选大牌",
+			"chineseName": "婴童专区",
+			"imageUrl": "https://cdn12.mei.com/category/20191106/7849d09aaf44b97a383cbbf00ea7de4678124244265805bc.jpg",
+			"discount": "1折",
+			"spm_b": "13654234",
+			"isBazzer": "1",
+			"isCrossBorder": "0",
+			"isSeasonNew": "0",
+			"isOverseasend": "0",
+			"isMobile": "0",
+			"isFullprice": "0",
+			"isDisplayBrand": "1",
+			"tagListDto": [],
+			"totalCount": 942,
+			"products": [
+				{
+					"productId": "2120212099000144595",
+					"productName": "灰色大象儿童双肩背包38cm",
+					"brandName": "Moulin Roty",
+					"glsCode": "MR2-140-00002",
+					"imageUrl": "https://cdn15.mei.com/product/MR2-140-00002/8e5d90c57e2ab1faf5bc584eb3e94530.jpg@300w_400h_2e_75q",
+					"marketPrice": "569",
+					"itemPriceDto": {
+						"price": "419",
+						"discount": "7.4",
+						"begin": "1578225329",
+						"end": "1582905600"
+					},
+					"tagListDto": [
+						{
+							"tag": "买手推荐",
+							"isHasExpiration": "0",
+							"fontColor": "000000",
+							"fontBackgroudColor": "FFFFFF",
+							"frameColor": "000000",
+							"isRadius": 0,
+							"isGradient": 0
+						}
+					],
+					"tNewProduct": 0,
+					"productSizes": []
+				},
+				{
+					"productId": "2040204099000407613",
+					"productName": "深蓝色简约男童水洗牛仔裤",
+					"brandName": "SIMONETTA",
+					"glsCode": "STX-203-00001",
+					"imageUrl": "https://cdn13.mei.com/product/STX-203-00006/STX-203-00006a.jpg@300w_400h_2e_75q",
+					"marketPrice": "2090",
+					"itemPriceDto": {
+						"price": "361",
+						"discount": "1.8",
+						"begin": "1578225329",
+						"end": "1582905600"
+					},
+					"tagListDto": [],
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2040204099000407623", "size": "18M", "qty": 1 },
+						{ "id": "2040204099000407622", "size": "12M", "qty": 1 },
+						{ "id": "2040204099000407621", "size": "6M", "qty": 1 },
+						{ "id": "2040204099000407614", "size": "2", "qty": 1 },
+						{ "id": "2040204099000407615", "size": "3", "qty": 1 },
+						{ "id": "2040204099000407616", "size": "4", "qty": 1 },
+						{ "id": "2040204099000407617", "size": "5", "qty": 1 },
+						{ "id": "2040204099000407618", "size": "6", "qty": 1 },
+						{ "id": "2040204099000407619", "size": "8", "qty": 1 }
+					]
+				},
+				{
+					"productId": "2040204099000408037",
+					"productName": "浅灰色抽绳女童休闲裤",
+					"brandName": "SIMONETTA",
+					"glsCode": "STX-165-00093",
+					"imageUrl": "https://cdn15.mei.com/product/STX-165-00098/STX-165-00098a.jpg@300w_400h_2e_75q",
+					"marketPrice": "1190",
+					"itemPriceDto": {
+						"price": "233",
+						"discount": "2.0",
+						"begin": "1578225329",
+						"end": "1582905600"
+					},
+					"tagListDto": [],
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2040204099000408045", "size": "18M", "qty": 1 },
+						{ "id": "2040204099000408044", "size": "12M", "qty": 1 },
+						{ "id": "2040204099000408043", "size": "6M", "qty": 1 },
+						{ "id": "2040204099000408038", "size": "2", "qty": 1 },
+						{ "id": "2040204099000408039", "size": "3", "qty": 1 },
+						{ "id": "2040204099000408040", "size": "4", "qty": 1 },
+						{ "id": "2040204099000408041", "size": "5", "qty": 1 },
+						{ "id": "2040204099000408042", "size": "6", "qty": 1 }
+					]
+				},
+				{
+					"productId": "2040204099000408046",
+					"productName": "拼色图案印花女童休闲裤",
+					"brandName": "SIMONETTA",
+					"glsCode": "STX-165-00102",
+					"imageUrl": "https://cdn15.mei.com/product/STX-165-00107/STX-165-00107a.jpg@300w_400h_2e_75q",
+					"marketPrice": "1090",
+					"itemPriceDto": {
+						"price": "211",
+						"discount": "2.0",
+						"begin": "1578225329",
+						"end": "1582905600"
+					},
+					"tagListDto": [],
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2040204099000408054", "size": "18M", "qty": 1 },
+						{ "id": "2040204099000408053", "size": "12M", "qty": 1 },
+						{ "id": "2040204099000408052", "size": "6M", "qty": 1 },
+						{ "id": "2040204099000408047", "size": "2", "qty": 1 },
+						{ "id": "2040204099000408048", "size": "3", "qty": 1 },
+						{ "id": "2040204099000408049", "size": "4", "qty": 1 },
+						{ "id": "2040204099000408050", "size": "5", "qty": 1 },
+						{ "id": "2040204099000408051", "size": "6", "qty": 1 }
+					]
+				},
+				{
+					"productId": "2041204199000587104",
+					"productName": "米色金线Logo刺绣连衣裙",
+					"brandName": "roberto cavalli",
+					"glsCode": "RC5-312-00384",
+					"imageUrl": "https://cdn13.mei.com/product/RC5-312-00388/RC5-312-00388a.jpg@300w_400h_2e_75q",
+					"marketPrice": "3290",
+					"itemPriceDto": {
+						"price": "670",
+						"discount": "2.1",
+						"begin": "1578225329",
+						"end": "1582905600"
+					},
+					"tagListDto": [],
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2041204199000587105", "size": "2Y", "qty": 1 },
+						{ "id": "2041204199000587111", "size": "10Y", "qty": 2 },
+						{ "id": "2041204199000587106", "size": "3Y", "qty": 1 },
+						{ "id": "2041204199000587107", "size": "4Y", "qty": 1 },
+						{ "id": "2041204199000587109", "size": "6Y", "qty": 1 },
+						{ "id": "2041204199000587110", "size": "8Y", "qty": 2 }
+					]
+				},
+				{
+					"productId": "2040204099000407761",
+					"productName": "灰色罗纹束口女童休闲裤",
+					"brandName": "SIMONETTA",
+					"glsCode": "STX-165-00031",
+					"imageUrl": "https://cdn15.mei.com/product/STX-165-00033/STX-165-00033a.jpg@300w_400h_2e_75q",
+					"marketPrice": "1990",
+					"itemPriceDto": {
+						"price": "350",
+						"discount": "1.8",
+						"begin": "1578225329",
+						"end": "1582905600"
+					},
+					"tagListDto": [],
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2040204099000407762", "size": "4", "qty": 2 },
+						{ "id": "2040204099000407764", "size": "8", "qty": 3 },
+						{ "id": "2040204099000407765", "size": "10", "qty": 2 }
+					]
+				},
+				{
+					"productId": "2041204199000586980",
+					"productName": "藏青色简约男童翻边直筒裤",
+					"brandName": "roberto cavalli",
+					"glsCode": "RC5-303-00536",
+					"imageUrl": "https://cdn15.mei.com/product/RC5-303-00539/RC5-303-00539a.jpg@300w_400h_2e_75q",
+					"marketPrice": "2990",
+					"itemPriceDto": {
+						"price": "553",
+						"discount": "1.9",
+						"begin": "1578225329",
+						"end": "1582905600"
+					},
+					"tagListDto": [],
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2041204199000586986", "size": "10Y", "qty": 2 },
+						{ "id": "2041204199000586985", "size": "8Y", "qty": 1 },
+						{ "id": "2041204199000586982", "size": "4Y", "qty": 1 },
+						{ "id": "2041204199000586983", "size": "5Y", "qty": 1 },
+						{ "id": "2041204199000586984", "size": "6Y", "qty": 1 },
+						{ "id": "2041204199000586981", "size": "3Y", "qty": 1 }
+					]
+				},
+				{
+					"productId": "2041204199000667209",
+					"productName": "暗粉色简约女童休闲裤",
+					"brandName": "SIMONETTA",
+					"glsCode": "STX-303-00199",
+					"imageUrl": "https://cdn13.mei.com/product/STX-303-00201/STX-303-00201a.jpg@300w_400h_2e_75q",
+					"marketPrice": "1590",
+					"itemPriceDto": {
+						"price": "488",
+						"discount": "3.1",
+						"begin": "1578225329",
+						"end": "1582905600"
+					},
+					"tagListDto": [],
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2041204199000667210", "size": "4", "qty": 1 },
+						{ "id": "2041204199000667211", "size": "6", "qty": 1 },
+						{ "id": "2041204199000667212", "size": "8", "qty": 1 },
+						{ "id": "2041204199000667213", "size": "10", "qty": 3 },
+						{ "id": "2041204199000667214", "size": "12", "qty": 1 }
+					]
+				},
+				{
+					"productId": "2040204099000407707",
+					"productName": "白色针织拼接绣花连衣裙",
+					"brandName": "SIMONETTA",
+					"glsCode": "STX-112-00001",
+					"imageUrl": "https://cdn15.mei.com/product/STX-112-00003/STX-112-00003a.jpg@300w_400h_2e_75q",
+					"marketPrice": "2490",
+					"itemPriceDto": {
+						"price": "425",
+						"discount": "1.8",
+						"begin": "1578225329",
+						"end": "1582905600"
+					},
+					"tagListDto": [],
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2040204099000407709", "size": "6", "qty": 2 },
+						{ "id": "2040204099000407710", "size": "8", "qty": 1 },
+						{ "id": "2040204099000407711", "size": "10", "qty": 2 },
+						{ "id": "2040204099000407712", "size": "12", "qty": 1 }
+					]
+				}
+			],
+			"block_status": 0,
+			"isHKBlock": 0
+		},
+		{
+			"eventId": "2121005100000002639",
+			"eventCode": "42092",
+			"siloId": "2018000100000000007",
+			"siloName": "婴童",
+			"englishName": "SIMONETTA",
+			"chineseName": "可爱童装 缤纷色彩",
+			"imageUrl": "https://cdn13.mei.com/category/20190618/dfa71dd73a005a762d03bbabdf442764d72eb86efc6c943a.jpg",
+			"discount": "1折",
+			"spm_b": "13035704",
+			"isBazzer": "1",
+			"isCrossBorder": "0",
+			"isSeasonNew": "0",
+			"isOverseasend": "0",
+			"isMobile": "0",
+			"isFullprice": "0",
+			"isDisplayBrand": "1",
+			"tagListDto": [],
+			"totalCount": 209,
+			"products": [
+				{
+					"productId": "2040204099000407646",
+					"productName": "白色印花圆领长袖男童上衣",
+					"brandName": "SIMONETTA",
+					"glsCode": "STX-209-00001",
+					"imageUrl": "https://cdn13.mei.com/product/STX-209-00006/STX-209-00006a.jpg@300w_400h_2e_75q",
+					"marketPrice": "1290",
+					"itemPriceDto": {
+						"price": "243",
+						"discount": "1.9",
+						"begin": "1578225329",
+						"end": "1582905600"
+					},
+					"tagListDto": [],
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2040204099000407647", "size": "2", "qty": 1 },
+						{ "id": "2040204099000407648", "size": "3", "qty": 2 },
+						{ "id": "2040204099000407649", "size": "4", "qty": 2 },
+						{ "id": "2040204099000407650", "size": "5", "qty": 1 },
+						{ "id": "2040204099000407651", "size": "6", "qty": 2 },
+						{ "id": "2040204099000407652", "size": "8", "qty": 2 },
+						{ "id": "2040204099000407656", "size": "18M", "qty": 1 },
+						{ "id": "2040204099000407655", "size": "12M", "qty": 2 },
+						{ "id": "2040204099000407654", "size": "6M", "qty": 2 }
+					]
+				},
+				{
+					"productId": "2041204199000667472",
+					"productName": "红色印花女童休闲裤",
+					"brandName": "roberto cavalli",
+					"glsCode": "RC5-303-00598",
+					"imageUrl": "https://cdn13.mei.com/product/RC5-303-00603/RC5-303-00603a.jpg@300w_400h_2e_75q",
+					"marketPrice": "2490",
+					"itemPriceDto": {
+						"price": "521",
+						"discount": "2.1",
+						"begin": "1578225329",
+						"end": "1582905600"
+					},
+					"tagListDto": [],
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2041204199000667478", "size": "10Y", "qty": 2 },
+						{ "id": "2041204199000667479", "size": "XS", "qty": 2 },
+						{ "id": "2041204199000667477", "size": "8Y", "qty": 2 },
+						{ "id": "2041204199000667476", "size": "6Y", "qty": 2 },
+						{ "id": "2041204199000667473", "size": "3Y", "qty": 2 },
+						{ "id": "2041204199000667474", "size": "4Y", "qty": 2 }
+					]
+				},
+				{
+					"productId": "2041204199000586955",
+					"productName": "浅灰色腰部格纹星星贴布绣男童休闲裤",
+					"brandName": "roberto cavalli",
+					"glsCode": "RC5-303-00511",
+					"imageUrl": "https://cdn15.mei.com/product/RC5-303-00515/RC5-303-00515a.jpg@300w_400h_2e_75q",
+					"marketPrice": "2390",
+					"itemPriceDto": {
+						"price": "499",
+						"discount": "2.1",
+						"begin": "1578225329",
+						"end": "1582905600"
+					},
+					"tagListDto": [],
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2041204199000586957", "size": "3Y", "qty": 1 },
+						{ "id": "2041204199000586960", "size": "8Y", "qty": 2 },
+						{ "id": "2041204199000586956", "size": "2Y", "qty": 2 },
+						{ "id": "2041204199000586962", "size": "XS", "qty": 1 },
+						{ "id": "2041204199000586958", "size": "4Y", "qty": 2 },
+						{ "id": "2041204199000586959", "size": "6Y", "qty": 2 },
+						{ "id": "2041204199000586961", "size": "10Y", "qty": 2 }
+					]
+				},
+				{
+					"productId": "2040204099000329656",
+					"productName": "粉色波点翻领短袖连衣裙",
+					"brandName": "SIMONETTA",
+					"glsCode": "STX-311-00143",
+					"imageUrl": "https://cdn15.mei.com/product/STX-311-00150/STX-311-00150a.jpg@300w_400h_2e_75q",
+					"marketPrice": "3190",
+					"itemPriceDto": {
+						"price": "595",
+						"discount": "1.9",
+						"begin": "1578225329",
+						"end": "1582905600"
+					},
+					"tagListDto": [],
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2040204099000329658", "size": "18M", "qty": 2 },
+						{ "id": "2040204099000329657", "size": "12M", "qty": 2 },
+						{ "id": "2040204099000329664", "size": "6M", "qty": 1 },
+						{ "id": "2040204099000329659", "size": "2", "qty": 2 },
+						{ "id": "2040204099000329660", "size": "3", "qty": 1 },
+						{ "id": "2040204099000329661", "size": "4", "qty": 2 },
+						{ "id": "2040204099000329662", "size": "5", "qty": 1 },
+						{ "id": "2040204099000329663", "size": "6", "qty": 1 }
+					]
+				},
+				{
+					"productId": "2041204199000586757",
+					"productName": "灰色星星印花男童长袖T恤",
+					"brandName": "roberto cavalli",
+					"glsCode": "RC5-303-00472",
+					"imageUrl": "https://cdn15.mei.com/product/RC5-303-00473/RC5-303-00473a.jpg@300w_400h_2e_75q",
+					"marketPrice": "890",
+					"itemPriceDto": {
+						"price": "211",
+						"discount": "2.4",
+						"begin": "1578225329",
+						"end": "1582905600"
+					},
+					"tagListDto": [],
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2041204199000586760", "size": "24M", "qty": 3 },
+						{ "id": "2041204199000586759", "size": "18M", "qty": 2 },
+						{ "id": "2041204199000586758", "size": "12M", "qty": 3 },
+						{ "id": "2040204099000646833", "size": "6M", "qty": 3 }
+					]
+				},
+				{
+					"productId": "2041204199000587126",
+					"productName": "白色金丝饰女童衬衫",
+					"brandName": "roberto cavalli",
+					"glsCode": "RC5-306-00223",
+					"imageUrl": "https://cdn13.mei.com/product/RC5-306-00226/RC5-306-00226a.jpg@300w_400h_2e_75q",
+					"marketPrice": "3990",
+					"itemPriceDto": {
+						"price": "734",
+						"discount": "1.9",
+						"begin": "1578225329",
+						"end": "1582905600"
+					},
+					"tagListDto": [],
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2041204199000587134", "size": "XS", "qty": 1 },
+						{ "id": "2041204199000587133", "size": "10Y", "qty": 2 },
+						{ "id": "2041204199000587132", "size": "8Y", "qty": 2 },
+						{ "id": "2041204199000587131", "size": "6Y", "qty": 3 },
+						{ "id": "2041204199000587130", "size": "5Y", "qty": 1 },
+						{ "id": "2041204199000587129", "size": "4Y", "qty": 1 },
+						{ "id": "2041204199000587128", "size": "3Y", "qty": 1 }
+					]
+				},
+				{
+					"productId": "2041204199000587193",
+					"productName": "拼色抽象豹纹印花女童T恤",
+					"brandName": "roberto cavalli",
+					"glsCode": "RC5-309-01183",
+					"imageUrl": "https://cdn13.mei.com/product/RC5-309-01186/RC5-309-01186a.jpg@300w_400h_2e_75q",
+					"marketPrice": "1690",
+					"itemPriceDto": {
+						"price": "318",
+						"discount": "1.9",
+						"begin": "1578225329",
+						"end": "1582905600"
+					},
+					"tagListDto": [],
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2041204199000587201", "size": "XS", "qty": 1 },
+						{ "id": "2041204199000587200", "size": "10Y", "qty": 2 },
+						{ "id": "2041204199000587199", "size": "8Y", "qty": 2 },
+						{ "id": "2041204199000587198", "size": "6Y", "qty": 2 },
+						{ "id": "2041204199000587196", "size": "4Y", "qty": 2 },
+						{ "id": "2041204199000587194", "size": "2Y", "qty": 2 }
+					]
+				},
+				{
+					"productId": "2040204099000407990",
+					"productName": "红色格纹肌理连衣裙",
+					"brandName": "SIMONETTA",
+					"glsCode": "STX-112-00025",
+					"imageUrl": "https://cdn15.mei.com/product/STX-112-00030/STX-112-00030a.jpg@300w_400h_2e_75q",
+					"marketPrice": "2090",
+					"itemPriceDto": {
+						"price": "393",
+						"discount": "1.9",
+						"begin": "1578225329",
+						"end": "1582905600"
+					},
+					"tagListDto": [],
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2040204099000407998", "size": "18M", "qty": 2 },
+						{ "id": "2040204099000407997", "size": "12M", "qty": 2 },
+						{ "id": "2040204099000407996", "size": "6M", "qty": 1 },
+						{ "id": "2040204099000407991", "size": "2", "qty": 1 },
+						{ "id": "2040204099000407992", "size": "3", "qty": 1 },
+						{ "id": "2040204099000407993", "size": "4", "qty": 2 },
+						{ "id": "2040204099000407994", "size": "5", "qty": 1 },
+						{ "id": "2040204099000407995", "size": "6", "qty": 1 }
+					]
+				},
+				{
+					"productId": "2040204099000407591",
+					"productName": "浅灰色条纹口袋饰拉链男童卫衣",
+					"brandName": "SIMONETTA",
+					"glsCode": "STX-213-00012",
+					"imageUrl": "https://cdn13.mei.com/product/STX-213-00017/STX-213-00017a.jpg@300w_400h_2e_75q",
+					"marketPrice": "2590",
+					"itemPriceDto": {
+						"price": "478",
+						"discount": "1.9",
+						"begin": "1578225329",
+						"end": "1582905600"
+					},
+					"tagListDto": [],
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2040204099000407592", "size": "2", "qty": 1 },
+						{ "id": "2040204099000407593", "size": "3", "qty": 1 },
+						{ "id": "2040204099000407594", "size": "4", "qty": 2 },
+						{ "id": "2040204099000407596", "size": "6", "qty": 2 },
+						{ "id": "2040204099000407597", "size": "8", "qty": 2 },
+						{ "id": "2040204099000407601", "size": "18M", "qty": 1 },
+						{ "id": "2040204099000407600", "size": "12M", "qty": 1 },
+						{ "id": "2040204099000407599", "size": "6M", "qty": 1 }
+					]
+				}
+			],
+			"block_status": 0,
+			"isHKBlock": 0
+		},
+		{
+			"eventId": "2040204090000006894",
+			"eventCode": "41978",
+			"siloId": "2018000100000000007",
+			"siloName": "婴童",
+			"englishName": "AMK",
+			"chineseName": "意大利奢华童装",
+			"imageUrl": "https://cdn13.mei.com/category/20190628/b438076b3f53596e825f4c79b2af3ef8dc0bc45b7bb6d783.jpg",
+			"discount": "2折",
+			"spm_b": "12980296",
+			"isBazzer": "1",
+			"isCrossBorder": "0",
+			"isSeasonNew": "0",
+			"isOverseasend": "0",
+			"isMobile": "0",
+			"isFullprice": "0",
+			"isDisplayBrand": "1",
+			"tagListDto": [],
+			"totalCount": 137,
+			"products": [
+				{
+					"productId": "2041204199000825126",
+					"productName": "绿色拼接蕾丝裙边飞飞袖女童连衣裙",
+					"brandName": "AMK JUNIOR",
+					"glsCode": "AYO-312-00539",
+					"imageUrl": "https://cdn14.mei.com/product/AYO-312-00536/e023932983d7c84f5185a2e2d7272192.jpg@300w_400h_2e_75q",
+					"marketPrice": "770",
+					"itemPriceDto": {
+						"price": "231",
+						"discount": "3.0",
+						"begin": "1578225329",
+						"end": "1582905600"
+					},
+					"tagListDto": [
+						{
+							"tag": "仅剩一件",
+							"isHasExpiration": "0",
+							"fontColor": "000000",
+							"fontBackgroudColor": "FFFFFF",
+							"frameColor": "000000",
+							"isRadius": 0,
+							"isGradient": 0
+						}
+					],
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2041204199000825122", "size": "14", "qty": 1 }
+					]
+				},
+				{
+					"productId": "2121212199000079340",
+					"productName": "白色褶皱泡泡短袖女童套头衬衫上衣",
+					"brandName": "AMK JUNIOR",
+					"glsCode": "AYO-306-00324",
+					"imageUrl": "https://cdn13.mei.com/product/AYO-306-00327/39fb1663388a3b64b5e42bbe713ae25c.jpg@300w_400h_2e_75q",
+					"marketPrice": "570",
+					"itemPriceDto": {
+						"price": "171",
+						"discount": "3.0",
+						"begin": "1578225329",
+						"end": "1582905600"
+					},
+					"tagListDto": [
+						{
+							"tag": "仅剩一件",
+							"isHasExpiration": "0",
+							"fontColor": "000000",
+							"fontBackgroudColor": "FFFFFF",
+							"frameColor": "000000",
+							"isRadius": 0,
+							"isGradient": 0
+						}
+					],
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2121212199000079341", "size": "12", "qty": 1 }
+					]
+				},
+				{
+					"productId": "2121212199000079393",
+					"productName": "黑色字母印花百搭男童短袖T恤",
+					"brandName": "AMK JUNIOR",
+					"glsCode": "AYO-309-00605",
+					"imageUrl": "https://cdn12.mei.com/product/AYO-309-00607/3965ecf92f242f0478ab9603e61e20dc.jpg@300w_400h_2e_75q",
+					"marketPrice": "470",
+					"itemPriceDto": {
+						"price": "94",
+						"discount": "2.0",
+						"begin": "1578225329",
+						"end": "1582905600"
+					},
+					"tagListDto": [
+						{
+							"tag": "仅剩一件",
+							"isHasExpiration": "0",
+							"fontColor": "000000",
+							"fontBackgroudColor": "FFFFFF",
+							"frameColor": "000000",
+							"isRadius": 0,
+							"isGradient": 0
+						}
+					],
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2040204099000690597", "size": "12", "qty": 1 }
+					]
+				},
+				{
+					"productId": "1214121499900023789",
+					"productName": "白色男童秋冬佩斯利花纹简约款衬衫",
+					"brandName": "AMK JUNIOR",
+					"glsCode": "AYO-306-00003",
+					"imageUrl": "https://cdn13.mei.com/product/AYO-306-00013/AYO-306-00013a.jpg@300w_400h_2e_75q",
+					"marketPrice": "670",
+					"itemPriceDto": {
+						"price": "134",
+						"discount": "2.0",
+						"begin": "1578225329",
+						"end": "1582905600"
+					},
+					"tagListDto": [],
+					"tNewProduct": 0,
+					"productSizes": []
+				},
+				{
+					"productId": "1214121499900023792",
+					"productName": "蓝色波点印花立体花饰女童短袖",
+					"brandName": "AMK JUNIOR",
+					"glsCode": "AYO-306-00006",
+					"imageUrl": "https://cdn15.mei.com/product/AYO-306-00027/AYO-306-00027a.jpg@300w_400h_2e_75q",
+					"marketPrice": "570",
+					"itemPriceDto": {
+						"price": "80",
+						"discount": "1.5",
+						"begin": "1578225329",
+						"end": "1582905600"
+					},
+					"tagListDto": [],
+					"tNewProduct": 0,
+					"productSizes": []
+				},
+				{
+					"productId": "2014201499000037550",
+					"productName": "咖啡色丝绒拼接长袖条纹罗纹束口男童长袖套头卫衣",
+					"brandName": "AMK JUNIOR",
+					"glsCode": "AYO-313-14846B",
+					"imageUrl": "https://cdn14.mei.com/product/AYO-313-14846B/a32d724e9d4fc596ccfc9c2e6ca2e42d6d8fbbadd8d7685e3f18ad870bcc7f94.jpg@300w_400h_2e_75q",
+					"marketPrice": "870",
+					"itemPriceDto": {
+						"price": "290",
+						"discount": "3.4",
+						"begin": "1578225329",
+						"end": "1582905600"
+					},
+					"tagListDto": [],
+					"tNewProduct": 0,
+					"productSizes": []
+				},
+				{
+					"productId": "2019201999000018133",
+					"productName": "橘色圆领潮流时尚胸前字母设计男童卫衣套头衫",
+					"brandName": "AMK JUNIOR",
+					"glsCode": "AYO-313-100001-C",
+					"imageUrl": "https://cdn13.mei.com/product/AYO-313-100001-C/a32d724e9d4fc596c4dbe54514ac870ac3fe425e2ad20da940db570c6b722819.jpg@300w_400h_2e_75q",
+					"marketPrice": "570",
+					"itemPriceDto": {
+						"price": "190",
+						"discount": "3.4",
+						"begin": "1578225329",
+						"end": "1582905600"
+					},
+					"tagListDto": [],
+					"tNewProduct": 0,
+					"productSizes": []
+				},
+				{
+					"productId": "2019201999000018164",
+					"productName": "红色木偶耳边拼接胸前两排假纽扣女童卫衣",
+					"brandName": "AMK JUNIOR",
+					"glsCode": "AYO-313-100002-C",
+					"imageUrl": "https://cdn13.mei.com/product/AYO-313-100002-C/a32d724e9d4fc5963352bbf13bcef3d3cf359725e20596fb51d5d601a10b6d84.jpg@300w_400h_2e_75q",
+					"marketPrice": "870",
+					"itemPriceDto": {
+						"price": "220",
+						"discount": "2.6",
+						"begin": "1578225329",
+						"end": "1582905600"
+					},
+					"tagListDto": [],
+					"tNewProduct": 0,
+					"productSizes": []
+				},
+				{
+					"productId": "2019201999000018165",
+					"productName": "红色胸前几何图案休闲时尚男童长袖T恤",
+					"brandName": "AMK JUNIOR",
+					"glsCode": "AYO-308-100001-C",
+					"imageUrl": "https://cdn15.mei.com/product/AYO-308-100001-C/a32d724e9d4fc596c260e6cad8ca654bca7e370bebe28b6adea0191921e25875.jpg@300w_400h_2e_75q",
+					"marketPrice": "570",
+					"itemPriceDto": {
+						"price": "130",
+						"discount": "2.3",
+						"begin": "1578225329",
+						"end": "1582905600"
+					},
+					"tagListDto": [],
+					"tNewProduct": 0,
+					"productSizes": []
+				}
+			],
+			"block_status": 0,
+			"isHKBlock": 0
+		},
+		{
+			"eventId": "2041204190000006187",
+			"eventCode": "39608",
+			"siloId": "2018000100000000007",
+			"siloName": "婴童",
+			"englishName": "SCHWARTZ",
+			"chineseName": "法式设计童装春夏清仓",
+			"imageUrl": "https://cdn15.mei.com/category/20190409/bf32645e36867cde3f9cd393456198afce6dc3676f54cd06.jpg",
+			"discount": "1.9折",
+			"spm_b": "12702284",
+			"isBazzer": "0",
+			"isCrossBorder": "0",
+			"isSeasonNew": "0",
+			"isOverseasend": "0",
+			"isMobile": "0",
+			"isFullprice": "0",
+			"isDisplayBrand": "1",
+			"tagListDto": [],
+			"totalCount": 105,
+			"products": [
+				{
+					"productId": "2042204299000509555",
+					"productName": "红色蕾丝圆领短袖女童T恤",
+					"brandName": "SCHWARTZ",
+					"glsCode": "SZ1-309-01141",
+					"imageUrl": "https://cdn15.mei.com/product/SZ1-309-01141/SZ1-309-01141a.jpg@300w_400h_2e_75q",
+					"marketPrice": "438",
+					"itemPriceDto": {
+						"price": "108",
+						"discount": "2.5",
+						"begin": "1578225330",
+						"end": "1582905600"
+					},
+					"tagListDto": [
+						{
+							"tag": "买手推荐",
+							"isHasExpiration": "0",
+							"fontColor": "000000",
+							"fontBackgroudColor": "FFFFFF",
+							"frameColor": "000000",
+							"isRadius": 0,
+							"isGradient": 0
+						}
+					],
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2042204299000509560", "size": "140CM", "qty": 2 },
+						{ "id": "2042204299000509557", "size": "110CM", "qty": 4 },
+						{ "id": "2042204299000509558", "size": "120CM", "qty": 3 }
+					]
+				},
+				{
+					"productId": "2041204199000456271",
+					"productName": "灰色束脚女童休闲裤",
+					"brandName": "SCHWARTZ",
+					"glsCode": "SZ1-303-01396",
+					"imageUrl": "https://cdn13.mei.com/product/SZ1-303-01396/SZ1-303-01396a.jpg@300w_400h_2e_75q",
+					"marketPrice": "398",
+					"itemPriceDto": {
+						"price": "118",
+						"discount": "3.0",
+						"begin": "1578225330",
+						"end": "1582905600"
+					},
+					"tagListDto": [
+						{
+							"tag": "买手推荐",
+							"isHasExpiration": "0",
+							"fontColor": "000000",
+							"fontBackgroudColor": "FFFFFF",
+							"frameColor": "000000",
+							"isRadius": 0,
+							"isGradient": 0
+						}
+					],
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2041204199000456277", "size": "150CM", "qty": 5 },
+						{ "id": "2041204199000456276", "size": "140CM", "qty": 4 },
+						{ "id": "2041204199000456275", "size": "130CM", "qty": 5 },
+						{ "id": "2041204199000456274", "size": "120CM", "qty": 3 },
+						{ "id": "2041204199000456273", "size": "110CM", "qty": 5 },
+						{ "id": "2041204199000456272", "size": "100CM", "qty": 1 }
+					]
+				},
+				{
+					"productId": "2041204199000574988",
+					"productName": "蓝色牛皮拼接字母饰魔术贴女童凉鞋",
+					"brandName": "SCHWARTZ",
+					"glsCode": "SZ1-321-00197",
+					"imageUrl": "https://cdn15.mei.com/product/SZ1-321-00201/3a3987e33da7a40ea36e75a4c980591a.jpg@300w_400h_2e_75q",
+					"marketPrice": "498",
+					"itemPriceDto": {
+						"price": "148",
+						"discount": "3.0",
+						"begin": "1578225330",
+						"end": "1582905600"
+					},
+					"tagListDto": [],
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2041204199000574989", "size": "28", "qty": 4 },
+						{ "id": "2041204199000574990", "size": "29", "qty": 4 },
+						{ "id": "2041204199000574991", "size": "30", "qty": 5 },
+						{ "id": "2041204199000574992", "size": "31", "qty": 6 },
+						{ "id": "2041204199000574993", "size": "32", "qty": 5 },
+						{ "id": "2041204199000574994", "size": "33", "qty": 4 },
+						{ "id": "2041204199000574995", "size": "34", "qty": 1 },
+						{ "id": "2041204199000574996", "size": "35", "qty": 3 }
+					]
+				},
+				{
+					"productId": "2042204299000509467",
+					"productName": "红色拼白色圆领拼接春夏儿童短袖T恤",
+					"brandName": "SCHWARTZ",
+					"glsCode": "SZ1-309-01053",
+					"imageUrl": "https://cdn13.mei.com/product/SZ1-309-01057/b4352b83b1f6acf9564a98e79aac8011.jpg@300w_400h_2e_75q",
+					"marketPrice": "398",
+					"itemPriceDto": {
+						"price": "118",
+						"discount": "3.0",
+						"begin": "1578225330",
+						"end": "1582905600"
+					},
+					"tagListDto": [],
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2042204299000509470", "size": "120CM", "qty": 4 },
+						{ "id": "2042204299000509472", "size": "140CM", "qty": 6 },
+						{ "id": "2042204299000509471", "size": "130CM", "qty": 6 },
+						{ "id": "2042204299000509473", "size": "150CM", "qty": 5 },
+						{ "id": "2042204299000509468", "size": "100CM", "qty": 2 },
+						{ "id": "2042204299000509469", "size": "110CM", "qty": 6 }
+					]
+				},
+				{
+					"productId": "2042204299000509436",
+					"productName": "灰色圆领印花春夏休闲男童背心",
+					"brandName": "SCHWARTZ",
+					"glsCode": "SZ1-317-00346",
+					"imageUrl": "https://cdn15.mei.com/product/SZ1-317-00349/7e1e840c74419cb2208183044c2198ee.jpg@300w_400h_2e_75q",
+					"marketPrice": "368",
+					"itemPriceDto": {
+						"price": "98",
+						"discount": "2.7",
+						"begin": "1578225330",
+						"end": "1582905600"
+					},
+					"tagListDto": [],
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2042204299000509439", "size": "120CM", "qty": 5 },
+						{ "id": "2042204299000509442", "size": "150CM", "qty": 3 },
+						{ "id": "2042204299000509438", "size": "110CM", "qty": 5 },
+						{ "id": "2042204299000509440", "size": "130CM", "qty": 6 },
+						{ "id": "2042204299000509443", "size": "160CM", "qty": 1 },
+						{ "id": "2042204299000509441", "size": "140CM", "qty": 5 }
+					]
+				},
+				{
+					"productId": "2041204199000456159",
+					"productName": "藏蓝色拼白色圆领印花春夏男童短袖T恤",
+					"brandName": "SCHWARTZ",
+					"glsCode": "SZ1-309-00981",
+					"imageUrl": "https://cdn12.mei.com/product/SZ1-309-00985/b4352b83b1f6acf937c13904decdf3ac.jpg@300w_400h_2e_75q",
+					"marketPrice": "398",
+					"itemPriceDto": {
+						"price": "98",
+						"discount": "2.5",
+						"begin": "1578225330",
+						"end": "1582905600"
+					},
+					"tagListDto": [],
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2041204199000456163", "size": "130CM", "qty": 6 },
+						{ "id": "2041204199000456162", "size": "120CM", "qty": 5 },
+						{ "id": "2041204199000456161", "size": "110CM", "qty": 5 },
+						{ "id": "2041204199000456160", "size": "100CM", "qty": 1 },
+						{ "id": "2041204199000456164", "size": "140CM", "qty": 4 },
+						{ "id": "2041204199000456165", "size": "150CM", "qty": 3 }
+					]
+				},
+				{
+					"productId": "2041204199000456071",
+					"productName": "白色拼灰色圆领全印花春夏男童短袖T恤",
+					"brandName": "SCHWARTZ",
+					"glsCode": "SZ1-309-00893",
+					"imageUrl": "https://cdn12.mei.com/product/SZ1-309-00897/b4352b83b1f6acf9cdadc3c541f4d4b2.jpg@300w_400h_2e_75q",
+					"marketPrice": "398",
+					"itemPriceDto": {
+						"price": "98",
+						"discount": "2.5",
+						"begin": "1578225330",
+						"end": "1582905600"
+					},
+					"tagListDto": [],
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2041204199000456073", "size": "110CM", "qty": 6 },
+						{ "id": "2041204199000456075", "size": "130CM", "qty": 2 },
+						{ "id": "2041204199000456076", "size": "140CM", "qty": 4 },
+						{ "id": "2041204199000456072", "size": "100CM", "qty": 2 },
+						{ "id": "2041204199000456077", "size": "150CM", "qty": 3 },
+						{ "id": "2041204199000456074", "size": "120CM", "qty": 5 }
+					]
+				},
+				{
+					"productId": "2041204199000456119",
+					"productName": "白色圆领字母印花春夏男童短袖T恤",
+					"brandName": "SCHWARTZ",
+					"glsCode": "SZ1-309-00941",
+					"imageUrl": "https://cdn14.mei.com/product/SZ1-309-00946/b4352b83b1f6acf93538bb34d282bb08.jpg@300w_400h_2e_75q",
+					"marketPrice": "298",
+					"itemPriceDto": {
+						"price": "86",
+						"discount": "2.9",
+						"begin": "1578225330",
+						"end": "1582905600"
+					},
+					"tagListDto": [],
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2041204199000456120", "size": "100CM", "qty": 4 },
+						{ "id": "2041204199000456124", "size": "140CM", "qty": 3 },
+						{ "id": "2041204199000456121", "size": "110CM", "qty": 5 },
+						{ "id": "2041204199000456125", "size": "150CM", "qty": 1 },
+						{ "id": "2041204199000456122", "size": "120CM", "qty": 4 },
+						{ "id": "2041204199000456123", "size": "130CM", "qty": 5 }
+					]
+				},
+				{
+					"productId": "2041204199000456015",
+					"productName": "蓝色翻领印花休闲春夏男童短袖Polo衫",
+					"brandName": "SCHWARTZ",
+					"glsCode": "SZ1-310-00009",
+					"imageUrl": "https://cdn14.mei.com/product/SZ1-309-01724/b4352b83b1f6acf9aaf514df7849b6e4.jpg@300w_400h_2e_75q",
+					"marketPrice": "468",
+					"itemPriceDto": {
+						"price": "126",
+						"discount": "2.7",
+						"begin": "1578225330",
+						"end": "1582905600"
+					},
+					"tagListDto": [],
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2041204199000721368", "size": "100CM", "qty": 2 },
+						{ "id": "2041204199000721372", "size": "140CM", "qty": 5 },
+						{ "id": "2041204199000721370", "size": "120CM", "qty": 6 },
+						{ "id": "2041204199000721371", "size": "130CM", "qty": 1 },
+						{ "id": "2041204199000721369", "size": "110CM", "qty": 6 }
+					]
+				}
+			],
+			"block_status": 0,
+			"isHKBlock": 0
+		},
+		{
+			"eventId": "2120005100000002597",
+			"eventCode": "42091",
+			"siloId": "2018000100000000007",
+			"siloName": "婴童",
+			"englishName": "ROBERTO CAVALLI",
+			"chineseName": "男女童装直降专场",
+			"imageUrl": "https://cdn14.mei.com/category/20190618/dfa71dd73a005a769635dd463765fce6d72eb86efc6c943a.jpg",
+			"discount": "1.8折",
+			"spm_b": "13035616",
+			"isBazzer": "0",
+			"isCrossBorder": "0",
+			"isSeasonNew": "0",
+			"isOverseasend": "0",
+			"isMobile": "0",
+			"isFullprice": "0",
+			"isDisplayBrand": "1",
+			"tagListDto": [],
+			"totalCount": 227,
+			"products": [
+				{
+					"productId": "2041204199000586955",
+					"productName": "浅灰色腰部格纹星星贴布绣男童休闲裤",
+					"brandName": "roberto cavalli",
+					"glsCode": "RC5-303-00511",
+					"imageUrl": "https://cdn15.mei.com/product/RC5-303-00515/RC5-303-00515a.jpg@300w_400h_2e_75q",
+					"marketPrice": "2390",
+					"itemPriceDto": {
+						"price": "499",
+						"discount": "2.1",
+						"begin": "1578225330",
+						"end": "1582905600"
+					},
+					"tagListDto": [],
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2041204199000586957", "size": "3Y", "qty": 1 },
+						{ "id": "2041204199000586960", "size": "8Y", "qty": 2 },
+						{ "id": "2041204199000586956", "size": "2Y", "qty": 2 },
+						{ "id": "2041204199000586962", "size": "XS", "qty": 1 },
+						{ "id": "2041204199000586958", "size": "4Y", "qty": 2 },
+						{ "id": "2041204199000586959", "size": "6Y", "qty": 2 },
+						{ "id": "2041204199000586961", "size": "10Y", "qty": 2 }
+					]
+				},
+				{
+					"productId": "2041204199000667472",
+					"productName": "红色印花女童休闲裤",
+					"brandName": "roberto cavalli",
+					"glsCode": "RC5-303-00598",
+					"imageUrl": "https://cdn13.mei.com/product/RC5-303-00603/RC5-303-00603a.jpg@300w_400h_2e_75q",
+					"marketPrice": "2490",
+					"itemPriceDto": {
+						"price": "521",
+						"discount": "2.1",
+						"begin": "1578225330",
+						"end": "1582905600"
+					},
+					"tagListDto": [],
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2041204199000667478", "size": "10Y", "qty": 2 },
+						{ "id": "2041204199000667479", "size": "XS", "qty": 2 },
+						{ "id": "2041204199000667477", "size": "8Y", "qty": 2 },
+						{ "id": "2041204199000667476", "size": "6Y", "qty": 2 },
+						{ "id": "2041204199000667473", "size": "3Y", "qty": 2 },
+						{ "id": "2041204199000667474", "size": "4Y", "qty": 2 }
+					]
+				},
+				{
+					"productId": "2041204199000586757",
+					"productName": "灰色星星印花男童长袖T恤",
+					"brandName": "roberto cavalli",
+					"glsCode": "RC5-303-00472",
+					"imageUrl": "https://cdn15.mei.com/product/RC5-303-00473/RC5-303-00473a.jpg@300w_400h_2e_75q",
+					"marketPrice": "890",
+					"itemPriceDto": {
+						"price": "211",
+						"discount": "2.4",
+						"begin": "1578225330",
+						"end": "1582905600"
+					},
+					"tagListDto": [],
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2041204199000586760", "size": "24M", "qty": 3 },
+						{ "id": "2041204199000586759", "size": "18M", "qty": 2 },
+						{ "id": "2041204199000586758", "size": "12M", "qty": 3 },
+						{ "id": "2040204099000646833", "size": "6M", "qty": 3 }
+					]
+				},
+				{
+					"productId": "2041204199000587126",
+					"productName": "白色金丝饰女童衬衫",
+					"brandName": "roberto cavalli",
+					"glsCode": "RC5-306-00223",
+					"imageUrl": "https://cdn13.mei.com/product/RC5-306-00226/RC5-306-00226a.jpg@300w_400h_2e_75q",
+					"marketPrice": "3990",
+					"itemPriceDto": {
+						"price": "734",
+						"discount": "1.9",
+						"begin": "1578225330",
+						"end": "1582905600"
+					},
+					"tagListDto": [],
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2041204199000587134", "size": "XS", "qty": 1 },
+						{ "id": "2041204199000587133", "size": "10Y", "qty": 2 },
+						{ "id": "2041204199000587132", "size": "8Y", "qty": 2 },
+						{ "id": "2041204199000587131", "size": "6Y", "qty": 3 },
+						{ "id": "2041204199000587130", "size": "5Y", "qty": 1 },
+						{ "id": "2041204199000587129", "size": "4Y", "qty": 1 },
+						{ "id": "2041204199000587128", "size": "3Y", "qty": 1 }
+					]
+				},
+				{
+					"productId": "2041204199000587193",
+					"productName": "拼色抽象豹纹印花女童T恤",
+					"brandName": "roberto cavalli",
+					"glsCode": "RC5-309-01183",
+					"imageUrl": "https://cdn13.mei.com/product/RC5-309-01186/RC5-309-01186a.jpg@300w_400h_2e_75q",
+					"marketPrice": "1690",
+					"itemPriceDto": {
+						"price": "318",
+						"discount": "1.9",
+						"begin": "1578225330",
+						"end": "1582905600"
+					},
+					"tagListDto": [],
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2041204199000587201", "size": "XS", "qty": 1 },
+						{ "id": "2041204199000587200", "size": "10Y", "qty": 2 },
+						{ "id": "2041204199000587199", "size": "8Y", "qty": 2 },
+						{ "id": "2041204199000587198", "size": "6Y", "qty": 2 },
+						{ "id": "2041204199000587196", "size": "4Y", "qty": 2 },
+						{ "id": "2041204199000587194", "size": "2Y", "qty": 2 }
+					]
+				},
+				{
+					"productId": "2041204199000586909",
+					"productName": "灰色个性印花拉链男童卫衣",
+					"brandName": "roberto cavalli",
+					"glsCode": "RC5-313-00089",
+					"imageUrl": "https://cdn15.mei.com/product/RC5-313-00092/RC5-313-00092a.jpg@300w_400h_2e_75q",
+					"marketPrice": "2590",
+					"itemPriceDto": {
+						"price": "531",
+						"discount": "2.1",
+						"begin": "1578225330",
+						"end": "1582905600"
+					},
+					"tagListDto": [],
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2041204199000586917", "size": "XS", "qty": 1 },
+						{ "id": "2041204199000586916", "size": "10Y", "qty": 2 },
+						{ "id": "2041204199000586915", "size": "8Y", "qty": 1 },
+						{ "id": "2041204199000586914", "size": "6Y", "qty": 1 },
+						{ "id": "2041204199000586913", "size": "5Y", "qty": 1 },
+						{ "id": "2041204199000586912", "size": "4Y", "qty": 3 }
+					]
+				},
+				{
+					"productId": "2041204199000586738",
+					"productName": "深紫色徽章贴布绣男童Polo衫",
+					"brandName": "roberto cavalli",
+					"glsCode": "RC5-306-00190",
+					"imageUrl": "https://cdn13.mei.com/product/RC5-306-00192/RC5-306-00192a.jpg@300w_400h_2e_75q",
+					"marketPrice": "2490",
+					"itemPriceDto": {
+						"price": "457",
+						"discount": "1.9",
+						"begin": "1578225330",
+						"end": "1582905600"
+					},
+					"tagListDto": [],
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2041204199000586741", "size": "18M", "qty": 2 },
+						{ "id": "2041204199000586740", "size": "12M", "qty": 3 },
+						{ "id": "2041204199000586739", "size": "6M", "qty": 3 }
+					]
+				},
+				{
+					"productId": "2041204199000586765",
+					"productName": "拼色马戏团豹子印花男童T恤",
+					"brandName": "roberto cavalli",
+					"glsCode": "RC5-303-00480",
+					"imageUrl": "https://cdn15.mei.com/product/RC5-303-00481/RC5-303-00481a.jpg@300w_400h_2e_75q",
+					"marketPrice": "1590",
+					"itemPriceDto": {
+						"price": "350",
+						"discount": "2.3",
+						"begin": "1578225330",
+						"end": "1582905600"
+					},
+					"tagListDto": [],
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2041204199000586767", "size": "18M", "qty": 3 },
+						{ "id": "2041204199000586766", "size": "12M", "qty": 3 },
+						{ "id": "2040204099000646835", "size": "6M", "qty": 2 }
+					]
+				},
+				{
+					"productId": "2041204199000586877",
+					"productName": "白色豹纹印花拼接女童针织衫",
+					"brandName": "roberto cavalli",
+					"glsCode": "RC5-313-00071",
+					"imageUrl": "https://cdn15.mei.com/product/RC5-313-00073/RC5-313-00073a.jpg@300w_400h_2e_75q",
+					"marketPrice": "2790",
+					"itemPriceDto": {
+						"price": "574",
+						"discount": "2.1",
+						"begin": "1578225330",
+						"end": "1582905600"
+					},
+					"tagListDto": [],
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2041204199000586881", "size": "24M", "qty": 2 },
+						{ "id": "2041204199000586880", "size": "18M", "qty": 2 },
+						{ "id": "2041204199000586879", "size": "12M", "qty": 2 },
+						{ "id": "2041204199000586878", "size": "6M", "qty": 2 }
+					]
+				}
+			],
+			"block_status": 0,
+			"isHKBlock": 0
+		},
+		{
+			"eventId": "2042204290000005949",
+			"eventCode": "39609",
+			"siloId": "2018000100000000007",
+			"siloName": "婴童",
+			"englishName": "SCHWARTZ",
+			"chineseName": "返季童装 性价之选",
+			"imageUrl": "https://cdn13.mei.com/category/20190409/bf32645e36867cdec15baa95aba88011dc0bc45b7bb6d783.jpg",
+			"discount": "1.9折",
+			"spm_b": "12702302",
+			"isBazzer": "0",
+			"isCrossBorder": "0",
+			"isSeasonNew": "0",
+			"isOverseasend": "0",
+			"isMobile": "0",
+			"isFullprice": "0",
+			"isDisplayBrand": "1",
+			"tagListDto": [],
+			"totalCount": 52,
+			"products": [
+				{
+					"productId": "2041204199000455991",
+					"productName": "白色棉质翻领拼接春夏男童短袖衬衫",
+					"brandName": "SCHWARTZ",
+					"glsCode": "SZ1-306-00323",
+					"imageUrl": "https://cdn12.mei.com/product/SZ1-306-00326/c444eb569ddfe5a031da1aea838d6cae.jpg@300w_400h_2e_75q",
+					"marketPrice": "498",
+					"itemPriceDto": {
+						"price": "168",
+						"discount": "3.4",
+						"begin": "1578225330",
+						"end": "1582905600"
+					},
+					"tagListDto": [],
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2041204199000455992", "size": "100CM", "qty": 4 },
+						{ "id": "2041204199000455993", "size": "110CM", "qty": 2 },
+						{ "id": "2041204199000455997", "size": "150CM", "qty": 2 },
+						{ "id": "2041204199000455995", "size": "130CM", "qty": 4 },
+						{ "id": "2041204199000455994", "size": "120CM", "qty": 3 },
+						{ "id": "2041204199000455996", "size": "140CM", "qty": 3 }
+					]
+				},
+				{
+					"productId": "2041204199000456095",
+					"productName": "黄色圆领印花贴布春夏男童短袖T恤",
+					"brandName": "SCHWARTZ",
+					"glsCode": "SZ1-309-00917",
+					"imageUrl": "https://cdn12.mei.com/product/SZ1-309-00920/b4352b83b1f6acf9085b67723db257c5.jpg@300w_400h_2e_75q",
+					"marketPrice": "398",
+					"itemPriceDto": {
+						"price": "108",
+						"discount": "2.8",
+						"begin": "1578225330",
+						"end": "1582905600"
+					},
+					"tagListDto": [],
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2041204199000456100", "size": "140CM", "qty": 4 },
+						{ "id": "2041204199000456097", "size": "110CM", "qty": 3 },
+						{ "id": "2041204199000456099", "size": "130CM", "qty": 4 },
+						{ "id": "2041204199000456098", "size": "120CM", "qty": 3 }
+					]
+				},
+				{
+					"productId": "2041204199000456031",
+					"productName": "白色翻领印花撞色春夏男童短袖Polo衫",
+					"brandName": "SCHWARTZ",
+					"glsCode": "SZ1-310-00025",
+					"imageUrl": "https://cdn13.mei.com/product/SZ1-309-01739/b4352b83b1f6acf917934c180c33aa2a.jpg@300w_400h_2e_75q",
+					"marketPrice": "468",
+					"itemPriceDto": {
+						"price": "126",
+						"discount": "2.7",
+						"begin": "1578225330",
+						"end": "1582905600"
+					},
+					"tagListDto": [],
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2041204199000721401", "size": "140CM", "qty": 2 },
+						{ "id": "2041204199000721399", "size": "120CM", "qty": 3 },
+						{ "id": "2041204199000721396", "size": "100CM", "qty": 2 },
+						{ "id": "2041204199000721400", "size": "130CM", "qty": 3 }
+					]
+				},
+				{
+					"productId": "2042204299000509603",
+					"productName": "蓝色棉质松紧腰插袋男童牛仔中裤",
+					"brandName": "SCHWARTZ",
+					"glsCode": "SZ1-303-01444",
+					"imageUrl": "https://cdn14.mei.com/product/SZ1-303-01446/79afb24e15298ff2357662694d4fd5fe.jpg@300w_400h_2e_75q",
+					"marketPrice": "498",
+					"itemPriceDto": {
+						"price": "138",
+						"discount": "2.8",
+						"begin": "1578225330",
+						"end": "1582905600"
+					},
+					"tagListDto": [],
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2042204299000509607", "size": "130CM", "qty": 3 },
+						{ "id": "2042204299000509606", "size": "120CM", "qty": 2 },
+						{ "id": "2042204299000509605", "size": "110CM", "qty": 2 },
+						{ "id": "2042204299000509604", "size": "100CM", "qty": 1 }
+					]
+				},
+				{
+					"productId": "2042204299000509811",
+					"productName": "灰色拼深蓝色圆领印花春夏儿童短袖套装",
+					"brandName": "SCHWARTZ",
+					"glsCode": "SZ1-329-00124",
+					"imageUrl": "https://cdn15.mei.com/product/SZ1-329-00128/54128692f661dc4998bec1ae4f553e39.jpg@300w_400h_2e_75q",
+					"marketPrice": "668",
+					"itemPriceDto": {
+						"price": "188",
+						"discount": "2.9",
+						"begin": "1578225330",
+						"end": "1582905600"
+					},
+					"tagListDto": [],
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2042204299000509813", "size": "110CM", "qty": 3 },
+						{ "id": "2042204299000509814", "size": "120CM", "qty": 2 },
+						{ "id": "2042204299000509815", "size": "130CM", "qty": 2 }
+					]
+				},
+				{
+					"productId": "2042204299000509627",
+					"productName": "灰色松紧腰印花春夏男童休闲短裤",
+					"brandName": "SCHWARTZ",
+					"glsCode": "SZ1-303-01468",
+					"imageUrl": "https://cdn12.mei.com/product/SZ1-303-01472/79afb24e15298ff241068cfa14e2a559.jpg@300w_400h_2e_75q",
+					"marketPrice": "368",
+					"itemPriceDto": {
+						"price": "108",
+						"discount": "3.0",
+						"begin": "1578225330",
+						"end": "1582905600"
+					},
+					"tagListDto": [],
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2042204299000509632", "size": "140CM", "qty": 1 },
+						{ "id": "2042204299000509631", "size": "130CM", "qty": 2 },
+						{ "id": "2042204299000509630", "size": "120CM", "qty": 1 }
+					]
+				},
+				{
+					"productId": "2042204299000509635",
+					"productName": "灰色松紧腰拼接贴袋春夏儿童休闲短裤",
+					"brandName": "SCHWARTZ",
+					"glsCode": "SZ1-303-01476",
+					"imageUrl": "https://cdn13.mei.com/product/SZ1-303-01478/79afb24e15298ff23961b90c301f9789.jpg@300w_400h_2e_75q",
+					"marketPrice": "398",
+					"itemPriceDto": {
+						"price": "118",
+						"discount": "3.0",
+						"begin": "1578225330",
+						"end": "1582905600"
+					},
+					"tagListDto": [],
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2042204299000509639", "size": "130CM", "qty": 1 },
+						{ "id": "2042204299000509638", "size": "120CM", "qty": 2 },
+						{ "id": "2042204299000509637", "size": "110CM", "qty": 1 }
+					]
+				},
+				{
+					"productId": "2042204299000764910",
+					"productName": "红色棉质松紧腰拼接春夏男童休闲中裤",
+					"brandName": "SCHWARTZ",
+					"glsCode": "SZ1-303-02295",
+					"imageUrl": "https://cdn13.mei.com/product/SZ1-303-02299/79afb24e15298ff2e48026e5e0a7c500.jpg@300w_400h_2e_75q",
+					"marketPrice": "298",
+					"itemPriceDto": {
+						"price": "88",
+						"discount": "3.0",
+						"begin": "1578225330",
+						"end": "1582905600"
+					},
+					"tagListDto": [],
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2042204299000764915", "size": "140CM", "qty": 2 },
+						{ "id": "2042204299000764914", "size": "130CM", "qty": 1 },
+						{ "id": "2042204299000764911", "size": "100CM", "qty": 1 }
+					]
+				},
+				{
+					"productId": "2042204299000509459",
+					"productName": "红色圆领音符印花春夏男童短袖T恤",
+					"brandName": "SCHWARTZ",
+					"glsCode": "SZ1-309-01045",
+					"imageUrl": "https://cdn15.mei.com/product/SZ1-309-01050/b4352b83b1f6acf9f1f5f9a199edb9c6.jpg@300w_400h_2e_75q",
+					"marketPrice": "368",
+					"itemPriceDto": {
+						"price": "98",
+						"discount": "2.7",
+						"begin": "1578225330",
+						"end": "1582905600"
+					},
+					"tagListDto": [],
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2042204299000509462", "size": "120CM", "qty": 3 },
+						{ "id": "2042204299000509463", "size": "130CM", "qty": 3 },
+						{ "id": "2042204299000509464", "size": "140CM", "qty": 5 },
+						{ "id": "2042204299000509461", "size": "110CM", "qty": 5 }
+					]
+				}
+			],
+			"block_status": 0,
+			"isHKBlock": 0
+		},
+		{
+			"eventId": "2121005100000002648",
+			"eventCode": "42143",
+			"siloId": "2018000100000000007",
+			"siloName": "婴童",
+			"englishName": "JACADI",
+			"chineseName": "法式萌童 儿童穿搭专场",
+			"imageUrl": "https://cdn12.mei.com/category/20190620/57da5eb3ff6a0b84eb2a3122d50e58ff25aecd78fee7fcaf.jpg",
+			"discount": "2.2折",
+			"isBazzer": "0",
+			"isCrossBorder": "0",
+			"isSeasonNew": "0",
+			"isOverseasend": "0",
+			"isMobile": "0",
+			"isFullprice": "0",
+			"isDisplayBrand": "1",
+			"tagListDto": [],
+			"totalCount": 363,
+			"products": [
+				{
+					"productId": "2042204299000805461",
+					"productName": "玫红色LOGO字母饰秋冬女童连裤袜",
+					"brandName": "jacadi",
+					"glsCode": "JA0-339-00174",
+					"imageUrl": "https://cdn14.mei.com/product/JA0-339-00176/187cdd23483bd25214ad2b64c1b145e5.jpg@300w_400h_2e_75q",
+					"marketPrice": "239",
+					"itemPriceDto": {
+						"price": "108",
+						"discount": "4.6",
+						"begin": "1578225330",
+						"end": "1582905600"
+					},
+					"tagListDto": [
+						{
+							"tag": "买手推荐",
+							"isHasExpiration": "0",
+							"fontColor": "000000",
+							"fontBackgroudColor": "FFFFFF",
+							"frameColor": "000000",
+							"isRadius": 0,
+							"isGradient": 0
+						}
+					],
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2042204299000805462", "size": "23/26", "qty": 37 },
+						{ "id": "2042204299000805463", "size": "27/30", "qty": 39 },
+						{ "id": "2042204299000805465", "size": "35/37", "qty": 12 },
+						{ "id": "2042204299000805464", "size": "31/34", "qty": 33 }
+					]
+				},
+				{
+					"productId": "2042204299000804621",
+					"productName": "天蓝藏蓝图案秋冬男童袜子套装（两双）",
+					"brandName": "jacadi",
+					"glsCode": "JA0-339-00094",
+					"imageUrl": "https://cdn12.mei.com/product/JA0-339-00096/187cdd23483bd2525dd48ffe0e12fbbe.jpg@300w_400h_2e_75q",
+					"marketPrice": "179",
+					"itemPriceDto": {
+						"price": "81",
+						"discount": "4.6",
+						"begin": "1578225330",
+						"end": "1582905600"
+					},
+					"tagListDto": [
+						{
+							"tag": "买手推荐",
+							"isHasExpiration": "0",
+							"fontColor": "000000",
+							"fontBackgroudColor": "FFFFFF",
+							"frameColor": "000000",
+							"isRadius": 0,
+							"isGradient": 0
+						}
+					],
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2042204299000804622", "size": "15/16", "qty": 30 },
+						{ "id": "2042204299000804625", "size": "21/22", "qty": 25 },
+						{ "id": "2042204299000804624", "size": "19/20", "qty": 28 },
+						{ "id": "2042204299000804623", "size": "17/18", "qty": 30 }
+					]
+				},
+				{
+					"productId": "2042204299000805867",
+					"productName": "亮粉色简约百搭时尚秋冬女童保暖连裤袜",
+					"brandName": "jacadi",
+					"glsCode": "JA0-339-00294",
+					"imageUrl": "https://cdn12.mei.com/product/JA0-339-00295/187cdd23483bd25227ca006ed133e1f5.jpg@300w_400h_2e_75q",
+					"marketPrice": "239",
+					"itemPriceDto": {
+						"price": "108",
+						"discount": "4.6",
+						"begin": "1578225330",
+						"end": "1582905600"
+					},
+					"tagListDto": [
+						{
+							"tag": "买手推荐",
+							"isHasExpiration": "0",
+							"fontColor": "000000",
+							"fontBackgroudColor": "FFFFFF",
+							"frameColor": "000000",
+							"isRadius": 0,
+							"isGradient": 0
+						}
+					],
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2042204299000805869", "size": "27/30", "qty": 31 },
+						{ "id": "2042204299000805871", "size": "35/37", "qty": 9 },
+						{ "id": "2042204299000805868", "size": "23/26", "qty": 38 },
+						{ "id": "2042204299000805870", "size": "31/34", "qty": 33 }
+					]
+				},
+				{
+					"productId": "2042204299000804616",
+					"productName": "天蓝色混羊毛趣味图案饰秋冬男童针织帽",
+					"brandName": "jacadi",
+					"glsCode": "JA0-337-00604",
+					"imageUrl": "https://cdn15.mei.com/product/JA0-337-00606/b0a067847a4293a6ca7ca2c908037b43.jpg@300w_400h_2e_75q",
+					"marketPrice": "369",
+					"itemPriceDto": {
+						"price": "166",
+						"discount": "4.5",
+						"begin": "1578225330",
+						"end": "1582905600"
+					},
+					"tagListDto": [
+						{
+							"tag": "买手推荐",
+							"isHasExpiration": "0",
+							"fontColor": "000000",
+							"fontBackgroudColor": "FFFFFF",
+							"frameColor": "000000",
+							"isRadius": 0,
+							"isGradient": 0
+						}
+					],
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2042204299000804617", "size": "41", "qty": 21 },
+						{ "id": "2042204299000804618", "size": "43", "qty": 31 },
+						{ "id": "2042204299000804619", "size": "45", "qty": 28 },
+						{ "id": "2042204299000804620", "size": "47", "qty": 23 }
+					]
+				},
+				{
+					"productId": "2042204299000805451",
+					"productName": "番茄红简约百搭保暖秋冬女童连裤袜",
+					"brandName": "jacadi",
+					"glsCode": "JA0-339-00164",
+					"imageUrl": "https://cdn14.mei.com/product/JA0-339-00166/187cdd23483bd252c918687d3d90ce8a.jpg@300w_400h_2e_75q",
+					"marketPrice": "239",
+					"itemPriceDto": {
+						"price": "108",
+						"discount": "4.6",
+						"begin": "1578225330",
+						"end": "1582905600"
+					},
+					"tagListDto": [],
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2042204299000805452", "size": "23/26", "qty": 36 },
+						{ "id": "2042204299000805453", "size": "27/30", "qty": 37 },
+						{ "id": "2042204299000805455", "size": "35/37", "qty": 6 },
+						{ "id": "2042204299000805454", "size": "31/34", "qty": 17 }
+					]
+				},
+				{
+					"productId": "2042204299000805556",
+					"productName": "海蓝拼灰色卡通图案秋冬保暖男童袜子",
+					"brandName": "jacadi",
+					"glsCode": "JA0-339-00244",
+					"imageUrl": "https://cdn14.mei.com/product/JA0-339-00246/187cdd23483bd252386fe70380e51f32.jpg@300w_400h_2e_75q",
+					"marketPrice": "119",
+					"itemPriceDto": {
+						"price": "54",
+						"discount": "4.6",
+						"begin": "1578225330",
+						"end": "1582905600"
+					},
+					"tagListDto": [],
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2042204299000805559", "size": "19/20", "qty": 29 },
+						{ "id": "2042204299000805560", "size": "21/22", "qty": 19 },
+						{ "id": "2042204299000805557", "size": "15/16", "qty": 22 },
+						{ "id": "2042204299000805558", "size": "17/18", "qty": 24 }
+					]
+				},
+				{
+					"productId": "2042204299000805561",
+					"productName": "海军蓝混羊毛撞色爱心秋冬女童针织帽",
+					"brandName": "jacadi",
+					"glsCode": "JA0-337-00688",
+					"imageUrl": "https://cdn14.mei.com/product/JA0-337-00690/b0a067847a4293a6697e8357986c8c81.jpg@300w_400h_2e_75q",
+					"marketPrice": "369",
+					"itemPriceDto": {
+						"price": "166",
+						"discount": "4.5",
+						"begin": "1578225330",
+						"end": "1582905600"
+					},
+					"tagListDto": [],
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2042204299000805562", "size": "41", "qty": 15 },
+						{ "id": "2042204299000805563", "size": "43", "qty": 17 },
+						{ "id": "2042204299000805564", "size": "45", "qty": 29 },
+						{ "id": "2042204299000805565", "size": "47", "qty": 29 }
+					]
+				},
+				{
+					"productId": "2042204299000805526",
+					"productName": "粉红色简约百搭秋冬保暖女童连裤袜",
+					"brandName": "jacadi",
+					"glsCode": "JA0-339-00224",
+					"imageUrl": "https://cdn13.mei.com/product/JA0-339-00227/187cdd23483bd252c7363589b5f62a04.jpg@300w_400h_2e_75q",
+					"marketPrice": "209",
+					"itemPriceDto": {
+						"price": "94",
+						"discount": "4.5",
+						"begin": "1578225330",
+						"end": "1582905600"
+					},
+					"tagListDto": [],
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2042204299000805529", "size": "23/24", "qty": 22 },
+						{ "id": "2042204299000805527", "size": "19/20", "qty": 14 },
+						{ "id": "2042204299000805530", "size": "25/26", "qty": 22 },
+						{ "id": "2042204299000805528", "size": "21/22", "qty": 26 }
+					]
+				},
+				{
+					"productId": "2042204299000805277",
+					"productName": "海军蓝混羊毛条纹毛绒秋冬男童帽子套装",
+					"brandName": "jacadi",
+					"glsCode": "JA0-337-00643",
+					"imageUrl": "https://cdn13.mei.com/product/JA0-337-00645/b0a067847a4293a6907cac3cb9ca6db1.jpg@300w_400h_2e_75q",
+					"marketPrice": "579",
+					"itemPriceDto": {
+						"price": "261",
+						"discount": "4.6",
+						"begin": "1578225330",
+						"end": "1582905600"
+					},
+					"tagListDto": [],
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2042204299000805278", "size": "45", "qty": 15 },
+						{ "id": "2042204299000805279", "size": "47", "qty": 25 },
+						{ "id": "2042204299000805280", "size": "49", "qty": 27 },
+						{ "id": "2042204299000805281", "size": "51", "qty": 14 }
+					]
+				}
+			],
+			"block_status": 0,
+			"isHKBlock": 0
+		},
+		{
+			"eventId": "2121005100000001463",
+			"eventCode": "36136",
+			"siloId": "2018000100000000007",
+			"siloName": "婴童",
+			"englishName": "HAPE",
+			"chineseName": "德国益智类玩具",
+			"imageUrl": "https://cdn15.mei.com/category/20190102/4ed34bc5febe075dd54fbae4c0345b88d4fa53a986efd91b.png",
+			"discount": "3.5折",
+			"spm_b": "12035390",
+			"isBazzer": "0",
+			"isCrossBorder": "0",
+			"isSeasonNew": "0",
+			"isOverseasend": "0",
+			"isMobile": "0",
+			"isFullprice": "0",
+			"isDisplayBrand": "1",
+			"tagListDto": [],
+			"totalCount": 138,
+			"products": [
+				{
+					"productId": "2041204199000403382",
+					"productName": "12M+泰迪&洒水云迷藏游戏",
+					"brandName": "HAPE",
+					"glsCode": "HP3-805-00262",
+					"imageUrl": "https://cdn13.mei.com/product/HP3-805-00262/HP3-805-00262a.jpg@300w_400h_2e_75q",
+					"marketPrice": "118",
+					"itemPriceDto": {
+						"price": "61",
+						"discount": "5.2",
+						"begin": "1578225330",
+						"end": "1582905600"
+					},
+					"tagListDto": [],
+					"tNewProduct": 0,
+					"productSizes": []
+				},
+				{
+					"productId": "2041204199000345265",
+					"productName": "1岁+花式水漏桶组合套",
+					"brandName": "HAPE",
+					"glsCode": "HP3-805-00260",
+					"imageUrl": "https://cdn15.mei.com/product/HP3-805-00260/HP3-805-00260a.jpg@300w_400h_2e_75q",
+					"marketPrice": "118",
+					"itemPriceDto": {
+						"price": "61",
+						"discount": "5.2",
+						"begin": "1578225330",
+						"end": "1582905600"
+					},
+					"tagListDto": [],
+					"tNewProduct": 0,
+					"productSizes": []
+				},
+				{
+					"productId": "2041204199000345264",
+					"productName": "1岁+假日泰迪漂浮伞堆堆乐",
+					"brandName": "HAPE",
+					"glsCode": "HP3-805-00259",
+					"imageUrl": "https://cdn15.mei.com/product/HP3-805-00259/HP3-805-00259a.jpg@300w_400h_2e_75q",
+					"marketPrice": "158",
+					"itemPriceDto": {
+						"price": "68",
+						"discount": "4.4",
+						"begin": "1578225330",
+						"end": "1582905600"
+					},
+					"tagListDto": [],
+					"tNewProduct": 0,
+					"productSizes": []
+				},
+				{
+					"productId": "2041204199000345263",
+					"productName": "1岁+泰迪&朋友们戏水玩偶组",
+					"brandName": "HAPE",
+					"glsCode": "HP3-805-00258",
+					"imageUrl": "https://cdn13.mei.com/product/HP3-805-00258/HP3-805-00258a.jpg@300w_400h_2e_75q",
+					"marketPrice": "118",
+					"itemPriceDto": {
+						"price": "61",
+						"discount": "5.2",
+						"begin": "1578225330",
+						"end": "1582905600"
+					},
+					"tagListDto": [],
+					"tNewProduct": 0,
+					"productSizes": []
+				},
+				{
+					"productId": "2042204299000759990",
+					"productName": "沙滩玩具9件套",
+					"brandName": "HAPE",
+					"glsCode": "HP3-805-00280",
+					"imageUrl": "https://cdn13.mei.com/product/HP3-805-00280/798836de567e3d799153e5ac4168281c.jpg@300w_400h_2e_75q",
+					"marketPrice": "228",
+					"itemPriceDto": {
+						"price": "79",
+						"discount": "3.5",
+						"begin": "1578225330",
+						"end": "1582905600"
+					},
+					"tagListDto": [],
+					"tNewProduct": 0,
+					"productSizes": []
+				},
+				{
+					"productId": "645587",
+					"productName": "1岁+单球敲琴台",
+					"brandName": "HAPE",
+					"glsCode": "HP3-805-00003",
+					"imageUrl": "https://cdn15.mei.com/product/hapetoys/b/HP3-805-00003a.jpg@300w_400h_2e_75q",
+					"marketPrice": "228",
+					"itemPriceDto": {
+						"price": "124",
+						"discount": "5.5",
+						"begin": "1578225330",
+						"end": "1582905600"
+					},
+					"tagListDto": [],
+					"tNewProduct": 0,
+					"productSizes": []
+				},
+				{
+					"productId": "919896",
+					"productName": "3岁+益智农场动物叠叠高",
+					"brandName": "HAPE",
+					"glsCode": "HP3-805-00092",
+					"imageUrl": "https://cdn14.mei.com/product/hape20141208/b/HP3-805-00092a.jpg@300w_400h_2e_75q",
+					"marketPrice": "258",
+					"itemPriceDto": {
+						"price": "97",
+						"discount": "3.8",
+						"begin": "1578225330",
+						"end": "1582905600"
+					},
+					"tagListDto": [],
+					"tNewProduct": 0,
+					"productSizes": []
+				},
+				{
+					"productId": "919890",
+					"productName": "1岁+益智乌龟拖拉车",
+					"brandName": "HAPE",
+					"glsCode": "HP3-805-00086",
+					"imageUrl": "https://cdn15.mei.com/product/hape20141208/b/HP3-805-00086a.jpg@300w_400h_2e_75q",
+					"marketPrice": "308",
+					"itemPriceDto": {
+						"price": "118",
+						"discount": "3.9",
+						"begin": "1578225330",
+						"end": "1582905600"
+					},
+					"tagListDto": [],
+					"tNewProduct": 0,
+					"productSizes": []
+				},
+				{
+					"productId": "919889",
+					"productName": "1岁+益智拖拉几何积木火车",
+					"brandName": "HAPE",
+					"glsCode": "HP3-805-00085",
+					"imageUrl": "https://cdn14.mei.com/product/hape20141208/b/HP3-805-00085a.jpg@300w_400h_2e_75q",
+					"marketPrice": "338",
+					"itemPriceDto": {
+						"price": "128",
+						"discount": "3.8",
+						"begin": "1578225330",
+						"end": "1582905600"
+					},
+					"tagListDto": [],
+					"tNewProduct": 0,
+					"productSizes": []
+				}
+			],
+			"block_status": 0,
+			"isHKBlock": 0
+		}
+	]
+}

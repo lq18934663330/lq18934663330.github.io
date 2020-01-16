@@ -1,0 +1,221 @@
+{
+	"errorNum": "0",
+	"silo": {
+		"id": "2013000100000000003",
+		"siloCode": "3",
+		"siloNameEn": "beauty",
+		"displayName": "美妆",
+		"linkAddr": "/silo/",
+		"secondCategories": [
+			{
+				"categoryId": "1000000345",
+				"categoryName": "护肤",
+				"childCategoryList": [
+					{
+						"categoryId": "1192201704011110067",
+						"categoryName": "防晒",
+						"categoryCode": "C-Sun Care",
+						"categoryLogoUrl": "http://cdn13.mei.com/category/20170905/20170905171944099.jpg@150w_150h",
+						"imagePrefix": "http://cdn13.mei.com/category/"
+					},
+					{
+						"categoryId": "1000000274",
+						"categoryName": "卸妆清洁",
+						"categoryCode": "C-Cleaning",
+						"categoryLogoUrl": "http://cdn13.mei.com/category/20170905/20170905172134064.jpg@150w_150h",
+						"imagePrefix": "http://cdn13.mei.com/category/"
+					},
+					{
+						"categoryId": "1000000275",
+						"categoryName": "化妆水",
+						"categoryCode": "C-Toner",
+						"categoryLogoUrl": "http://cdn13.mei.com/category/20170905/20170905172230279.jpg@150w_150h",
+						"imagePrefix": "http://cdn13.mei.com/category/"
+					},
+					{
+						"categoryId": "1000000276",
+						"categoryName": "乳液面霜",
+						"categoryCode": "C-lotion&Cream",
+						"categoryLogoUrl": "http://cdn13.mei.com/category/20170905/20170905172246309.jpg@150w_150h",
+						"imagePrefix": "http://cdn13.mei.com/category/"
+					},
+					{
+						"categoryId": "1000000277",
+						"categoryName": "精华",
+						"categoryCode": "C-Serum",
+						"categoryLogoUrl": "http://cdn13.mei.com/category/20170905/20170905172316678.jpg@150w_150h",
+						"imagePrefix": "http://cdn13.mei.com/category/"
+					},
+					{
+						"categoryId": "1000000279",
+						"categoryName": "眼部护理",
+						"categoryCode": "C-Eye care",
+						"categoryLogoUrl": "http://cdn13.mei.com/category/20170905/20170905172333068.jpg@150w_150h",
+						"imagePrefix": "http://cdn13.mei.com/category/"
+					},
+					{
+						"categoryId": "1192007900000000173",
+						"categoryName": "唇部护理",
+						"categoryCode": "C-Lipcare",
+						"categoryLogoUrl": "http://cdn13.mei.com/category/20170905/20170905172356417.jpg@150w_150h",
+						"imagePrefix": "http://cdn13.mei.com/category/"
+					},
+					{
+						"categoryId": "1192201704011110016",
+						"categoryName": "护肤套装",
+						"categoryCode": "C-Skincare Set",
+						"categoryLogoUrl": "http://cdn13.mei.com/category/20170905/20170905172420140.jpg@150w_150h",
+						"imagePrefix": "http://cdn13.mei.com/category/"
+					},
+					{
+						"categoryId": "1000000281",
+						"categoryName": "护肤套装及其他",
+						"categoryCode": "C-Skincare set&others",
+						"categoryLogoUrl": "http://cdn13.mei.com/category/20170905/20170905172434547.jpg@150w_150h",
+						"imagePrefix": "http://cdn13.mei.com/category/"
+					}
+				]
+			},
+			{
+				"categoryId": "1000000346",
+				"categoryName": "彩妆",
+				"childCategoryList": [
+					{
+						"categoryId": "1000000285",
+						"categoryName": "唇部彩妆",
+						"categoryCode": "C-Make up Lip",
+						"categoryLogoUrl": "http://cdn13.mei.com/category/20170905/20170905172734591.jpg@150w_150h",
+						"imagePrefix": "http://cdn13.mei.com/category/"
+					},
+					{
+						"categoryId": "1000000284",
+						"categoryName": "眼部彩妆",
+						"categoryCode": "C-Make up Eye",
+						"categoryLogoUrl": "http://cdn13.mei.com/category/20170905/20170905172754730.jpg@150w_150h",
+						"imagePrefix": "http://cdn13.mei.com/category/"
+					},
+					{
+						"categoryId": "1000000283",
+						"categoryName": "脸部彩妆",
+						"categoryCode": "C-Make up Face",
+						"categoryLogoUrl": "http://cdn13.mei.com/category/20170905/20170905172822805.jpg@150w_150h",
+						"imagePrefix": "http://cdn13.mei.com/category/"
+					},
+					{
+						"categoryId": "1192201704011110014",
+						"categoryName": "彩妆工具及其他",
+						"categoryCode": "C-Make-up Tool&Others",
+						"categoryLogoUrl": "http://cdn13.mei.com/category/20170905/20170905172856097.jpg@150w_150h",
+						"imagePrefix": "http://cdn13.mei.com/category/"
+					}
+				]
+			},
+			{
+				"categoryId": "1192007900000000260",
+				"categoryName": "美发",
+				"childCategoryList": [
+					{
+						"categoryId": "1192201704011110019",
+						"categoryName": "洗发",
+						"categoryCode": "C-Shampoo",
+						"categoryLogoUrl": "http://cdn13.mei.com/category/20170905/20170905172954095.jpg@150w_150h",
+						"imagePrefix": "http://cdn13.mei.com/category/"
+					},
+					{
+						"categoryId": "1192201704011110018",
+						"categoryName": "护发",
+						"categoryCode": "C-Hair Treatment",
+						"categoryLogoUrl": "http://cdn13.mei.com/category/20170905/20170905172938919.jpg@150w_150h",
+						"imagePrefix": "http://cdn13.mei.com/category/"
+					}
+				]
+			},
+			{
+				"categoryId": "1000000348",
+				"categoryName": "美体",
+				"childCategoryList": [
+					{
+						"categoryId": "1000000291",
+						"categoryName": "身体洗护",
+						"categoryCode": "C-Bath care",
+						"categoryLogoUrl": "http://cdn13.mei.com/category/20170905/20170905173047109.jpg@150w_150h",
+						"imagePrefix": "http://cdn13.mei.com/category/"
+					},
+					{
+						"categoryId": "1192201704011110021",
+						"categoryName": "SPA护理及其他",
+						"categoryCode": "C-SPA&Others",
+						"categoryLogoUrl": "http://cdn13.mei.com/category/20170905/20170905173155735.jpg@150w_150h",
+						"imagePrefix": "http://cdn13.mei.com/category/"
+					}
+				]
+			},
+			{
+				"categoryId": "1000000369",
+				"categoryName": "面膜",
+				"childCategoryList": [
+					{
+						"categoryId": "1192201704011110024",
+						"categoryName": "面膜",
+						"categoryCode": "C-Mask sub",
+						"categoryLogoUrl": "http://cdn13.mei.com/category/20170905/20170905173259454.jpg@150w_150h",
+						"imagePrefix": "http://cdn13.mei.com/category/"
+					}
+				]
+			},
+			{
+				"categoryId": "1000000372",
+				"categoryName": "美容仪",
+				"childCategoryList": [
+					{
+						"categoryId": "1192201704011110020",
+						"categoryName": "美容仪",
+						"categoryCode": "C-Beauty Apparatus sub",
+						"categoryLogoUrl": "http://cdn13.mei.com/category/20170905/20170905173321863.jpg@150w_150h",
+						"imagePrefix": "http://cdn13.mei.com/category/"
+					}
+				]
+			},
+			{
+				"categoryId": "1000000347",
+				"categoryName": "香氛",
+				"childCategoryList": [
+					{
+						"categoryId": "1000000288",
+						"categoryName": "女香",
+						"categoryCode": "C-Perfume Women",
+						"categoryLogoUrl": "http://cdn13.mei.com/category/20170905/20170905173405361.jpg@150w_150h",
+						"imagePrefix": "http://cdn13.mei.com/category/"
+					},
+					{
+						"categoryId": "1000000289",
+						"categoryName": "男香",
+						"categoryCode": "C-Perfume Men",
+						"categoryLogoUrl": "http://cdn13.mei.com/category/20170905/20170905173419430.jpg@150w_150h",
+						"imagePrefix": "http://cdn13.mei.com/category/"
+					},
+					{
+						"categoryId": "1192201704011110074",
+						"categoryName": "家居香氛及其他",
+						"categoryCode": "C-HomePerfume&Others",
+						"categoryLogoUrl": "http://cdn13.mei.com/category/20170905/20170905173438361.jpg@150w_150h",
+						"imagePrefix": "http://cdn13.mei.com/category/"
+					}
+				]
+			},
+			{
+				"categoryId": "1000000349",
+				"categoryName": "男士",
+				"childCategoryList": [
+					{
+						"categoryId": "1000000293",
+						"categoryName": "男士护理",
+						"categoryCode": "C-Men’s care",
+						"categoryLogoUrl": "http://cdn13.mei.com/category/20170905/20170905173453517.jpg@150w_150h",
+						"imagePrefix": "http://cdn13.mei.com/category/"
+					}
+				]
+			}
+		]
+	}
+}

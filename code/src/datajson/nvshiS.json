@@ -1,0 +1,355 @@
+{
+	"errorInfo": "",
+	"errorNum": "0",
+	"silo": {
+		"id": "2013000100000000001",
+		"siloCode": "1",
+		"siloNameEn": "women",
+		"displayName": "女士",
+		"linkAddr": "/silo/",
+		"secondCategories": [
+			{
+				"categoryId": "1000000337",
+				"categoryName": "服装",
+				"categoryCode": "",
+				"categoryLogoUrl": "",
+				"childCategoryList": [
+					{
+						"categoryId": "1000000388",
+						"categoryName": "连衣裙",
+						"categoryCode": "W-Dress",
+						"categoryLogoUrl": "http://cdn13.mei.com/category/20170828/20170828184032423.jpg@150w_150h",
+						"childCategoryList": "",
+						"imagePrefix": "http://cdn13.mei.com/category/"
+					},
+					{
+						"categoryId": "1000000392",
+						"categoryName": "T恤",
+						"categoryCode": "W-T-Shirts",
+						"categoryLogoUrl": "http://cdn13.mei.com/category/20170828/20170828184057930.jpg@150w_150h",
+						"childCategoryList": "",
+						"imagePrefix": "http://cdn13.mei.com/category/"
+					},
+					{
+						"categoryId": "1000000393",
+						"categoryName": "衬衫",
+						"categoryCode": "W-Blouses",
+						"categoryLogoUrl": "http://cdn13.mei.com/category/20170828/20170828184137548.jpg@150w_150h",
+						"childCategoryList": "",
+						"imagePrefix": "http://cdn13.mei.com/category/"
+					},
+					{
+						"categoryId": "1000000229",
+						"categoryName": "裤子",
+						"categoryCode": "W-Pants&Shorts",
+						"categoryLogoUrl": "http://cdn13.mei.com/category/20170828/20170828184150522.jpg@150w_150h",
+						"childCategoryList": "",
+						"imagePrefix": "http://cdn13.mei.com/category/"
+					},
+					{
+						"categoryId": "1000000390",
+						"categoryName": "卫衣",
+						"categoryCode": "W-Hoodies",
+						"categoryLogoUrl": "http://cdn13.mei.com/category/20170828/20170828184210762.jpg@150w_150h",
+						"childCategoryList": "",
+						"imagePrefix": "http://cdn13.mei.com/category/"
+					},
+					{
+						"categoryId": "1000000389",
+						"categoryName": "毛衣",
+						"categoryCode": "W-Sweaters",
+						"categoryLogoUrl": "http://cdn13.mei.com/category/20170828/20170828184233397.jpg@150w_150h",
+						"childCategoryList": "",
+						"imagePrefix": "http://cdn13.mei.com/category/"
+					},
+					{
+						"categoryId": "1000000226",
+						"categoryName": "大衣",
+						"categoryCode": "W-Outwear",
+						"categoryLogoUrl": "http://cdn13.mei.com/category/20170828/20170828184251114.jpg@150w_150h",
+						"childCategoryList": "",
+						"imagePrefix": "http://cdn13.mei.com/category/"
+					},
+					{
+						"categoryId": "1000000387",
+						"categoryName": "短裙",
+						"categoryCode": "W-Skirt",
+						"categoryLogoUrl": "http://cdn13.mei.com/category/20170828/20170828184302593.jpg@150w_150h",
+						"childCategoryList": "",
+						"imagePrefix": "http://cdn13.mei.com/category/"
+					},
+					{
+						"categoryId": "1192007900000000219",
+						"categoryName": "运动户外",
+						"categoryCode": "W-Clothing-SportsOutdoor",
+						"categoryLogoUrl": "http://cdn13.mei.com/category/20170828/20170828184331073.jpg@150w_150h",
+						"childCategoryList": "",
+						"imagePrefix": "http://cdn13.mei.com/category/"
+					}
+				],
+				"imagePrefix": ""
+			},
+			{
+				"categoryId": "1000000339",
+				"categoryName": "包袋钱包",
+				"categoryCode": "",
+				"categoryLogoUrl": "",
+				"childCategoryList": [
+					{
+						"categoryId": "1000000239",
+						"categoryName": "手提包",
+						"categoryCode": "W-Handbag",
+						"categoryLogoUrl": "http://cdn13.mei.com/category/20170828/20170828184429944.jpg@150w_150h",
+						"childCategoryList": "",
+						"imagePrefix": "http://cdn13.mei.com/category/"
+					},
+					{
+						"categoryId": "1000000240",
+						"categoryName": "侧背包",
+						"categoryCode": "W-Messenger",
+						"categoryLogoUrl": "http://cdn13.mei.com/category/20170828/20170828184444063.jpg@150w_150h",
+						"childCategoryList": "",
+						"imagePrefix": "http://cdn13.mei.com/category/"
+					},
+					{
+						"categoryId": "1000000238",
+						"categoryName": "肩包",
+						"categoryCode": "W-Shoulder Bag",
+						"categoryLogoUrl": "http://cdn13.mei.com/category/20170828/20170828184456636.jpg@150w_150h",
+						"childCategoryList": "",
+						"imagePrefix": "http://cdn13.mei.com/category/"
+					},
+					{
+						"categoryId": "1192201704011110051",
+						"categoryName": "手拿包",
+						"categoryCode": "W-Clutch",
+						"categoryLogoUrl": "http://cdn13.mei.com/category/20170828/20170828184538408.jpg@150w_150h",
+						"childCategoryList": "",
+						"imagePrefix": "http://cdn13.mei.com/category/"
+					},
+					{
+						"categoryId": "1000000252",
+						"categoryName": "钱包",
+						"categoryCode": "W-Wallets",
+						"categoryLogoUrl": "http://cdn13.mei.com/category/20170828/20170828184551611.jpg@150w_150h",
+						"childCategoryList": "",
+						"imagePrefix": "http://cdn13.mei.com/category/"
+					},
+					{
+						"categoryId": "1192201704011110047",
+						"categoryName": "化妆包",
+						"categoryCode": "W-Beauty Cases",
+						"categoryLogoUrl": "http://cdn13.mei.com/category/20170828/20170828184605286.jpg@150w_150h",
+						"childCategoryList": "",
+						"imagePrefix": "http://cdn13.mei.com/category/"
+					},
+					{
+						"categoryId": "1192201704011110049",
+						"categoryName": "女士卡包",
+						"categoryCode": "W-Card Holders",
+						"categoryLogoUrl": "http://cdn13.mei.com/category/20170828/20170828184633680.jpg@150w_150h",
+						"childCategoryList": "",
+						"imagePrefix": "http://cdn13.mei.com/category/"
+					}
+				],
+				"imagePrefix": ""
+			},
+			{
+				"categoryId": "1000000338",
+				"categoryName": "鞋履",
+				"categoryCode": "",
+				"categoryLogoUrl": "",
+				"childCategoryList": [
+					{
+						"categoryId": "1000000233",
+						"categoryName": "高跟鞋",
+						"categoryCode": "W-High Heels",
+						"categoryLogoUrl": "http://cdn13.mei.com/category/20170828/20170828184706738.jpg@150w_150h",
+						"childCategoryList": "",
+						"imagePrefix": "http://cdn13.mei.com/category/"
+					},
+					{
+						"categoryId": "1000000237",
+						"categoryName": "凉鞋/拖鞋",
+						"categoryCode": "W-Sandals/Slippers",
+						"categoryLogoUrl": "http://cdn13.mei.com/category/20170828/20170828184720683.jpg@150w_150h",
+						"childCategoryList": "",
+						"imagePrefix": "http://cdn13.mei.com/category/"
+					},
+					{
+						"categoryId": "1000000235",
+						"categoryName": "靴子",
+						"categoryCode": "W-Boots",
+						"categoryLogoUrl": "http://cdn13.mei.com/category/20170828/20170828184749290.jpg@150w_150h",
+						"childCategoryList": "",
+						"imagePrefix": "http://cdn13.mei.com/category/"
+					},
+					{
+						"categoryId": "1192201704011110062",
+						"categoryName": "休闲鞋",
+						"categoryCode": "W-Causal shoes",
+						"categoryLogoUrl": "http://cdn13.mei.com/category/20170828/20170828184808718.jpg@150w_150h",
+						"childCategoryList": "",
+						"imagePrefix": "http://cdn13.mei.com/category/"
+					},
+					{
+						"categoryId": "1192007900000000238",
+						"categoryName": "运动户外",
+						"categoryCode": "W-Shoes-SportsOutdoor",
+						"categoryLogoUrl": "http://cdn13.mei.com/category/20170828/20170828184824139.jpg@150w_150h",
+						"childCategoryList": "",
+						"imagePrefix": "http://cdn13.mei.com/category/"
+					}
+				],
+				"imagePrefix": ""
+			},
+			{
+				"categoryId": "1000000340",
+				"categoryName": "手表&首饰",
+				"categoryCode": "",
+				"categoryLogoUrl": "",
+				"childCategoryList": [
+					{
+						"categoryId": "1000000246",
+						"categoryName": "手表",
+						"categoryCode": "W-Watch",
+						"categoryLogoUrl": "http://cdn13.mei.com/category/20170828/20170828184850773.jpg@150w_150h",
+						"childCategoryList": "",
+						"imagePrefix": "http://cdn13.mei.com/category/"
+					},
+					{
+						"categoryId": "1000000242",
+						"categoryName": "项链",
+						"categoryCode": "W-Necklace",
+						"categoryLogoUrl": "http://cdn13.mei.com/category/20170828/20170828184927984.jpg@150w_150h",
+						"childCategoryList": "",
+						"imagePrefix": "http://cdn13.mei.com/category/"
+					},
+					{
+						"categoryId": "1000000245",
+						"categoryName": "戒指",
+						"categoryCode": "W-Rings",
+						"categoryLogoUrl": "http://cdn13.mei.com/category/20170828/20170828184948684.jpg@150w_150h",
+						"childCategoryList": "",
+						"imagePrefix": "http://cdn13.mei.com/category/"
+					},
+					{
+						"categoryId": "1000000243",
+						"categoryName": "耳环",
+						"categoryCode": "W-Earrings",
+						"categoryLogoUrl": "http://cdn13.mei.com/category/20170828/20170828185021350.jpg@150w_150h",
+						"childCategoryList": "",
+						"imagePrefix": "http://cdn13.mei.com/category/"
+					},
+					{
+						"categoryId": "1000000244",
+						"categoryName": "手链/胸针",
+						"categoryCode": "W-Bracelet&Brooch",
+						"categoryLogoUrl": "http://cdn13.mei.com/category/20170828/20170828185144099.jpg@150w_150h",
+						"childCategoryList": "",
+						"imagePrefix": "http://cdn13.mei.com/category/"
+					},
+					{
+						"categoryId": "1192007900000000058",
+						"categoryName": "其他",
+						"categoryCode": "W-Jewelry&Watch-others",
+						"categoryLogoUrl": "http://cdn13.mei.com/category/20170828/20170828185212824.jpg@150w_150h",
+						"childCategoryList": "",
+						"imagePrefix": "http://cdn13.mei.com/category/"
+					}
+				],
+				"imagePrefix": ""
+			},
+			{
+				"categoryId": "1000000341",
+				"categoryName": "配饰",
+				"categoryCode": "",
+				"categoryLogoUrl": "",
+				"childCategoryList": [
+					{
+						"categoryId": "1000000249",
+						"categoryName": "皮带",
+						"categoryCode": "W-Belts",
+						"categoryLogoUrl": "http://cdn13.mei.com/category/20170828/20170828185257447.jpg@150w_150h",
+						"childCategoryList": "",
+						"imagePrefix": "http://cdn13.mei.com/category/"
+					},
+					{
+						"categoryId": "1192201704011110060",
+						"categoryName": "围巾",
+						"categoryCode": "W-Scarves",
+						"categoryLogoUrl": "http://cdn13.mei.com/category/20170828/20170828185309783.jpg@150w_150h",
+						"childCategoryList": "",
+						"imagePrefix": "http://cdn13.mei.com/category/"
+					},
+					{
+						"categoryId": "1192201704011110058",
+						"categoryName": "手套",
+						"categoryCode": "W-Gloves new",
+						"categoryLogoUrl": "http://cdn13.mei.com/category/20170828/20170828185321116.jpg@150w_150h",
+						"childCategoryList": "",
+						"imagePrefix": "http://cdn13.mei.com/category/"
+					},
+					{
+						"categoryId": "1192007900000000220",
+						"categoryName": "运动户外",
+						"categoryCode": "W-Accessories-SportsOutdoor",
+						"categoryLogoUrl": "http://cdn13.mei.com/category/20170828/20170828185332061.jpg@150w_150h",
+						"childCategoryList": "",
+						"imagePrefix": "http://cdn13.mei.com/category/"
+					},
+					{
+						"categoryId": "1192201704011110057",
+						"categoryName": "帽子",
+						"categoryCode": "W-Hats",
+						"categoryLogoUrl": "http://cdn13.mei.com/category/20170828/20170828185345338.jpg@150w_150h",
+						"childCategoryList": "",
+						"imagePrefix": "http://cdn13.mei.com/category/"
+					},
+					{
+						"categoryId": "1192201704011110059",
+						"categoryName": "袜子",
+						"categoryCode": "W-Socks",
+						"categoryLogoUrl": "http://cdn13.mei.com/category/20170828/20170828185357339.jpg@150w_150h",
+						"childCategoryList": "",
+						"imagePrefix": "http://cdn13.mei.com/category/"
+					},
+					{
+						"categoryId": "1000000253",
+						"categoryName": "其它",
+						"categoryCode": "W-AccessoriesOthers",
+						"categoryLogoUrl": "http://cdn13.mei.com/category/20170828/20170828185408280.jpg@150w_150h",
+						"childCategoryList": "",
+						"imagePrefix": "http://cdn13.mei.com/category/"
+					}
+				],
+				"imagePrefix": ""
+			},
+			{
+				"categoryId": "1192007900000000258",
+				"categoryName": "眼镜",
+				"categoryCode": "",
+				"categoryLogoUrl": "",
+				"childCategoryList": [
+					{
+						"categoryId": "1192007900000000261",
+						"categoryName": "太阳眼镜",
+						"categoryCode": "W-SunGlasses",
+						"categoryLogoUrl": "http://cdn13.mei.com/category/20170828/20170828184353621.jpg@150w_150h",
+						"childCategoryList": "",
+						"imagePrefix": "http://cdn13.mei.com/category/"
+					},
+					{
+						"categoryId": "1192007900000000262",
+						"categoryName": "框架眼镜",
+						"categoryCode": "W-SpectacleFrame ",
+						"categoryLogoUrl": "http://cdn13.mei.com/category/20170828/20170828184407956.jpg@150w_150h",
+						"childCategoryList": "",
+						"imagePrefix": "http://cdn13.mei.com/category/"
+					}
+				],
+				"imagePrefix": ""
+			}
+		]
+	}
+}

@@ -1,0 +1,19 @@
+.dibu {
+    box-shadow: 0 -0.04rem 0.08rem 0 rgba(0, 0, 0, .05);
+    background: #fff;
+
+    ul {
+
+        li {
+            height: 100%;
+            float: right;
+            line-height: 1rem;
+            text-align: center;
+
+            font-size: .37rem;
+
+            font-weight: 700;
+            border-right: .01rem solid #eee;
+        }
+    }
+}

@@ -1,0 +1,1874 @@
+{
+	"userIP": "119.79.228.23",
+	"errorNum": "0",
+	"totalCount": 9,
+	"tips": "订阅您喜欢的品牌，我们将在活动当天提醒您！",
+	"totalPage": 2,
+	"lists": [
+		{
+			"title": "即将开售",
+			"launchTime": "1578240000",
+			"events": [
+				{
+					"categoryId": "2040204090000007740",
+					"eventId": "2040204090000007740",
+					"englishName": "年货节",
+					"chineseName": "男装限时8折优惠",
+					"discount": "0.8折",
+					"imgUrl": "https://cdn15.mei.com/category/20200102/40e5b1ce2869db42f418f25889d00bbe071407a2f321be85.jpg@600w_560h_2e_75q",
+					"imagePcUrl": "https://cdn15.mei.com/category/20200102/40e5b1ce2869db42f418f25889d00bbe071407a2f321be85.jpg@600w_560h_2e_75q",
+					"enablePreview": "1",
+					"isPhone": "0",
+					"subscribe": "0",
+					"startDate": "2020-01-06 00:00:00",
+					"isBazzer": "1",
+					"isCrossBorder": "0",
+					"isSeasonNew": "0",
+					"spm_b": "13870983",
+					"products": [
+						{
+							"productId": "2017201799000017553",
+							"productName": "Sit On Trouble浅灰色字母印花休闲时尚男士中长款连帽风衣外套",
+							"brandName": "Sit On Trouble",
+							"glsCode": "SQ8-238-100001-C",
+							"imageUrl": "https://cdn12.mei.com/product/SQ8-238-100001-C/8a4efa675c041e957cfc599a6b4fea2e3264025cf547e8907a09b056ab415eb8.jpg@300w_400h_2e_75q",
+							"marketPrice": "1798",
+							"itemPriceDto": {
+								"price": "539",
+								"discount": "3.0",
+								"begin": "1578240000",
+								"end": "1582938000"
+							},
+							"tagListDto": [
+								{
+									"tag": "买手推荐",
+									"isHasExpiration": "0",
+									"fontColor": "000000",
+									"fontBackgroudColor": "FFFFFF",
+									"frameColor": "000000",
+									"isRadius": 0,
+									"isGradient": 0
+								}
+							],
+							"tNewProduct": 0,
+							"productSizes": [
+								{ "id": "2017201799000015210", "size": "S", "qty": 9 },
+								{ "id": "2022202299000019768", "size": "M", "qty": 14 },
+								{ "id": "2016201699000060087", "size": "L", "qty": 6 },
+								{ "id": "2018201899000046943", "size": "XL", "qty": 2 }
+							]
+						},
+						{
+							"productId": "2040204099000648464",
+							"productName": "藏青色混羊毛绿色印花翻领长袖男士外套",
+							"brandName": "BLACKGATEONE",
+							"glsCode": "BO6-201-00081",
+							"imageUrl": "https://cdn12.mei.com/product/BO6-201-00084/accef4be45031e65acbe8e462dae1c9e.jpg@300w_400h_2e_75q",
+							"marketPrice": "3290",
+							"itemPriceDto": {
+								"price": "999",
+								"discount": "3.1",
+								"begin": "1578240000",
+								"end": "1582938000",
+								"vipPrice": "949",
+								"vipDiscount": "2.9",
+								"vipBegin": "1578240000",
+								"vipEnd": "1578672000"
+							},
+							"tagListDto": [
+								{
+									"tag": "买手推荐",
+									"isHasExpiration": "0",
+									"fontColor": "000000",
+									"fontBackgroudColor": "FFFFFF",
+									"frameColor": "000000",
+									"isRadius": 0,
+									"isGradient": 0
+								}
+							],
+							"tNewProduct": 0,
+							"productSizes": [
+								{ "id": "2040204099000648465", "size": "XS", "qty": 2 },
+								{ "id": "2040204099000648466", "size": "S", "qty": 7 },
+								{ "id": "2040204099000648467", "size": "M", "qty": 11 },
+								{ "id": "2040204099000648468", "size": "L", "qty": 7 },
+								{ "id": "2040204099000648469", "size": "XL", "qty": 4 }
+							]
+						},
+						{
+							"productId": "2022202299000022090",
+							"productName": "Sit On Trouble酒红色全棉个性拼接字母绣花运动男士圆领套头卫衣",
+							"brandName": "Sit On Trouble",
+							"glsCode": "SQ8-213-100002-C",
+							"imageUrl": "https://cdn14.mei.com/product/SQ8-213-100002-C/8a4efa675c041e95425814aed560073dda56354f53e206f67f9212786c91bd44.jpg@300w_400h_2e_75q",
+							"marketPrice": "798",
+							"itemPriceDto": {
+								"price": "239",
+								"discount": "3.0",
+								"begin": "1578240000",
+								"end": "1582938000"
+							},
+							"tagListDto": [
+								{
+									"tag": "买手推荐",
+									"isHasExpiration": "0",
+									"fontColor": "000000",
+									"fontBackgroudColor": "FFFFFF",
+									"frameColor": "000000",
+									"isRadius": 0,
+									"isGradient": 0
+								}
+							],
+							"tNewProduct": 0,
+							"productSizes": [
+								{ "id": "2086208699000011297", "size": "S", "qty": 6 },
+								{ "id": "2087208799000011637", "size": "M", "qty": 9 },
+								{ "id": "2086208699000011298", "size": "L", "qty": 9 }
+							]
+						},
+						{
+							"productId": "2041204199000314903",
+							"productName": "黑色棒球领拉链中长款外套",
+							"brandName": "BLACKGATEONE",
+							"glsCode": "BO6-202-00239",
+							"imageUrl": "https://cdn13.mei.com/product/BO6-202-00241/BO6-202-00241a.jpg@300w_400h_2e_75q",
+							"marketPrice": "3290",
+							"itemPriceDto": {
+								"price": "999",
+								"discount": "3.1",
+								"begin": "1578240000",
+								"end": "1582938000",
+								"vipPrice": "949",
+								"vipDiscount": "2.9",
+								"vipBegin": "1578240000",
+								"vipEnd": "1578672000"
+							},
+							"tagListDto": [
+								{
+									"tag": "买手推荐",
+									"isHasExpiration": "0",
+									"fontColor": "000000",
+									"fontBackgroudColor": "FFFFFF",
+									"frameColor": "000000",
+									"isRadius": 0,
+									"isGradient": 0
+								}
+							],
+							"tNewProduct": 0,
+							"productSizes": [
+								{ "id": "2040204099000648462", "size": "XS", "qty": 2 },
+								{ "id": "2041204199000314906", "size": "S", "qty": 7 },
+								{ "id": "2041204199000314905", "size": "M", "qty": 4 },
+								{ "id": "2041204199000314904", "size": "L", "qty": 4 },
+								{ "id": "2040204099000648463", "size": "XL", "qty": 3 }
+							]
+						},
+						{
+							"productId": "2120212099000165994",
+							"productName": "19春夏灰色男士美丽诺羊毛V领短袖T恤",
+							"brandName": "super.natural",
+							"glsCode": "TSQ-209-00148",
+							"imageUrl": "https://cdn15.mei.com/product/TSQ-209-00148/38ae8d4c6a933100ca55a4aa81bca86d.jpg@300w_400h_2e_75q",
+							"marketPrice": "698",
+							"itemPriceDto": {
+								"price": "178",
+								"discount": "2.6",
+								"begin": "1578240000",
+								"end": "1578672000"
+							},
+							"tagListDto": [
+								{
+									"tag": "买手推荐",
+									"isHasExpiration": "0",
+									"fontColor": "000000",
+									"fontBackgroudColor": "FFFFFF",
+									"frameColor": "000000",
+									"isRadius": 0,
+									"isGradient": 0
+								}
+							],
+							"tNewProduct": 0,
+							"productSizes": [
+								{ "id": "2120212099000165995", "size": "S", "qty": 5 },
+								{ "id": "2120212099000165996", "size": "M", "qty": 5 },
+								{ "id": "2120212099000165997", "size": "L", "qty": 5 },
+								{ "id": "2120212099000165998", "size": "XL", "qty": 5 }
+							]
+						},
+						{
+							"productId": "2121212199000085895",
+							"productName": "黑色圆点棒球领男士长袖夹克外套秋冬",
+							"brandName": "GATEONE",
+							"glsCode": "GVC-244-00257",
+							"imageUrl": "https://cdn13.mei.com/product/GVC-244-00259/6aa68481f9159a441d1b5950444eaf8f.jpg@300w_400h_2e_75q",
+							"marketPrice": "2690",
+							"itemPriceDto": {
+								"price": "1099",
+								"discount": "4.1",
+								"begin": "1578240000",
+								"end": "1582938000",
+								"vipPrice": "1044",
+								"vipDiscount": "3.9",
+								"vipBegin": "1578240000",
+								"vipEnd": "1578672000"
+							},
+							"tagListDto": [
+								{
+									"tag": "买手推荐",
+									"isHasExpiration": "0",
+									"fontColor": "000000",
+									"fontBackgroudColor": "FFFFFF",
+									"frameColor": "000000",
+									"isRadius": 0,
+									"isGradient": 0
+								}
+							],
+							"tNewProduct": 0,
+							"productSizes": [
+								{ "id": "2121212199000085896", "size": "S", "qty": 4 },
+								{ "id": "2121212199000085897", "size": "M", "qty": 8 },
+								{ "id": "2121212199000085898", "size": "L", "qty": 7 }
+							]
+						},
+						{
+							"productId": "2041204199000314908",
+							"productName": "藏青蓝翻领长款大衣",
+							"brandName": "BLACKGATEONE",
+							"glsCode": "BO6-202-00244",
+							"imageUrl": "https://cdn13.mei.com/product/BO6-202-00246/BO6-202-00246a.jpg@300w_400h_2e_75q",
+							"marketPrice": "3290",
+							"itemPriceDto": {
+								"price": "999",
+								"discount": "3.1",
+								"begin": "1578240000",
+								"end": "1582938000",
+								"vipPrice": "949",
+								"vipDiscount": "2.9",
+								"vipBegin": "1578240000",
+								"vipEnd": "1578672000"
+							},
+							"tagListDto": [
+								{
+									"tag": "买手推荐",
+									"isHasExpiration": "0",
+									"fontColor": "000000",
+									"fontBackgroudColor": "FFFFFF",
+									"frameColor": "000000",
+									"isRadius": 0,
+									"isGradient": 0
+								}
+							],
+							"tNewProduct": 0,
+							"productSizes": [
+								{ "id": "2041204199000314911", "size": "S", "qty": 1 },
+								{ "id": "2041204199000314910", "size": "M", "qty": 5 },
+								{ "id": "2041204199000314909", "size": "L", "qty": 8 },
+								{ "id": "2041204199000314912", "size": "XL", "qty": 5 }
+							]
+						},
+						{
+							"productId": "2120212099000107925",
+							"productName": "咖啡色拼接平驳领男士秋冬长袖外套",
+							"brandName": "ANDREW MACKENZIE",
+							"glsCode": "WOJ-201-00094",
+							"imageUrl": "https://cdn12.mei.com/product/WOJ-201-00096/df41c333d12d3afc5dd48ffe0e12fbbe.jpg@300w_400h_2e_75q",
+							"marketPrice": "11900",
+							"itemPriceDto": {
+								"price": "2500",
+								"discount": "2.2",
+								"begin": "1578240000",
+								"end": "1578279600",
+								"vipPrice": "2375",
+								"vipDiscount": "2.0",
+								"vipBegin": "1578240000",
+								"vipEnd": "1578672000"
+							},
+							"tagListDto": [
+								{
+									"tag": "今日疯抢",
+									"isHasExpiration": "1",
+									"beginDate": "1578279600",
+									"endDate": "1578286799",
+									"fontColor": "FFFFFF",
+									"fontBackgroudColor": "DD2828",
+									"frameColor": "DD2828",
+									"isRadius": 0,
+									"isGradient": 0
+								},
+								{
+									"tag": "买手推荐",
+									"isHasExpiration": "0",
+									"fontColor": "000000",
+									"fontBackgroudColor": "FFFFFF",
+									"frameColor": "000000",
+									"isRadius": 0,
+									"isGradient": 0
+								}
+							],
+							"tNewProduct": 0,
+							"productSizes": [
+								{ "id": "2120212099000107926", "size": "46", "qty": 2 },
+								{ "id": "2120212099000107927", "size": "48", "qty": 1 },
+								{ "id": "2120212099000107928", "size": "50", "qty": 7 },
+								{ "id": "2120212099000107930", "size": "54", "qty": 4 },
+								{ "id": "2120212099000179277", "size": "56", "qty": 2 }
+							]
+						},
+						{
+							"productId": "2121212199000111374",
+							"productName": "黑色字母时尚秋冬中长款男士连帽羽绒服",
+							"brandName": "XXXTRENTA",
+							"glsCode": "XZE-246-00180",
+							"imageUrl": "https://cdn14.mei.com/product/XZE-246-00182/6adc8ef2598dbc21c145182ff4ef283e.jpg@300w_400h_2e_75q",
+							"marketPrice": "1998",
+							"itemPriceDto": {
+								"price": "599",
+								"discount": "3.0",
+								"begin": "1578240000",
+								"end": "1582938000"
+							},
+							"tagListDto": [
+								{
+									"tag": "买手推荐",
+									"isHasExpiration": "0",
+									"fontColor": "000000",
+									"fontBackgroudColor": "FFFFFF",
+									"frameColor": "000000",
+									"isRadius": 0,
+									"isGradient": 0
+								}
+							],
+							"tNewProduct": 0,
+							"productSizes": [
+								{
+									"id": "2121212199000111378",
+									"size": "XL(180/96A)",
+									"qty": 1
+								},
+								{ "id": "2121212199000111377", "size": "L(175/92A)", "qty": 5 },
+								{ "id": "2121212199000111376", "size": "M(170/88A)", "qty": 7 },
+								{ "id": "2121212199000111375", "size": "S(165/84A)", "qty": 3 }
+							]
+						}
+					],
+					"totalCount": 1513,
+					"block_status": 0,
+					"isHKBlock": 0,
+					"imageTmallUrl": "https://cdn13.mei.com/category/20200102/40e5b1ce2869db4274d8b9623f3c8f84ce6dc3676f54cd06.jpg",
+					"eventBanner": "https://cdn13.mei.com/category/20200102/40e5b1ce2869db4210e7eb803e62f36139e4db8297e1f0dc.jpg@600w_560h_2e_75q"
+				},
+				{
+					"categoryId": "2040204090000007744",
+					"eventId": "2040204090000007744",
+					"englishName": "年货节特惠女士专区",
+					"chineseName": "为你精挑细选的好货",
+					"discount": "2.7折",
+					"imgUrl": "https://cdn12.mei.com/category/20200103/8a4efa675c041e952a7326288d478b6178124244265805bc.jpg@600w_560h_2e_75q",
+					"imagePcUrl": "https://cdn12.mei.com/category/20200103/8a4efa675c041e952a7326288d478b6178124244265805bc.jpg@600w_560h_2e_75q",
+					"enablePreview": "1",
+					"isPhone": "0",
+					"subscribe": "0",
+					"startDate": "2020-01-06 00:00:00",
+					"isBazzer": "1",
+					"isCrossBorder": "1",
+					"isSeasonNew": "0",
+					"spm_b": "13876926",
+					"products": [
+						{
+							"productId": "2121212199000181307",
+							"productName": "女士棕色牛皮短款卡包",
+							"brandName": "FENDI",
+							"glsCode": "TPY-486-00001",
+							"imageUrl": "https://cdn14.mei.com/product/TPY-486-00001/d31e06bb2599c9aca40cc09b549780ab40e83b029a836e75.jpg@300w_400h_2e_75q",
+							"marketPrice": "2420",
+							"itemPriceDto": {
+								"price": "1729",
+								"tax": "144.22",
+								"discount": "7.2",
+								"begin": "1578240000",
+								"end": "1578672000"
+							},
+							"tagListDto": [
+								{
+									"tag": "新年价",
+									"isHasExpiration": "1",
+									"beginDate": "1578240000",
+									"endDate": "1578672000",
+									"fontColor": "FFFFFF",
+									"fontBackgroudColor": "DD2828",
+									"frameColor": "DD2828",
+									"isRadius": 0,
+									"isGradient": 0
+								},
+								{
+									"tag": "买手推荐",
+									"isHasExpiration": "0",
+									"fontColor": "000000",
+									"fontBackgroudColor": "FFFFFF",
+									"frameColor": "000000",
+									"isRadius": 0,
+									"isGradient": 0
+								}
+							],
+							"tNewProduct": 0,
+							"productSizes": []
+						},
+						{
+							"productId": "2040204099000688198",
+							"productName": "格纹皮革装饰链环腰包",
+							"brandName": "BURBERRY",
+							"glsCode": "BTM-406-00004",
+							"imageUrl": "https://cdn13.mei.com/product/BTM-406-00004/d31e06bb2599c9acc315c48dd244bd8c5a713f45724f70f2.jpg@300w_400h_2e_75q",
+							"marketPrice": "6610",
+							"itemPriceDto": {
+								"price": "4419",
+								"tax": "368.59",
+								"discount": "6.7",
+								"begin": "1578240000",
+								"end": "1578672000"
+							},
+							"tagListDto": [
+								{
+									"tag": "新年价",
+									"isHasExpiration": "1",
+									"beginDate": "1578240000",
+									"endDate": "1578672000",
+									"fontColor": "FFFFFF",
+									"fontBackgroudColor": "DD2828",
+									"frameColor": "DD2828",
+									"isRadius": 0,
+									"isGradient": 0
+								},
+								{
+									"tag": "买手推荐",
+									"isHasExpiration": "0",
+									"fontColor": "000000",
+									"fontBackgroudColor": "FFFFFF",
+									"frameColor": "000000",
+									"isRadius": 0,
+									"isGradient": 0
+								}
+							],
+							"tNewProduct": 0,
+							"productSizes": []
+						},
+						{
+							"productId": "2040204099000723212",
+							"productName": "2019女士鸟形铆钉搭扣翻盖时尚单肩燕子包",
+							"brandName": "PINKO",
+							"glsCode": "TRO-401-00031",
+							"imageUrl": "https://cdn12.mei.com/product/TRO-401-00031/fbd90b4e0316cbcda6f7dac4ffedb974625d3e72ac1c9b44.jpg@300w_400h_2e_75q",
+							"marketPrice": "3355",
+							"itemPriceDto": {
+								"price": "1759",
+								"tax": "146.72",
+								"discount": "5.3",
+								"begin": "1578240000",
+								"end": "1578672000"
+							},
+							"tagListDto": [
+								{
+									"tag": "新年价",
+									"isHasExpiration": "1",
+									"beginDate": "1578240000",
+									"endDate": "1578672000",
+									"fontColor": "FFFFFF",
+									"fontBackgroudColor": "DD2828",
+									"frameColor": "DD2828",
+									"isRadius": 0,
+									"isGradient": 0
+								},
+								{
+									"tag": "买手推荐",
+									"isHasExpiration": "0",
+									"fontColor": "000000",
+									"fontBackgroudColor": "FFFFFF",
+									"frameColor": "000000",
+									"isRadius": 0,
+									"isGradient": 0
+								}
+							],
+							"tNewProduct": 0,
+							"productSizes": []
+						},
+						{
+							"productId": "2184218499000001775",
+							"productName": "MCM棕色经典LOGO花纹复古潮流个性百搭单肩斜挎包腰包女包",
+							"brandName": "MCM",
+							"glsCode": "MC4-2766-16AA07",
+							"imageUrl": "https://cdn14.mei.com/product/MC4-2766-16AA07/40e5b1ce2869db42ace57c8107721099a99ddbfd5c8a9a65bd412b5956858959.jpg@300w_400h_2e_75q",
+							"marketPrice": "4000",
+							"itemPriceDto": {
+								"price": "3039",
+								"tax": "253.48",
+								"discount": "7.6",
+								"begin": "1578240000",
+								"end": "1578672000"
+							},
+							"tagListDto": [
+								{
+									"tag": "新年价",
+									"isHasExpiration": "1",
+									"beginDate": "1578240000",
+									"endDate": "1578672000",
+									"fontColor": "FFFFFF",
+									"fontBackgroudColor": "DD2828",
+									"frameColor": "DD2828",
+									"isRadius": 0,
+									"isGradient": 0
+								},
+								{
+									"tag": "买手推荐",
+									"isHasExpiration": "0",
+									"fontColor": "000000",
+									"fontBackgroudColor": "FFFFFF",
+									"frameColor": "000000",
+									"isRadius": 0,
+									"isGradient": 0
+								}
+							],
+							"tNewProduct": 0,
+							"productSizes": []
+						},
+						{
+							"productId": "2021202199000014128",
+							"productName": "MCM米色LOGO兔子图案链条斜挎包女包",
+							"brandName": "MCM",
+							"glsCode": "MC4-405-T6181",
+							"imageUrl": "https://cdn13.mei.com/product/MC4-405-T6181/40e5b1ce2869db421b58d70d94b1c3641fbb7e0c763d2bade9222ed2df566aa4.jpg@300w_400h_2e_75q",
+							"marketPrice": "4640",
+							"itemPriceDto": {
+								"price": "3129",
+								"tax": "260.99",
+								"discount": "6.8",
+								"begin": "1578240000",
+								"end": "1578672000"
+							},
+							"tagListDto": [
+								{
+									"tag": "新年价",
+									"isHasExpiration": "1",
+									"beginDate": "1578240000",
+									"endDate": "1578672000",
+									"fontColor": "FFFFFF",
+									"fontBackgroudColor": "DD2828",
+									"frameColor": "DD2828",
+									"isRadius": 0,
+									"isGradient": 0
+								},
+								{
+									"tag": "当季新品",
+									"isHasExpiration": "0",
+									"fontColor": "FFFFFF",
+									"fontBackgroudColor": "DD2828",
+									"frameColor": "DD2828",
+									"isRadius": 0,
+									"isGradient": 0
+								}
+							],
+							"tNewProduct": 0,
+							"productSizes": []
+						},
+						{
+							"productId": "2040204099000701932",
+							"productName": "女士皮革字母鹰压花时尚链条单肩斜挎包",
+							"brandName": "MCM",
+							"glsCode": "WHL-405-00022",
+							"imageUrl": "https://cdn13.mei.com/product/WHL-405-00022/d31e06bb2599c9aca1601f7de12ff0b160d47b9108eaac8e.jpg@300w_400h_2e_75q",
+							"marketPrice": "6220",
+							"itemPriceDto": {
+								"price": "4069",
+								"tax": "339.39",
+								"discount": "6.6",
+								"begin": "1578240000",
+								"end": "1578672000"
+							},
+							"tagListDto": [
+								{
+									"tag": "新年价",
+									"isHasExpiration": "1",
+									"beginDate": "1578240000",
+									"endDate": "1578672000",
+									"fontColor": "FFFFFF",
+									"fontBackgroudColor": "DD2828",
+									"frameColor": "DD2828",
+									"isRadius": 0,
+									"isGradient": 0
+								},
+								{
+									"tag": "当季新品",
+									"isHasExpiration": "0",
+									"fontColor": "FFFFFF",
+									"fontBackgroudColor": "DD2828",
+									"frameColor": "DD2828",
+									"isRadius": 0,
+									"isGradient": 0
+								}
+							],
+							"tNewProduct": 0,
+							"productSizes": []
+						},
+						{
+							"productId": "2021202199000014126",
+							"productName": "MCM黑色LOGO字母金属铆钉链条单肩女包",
+							"brandName": "MCM",
+							"glsCode": "MC4-405-T6163",
+							"imageUrl": "https://cdn14.mei.com/product/MC4-405-T6163/40e5b1ce2869db42ef5577357d9f6666dc35b2d2ef24915511e6b8bba8221935.jpg@300w_400h_2e_75q",
+							"marketPrice": "6540",
+							"itemPriceDto": {
+								"price": "4549",
+								"tax": "379.43",
+								"discount": "7.0",
+								"begin": "1578240000",
+								"end": "1578672000"
+							},
+							"tagListDto": [
+								{
+									"tag": "新年价",
+									"isHasExpiration": "1",
+									"beginDate": "1578240000",
+									"endDate": "1578672000",
+									"fontColor": "FFFFFF",
+									"fontBackgroudColor": "DD2828",
+									"frameColor": "DD2828",
+									"isRadius": 0,
+									"isGradient": 0
+								},
+								{
+									"tag": "当季新品",
+									"isHasExpiration": "0",
+									"fontColor": "FFFFFF",
+									"fontBackgroudColor": "DD2828",
+									"frameColor": "DD2828",
+									"isRadius": 0,
+									"isGradient": 0
+								}
+							],
+							"tNewProduct": 0,
+							"productSizes": []
+						},
+						{
+							"productId": "2040204099000701933",
+							"productName": "女士皮革字母鹰压花时尚链条单肩斜挎包",
+							"brandName": "MCM",
+							"glsCode": "WHL-405-00023",
+							"imageUrl": "https://cdn12.mei.com/product/WHL-405-00023/d31e06bb2599c9aca1601f7de12ff0b17ce15cbb0c060874.jpg@300w_400h_2e_75q",
+							"marketPrice": "6220",
+							"itemPriceDto": {
+								"price": "4309",
+								"tax": "359.41",
+								"discount": "7.0",
+								"begin": "1578240000",
+								"end": "1578672000"
+							},
+							"tagListDto": [
+								{
+									"tag": "新年价",
+									"isHasExpiration": "1",
+									"beginDate": "1578240000",
+									"endDate": "1578672000",
+									"fontColor": "FFFFFF",
+									"fontBackgroudColor": "DD2828",
+									"frameColor": "DD2828",
+									"isRadius": 0,
+									"isGradient": 0
+								},
+								{
+									"tag": "当季新品",
+									"isHasExpiration": "0",
+									"fontColor": "FFFFFF",
+									"fontBackgroudColor": "DD2828",
+									"frameColor": "DD2828",
+									"isRadius": 0,
+									"isGradient": 0
+								}
+							],
+							"tNewProduct": 0,
+							"productSizes": []
+						},
+						{
+							"productId": "2040204099000701937",
+							"productName": "女士时尚复古LOGO印花小号链条包单肩包斜挎包",
+							"brandName": "MCM",
+							"glsCode": "WHL-405-00027",
+							"imageUrl": "https://cdn14.mei.com/product/WHL-405-00027/d31e06bb2599c9aca1601f7de12ff0b1027ef7011e0072d9.jpg@300w_400h_2e_75q",
+							"marketPrice": "6080",
+							"itemPriceDto": {
+								"price": "3979",
+								"tax": "331.89",
+								"discount": "6.6",
+								"begin": "1578240000",
+								"end": "1578672000"
+							},
+							"tagListDto": [
+								{
+									"tag": "新年价",
+									"isHasExpiration": "1",
+									"beginDate": "1578240000",
+									"endDate": "1578672000",
+									"fontColor": "FFFFFF",
+									"fontBackgroudColor": "DD2828",
+									"frameColor": "DD2828",
+									"isRadius": 0,
+									"isGradient": 0
+								},
+								{
+									"tag": "当季新品",
+									"isHasExpiration": "0",
+									"fontColor": "FFFFFF",
+									"fontBackgroudColor": "DD2828",
+									"frameColor": "DD2828",
+									"isRadius": 0,
+									"isGradient": 0
+								}
+							],
+							"tNewProduct": 0,
+							"productSizes": []
+						}
+					],
+					"totalCount": 565,
+					"block_status": 0,
+					"isHKBlock": 0,
+					"imageTmallUrl": "https://cdn13.mei.com/category/20200103/8a4efa675c041e956d7fb78267fe4911071407a2f321be85.jpg",
+					"eventBanner": "https://cdn15.mei.com/category/20200103/8a4efa675c041e9520ea87f49506706278124244265805bc.jpg@600w_560h_2e_75q"
+				},
+				{
+					"categoryId": "2041204190000007546",
+					"eventId": "2041204190000007546",
+					"englishName": "年货节",
+					"chineseName": "男装限时9折优惠",
+					"discount": "3.2折",
+					"imgUrl": "https://cdn12.mei.com/category/20200102/40e5b1ce2869db42fabd926b03b77396dc0bc45b7bb6d783.jpg@600w_560h_2e_75q",
+					"imagePcUrl": "https://cdn12.mei.com/category/20200102/40e5b1ce2869db42fabd926b03b77396dc0bc45b7bb6d783.jpg@600w_560h_2e_75q",
+					"enablePreview": "1",
+					"isPhone": "0",
+					"subscribe": "0",
+					"startDate": "2020-01-06 00:00:00",
+					"isBazzer": "1",
+					"isCrossBorder": "0",
+					"isSeasonNew": "0",
+					"spm_b": "13870989",
+					"products": [
+						{
+							"productId": "2041204199000780553",
+							"productName": "太空系列黑色男士印花秋冬连帽羽绒服",
+							"brandName": "19LXXIX",
+							"glsCode": "VAU-246-00001",
+							"imageUrl": "https://cdn12.mei.com/product/VAU-246-00001/2743b7573593cdf7e187e81117a5304e.jpg@300w_400h_2e_75q",
+							"marketPrice": "1899",
+							"itemPriceDto": {
+								"price": "719",
+								"discount": "3.8",
+								"begin": "1578240000",
+								"end": "1582938000"
+							},
+							"tagListDto": [
+								{
+									"tag": "买手推荐",
+									"isHasExpiration": "0",
+									"fontColor": "000000",
+									"fontBackgroudColor": "FFFFFF",
+									"frameColor": "000000",
+									"isRadius": 0,
+									"isGradient": 0
+								}
+							],
+							"tNewProduct": 0,
+							"productSizes": [
+								{ "id": "2041204199000780554", "size": "S", "qty": 3 },
+								{ "id": "2041204199000780555", "size": "M", "qty": 6 },
+								{ "id": "2041204199000780556", "size": "L", "qty": 2 }
+							]
+						},
+						{
+							"productId": "2041204199000780585",
+							"productName": "catsu卡苏猫黑色纯棉字母男女款卫衣",
+							"brandName": "19LXXIX",
+							"glsCode": "VAU-213-00095",
+							"imageUrl": "https://cdn12.mei.com/product/VAU-213-00095/70568094c5ab88b1007b449de1baded5.jpg@300w_400h_2e_75q",
+							"marketPrice": "799",
+							"itemPriceDto": {
+								"price": "319",
+								"discount": "4.0",
+								"begin": "1578240000",
+								"end": "1582938000"
+							},
+							"tagListDto": [
+								{
+									"tag": "买手推荐",
+									"isHasExpiration": "0",
+									"fontColor": "000000",
+									"fontBackgroudColor": "FFFFFF",
+									"frameColor": "000000",
+									"isRadius": 0,
+									"isGradient": 0
+								}
+							],
+							"tNewProduct": 0,
+							"productSizes": [
+								{ "id": "2041204199000780586", "size": "S", "qty": 4 },
+								{ "id": "2041204199000780587", "size": "M", "qty": 1 },
+								{ "id": "2041204199000780588", "size": "L", "qty": 1 }
+							]
+						},
+						{
+							"productId": "2041204199000780549",
+							"productName": "PT系列黑色印花男士圆领长袖T恤上衣",
+							"brandName": "19LXXIX",
+							"glsCode": "VAU-213-00087",
+							"imageUrl": "https://cdn13.mei.com/product/VAU-213-00087/70568094c5ab88b161fe129b7755e060.jpg@300w_400h_2e_75q",
+							"marketPrice": "719",
+							"itemPriceDto": {
+								"price": "239",
+								"discount": "3.4",
+								"begin": "1578240000",
+								"end": "1582938000"
+							},
+							"tagListDto": [
+								{
+									"tag": "买手推荐",
+									"isHasExpiration": "0",
+									"fontColor": "000000",
+									"fontBackgroudColor": "FFFFFF",
+									"frameColor": "000000",
+									"isRadius": 0,
+									"isGradient": 0
+								}
+							],
+							"tNewProduct": 0,
+							"productSizes": [
+								{ "id": "2041204199000780550", "size": "S", "qty": 1 },
+								{ "id": "2041204199000780552", "size": "L", "qty": 3 }
+							]
+						},
+						{
+							"productId": "2021202199000024028",
+							"productName": "VERSACE COLLECTION多色简约时尚潮流修身小脚棉质男士牛仔裤",
+							"brandName": "VERSACE COLLECTION",
+							"glsCode": "VC3-204-100014-C",
+							"imageUrl": "https://cdn15.mei.com/product/VC3-204-100014-C/40e5b1ce2869db42fb3ecb9f3bdd994fdac47ad4a8ad7ec49219831a66ca633a.jpg@300w_400h_2e_75q",
+							"marketPrice": "4330",
+							"itemPriceDto": {
+								"price": "1999",
+								"discount": "4.7",
+								"begin": "1578240000",
+								"end": "1578672000"
+							},
+							"tagListDto": [],
+							"tNewProduct": 0,
+							"productSizes": [
+								{ "id": "2014201499000041405", "size": "29", "qty": 7 },
+								{ "id": "2014201499000041404", "size": "30", "qty": 18 },
+								{ "id": "2020202099000016854", "size": "31", "qty": 28 },
+								{ "id": "2019201999000019639", "size": "32", "qty": 26 },
+								{ "id": "2014201499000041406", "size": "33", "qty": 26 },
+								{ "id": "2018201899000049271", "size": "34", "qty": 18 },
+								{ "id": "2087208799000013966", "size": "36", "qty": 3 }
+							]
+						},
+						{
+							"productId": "2035203599000001366",
+							"productName": "versace jeans多色休闲保暖时尚潮流印花立领双面男士外套",
+							"brandName": "VERSACE JEANS",
+							"glsCode": "VJ0-2653-100012-C",
+							"imageUrl": "https://cdn14.mei.com/product/VJ0-2653-100012-C/40e5b1ce2869db427ad6157be346fc7576a39bba2019a96d6928189a1be395bf.jpg@300w_400h_2e_75q",
+							"marketPrice": "5920",
+							"itemPriceDto": {
+								"price": "2399",
+								"discount": "4.1",
+								"begin": "1578240000",
+								"end": "1582938000"
+							},
+							"tagListDto": [],
+							"tNewProduct": 0,
+							"productSizes": [
+								{ "id": "2018201899000049248", "size": "46", "qty": 10 },
+								{ "id": "2084208499000013874", "size": "48", "qty": 34 },
+								{ "id": "2019201999000019611", "size": "50", "qty": 30 },
+								{ "id": "2014201499000041382", "size": "52", "qty": 5 },
+								{ "id": "2084208499000013876", "size": "54", "qty": 4 }
+							]
+						},
+						{
+							"productId": "2085208599000018642",
+							"productName": "EMPORIO ARMANI多色棉质经典百搭男士修身休闲裤小脚裤长裤",
+							"brandName": "EMPORIO ARMANI",
+							"glsCode": "AR1-2932-100001-C",
+							"imageUrl": "https://cdn12.mei.com/product/AR1-2932-100001-C/40e5b1ce2869db42009ba3b2aa244b9c5cd1ad56b88925b116aa7cbeaa7fe5d8.jpg@300w_400h_2e_75q",
+							"marketPrice": "2220",
+							"itemPriceDto": {
+								"price": "1479",
+								"discount": "6.7",
+								"begin": "1578240000",
+								"end": "1582938000"
+							},
+							"tagListDto": [],
+							"tNewProduct": 0,
+							"productSizes": [
+								{ "id": "2022202299000022872", "size": "46", "qty": 8 },
+								{ "id": "2022202299000022871", "size": "48", "qty": 23 },
+								{ "id": "2020202099000017747", "size": "50", "qty": 32 },
+								{ "id": "2015201599000017348", "size": "52", "qty": 3 },
+								{ "id": "2086208699000014401", "size": "54", "qty": 4 }
+							]
+						},
+						{
+							"productId": "2021202199000024027",
+							"productName": "VERSACE COLLECTION多色简约时尚潮流修身小脚棉质男士牛仔裤",
+							"brandName": "VERSACE COLLECTION",
+							"glsCode": "VC3-204-100013-C",
+							"imageUrl": "https://cdn15.mei.com/product/VC3-204-100013-C/40e5b1ce2869db427b1e6b57733e7afa3a85be144a6981899219831a66ca633a.jpg@300w_400h_2e_75q",
+							"marketPrice": "4330",
+							"itemPriceDto": {
+								"price": "1999",
+								"discount": "4.7",
+								"begin": "1578240000",
+								"end": "1578672000"
+							},
+							"tagListDto": [],
+							"tNewProduct": 0,
+							"productSizes": [
+								{ "id": "2014201499000041403", "size": "29", "qty": 3 },
+								{ "id": "2016201699000062368", "size": "30", "qty": 6 },
+								{ "id": "2021202199000018670", "size": "31", "qty": 12 },
+								{ "id": "2087208799000013964", "size": "32", "qty": 12 },
+								{ "id": "2019201999000019638", "size": "33", "qty": 13 },
+								{ "id": "2021202199000018671", "size": "34", "qty": 8 }
+							]
+						},
+						{
+							"productId": "2035203599000001399",
+							"productName": "VERSACE COLLECTION黑灰色经典简约时尚修身小脚棉质男士牛仔裤",
+							"brandName": "VERSACE COLLECTION",
+							"glsCode": "VC3-204-100001-C",
+							"imageUrl": "https://cdn15.mei.com/product/VC3-204-100001-C/16ce4eaa8b46223f38f66108ef613b5bff98abc3a8e552c061c3f0cac6877636.jpg@300w_400h_2e_75q",
+							"marketPrice": "3440",
+							"itemPriceDto": {
+								"price": "1859",
+								"discount": "5.5",
+								"begin": "1578240000",
+								"end": "1582938000"
+							},
+							"tagListDto": [],
+							"tNewProduct": 0,
+							"productSizes": [
+								{ "id": "2021202199000018668", "size": "31", "qty": 17 },
+								{ "id": "2085208599000013848", "size": "32", "qty": 8 },
+								{ "id": "2019201999000019635", "size": "33", "qty": 18 },
+								{ "id": "2015201599000016516", "size": "34", "qty": 5 }
+							]
+						},
+						{
+							"productId": "2035203599000001360",
+							"productName": "versace jeans多色休闲保暖轻便时尚LOGO装饰连帽男士外套",
+							"brandName": "VERSACE JEANS",
+							"glsCode": "VJ0-2653-100008-C",
+							"imageUrl": "https://cdn12.mei.com/product/VJ0-2653-100008-C/40e5b1ce2869db42ea8d1701ce3c68924ec793673fa2a71dab8719c727897d69.jpg@300w_400h_2e_75q",
+							"marketPrice": "4180",
+							"itemPriceDto": {
+								"price": "1999",
+								"discount": "4.8",
+								"begin": "1578240000",
+								"end": "1582938000"
+							},
+							"tagListDto": [],
+							"tNewProduct": 0,
+							"productSizes": [
+								{ "id": "2014201499000041393", "size": "48", "qty": 22 },
+								{ "id": "2084208499000013887", "size": "50", "qty": 20 }
+							]
+						}
+					],
+					"totalCount": 198,
+					"block_status": 0,
+					"isHKBlock": 0,
+					"imageTmallUrl": "https://cdn14.mei.com/category/20200102/40e5b1ce2869db423be75b2a3c269e6cce6dc3676f54cd06.jpg",
+					"eventBanner": "https://cdn12.mei.com/category/20200102/40e5b1ce2869db4257c65ff44f8fae881ac47f6e1a03bdfe.jpg@600w_560h_2e_75q"
+				},
+				{
+					"categoryId": "2041204190000007551",
+					"eventId": "2041204190000007551",
+					"englishName": "年货节特惠",
+					"chineseName": "男士时髦单品",
+					"discount": "2.3折",
+					"imgUrl": "https://cdn14.mei.com/category/20200103/8a4efa675c041e95cb0e427a0e334fee78124244265805bc.jpg@600w_560h_2e_75q",
+					"imagePcUrl": "https://cdn14.mei.com/category/20200103/8a4efa675c041e95cb0e427a0e334fee78124244265805bc.jpg@600w_560h_2e_75q",
+					"enablePreview": "1",
+					"isPhone": "0",
+					"subscribe": "0",
+					"startDate": "2020-01-06 00:00:00",
+					"isBazzer": "1",
+					"isCrossBorder": "1",
+					"isSeasonNew": "0",
+					"spm_b": "13876931",
+					"products": [
+						{
+							"productId": "2042204299000767636",
+							"productName": "男士黑色双G牛皮扳扣式商务休闲皮带腰带",
+							"brandName": "GUCCI",
+							"glsCode": "GVS-451-00425",
+							"imageUrl": "https://cdn14.mei.com/product/GVS-451-00429/d31e06bb2599c9acc2eb71eef17531b5ebd37c41e4a1fec5.jpg@300w_400h_2e_75q",
+							"marketPrice": "5540",
+							"itemPriceDto": {
+								"price": "3989",
+								"tax": "332.72",
+								"discount": "7.3",
+								"begin": "1578240000",
+								"end": "1578672000"
+							},
+							"tagListDto": [
+								{
+									"tag": "新年价",
+									"isHasExpiration": "1",
+									"beginDate": "1578240000",
+									"endDate": "1578672000",
+									"fontColor": "FFFFFF",
+									"fontBackgroudColor": "DD2828",
+									"frameColor": "DD2828",
+									"isRadius": 0,
+									"isGradient": 0
+								},
+								{
+									"tag": "买手推荐",
+									"isHasExpiration": "0",
+									"fontColor": "000000",
+									"fontBackgroudColor": "FFFFFF",
+									"frameColor": "000000",
+									"isRadius": 0,
+									"isGradient": 0
+								}
+							],
+							"tNewProduct": 0,
+							"productSizes": [
+								{ "id": "2040204099000643048", "size": "宽4cm105", "qty": 4 },
+								{ "id": "2040204099000643047", "size": "宽4cm85", "qty": 4 },
+								{ "id": "2121212199000186309", "size": "宽4cm80", "qty": 4 },
+								{ "id": "2040204099000643049", "size": "宽4cm115", "qty": 2 },
+								{ "id": "2042204299000767640", "size": "宽4cm110", "qty": 2 },
+								{ "id": "2121212199000186308", "size": "宽4cm75", "qty": 2 }
+							]
+						},
+						{
+							"productId": "2042204299000837292",
+							"productName": "男士双G扣棕色小牛皮腰带",
+							"brandName": "GUCCI",
+							"glsCode": "TPZ-451-00001",
+							"imageUrl": "https://cdn15.mei.com/product/TPZ-451-00002/d31e06bb2599c9ac0b577bdc8b0be8dbd18e95a79b1a13a2.jpg@300w_400h_2e_75q",
+							"marketPrice": "4260",
+							"itemPriceDto": {
+								"price": "2869",
+								"tax": "239.30",
+								"discount": "6.8",
+								"begin": "1578240000",
+								"end": "1578672000"
+							},
+							"tagListDto": [
+								{
+									"tag": "新年价",
+									"isHasExpiration": "1",
+									"beginDate": "1578240000",
+									"endDate": "1578672000",
+									"fontColor": "FFFFFF",
+									"fontBackgroudColor": "DD2828",
+									"frameColor": "DD2828",
+									"isRadius": 0,
+									"isGradient": 0
+								},
+								{
+									"tag": "买手推荐",
+									"isHasExpiration": "0",
+									"fontColor": "000000",
+									"fontBackgroudColor": "FFFFFF",
+									"frameColor": "000000",
+									"isRadius": 0,
+									"isGradient": 0
+								}
+							],
+							"tNewProduct": 0,
+							"productSizes": [
+								{ "id": "2042204299000837293", "size": "85", "qty": 1 },
+								{ "id": "2042204299000837294", "size": "90", "qty": 1 },
+								{ "id": "2042204299000837295", "size": "95", "qty": 2 }
+							]
+						},
+						{
+							"productId": "2040204099000720476",
+							"productName": "男士黑色牛皮双G板扣腰带",
+							"brandName": "GUCCI",
+							"glsCode": "TMI-451-00074",
+							"imageUrl": "https://cdn15.mei.com/product/TMI-451-00076/896f462953a9763125dc67bb74fa4776d1cf6d1cc38c92208e5b8d8e5636f810.jpg@300w_400h_2e_75q",
+							"marketPrice": "7324",
+							"itemPriceDto": {
+								"price": "3569",
+								"tax": "297.69",
+								"discount": "4.9",
+								"begin": "1578240000",
+								"end": "1578672000"
+							},
+							"tagListDto": [
+								{
+									"tag": "新年价",
+									"isHasExpiration": "1",
+									"beginDate": "1578240000",
+									"endDate": "1578672000",
+									"fontColor": "FFFFFF",
+									"fontBackgroudColor": "DD2828",
+									"frameColor": "DD2828",
+									"isRadius": 0,
+									"isGradient": 0
+								},
+								{
+									"tag": "买手推荐",
+									"isHasExpiration": "0",
+									"fontColor": "000000",
+									"fontBackgroudColor": "FFFFFF",
+									"frameColor": "000000",
+									"isRadius": 0,
+									"isGradient": 0
+								}
+							],
+							"tNewProduct": 0,
+							"productSizes": [
+								{ "id": "2040204099000720477", "size": "85", "qty": 1 },
+								{ "id": "2040204099000720478", "size": "90", "qty": 5 },
+								{ "id": "2040204099000720479", "size": "95", "qty": 9 },
+								{ "id": "2040204099000720480", "size": "105", "qty": 10 }
+							]
+						},
+						{
+							"productId": "2041204199000826618",
+							"productName": "男士黑色牛皮板扣皮带",
+							"brandName": "GUCCI",
+							"glsCode": "TPZ-451-00008",
+							"imageUrl": "https://cdn15.mei.com/product/TPZ-451-00012/d31e06bb2599c9acc2eb71eef17531b5a12ff8ada21cda2a.jpg@300w_400h_2e_75q",
+							"marketPrice": "4220",
+							"itemPriceDto": {
+								"price": "3029",
+								"tax": "252.65",
+								"discount": "7.2",
+								"begin": "1578240000",
+								"end": "1578672000"
+							},
+							"tagListDto": [
+								{
+									"tag": "新年价",
+									"isHasExpiration": "1",
+									"beginDate": "1578240000",
+									"endDate": "1578672000",
+									"fontColor": "FFFFFF",
+									"fontBackgroudColor": "DD2828",
+									"frameColor": "DD2828",
+									"isRadius": 0,
+									"isGradient": 0
+								},
+								{
+									"tag": "买手推荐",
+									"isHasExpiration": "0",
+									"fontColor": "000000",
+									"fontBackgroudColor": "FFFFFF",
+									"frameColor": "000000",
+									"isRadius": 0,
+									"isGradient": 0
+								}
+							],
+							"tNewProduct": 0,
+							"productSizes": [
+								{ "id": "2041204199000826621", "size": "95", "qty": 2 },
+								{ "id": "2041204199000826622", "size": "100", "qty": 4 }
+							]
+						},
+						{
+							"productId": "2041204199000826702",
+							"productName": "男士棕色牛皮双G腰带",
+							"brandName": "GUCCI",
+							"glsCode": "TPZ-451-00015",
+							"imageUrl": "https://cdn13.mei.com/product/TPZ-451-00018/d31e06bb2599c9acc2eb71eef17531b5aaa345f4d6f3c193.jpg@300w_400h_2e_75q",
+							"marketPrice": "5650",
+							"itemPriceDto": {
+								"price": "4009",
+								"tax": "334.39",
+								"discount": "7.1",
+								"begin": "1578240000",
+								"end": "1578672000"
+							},
+							"tagListDto": [
+								{
+									"tag": "新年价",
+									"isHasExpiration": "1",
+									"beginDate": "1578240000",
+									"endDate": "1578672000",
+									"fontColor": "FFFFFF",
+									"fontBackgroudColor": "DD2828",
+									"frameColor": "DD2828",
+									"isRadius": 0,
+									"isGradient": 0
+								},
+								{
+									"tag": "当季新品",
+									"isHasExpiration": "0",
+									"fontColor": "FFFFFF",
+									"fontBackgroudColor": "DD2828",
+									"frameColor": "DD2828",
+									"isRadius": 0,
+									"isGradient": 0
+								}
+							],
+							"tNewProduct": 0,
+							"productSizes": [
+								{ "id": "2041204199000826703", "size": "85", "qty": 2 },
+								{ "id": "2041204199000826704", "size": "90", "qty": 1 },
+								{ "id": "2041204199000826705", "size": "100", "qty": 2 },
+								{ "id": "2041204199000826706", "size": "105", "qty": 2 }
+							]
+						},
+						{
+							"productId": "2041204199000826716",
+							"productName": "男士深棕色皮革双G腰带",
+							"brandName": "GUCCI",
+							"glsCode": "TPZ-451-00020",
+							"imageUrl": "https://cdn14.mei.com/product/TPZ-451-00021/d31e06bb2599c9acc2eb71eef17531b5b6a72e22ad59d6b3.jpg@300w_400h_2e_75q",
+							"marketPrice": "5240",
+							"itemPriceDto": {
+								"price": "3339",
+								"tax": "278.51",
+								"discount": "6.4",
+								"begin": "1578240000",
+								"end": "1578672000"
+							},
+							"tagListDto": [
+								{
+									"tag": "新年价",
+									"isHasExpiration": "1",
+									"beginDate": "1578240000",
+									"endDate": "1578672000",
+									"fontColor": "FFFFFF",
+									"fontBackgroudColor": "DD2828",
+									"frameColor": "DD2828",
+									"isRadius": 0,
+									"isGradient": 0
+								},
+								{
+									"tag": "当季新品",
+									"isHasExpiration": "0",
+									"fontColor": "FFFFFF",
+									"fontBackgroudColor": "DD2828",
+									"frameColor": "DD2828",
+									"isRadius": 0,
+									"isGradient": 0
+								}
+							],
+							"tNewProduct": 0,
+							"productSizes": [
+								{ "id": "2120212099000179266", "size": "90", "qty": 1 },
+								{ "id": "2041204199000826717", "size": "95", "qty": 3 },
+								{ "id": "2041204199000826718", "size": "100", "qty": 8 },
+								{ "id": "2120212099000179265", "size": "105", "qty": 6 },
+								{ "id": "2120212099000179267", "size": "110", "qty": 8 },
+								{ "id": "2041204199000826719", "size": "115", "qty": 5 }
+							]
+						},
+						{
+							"productId": "2087208799000021624",
+							"productName": "FENDI 棕色小牛皮经典复古双F图案时尚百搭男士腰带皮带",
+							"brandName": "FENDI",
+							"glsCode": "FD0-451-100002-C",
+							"imageUrl": "https://cdn14.mei.com/product/FD0-451-100002-C/4478d1b2ebcd4a422deead0f3d040d7346573a5a95d9b4bd8e3ad837bb509d22.jpg@300w_400h_2e_75q",
+							"marketPrice": "2460",
+							"itemPriceDto": {
+								"price": "2179",
+								"tax": "181.75",
+								"discount": "8.9",
+								"begin": "1578240000",
+								"end": "1578672000"
+							},
+							"tagListDto": [
+								{
+									"tag": "新年价",
+									"isHasExpiration": "1",
+									"beginDate": "1578240000",
+									"endDate": "1578672000",
+									"fontColor": "FFFFFF",
+									"fontBackgroudColor": "DD2828",
+									"frameColor": "DD2828",
+									"isRadius": 0,
+									"isGradient": 0
+								},
+								{
+									"tag": "当季新品",
+									"isHasExpiration": "0",
+									"fontColor": "FFFFFF",
+									"fontBackgroudColor": "DD2828",
+									"frameColor": "DD2828",
+									"isRadius": 0,
+									"isGradient": 0
+								}
+							],
+							"tNewProduct": 0,
+							"productSizes": [
+								{ "id": "2084208499000018604", "size": "100cm", "qty": 3 }
+							]
+						},
+						{
+							"productId": "2014201499000049131",
+							"productName": "棕色小牛皮logo字母男士腰带皮带",
+							"brandName": "FENDI",
+							"glsCode": "FD0-451-100003-C",
+							"imageUrl": "https://cdn12.mei.com/product/FD0-451-100003-C/40e5b1ce2869db42edc5f071a8b9328f315c23936f842a1177465b24f561b702.jpg@300w_400h_2e_75q",
+							"marketPrice": "3630",
+							"itemPriceDto": {
+								"price": "2729",
+								"tax": "227.63",
+								"discount": "7.6",
+								"begin": "1578240000",
+								"end": "1578672000"
+							},
+							"tagListDto": [
+								{
+									"tag": "新年价",
+									"isHasExpiration": "1",
+									"beginDate": "1578240000",
+									"endDate": "1578672000",
+									"fontColor": "FFFFFF",
+									"fontBackgroudColor": "DD2828",
+									"frameColor": "DD2828",
+									"isRadius": 0,
+									"isGradient": 0
+								},
+								{
+									"tag": "当季新品",
+									"isHasExpiration": "0",
+									"fontColor": "FFFFFF",
+									"fontBackgroudColor": "DD2828",
+									"frameColor": "DD2828",
+									"isRadius": 0,
+									"isGradient": 0
+								}
+							],
+							"tNewProduct": 0,
+							"productSizes": [
+								{ "id": "2086208699000013848", "size": "95cm", "qty": 2 }
+							]
+						},
+						{
+							"productId": "2040204099000655388",
+							"productName": "棕色牛皮编织针扣式皮带腰带",
+							"brandName": "Bottega Veneta",
+							"glsCode": "BTH-451-00182",
+							"imageUrl": "https://cdn15.mei.com/product/BTH-451-00184/d31e06bb2599c9acc3f9c2d30fa0a1d78712789a06218656.jpg@300w_400h_2e_75q",
+							"marketPrice": "4700",
+							"itemPriceDto": {
+								"price": "3249",
+								"tax": "271.00",
+								"discount": "7.0",
+								"begin": "1578240000",
+								"end": "1578672000"
+							},
+							"tagListDto": [
+								{
+									"tag": "新年价",
+									"isHasExpiration": "1",
+									"beginDate": "1578240000",
+									"endDate": "1578672000",
+									"fontColor": "FFFFFF",
+									"fontBackgroudColor": "DD2828",
+									"frameColor": "DD2828",
+									"isRadius": 0,
+									"isGradient": 0
+								},
+								{
+									"tag": "海外直发",
+									"isHasExpiration": "0",
+									"fontColor": "000000",
+									"fontBackgroudColor": "FFFFFF",
+									"frameColor": "000000",
+									"isRadius": 0,
+									"isGradient": 0
+								}
+							],
+							"tNewProduct": 0,
+							"productSizes": [
+								{ "id": "2040204099000655389", "size": "85", "qty": 2 },
+								{ "id": "2040204099000655390", "size": "90", "qty": 11 },
+								{ "id": "2040204099000655391", "size": "95", "qty": 10 },
+								{ "id": "2040204099000655392", "size": "100", "qty": 9 },
+								{ "id": "2040204099000655393", "size": "105", "qty": 5 },
+								{ "id": "2040204099000655394", "size": "110", "qty": 2 }
+							]
+						}
+					],
+					"totalCount": 251,
+					"block_status": 0,
+					"isHKBlock": 0,
+					"imageTmallUrl": "https://cdn15.mei.com/category/20200103/8a4efa675c041e9502fc26d7e7b55dd7e15d3cf3671d4998.jpg",
+					"eventBanner": "https://cdn15.mei.com/category/20200103/8a4efa675c041e9548de170f1fba1bd9e15d3cf3671d4998.jpg@600w_560h_2e_75q"
+				},
+				{
+					"categoryId": "2042204290000007314",
+					"eventId": "2042204290000007314",
+					"englishName": "年货节",
+					"chineseName": "男装限时6折优惠",
+					"discount": "1.8折",
+					"imgUrl": "https://cdn15.mei.com/category/20200102/40e5b1ce2869db42a88e54ea051e31aad72eb86efc6c943a.jpg@600w_560h_2e_75q",
+					"imagePcUrl": "https://cdn15.mei.com/category/20200102/40e5b1ce2869db42a88e54ea051e31aad72eb86efc6c943a.jpg@600w_560h_2e_75q",
+					"enablePreview": "1",
+					"isPhone": "0",
+					"subscribe": "0",
+					"startDate": "2020-01-06 00:00:00",
+					"isBazzer": "0",
+					"isCrossBorder": "0",
+					"isSeasonNew": "0",
+					"spm_b": "13870961",
+					"products": [
+						{
+							"productId": "2041204199000769311",
+							"productName": "黑白色山羊绒羊毛条纹秋冬男士针织衫",
+							"brandName": "WDLS",
+							"glsCode": "WYQ-215-00671",
+							"imageUrl": "https://cdn15.mei.com/product/WYQ-215-00674/214dedd09be5f7fe37700c58d5d5e299.jpg@300w_400h_2e_75q",
+							"marketPrice": "3280",
+							"itemPriceDto": {
+								"price": "749",
+								"discount": "2.3",
+								"begin": "1578240000",
+								"end": "1582938000"
+							},
+							"tagListDto": [
+								{
+									"tag": "买手推荐",
+									"isHasExpiration": "0",
+									"fontColor": "000000",
+									"fontBackgroudColor": "FFFFFF",
+									"frameColor": "000000",
+									"isRadius": 0,
+									"isGradient": 0
+								},
+								{
+									"tag": "当季新品",
+									"isHasExpiration": "0",
+									"fontColor": "FFFFFF",
+									"fontBackgroudColor": "DD2828",
+									"frameColor": "DD2828",
+									"isRadius": 0,
+									"isGradient": 0
+								}
+							],
+							"tNewProduct": 0,
+							"productSizes": [
+								{ "id": "2041204199000769315", "size": "120", "qty": 2 }
+							]
+						},
+						{
+							"productId": "2085208599000015152",
+							"productName": "WDLSWDLS多色休闲时尚圆领套衫男士羊绒衫",
+							"brandName": "WDLS",
+							"glsCode": "WYQ-2666-100005-C",
+							"imageUrl": "https://cdn12.mei.com/product/WYQ-2666-100005-C/40e5b1ce2869db429de505d205a2e015f0eac3af07483b28c8f4fb864c29d6c9.jpg@300w_400h_2e_75q",
+							"marketPrice": "2180",
+							"itemPriceDto": {
+								"price": "539",
+								"discount": "2.5",
+								"begin": "1578240000",
+								"end": "1582938000"
+							},
+							"tagListDto": [],
+							"tNewProduct": 0,
+							"productSizes": [
+								{ "id": "2086208699000013629", "size": "105", "qty": 29 },
+								{ "id": "2014201499000041472", "size": "110", "qty": 69 },
+								{ "id": "2020202099000016918", "size": "115", "qty": 50 },
+								{ "id": "2014201499000041474", "size": "120", "qty": 28 }
+							]
+						},
+						{
+							"productId": "2085208599000015148",
+							"productName": "WDLSWDLS多色休闲时尚圆领套衫男士羊绒衫",
+							"brandName": "WDLS",
+							"glsCode": "WYQ-2666-100001-C",
+							"imageUrl": "https://cdn14.mei.com/product/WYQ-2666-100001-C/40e5b1ce2869db4229284b0cd5dbe6fe7ef0aba71239879cc8f4fb864c29d6c9.jpg@300w_400h_2e_75q",
+							"marketPrice": "2180",
+							"itemPriceDto": {
+								"price": "539",
+								"discount": "2.5",
+								"begin": "1578240000",
+								"end": "1582938000"
+							},
+							"tagListDto": [],
+							"tNewProduct": 0,
+							"productSizes": [
+								{ "id": "2014201499000041471", "size": "105", "qty": 50 },
+								{ "id": "2087208799000014044", "size": "110", "qty": 31 },
+								{ "id": "2018201899000049336", "size": "115", "qty": 40 },
+								{ "id": "2020202099000016917", "size": "120", "qty": 38 }
+							]
+						},
+						{
+							"productId": "2085208599000015150",
+							"productName": "WDLSWDLS多色休闲时尚圆领套衫男士羊绒衫",
+							"brandName": "WDLS",
+							"glsCode": "WYQ-2666-100003-C",
+							"imageUrl": "https://cdn13.mei.com/product/WYQ-2666-100003-C/40e5b1ce2869db423afe4cf55db9f14e95bd0cfe51c95427c8f4fb864c29d6c9.jpg@300w_400h_2e_75q",
+							"marketPrice": "2180",
+							"itemPriceDto": {
+								"price": "539",
+								"discount": "2.5",
+								"begin": "1578240000",
+								"end": "1582938000"
+							},
+							"tagListDto": [],
+							"tNewProduct": 0,
+							"productSizes": [
+								{ "id": "2085208599000013920", "size": "105", "qty": 37 },
+								{ "id": "2022202299000022032", "size": "110", "qty": 62 },
+								{ "id": "2018201899000049337", "size": "115", "qty": 31 },
+								{ "id": "2022202299000022033", "size": "120", "qty": 24 }
+							]
+						},
+						{
+							"productId": "2020202099000021469",
+							"productName": "WDLS玛莎拉红羊绒羊毛气质V领简约经典百搭男士无袖针织背心",
+							"brandName": "WDLS",
+							"glsCode": "WYQ-2901-100001-C",
+							"imageUrl": "https://cdn14.mei.com/product/WYQ-2901-100001-C/40e5b1ce2869db429bcc8621b650234328937f701573cab3879017f6386f6fca.jpg@300w_400h_2e_75q",
+							"marketPrice": "2980",
+							"itemPriceDto": {
+								"price": "599",
+								"discount": "2.1",
+								"begin": "1578240000",
+								"end": "1582938000"
+							},
+							"tagListDto": [],
+							"tNewProduct": 0,
+							"productSizes": [
+								{ "id": "2087208799000014042", "size": "105", "qty": 40 },
+								{ "id": "2018201899000049335", "size": "110", "qty": 40 },
+								{ "id": "2021202199000018732", "size": "115", "qty": 55 },
+								{ "id": "2085208599000013921", "size": "120", "qty": 3 }
+							]
+						},
+						{
+							"productId": "2041204199000767679",
+							"productName": "蓝色山羊绒羊毛男士V领秋冬长袖针织衫",
+							"brandName": "WDLS",
+							"glsCode": "WYQ-215-00520",
+							"imageUrl": "https://cdn15.mei.com/product/WYQ-215-00523/214dedd09be5f7fe7687b2beb3bdd4de.jpg@300w_400h_2e_75q",
+							"marketPrice": "3680",
+							"itemPriceDto": {
+								"price": "749",
+								"discount": "2.1",
+								"begin": "1578240000",
+								"end": "1582938000"
+							},
+							"tagListDto": [
+								{
+									"tag": "当季新品",
+									"isHasExpiration": "0",
+									"fontColor": "FFFFFF",
+									"fontBackgroudColor": "DD2828",
+									"frameColor": "DD2828",
+									"isRadius": 0,
+									"isGradient": 0
+								}
+							],
+							"tNewProduct": 0,
+							"productSizes": [
+								{ "id": "2041204199000767680", "size": "105", "qty": 70 },
+								{ "id": "2041204199000767681", "size": "110", "qty": 30 },
+								{ "id": "2041204199000767682", "size": "115", "qty": 30 }
+							]
+						},
+						{
+							"productId": "2085208599000015149",
+							"productName": "WDLSWDLS多色休闲时尚圆领套衫男士羊绒衫",
+							"brandName": "WDLS",
+							"glsCode": "WYQ-2666-100002-C",
+							"imageUrl": "https://cdn15.mei.com/product/WYQ-2666-100002-C/40e5b1ce2869db422b3a1d2c71c66f5e7ef0aba71239879cc8f4fb864c29d6c9.jpg@300w_400h_2e_75q",
+							"marketPrice": "2180",
+							"itemPriceDto": {
+								"price": "539",
+								"discount": "2.5",
+								"begin": "1578240000",
+								"end": "1582938000"
+							},
+							"tagListDto": [],
+							"tNewProduct": 0,
+							"productSizes": [
+								{ "id": "2022202299000022034", "size": "105", "qty": 38 },
+								{ "id": "2086208699000013631", "size": "110", "qty": 40 },
+								{ "id": "2087208799000014041", "size": "115", "qty": 31 },
+								{ "id": "2086208699000013632", "size": "120", "qty": 1 }
+							]
+						},
+						{
+							"productId": "2085208599000015151",
+							"productName": "WDLSWDLS多色休闲时尚圆领套衫男士羊绒衫",
+							"brandName": "WDLS",
+							"glsCode": "WYQ-2666-100004-C",
+							"imageUrl": "https://cdn14.mei.com/product/WYQ-2666-100004-C/40e5b1ce2869db42d35b58831d0521ff95bd0cfe51c95427c8f4fb864c29d6c9.jpg@300w_400h_2e_75q",
+							"marketPrice": "2180",
+							"itemPriceDto": {
+								"price": "539",
+								"discount": "2.5",
+								"begin": "1578240000",
+								"end": "1582938000"
+							},
+							"tagListDto": [],
+							"tNewProduct": 0,
+							"productSizes": [
+								{ "id": "2085208599000013922", "size": "105", "qty": 38 },
+								{ "id": "2015201599000016586", "size": "110", "qty": 29 },
+								{ "id": "2086208699000013630", "size": "115", "qty": 15 },
+								{ "id": "2020202099000016919", "size": "120", "qty": 2 }
+							]
+						},
+						{
+							"productId": "2019201999000024211",
+							"productName": "WDLS19秋冬多色羊绒羊毛罗纹菱格时尚百搭男士圆领针织套衫毛衣",
+							"brandName": "WDLS",
+							"glsCode": "WYQ-2666-100019-C",
+							"imageUrl": "https://cdn15.mei.com/product/WYQ-2666-100019-C/40e5b1ce2869db42c13a3c6a9513a3ecec741635a7b700c0d3f6b0e72f28dcac.jpg@300w_400h_2e_75q",
+							"marketPrice": "2680",
+							"itemPriceDto": {
+								"price": "599",
+								"discount": "2.3",
+								"begin": "1578240000",
+								"end": "1582938000"
+							},
+							"tagListDto": [],
+							"tNewProduct": 0,
+							"productSizes": [
+								{ "id": "2016201699000062445", "size": "105", "qty": 29 },
+								{ "id": "2019201999000019695", "size": "110", "qty": 30 },
+								{ "id": "2020202099000016935", "size": "120", "qty": 15 }
+							]
+						}
+					],
+					"totalCount": 48,
+					"block_status": 0,
+					"isHKBlock": 0,
+					"imageTmallUrl": "https://cdn12.mei.com/category/20200102/40e5b1ce2869db42d47767a5cd7ad20f1ac47f6e1a03bdfe.jpg",
+					"eventBanner": "https://cdn15.mei.com/category/20200102/40e5b1ce2869db4230b1f33088bbcb0e25aecd78fee7fcaf.jpg@600w_560h_2e_75q"
+				},
+				{
+					"categoryId": "2120005100000003462",
+					"eventId": "2120005100000003462",
+					"englishName": "年货节",
+					"chineseName": "男装限时7折优惠",
+					"discount": "1.5折",
+					"imgUrl": "https://cdn12.mei.com/category/20200102/40e5b1ce2869db42d776fae4d2743379071407a2f321be85.jpg@600w_560h_2e_75q",
+					"imagePcUrl": "https://cdn12.mei.com/category/20200102/40e5b1ce2869db42d776fae4d2743379071407a2f321be85.jpg@600w_560h_2e_75q",
+					"enablePreview": "1",
+					"isPhone": "0",
+					"subscribe": "0",
+					"startDate": "2020-01-06 00:00:00",
+					"isBazzer": "0",
+					"isCrossBorder": "0",
+					"isSeasonNew": "0",
+					"spm_b": "13870978",
+					"products": [
+						{
+							"productId": "2017201799000022035",
+							"productName": "WDLS19秋冬多色羊绒羊毛时尚绞花简约百搭男士圆领针织套衫毛衣",
+							"brandName": "WDLS",
+							"glsCode": "WYQ-2667-100013-C",
+							"imageUrl": "https://cdn14.mei.com/product/WYQ-2667-100013-C/40e5b1ce2869db426e53fee1d762b75e6206cbdca30be105fe51050e97666672.jpg@300w_400h_2e_75q",
+							"marketPrice": "2380",
+							"itemPriceDto": {
+								"price": "699",
+								"discount": "3.0",
+								"begin": "1578240000",
+								"end": "1582938000"
+							},
+							"tagListDto": [],
+							"tNewProduct": 0,
+							"productSizes": [
+								{ "id": "2016201699000062434", "size": "105", "qty": 90 },
+								{ "id": "2085208599000013925", "size": "110", "qty": 87 },
+								{ "id": "2021202199000018734", "size": "115", "qty": 163 },
+								{ "id": "2022202299000022039", "size": "120", "qty": 29 }
+							]
+						},
+						{
+							"productId": "2017201799000022034",
+							"productName": "WDLS19秋冬多色羊绒羊毛时尚绞花简约百搭男士圆领针织套衫毛衣",
+							"brandName": "WDLS",
+							"glsCode": "WYQ-2667-100012-C",
+							"imageUrl": "https://cdn14.mei.com/product/WYQ-2667-100012-C/40e5b1ce2869db4266a0dec0cbfa312675205a79ae92659bfe51050e97666672.jpg@300w_400h_2e_75q",
+							"marketPrice": "2380",
+							"itemPriceDto": {
+								"price": "699",
+								"discount": "3.0",
+								"begin": "1578240000",
+								"end": "1582938000"
+							},
+							"tagListDto": [],
+							"tNewProduct": 0,
+							"productSizes": [
+								{ "id": "2085208599000013926", "size": "105", "qty": 40 },
+								{ "id": "2014201499000041478", "size": "110", "qty": 69 },
+								{ "id": "2087208799000014047", "size": "115", "qty": 87 },
+								{ "id": "2014201499000041477", "size": "120", "qty": 40 }
+							]
+						},
+						{
+							"productId": "2017201799000022031",
+							"productName": "WDLS19秋冬多色羊绒羊毛简约圆领时尚几何花纹男士针织套衫毛衣",
+							"brandName": "WDLS",
+							"glsCode": "WYQ-2666-100007-C",
+							"imageUrl": "https://cdn15.mei.com/product/WYQ-2666-100007-C/40e5b1ce2869db42c2b474aaf10cb76ceaf92353473a906df4d5cfae1fd96f8d.jpg@300w_400h_2e_75q",
+							"marketPrice": "2680",
+							"itemPriceDto": {
+								"price": "699",
+								"discount": "2.7",
+								"begin": "1578240000",
+								"end": "1582938000"
+							},
+							"tagListDto": [],
+							"tNewProduct": 0,
+							"productSizes": [
+								{ "id": "2020202099000016934", "size": "105", "qty": 55 },
+								{ "id": "2015201599000016601", "size": "110", "qty": 50 },
+								{ "id": "2018201899000049351", "size": "115", "qty": 69 },
+								{ "id": "2086208699000013641", "size": "120", "qty": 50 }
+							]
+						},
+						{
+							"productId": "2017201799000022030",
+							"productName": "WDLS19秋冬多色羊绒羊毛简约圆领时尚几何花纹男士针织套衫毛衣",
+							"brandName": "WDLS",
+							"glsCode": "WYQ-2666-100006-C",
+							"imageUrl": "https://cdn13.mei.com/product/WYQ-2666-100006-C/40e5b1ce2869db42ffab2f787db894feeaf92353473a906df4d5cfae1fd96f8d.jpg@300w_400h_2e_75q",
+							"marketPrice": "2680",
+							"itemPriceDto": {
+								"price": "699",
+								"discount": "2.7",
+								"begin": "1578240000",
+								"end": "1582938000"
+							},
+							"tagListDto": [],
+							"tNewProduct": 0,
+							"productSizes": [
+								{ "id": "2021202199000018741", "size": "105", "qty": 50 },
+								{ "id": "2014201499000041485", "size": "110", "qty": 55 },
+								{ "id": "2014201499000041486", "size": "115", "qty": 62 },
+								{ "id": "2014201499000041487", "size": "120", "qty": 50 }
+							]
+						},
+						{
+							"productId": "2017201799000022032",
+							"productName": "WDLS19秋冬多色羊绒羊毛简约圆领时尚几何花纹男士针织套衫毛衣",
+							"brandName": "WDLS",
+							"glsCode": "WYQ-2666-100008-C",
+							"imageUrl": "https://cdn15.mei.com/product/WYQ-2666-100008-C/40e5b1ce2869db422ec9e5dcb7c7c8ff2cd66e46142b0c87f4d5cfae1fd96f8d.jpg@300w_400h_2e_75q",
+							"marketPrice": "2680",
+							"itemPriceDto": {
+								"price": "699",
+								"discount": "2.7",
+								"begin": "1578240000",
+								"end": "1582938000"
+							},
+							"tagListDto": [],
+							"tNewProduct": 0,
+							"productSizes": [
+								{ "id": "2019201999000019693", "size": "105", "qty": 50 },
+								{ "id": "2015201599000016602", "size": "110", "qty": 50 },
+								{ "id": "2019201999000019692", "size": "115", "qty": 50 },
+								{ "id": "2020202099000016933", "size": "120", "qty": 38 }
+							]
+						},
+						{
+							"productId": "2017201799000022033",
+							"productName": "WDLS19秋冬多色羊绒羊毛时尚绞花简约百搭男士圆领针织套衫毛衣",
+							"brandName": "WDLS",
+							"glsCode": "WYQ-2667-100011-C",
+							"imageUrl": "https://cdn13.mei.com/product/WYQ-2667-100011-C/40e5b1ce2869db421ca4124f3dd5dd6a6206cbdca30be105fe51050e97666672.jpg@300w_400h_2e_75q",
+							"marketPrice": "2380",
+							"itemPriceDto": {
+								"price": "699",
+								"discount": "3.0",
+								"begin": "1578240000",
+								"end": "1582938000"
+							},
+							"tagListDto": [],
+							"tNewProduct": 0,
+							"productSizes": [
+								{ "id": "2086208699000013636", "size": "105", "qty": 40 },
+								{ "id": "2087208799000014046", "size": "110", "qty": 62 },
+								{ "id": "2018201899000049346", "size": "115", "qty": 40 },
+								{ "id": "2019201999000019687", "size": "120", "qty": 38 }
+							]
+						},
+						{
+							"productId": "2016201699000067105",
+							"productName": "WDLS19秋冬多色羊绒羊毛菱格条纹绞花时尚百搭男士V领针织背心",
+							"brandName": "WDLS",
+							"glsCode": "WYQ-2901-100002-C",
+							"imageUrl": "https://cdn13.mei.com/product/WYQ-2901-100002-C/40e5b1ce2869db42be107794f06258372661b05c003053e246916017eca733b8.jpg@300w_400h_2e_75q",
+							"marketPrice": "1980",
+							"itemPriceDto": {
+								"price": "499",
+								"discount": "2.6",
+								"begin": "1578240000",
+								"end": "1582938000"
+							},
+							"tagListDto": [],
+							"tNewProduct": 0,
+							"productSizes": [
+								{ "id": "2016201699000062440", "size": "105", "qty": 75 },
+								{ "id": "2085208599000013928", "size": "120", "qty": 100 }
+							]
+						},
+						{
+							"productId": "2014201499000045977",
+							"productName": "WDLS19秋冬多色羊绒羊毛简约圆领经典百搭男士针织套衫毛衣",
+							"brandName": "WDLS",
+							"glsCode": "WYQ-2666-100022-C",
+							"imageUrl": "https://cdn14.mei.com/product/WYQ-2666-100022-C/40e5b1ce2869db42c149ee458950c730a66c76cb556fc8f98019af30c2ab4656.jpg@300w_400h_2e_75q",
+							"marketPrice": "2380",
+							"itemPriceDto": {
+								"price": "699",
+								"discount": "3.0",
+								"begin": "1578240000",
+								"end": "1582938000"
+							},
+							"tagListDto": [],
+							"tNewProduct": 0,
+							"productSizes": [
+								{ "id": "2022202299000022044", "size": "105", "qty": 38 },
+								{ "id": "2085208599000013929", "size": "110", "qty": 40 },
+								{ "id": "2016201699000062442", "size": "115", "qty": 40 },
+								{ "id": "2085208599000013930", "size": "120", "qty": 24 }
+							]
+						},
+						{
+							"productId": "2014201499000045979",
+							"productName": "WDLS19秋冬多色羊绒羊毛简约圆领经典百搭男士针织套衫毛衣",
+							"brandName": "WDLS",
+							"glsCode": "WYQ-2666-100024-C",
+							"imageUrl": "https://cdn12.mei.com/product/WYQ-2666-100024-C/40e5b1ce2869db4256e2a25139eca34e263af84236c4635a8019af30c2ab4656.jpg@300w_400h_2e_75q",
+							"marketPrice": "2380",
+							"itemPriceDto": {
+								"price": "699",
+								"discount": "3.0",
+								"begin": "1578240000",
+								"end": "1582938000"
+							},
+							"tagListDto": [],
+							"tNewProduct": 0,
+							"productSizes": [
+								{ "id": "2014201499000041484", "size": "105", "qty": 20 },
+								{ "id": "2020202099000016931", "size": "110", "qty": 38 },
+								{ "id": "2016201699000062444", "size": "115", "qty": 31 },
+								{ "id": "2021202199000018740", "size": "120", "qty": 24 }
+							]
+						}
+					],
+					"totalCount": 33,
+					"block_status": 0,
+					"isHKBlock": 0,
+					"imageTmallUrl": "https://cdn15.mei.com/category/20200102/40e5b1ce2869db42801e05f3429e655c1ac47f6e1a03bdfe.jpg",
+					"eventBanner": "https://cdn15.mei.com/category/20200102/40e5b1ce2869db428c8fca32632e2e39ce6dc3676f54cd06.jpg@600w_560h_2e_75q"
+				}
+			]
+		}
+	]
+}

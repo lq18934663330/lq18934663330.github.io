@@ -1,0 +1,40 @@
+.move-in {
+    position: relative;
+
+    .move-name {
+        position: absolute;
+
+        top: 6rem;
+        text-align: center;
+        width: 100%;
+
+        background-color: rgba(225, 225, 225, 0);
+
+        color: #fff;
+
+        h2 {
+
+            margin-bottom: .06rem;
+            line-height: .64rem;
+            font-size: .55rem;
+            font-weight: 600;
+
+        }
+
+        h3 {
+            line-height: .35rem;
+            font-size: .25rem;
+        }
+
+        h4 {
+            line-height: .35rem;
+            font-size: .25rem;
+        }
+    }
+
+    img {
+        width: 100%;
+        height: auto
+    }
+
+}

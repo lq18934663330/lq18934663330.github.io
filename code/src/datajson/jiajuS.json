@@ -1,0 +1,227 @@
+{
+	"errorInfo": "",
+	"errorNum": "0",
+	"silo": {
+		"id": "2013000100000000004",
+		"siloCode": "4",
+		"siloNameEn": "lifestyle",
+		"displayName": "家居",
+		"linkAddr": "/silo/",
+		"secondCategories": [
+			{
+				"categoryId": "1000000351",
+				"categoryName": "床品",
+				"categoryCode": "",
+				"categoryLogoUrl": "",
+				"childCategoryList": [
+					{
+						"categoryId": "1000000295",
+						"categoryName": "床上件套",
+						"categoryCode": "L-Bedding set/Duvet",
+						"categoryLogoUrl": "http://cdn13.mei.com/category/20170828/20170828201735826.jpg@150w_150h",
+						"childCategoryList": "",
+						"imagePrefix": "http://cdn13.mei.com/category/"
+					},
+					{
+						"categoryId": "1000000297",
+						"categoryName": "被子",
+						"categoryCode": "L-Duvet",
+						"categoryLogoUrl": "http://cdn13.mei.com/category/20170828/20170828201748148.jpg@150w_150h",
+						"childCategoryList": "",
+						"imagePrefix": "http://cdn13.mei.com/category/"
+					},
+					{
+						"categoryId": "1000000296",
+						"categoryName": "枕头",
+						"categoryCode": "L-Pillows",
+						"categoryLogoUrl": "http://cdn13.mei.com/category/20170828/20170828201758846.jpg@150w_150h",
+						"childCategoryList": "",
+						"imagePrefix": "http://cdn13.mei.com/category/"
+					},
+					{
+						"categoryId": "1000000298",
+						"categoryName": "毯子",
+						"categoryCode": "L-Blanket",
+						"categoryLogoUrl": "http://cdn13.mei.com/category/20170828/20170828201812072.jpg@150w_150h",
+						"childCategoryList": "",
+						"imagePrefix": "http://cdn13.mei.com/category/"
+					},
+					{
+						"categoryId": "1192007900000000133",
+						"categoryName": "床垫",
+						"categoryCode": "L-Mattress",
+						"categoryLogoUrl": "http://cdn13.mei.com/category/20170828/20170828201824073.jpg@150w_150h",
+						"childCategoryList": "",
+						"imagePrefix": "http://cdn13.mei.com/category/"
+					}
+				],
+				"imagePrefix": ""
+			},
+			{
+				"categoryId": "1000000353",
+				"categoryName": "厨具",
+				"categoryCode": "",
+				"categoryLogoUrl": "",
+				"childCategoryList": [
+					{
+						"categoryId": "1000000303",
+						"categoryName": "锅",
+						"categoryCode": "L-Pot",
+						"categoryLogoUrl": "http://cdn13.mei.com/category/20170828/20170828202300342.jpg@150w_150h",
+						"childCategoryList": "",
+						"imagePrefix": "http://cdn13.mei.com/category/"
+					},
+					{
+						"categoryId": "1000000305",
+						"categoryName": "餐桌小件",
+						"categoryCode": "L-Table Wear",
+						"categoryLogoUrl": "http://cdn13.mei.com/category/20170828/20170828202312777.jpg@150w_150h",
+						"childCategoryList": "",
+						"imagePrefix": "http://cdn13.mei.com/category/"
+					},
+					{
+						"categoryId": "1000000304",
+						"categoryName": "烹饪小件",
+						"categoryCode": "L-Cook Accessories",
+						"categoryLogoUrl": "http://cdn13.mei.com/category/20170828/20170828202323676.jpg@150w_150h",
+						"childCategoryList": "",
+						"imagePrefix": "http://cdn13.mei.com/category/"
+					},
+					{
+						"categoryId": "1000000307",
+						"categoryName": "酒杯/开瓶器",
+						"categoryCode": "L-Wine glasses",
+						"categoryLogoUrl": "http://cdn13.mei.com/category/20170828/20170828202335780.jpg@150w_150h",
+						"childCategoryList": "",
+						"imagePrefix": "http://cdn13.mei.com/category/"
+					},
+					{
+						"categoryId": "1000000306",
+						"categoryName": "储物盒",
+						"categoryCode": "L-Storage",
+						"categoryLogoUrl": "http://cdn13.mei.com/category/20170828/20170828202411175.jpg@150w_150h",
+						"childCategoryList": "",
+						"imagePrefix": "http://cdn13.mei.com/category/"
+					}
+				],
+				"imagePrefix": ""
+			},
+			{
+				"categoryId": "1000000354",
+				"categoryName": "摆件",
+				"categoryCode": "",
+				"categoryLogoUrl": "",
+				"childCategoryList": [
+					{
+						"categoryId": "1192007900000000138",
+						"categoryName": "地毯/挂毯",
+						"categoryCode": "L-Carpet&Tapestry",
+						"categoryLogoUrl": "http://cdn13.mei.com/category/20170828/20170828202502852.jpg@150w_150h",
+						"childCategoryList": "",
+						"imagePrefix": "http://cdn13.mei.com/category/"
+					},
+					{
+						"categoryId": "1000000308",
+						"categoryName": "蜡烛香氛",
+						"categoryCode": "L-Candals/Champignon",
+						"categoryLogoUrl": "http://cdn13.mei.com/category/20170828/20170828202516373.jpg@150w_150h",
+						"childCategoryList": "",
+						"imagePrefix": "http://cdn13.mei.com/category/"
+					},
+					{
+						"categoryId": "1000000310",
+						"categoryName": "艺术摆件",
+						"categoryCode": "L-Art",
+						"categoryLogoUrl": "http://cdn13.mei.com/category/20170828/20170828202527487.jpg@150w_150h",
+						"childCategoryList": "",
+						"imagePrefix": "http://cdn13.mei.com/category/"
+					},
+					{
+						"categoryId": "1192007900000000135",
+						"categoryName": "收纳整理",
+						"categoryCode": "L-Storage-Accessories",
+						"categoryLogoUrl": "http://cdn13.mei.com/category/20170828/20170828202605063.jpg@150w_150h",
+						"childCategoryList": "",
+						"imagePrefix": "http://cdn13.mei.com/category/"
+					},
+					{
+						"categoryId": "1192007900000000137",
+						"categoryName": "居家布艺",
+						"categoryCode": "L-HomeFabric",
+						"categoryLogoUrl": "http://cdn13.mei.com/category/20170828/20170828202617767.jpg@150w_150h",
+						"childCategoryList": "",
+						"imagePrefix": "http://cdn13.mei.com/category/"
+					}
+				],
+				"imagePrefix": ""
+			},
+			{
+				"categoryId": "1000000357",
+				"categoryName": "家电",
+				"categoryCode": "",
+				"categoryLogoUrl": "",
+				"childCategoryList": [
+					{
+						"categoryId": "1192201704011110031",
+						"categoryName": "生活电器",
+						"categoryCode": "L-Life Appliance",
+						"categoryLogoUrl": "http://cdn13.mei.com/category/20170828/20170828202740039.jpg@150w_150h",
+						"childCategoryList": "",
+						"imagePrefix": "http://cdn13.mei.com/category/"
+					}
+				],
+				"imagePrefix": ""
+			},
+			{
+				"categoryId": "1000000352",
+				"categoryName": "卫浴",
+				"categoryCode": "",
+				"categoryLogoUrl": "",
+				"childCategoryList": [
+					{
+						"categoryId": "1000000299",
+						"categoryName": "卫浴用品",
+						"categoryCode": "L-Towels",
+						"categoryLogoUrl": "http://cdn13.mei.com/category/20170828/20170828202816109.jpg@150w_150h",
+						"childCategoryList": "",
+						"imagePrefix": "http://cdn13.mei.com/category/"
+					},
+					{
+						"categoryId": "1000000302",
+						"categoryName": "清洁用品",
+						"categoryCode": "L-Cleaning",
+						"categoryLogoUrl": "http://cdn13.mei.com/category/20170828/20170828202837237.jpg@150w_150h",
+						"childCategoryList": "",
+						"imagePrefix": "http://cdn13.mei.com/category/"
+					}
+				],
+				"imagePrefix": ""
+			},
+			{
+				"categoryId": "1000000358",
+				"categoryName": "旅游",
+				"categoryCode": "",
+				"categoryLogoUrl": "",
+				"childCategoryList": [
+					{
+						"categoryId": "1000000319",
+						"categoryName": "箱包",
+						"categoryCode": "L-Luggage",
+						"categoryLogoUrl": "http://cdn13.mei.com/category/20170828/20170828203001871.jpg@150w_150h",
+						"childCategoryList": "",
+						"imagePrefix": "http://cdn13.mei.com/category/"
+					}
+				],
+				"imagePrefix": ""
+			},
+			{
+				"categoryId": "1192007900000000140",
+				"categoryName": "3C数码产品",
+				"categoryCode": "",
+				"categoryLogoUrl": "",
+				"childCategoryList": [],
+				"imagePrefix": ""
+			}
+		]
+	}
+}

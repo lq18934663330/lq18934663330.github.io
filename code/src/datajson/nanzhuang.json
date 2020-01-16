@@ -1,0 +1,2139 @@
+{
+	"userIP": "119.79.228.23",
+	"errorNum": "0",
+	"totalPage": 10,
+	"eventList": [
+		{
+			"eventId": "2042204290000006982",
+			"eventCode": "44518",
+			"siloId": "2018000100000000002",
+			"siloName": "男装",
+			"englishName": "PORTS",
+			"chineseName": "男士典雅秋冬专场",
+			"imageUrl": "https://cdn15.mei.com/category/20191110/1fc68f6aa0d821fc8c4cd69b0573b1ede15d3cf3671d4998.jpg",
+			"discount": "1.5折",
+			"spm_b": "13539280",
+			"isBazzer": "1",
+			"isCrossBorder": "0",
+			"isSeasonNew": "0",
+			"isOverseasend": "0",
+			"isMobile": "0",
+			"isFullprice": "0",
+			"isDisplayBrand": "1",
+			"totalCount": 278,
+			"products": [
+				{
+					"productId": "2040204099000655035",
+					"productName": "藏蓝色简约休闲时尚秋冬男士长袖外套",
+					"brandName": "PORTS",
+					"glsCode": "TS8-201-00219",
+					"imageUrl": "https://cdn14.mei.com/product/TS8-201-00221/8c15a81a5c7fdbe03010e52dc7c255d2.jpg@300w_400h_2e_75q",
+					"marketPrice": "6200",
+					"itemPriceDto": {
+						"price": "2789",
+						"discount": "4.5",
+						"begin": "1578224871",
+						"end": "1583546400"
+					},
+					"tagListDto": [
+						{
+							"tag": "买手推荐",
+							"isHasExpiration": "0",
+							"fontColor": "000000",
+							"fontBackgroudColor": "FFFFFF",
+							"frameColor": "000000",
+							"isRadius": 0,
+							"isGradient": 0
+						}
+					],
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2040204099000655038", "size": "S", "qty": 5 },
+						{ "id": "2040204099000655037", "size": "M", "qty": 12 },
+						{ "id": "2040204099000655036", "size": "L", "qty": 3 },
+						{ "id": "2040204099000655039", "size": "XL", "qty": 3 }
+					]
+				},
+				{
+					"productId": "2020202099000024885",
+					"productName": "PORTS INTERNATIONAL咖啡色绒面时尚百搭男装休闲长袖衬衫衬衣",
+					"brandName": "Ports international",
+					"glsCode": "PSL-208-173D14",
+					"imageUrl": "https://cdn15.mei.com/product/PSL-208-173D14/68f544ecdef9b9b1e56b981b81c4031cfdb8dbced4040366d728fbd1f9589d7a.jpg@300w_400h_2e_75q",
+					"marketPrice": "4200",
+					"itemPriceDto": {
+						"price": "1679",
+						"discount": "4.0",
+						"begin": "1578224871",
+						"end": "1583546400"
+					},
+					"tNewProduct": 2
+				},
+				{
+					"productId": "2184218499000004507",
+					"productName": "PORTS INTERNATIONAL灰色纯棉简约百搭男装圆领套头针织衫毛衣",
+					"brandName": "Ports international",
+					"glsCode": "PSL-215-100003-C",
+					"imageUrl": "https://cdn13.mei.com/product/PSL-215-100003-C/5d4e741cb81f1514a98d6ec7b736701046fa2b9f2dd5cba7a0c887e582f64eea.jpg@300w_400h_2e_75q",
+					"marketPrice": "2800",
+					"itemPriceDto": {
+						"price": "839",
+						"discount": "3.0",
+						"begin": "1578224871",
+						"end": "1583546400"
+					},
+					"tNewProduct": 2,
+					"productSizes": [
+						{ "id": "2085208599000021817", "size": "S", "qty": 5 },
+						{ "id": "2087208799000021956", "size": "M", "qty": 15 },
+						{ "id": "2185218599000003568", "size": "L", "qty": 9 },
+						{ "id": "2084208499000021702", "size": "XL", "qty": 1 }
+					]
+				},
+				{
+					"productId": "2120212099000160442",
+					"productName": "蓝白色100%棉翻领格纹拼接男士短袖衬衫",
+					"brandName": "PORTS",
+					"glsCode": "TS8-206-01638",
+					"imageUrl": "https://cdn15.mei.com/product/TS8-206-01640/9d54697a4b7177e5f01761ed95de2fab.jpg@300w_400h_2e_75q",
+					"marketPrice": "2200",
+					"itemPriceDto": {
+						"price": "879",
+						"discount": "4.0",
+						"begin": "1578224871",
+						"end": "1583546400"
+					},
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2120212099000160445", "size": "S", "qty": 8 },
+						{ "id": "2120212099000160444", "size": "M", "qty": 1 },
+						{ "id": "2120212099000160443", "size": "L", "qty": 12 },
+						{ "id": "2120212099000160446", "size": "XL", "qty": 5 }
+					]
+				},
+				{
+					"productId": "2120212099000160525",
+					"productName": "深蓝色圆领时尚休闲男士长袖针织衫毛衣",
+					"brandName": "PORTS 1961",
+					"glsCode": "PT9-215-00230",
+					"imageUrl": "https://cdn15.mei.com/product/PT9-215-00232/4a4c8c1a766f291821e1461c76d6d959.jpg@300w_400h_2e_75q",
+					"marketPrice": "3200",
+					"itemPriceDto": {
+						"price": "959",
+						"discount": "3.0",
+						"begin": "1578224871",
+						"end": "1583546400"
+					},
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2120212099000160528", "size": "S", "qty": 6 },
+						{ "id": "2120212099000160527", "size": "M", "qty": 9 },
+						{ "id": "2120212099000160526", "size": "L", "qty": 7 },
+						{ "id": "2120212099000160529", "size": "XL", "qty": 1 }
+					]
+				},
+				{
+					"productId": "2021202199000027722",
+					"productName": "PORTS INTERNATIONAL粉红色纯棉简约经典翻领男士长袖衬衫",
+					"brandName": "Ports international",
+					"glsCode": "PSL-2669-100001-C",
+					"imageUrl": "https://cdn15.mei.com/product/PSL-2669-100001-C/5d4e741cb81f151471878d27208b3619a82c8a8c6dd176c92943720777865428.jpg@300w_400h_2e_75q",
+					"marketPrice": "2800",
+					"itemPriceDto": {
+						"price": "609",
+						"discount": "2.2",
+						"begin": "1578224871",
+						"end": "1583546400"
+					},
+					"tNewProduct": 2,
+					"productSizes": [
+						{ "id": "2021202199000026781", "size": "41", "qty": 5 },
+						{ "id": "2014201499000049421", "size": "42", "qty": 15 },
+						{ "id": "2184218499000003556", "size": "43", "qty": 2 }
+					]
+				},
+				{
+					"productId": "2120212099000160461",
+					"productName": "绿色棉质桑蚕丝V领男士长袖针织开衫",
+					"brandName": "PORTS",
+					"glsCode": "TS8-215-00805",
+					"imageUrl": "https://cdn12.mei.com/product/TS8-215-00807/71b981326bc79536c8984ee382286ee5.jpg@300w_400h_2e_75q",
+					"marketPrice": "2800",
+					"itemPriceDto": {
+						"price": "839",
+						"discount": "3.0",
+						"begin": "1578224871",
+						"end": "1583546400"
+					},
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2120212099000160464", "size": "S", "qty": 1 },
+						{ "id": "2120212099000160463", "size": "M", "qty": 5 },
+						{ "id": "2120212099000160462", "size": "L", "qty": 10 },
+						{ "id": "2120212099000160465", "size": "XL", "qty": 6 }
+					]
+				},
+				{
+					"productId": "2120212099000160476",
+					"productName": "深蓝色羊毛桑蚕丝时尚男士短袖针织衫",
+					"brandName": "PORTS 1961",
+					"glsCode": "PT9-215-00220",
+					"imageUrl": "https://cdn12.mei.com/product/PT9-215-00222/4a4c8c1a766f291854b83fbb9c8056d6.jpg@300w_400h_2e_75q",
+					"marketPrice": "3200",
+					"itemPriceDto": {
+						"price": "689",
+						"discount": "2.2",
+						"begin": "1578224871",
+						"end": "1583546400"
+					},
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2120212099000160479", "size": "S", "qty": 3 },
+						{ "id": "2120212099000160478", "size": "M", "qty": 11 },
+						{ "id": "2120212099000160477", "size": "L", "qty": 7 }
+					]
+				},
+				{
+					"productId": "2185218599000004399",
+					"productName": "PORTS INTERNATIONAL黑色点状休闲百搭角扣领男士长袖POLO衫",
+					"brandName": "Ports international",
+					"glsCode": "PSL-2683-100001-C",
+					"imageUrl": "https://cdn15.mei.com/product/PSL-2683-100001-C/5d4e741cb81f151437ece9c980771c734e8b6123de8ea330fe3c804d4e4ef2fa.jpg@300w_400h_2e_75q",
+					"marketPrice": "2800",
+					"itemPriceDto": {
+						"price": "1119",
+						"discount": "4.0",
+						"begin": "1578224871",
+						"end": "1583546400"
+					},
+					"tNewProduct": 2,
+					"productSizes": [
+						{ "id": "2186218699000003473", "size": "S", "qty": 3 },
+						{ "id": "2085208599000021819", "size": "M", "qty": 15 },
+						{ "id": "2084208499000021704", "size": "L", "qty": 1 }
+					]
+				}
+			],
+			"block_status": 0,
+			"isHKBlock": 0
+		},
+		{
+			"eventId": "2041204190000007470",
+			"eventCode": "45928",
+			"siloId": "2018000100000000002",
+			"siloName": "男装",
+			"englishName": "ZEGNA GROUP",
+			"chineseName": "大牌折扣尊享",
+			"imageUrl": "https://cdn15.mei.com/category/20191218/5d4e741cb81f15140abb55a98fd7657978124244265805bc.jpg",
+			"discount": "1.4折",
+			"spm_b": "13807869",
+			"isBazzer": "1",
+			"isCrossBorder": "0",
+			"isSeasonNew": "0",
+			"isOverseasend": "0",
+			"isMobile": "0",
+			"isFullprice": "0",
+			"isDisplayBrand": "1",
+			"totalCount": 77,
+			"products": [
+				{
+					"productId": "2084208499000006302",
+					"productName": "Z Zegna 款灰色细格纹平驳领长袖混羊毛时尚休闲西服外套",
+					"brandName": "Z Zegna",
+					"glsCode": "ZD8-244-00143-C",
+					"imageUrl": "https://cdn14.mei.com/product/ZD8-244-00143-C/56040d33bf927ea084ca66e2925ebe65604c8404549d27fe.jpg@300w_400h_2e_75q",
+					"marketPrice": "10300",
+					"itemPriceDto": {
+						"price": "2199",
+						"discount": "2.2",
+						"begin": "1578224871",
+						"end": "1585616400"
+					},
+					"tagListDto": [
+						{
+							"tag": "新年价",
+							"isHasExpiration": "1",
+							"beginDate": "1578240000",
+							"endDate": "1578672000",
+							"fontColor": "FFFFFF",
+							"fontBackgroudColor": "DD2828",
+							"frameColor": "DD2828",
+							"isRadius": 0,
+							"isGradient": 0
+						},
+						{
+							"tag": "买手推荐",
+							"isHasExpiration": "0",
+							"fontColor": "000000",
+							"fontBackgroudColor": "FFFFFF",
+							"frameColor": "000000",
+							"isRadius": 0,
+							"isGradient": 0
+						}
+					],
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2015201599000002595", "size": "48", "qty": 10 },
+						{ "id": "2015201599000002596", "size": "50", "qty": 2 },
+						{ "id": "2015201599000002597", "size": "52", "qty": 4 }
+					]
+				},
+				{
+					"productId": "2016201699000054657",
+					"productName": "Z Zegna/杰尼亚 男士混羊毛格纹平驳领长袖西装外套",
+					"brandName": "Z Zegna",
+					"glsCode": "ZD8-244-00140-C",
+					"imageUrl": "https://cdn12.mei.com/product/ZD8-244-00140-C/56040d33bf927ea0163ad3893bab1b8e5d99cadffa629e6c.jpg@300w_400h_2e_75q",
+					"marketPrice": "10300",
+					"itemPriceDto": {
+						"price": "2299",
+						"discount": "2.3",
+						"begin": "1578224871",
+						"end": "1585616400"
+					},
+					"tagListDto": [
+						{
+							"tag": "新年价",
+							"isHasExpiration": "1",
+							"beginDate": "1578240000",
+							"endDate": "1578672000",
+							"fontColor": "FFFFFF",
+							"fontBackgroudColor": "DD2828",
+							"frameColor": "DD2828",
+							"isRadius": 0,
+							"isGradient": 0
+						},
+						{
+							"tag": "买手推荐",
+							"isHasExpiration": "0",
+							"fontColor": "000000",
+							"fontBackgroudColor": "FFFFFF",
+							"frameColor": "000000",
+							"isRadius": 0,
+							"isGradient": 0
+						}
+					],
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2040204099000636425", "size": "46", "qty": 5 },
+						{ "id": "2040204099000636349", "size": "48", "qty": 9 },
+						{ "id": "2040204099000636360", "size": "50", "qty": 4 }
+					]
+				},
+				{
+					"productId": "2086208699000006259",
+					"productName": "Z Zegna/杰尼亚 男士藏蓝色格纹桑蚕丝混羊毛翻领长袖外套",
+					"brandName": "Z Zegna",
+					"glsCode": "ZD8-244-00142-C",
+					"imageUrl": "https://cdn13.mei.com/product/ZD8-244-00142-C/56040d33bf927ea00a3b2248da6630d05d99cadffa629e6c.jpg@300w_400h_2e_75q",
+					"marketPrice": "10300",
+					"itemPriceDto": {
+						"price": "2299",
+						"discount": "2.3",
+						"begin": "1578224871",
+						"end": "1585616400"
+					},
+					"tagListDto": [
+						{
+							"tag": "新年价",
+							"isHasExpiration": "1",
+							"beginDate": "1578240000",
+							"endDate": "1578672000",
+							"fontColor": "FFFFFF",
+							"fontBackgroudColor": "DD2828",
+							"frameColor": "DD2828",
+							"isRadius": 0,
+							"isGradient": 0
+						},
+						{
+							"tag": "买手推荐",
+							"isHasExpiration": "0",
+							"fontColor": "000000",
+							"fontBackgroudColor": "FFFFFF",
+							"frameColor": "000000",
+							"isRadius": 0,
+							"isGradient": 0
+						}
+					],
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2040204099000636154", "size": "48", "qty": 3 },
+						{ "id": "2040204099000636426", "size": "52", "qty": 3 }
+					]
+				},
+				{
+					"productId": "2022202299000012703",
+					"productName": "男士菱格纹拼接多袋饰可隐藏连帽领长袖外套多色",
+					"brandName": "Z Zegna",
+					"glsCode": "ZD8-244-00133-C",
+					"imageUrl": "https://cdn13.mei.com/product/ZD8-244-00133-C/bcc00836c81877e746c626580c2afdaae29331d72125eae4.jpg@300w_400h_2e_75q",
+					"marketPrice": "9700",
+					"itemPriceDto": {
+						"price": "1999",
+						"discount": "2.1",
+						"begin": "1578224871",
+						"end": "1585616400"
+					},
+					"tagListDto": [
+						{
+							"tag": "新年价",
+							"isHasExpiration": "1",
+							"beginDate": "1578240000",
+							"endDate": "1578672000",
+							"fontColor": "FFFFFF",
+							"fontBackgroudColor": "DD2828",
+							"frameColor": "DD2828",
+							"isRadius": 0,
+							"isGradient": 0
+						},
+						{
+							"tag": "买手推荐",
+							"isHasExpiration": "0",
+							"fontColor": "000000",
+							"fontBackgroudColor": "FFFFFF",
+							"frameColor": "000000",
+							"isRadius": 0,
+							"isGradient": 0
+						}
+					],
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2015201599000002583", "size": "M", "qty": 3 }
+					]
+				},
+				{
+					"productId": "2017201799000007473",
+					"productName": "Z ZEGNA/杰尼亚 2019春夏蓝色全棉LOGO字母男士休闲长袖连帽外套",
+					"brandName": "Zegna",
+					"glsCode": "ZG2-238-00006-C",
+					"imageUrl": "https://cdn15.mei.com/product/ZG2-238-00006-C/56040d33bf927ea0f21525f36c9e2058fabf0b6b8053f962.jpg@300w_400h_2e_75q",
+					"marketPrice": "9500",
+					"itemPriceDto": {
+						"price": "4699",
+						"discount": "5.0",
+						"begin": "1578224871",
+						"end": "1585616400"
+					},
+					"tagListDto": [
+						{
+							"tag": "当季新品",
+							"isHasExpiration": "0",
+							"fontColor": "FFFFFF",
+							"fontBackgroudColor": "DD2828",
+							"frameColor": "DD2828",
+							"isRadius": 0,
+							"isGradient": 0
+						},
+						{
+							"tag": "仅剩一件",
+							"isHasExpiration": "0",
+							"fontColor": "000000",
+							"fontBackgroudColor": "FFFFFF",
+							"frameColor": "000000",
+							"isRadius": 0,
+							"isGradient": 0
+						}
+					],
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2085208599000002985", "size": "L", "qty": 1 }
+					]
+				},
+				{
+					"productId": "2086208699000003317",
+					"productName": "Z Zegna 2018秋冬款男士黑色羊皮插袋设计立领长袖时尚潮流皮外套",
+					"brandName": "Z Zegna",
+					"glsCode": "ZD8-244-00125-C",
+					"imageUrl": "https://cdn15.mei.com/product/ZD8-244-00125-C/56040d33bf927ea0f381d93c2bcc1e82c693e3e5f89ae71a.jpg@300w_400h_2e_75q",
+					"marketPrice": "11900",
+					"itemPriceDto": {
+						"price": "6999",
+						"discount": "5.9",
+						"begin": "1578224871",
+						"end": "1585616400"
+					},
+					"tagListDto": [
+						{
+							"tag": "当季新品",
+							"isHasExpiration": "0",
+							"fontColor": "FFFFFF",
+							"fontBackgroudColor": "DD2828",
+							"frameColor": "DD2828",
+							"isRadius": 0,
+							"isGradient": 0
+						},
+						{
+							"tag": "仅剩一件",
+							"isHasExpiration": "0",
+							"fontColor": "000000",
+							"fontBackgroudColor": "FFFFFF",
+							"frameColor": "000000",
+							"isRadius": 0,
+							"isGradient": 0
+						}
+					],
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2040204099000633887", "size": "L", "qty": 1 }
+					]
+				},
+				{
+					"productId": "2022202299000012704",
+					"productName": "男士菱格纹拼接多袋饰可隐藏连帽领长袖外套多色",
+					"brandName": "Z Zegna",
+					"glsCode": "ZD8-244-00134-C",
+					"imageUrl": "https://cdn13.mei.com/product/ZD8-244-00134-C/bcc00836c81877e7066bfe20172b2059e29331d72125eae4.jpg@300w_400h_2e_75q",
+					"marketPrice": "9700",
+					"itemPriceDto": {
+						"price": "2399",
+						"discount": "2.5",
+						"begin": "1578224871",
+						"end": "1585616400"
+					},
+					"tagListDto": [
+						{
+							"tag": "新年价",
+							"isHasExpiration": "1",
+							"beginDate": "1578240000",
+							"endDate": "1578672000",
+							"fontColor": "FFFFFF",
+							"fontBackgroudColor": "DD2828",
+							"frameColor": "DD2828",
+							"isRadius": 0,
+							"isGradient": 0
+						}
+					],
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2015201599000002577", "size": "S", "qty": 4 },
+						{ "id": "2015201599000002578", "size": "M", "qty": 12 }
+					]
+				},
+				{
+					"productId": "2040204099000667824",
+					"productName": "深蓝色圆领长袖针织套头衫",
+					"brandName": "Z Zegna",
+					"glsCode": "ZD8-215-00126-C",
+					"imageUrl": "https://cdn13.mei.com/product/ZD8-215-00126-C/353646103aa4c5c3edf682fa4d2f870ce29331d72125eae4.jpg@300w_400h_2e_75q",
+					"marketPrice": "6500",
+					"itemPriceDto": {
+						"price": "1499",
+						"discount": "2.4",
+						"begin": "1578224871",
+						"end": "1585616400"
+					},
+					"tagListDto": [
+						{
+							"tag": "新年价",
+							"isHasExpiration": "1",
+							"beginDate": "1578240000",
+							"endDate": "1578672000",
+							"fontColor": "FFFFFF",
+							"fontBackgroudColor": "DD2828",
+							"frameColor": "DD2828",
+							"isRadius": 0,
+							"isGradient": 0
+						}
+					],
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2018201899000035623", "size": "M", "qty": 6 },
+						{ "id": "2018201899000035624", "size": "L", "qty": 2 }
+					]
+				},
+				{
+					"productId": "2086208699000004521",
+					"productName": "Z Zegna/杰尼亚 2018秋冬新款多色男士多袋装饰时尚立领长袖外套",
+					"brandName": "Z Zegna",
+					"glsCode": "ZD8-244-00136-C",
+					"imageUrl": "https://cdn13.mei.com/product/ZD8-244-00136-C/bcc00836c81877e707a8435ad72c7971e29331d72125eae4.jpg@300w_400h_2e_75q",
+					"marketPrice": "9700",
+					"itemPriceDto": {
+						"price": "2199",
+						"discount": "2.3",
+						"begin": "1578224871",
+						"end": "1585616400"
+					},
+					"tagListDto": [
+						{
+							"tag": "新年价",
+							"isHasExpiration": "1",
+							"beginDate": "1578240000",
+							"endDate": "1578672000",
+							"fontColor": "FFFFFF",
+							"fontBackgroudColor": "DD2828",
+							"frameColor": "DD2828",
+							"isRadius": 0,
+							"isGradient": 0
+						}
+					],
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2040204099000636364", "size": "L", "qty": 4 }
+					]
+				}
+			],
+			"block_status": 0,
+			"isHKBlock": 0
+		},
+		{
+			"eventId": "2042204290000007249",
+			"eventCode": "45932",
+			"siloId": "2018000100000000002",
+			"siloName": "男装",
+			"englishName": "ALEXANDER MCQUEEN",
+			"chineseName": "生活自由的技术",
+			"imageUrl": "https://cdn13.mei.com/category/20191219/38e13dee801da73d4cf0bce645c9b7cfd4fa53a986efd91b.jpg",
+			"discount": "2.9折",
+			"spm_b": "13808061",
+			"isBazzer": "0",
+			"isCrossBorder": "0",
+			"isSeasonNew": "0",
+			"isOverseasend": "0",
+			"isMobile": "0",
+			"isFullprice": "0",
+			"isDisplayBrand": "1",
+			"totalCount": 156,
+			"products": [
+				{
+					"productId": "2020202099000006559",
+					"productName": "ALEXANDER MCQUEEN/麦昆 18秋冬款男士多色牛皮厚底运动休闲板鞋",
+					"brandName": "ALEXANDER MCQUEEN",
+					"glsCode": "A1N-438-00126-C",
+					"imageUrl": "https://cdn12.mei.com/product/A1N-438-00126-C/ce43b9229cb95bb3edf682fa4d2f870ce29331d72125eae4.jpg@300w_400h_2e_75q",
+					"marketPrice": "3950",
+					"itemPriceDto": {
+						"price": "2499",
+						"discount": "6.4",
+						"begin": "1578224871",
+						"end": "1578240000"
+					},
+					"tagListDto": [
+						{
+							"tag": "新年价",
+							"isHasExpiration": "1",
+							"beginDate": "1578240000",
+							"endDate": "1578672000",
+							"fontColor": "FFFFFF",
+							"fontBackgroudColor": "DD2828",
+							"frameColor": "DD2828",
+							"isRadius": 0,
+							"isGradient": 0
+						},
+						{
+							"tag": "买手推荐",
+							"isHasExpiration": "0",
+							"fontColor": "000000",
+							"fontBackgroudColor": "FFFFFF",
+							"frameColor": "000000",
+							"isRadius": 0,
+							"isGradient": 0
+						}
+					],
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2019201999000006417", "size": "39", "qty": 1 },
+						{ "id": "2018201899000036064", "size": "40", "qty": 28 },
+						{ "id": "2020202099000004553", "size": "41", "qty": 34 },
+						{ "id": "2087208799000001769", "size": "42", "qty": 31 },
+						{ "id": "2087208799000001770", "size": "45", "qty": 2 }
+					]
+				},
+				{
+					"productId": "2087208799000004623",
+					"productName": "白色金尾牛皮男士休闲鞋厚底运动鞋",
+					"brandName": "ALEXANDER MCQUEEN",
+					"glsCode": "A1N-438-00138-C",
+					"imageUrl": "https://cdn15.mei.com/product/A1N-438-00138-C/ce43b9229cb95bb376e39eeb59a51a04e29331d72125eae4.jpg@300w_400h_2e_75q",
+					"marketPrice": "4200",
+					"itemPriceDto": {
+						"price": "2499",
+						"discount": "6.0",
+						"begin": "1578224871",
+						"end": "1578240000"
+					},
+					"tagListDto": [
+						{
+							"tag": "新年价",
+							"isHasExpiration": "1",
+							"beginDate": "1578240000",
+							"endDate": "1578672000",
+							"fontColor": "FFFFFF",
+							"fontBackgroudColor": "DD2828",
+							"frameColor": "DD2828",
+							"isRadius": 0,
+							"isGradient": 0
+						},
+						{
+							"tag": "买手推荐",
+							"isHasExpiration": "0",
+							"fontColor": "000000",
+							"fontBackgroudColor": "FFFFFF",
+							"frameColor": "000000",
+							"isRadius": 0,
+							"isGradient": 0
+						}
+					],
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2087208799000002947", "size": "40", "qty": 17 },
+						{ "id": "2086208699000002938", "size": "41", "qty": 23 },
+						{ "id": "2017201799000006940", "size": "42", "qty": 22 },
+						{ "id": "2014201499000030240", "size": "43", "qty": 5 }
+					]
+				},
+				{
+					"productId": "2019201999000010583",
+					"productName": "Alexander McQueen/麦昆 19春夏白色牛皮男士厚底运动鞋休闲鞋",
+					"brandName": "ALEXANDER MCQUEEN",
+					"glsCode": "A1N-438-00147-C",
+					"imageUrl": "https://cdn13.mei.com/product/A1N-438-00147-C/ce43b9229cb95bb3759c468031a65c8ce29331d72125eae4.jpg@300w_400h_2e_75q",
+					"marketPrice": "4200",
+					"itemPriceDto": {
+						"price": "2499",
+						"discount": "6.0",
+						"begin": "1578224871",
+						"end": "1578240000"
+					},
+					"tagListDto": [
+						{
+							"tag": "新年价",
+							"isHasExpiration": "1",
+							"beginDate": "1578240000",
+							"endDate": "1578672000",
+							"fontColor": "FFFFFF",
+							"fontBackgroudColor": "DD2828",
+							"frameColor": "DD2828",
+							"isRadius": 0,
+							"isGradient": 0
+						},
+						{
+							"tag": "买手推荐",
+							"isHasExpiration": "0",
+							"fontColor": "000000",
+							"fontBackgroudColor": "FFFFFF",
+							"frameColor": "000000",
+							"isRadius": 0,
+							"isGradient": 0
+						}
+					],
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2021202199000008361", "size": "39", "qty": 3 },
+						{ "id": "2017201799000006939", "size": "40", "qty": 15 },
+						{ "id": "2021202199000008362", "size": "41", "qty": 17 },
+						{ "id": "2014201499000030885", "size": "42", "qty": 13 },
+						{ "id": "2018201899000038926", "size": "43", "qty": 6 }
+					]
+				},
+				{
+					"productId": "2086208699000002933",
+					"productName": "Alexander McQueen/麦昆 19春夏多色羊毛混桑蚕丝骷髅头男士围巾",
+					"brandName": "ALEXANDER MCQUEEN",
+					"glsCode": "A1N-453-D9858",
+					"imageUrl": "https://cdn12.mei.com/product/A1N-453-D9858/39da0d24d8aaaedb953e062e48c99cea.jpg@300w_400h_2e_75q",
+					"marketPrice": "1500",
+					"itemPriceDto": {
+						"price": "699",
+						"discount": "4.7",
+						"begin": "1578224871",
+						"end": "1585616400"
+					},
+					"tagListDto": [
+						{
+							"tag": "新年价",
+							"isHasExpiration": "1",
+							"beginDate": "1578240000",
+							"endDate": "1578672000",
+							"fontColor": "FFFFFF",
+							"fontBackgroudColor": "DD2828",
+							"frameColor": "DD2828",
+							"isRadius": 0,
+							"isGradient": 0
+						},
+						{
+							"tag": "买手推荐",
+							"isHasExpiration": "0",
+							"fontColor": "000000",
+							"fontBackgroudColor": "FFFFFF",
+							"frameColor": "000000",
+							"isRadius": 0,
+							"isGradient": 0
+						}
+					],
+					"tNewProduct": 0
+				},
+				{
+					"productId": "2020202099000006765",
+					"productName": "Alexander McQueen/麦昆 18秋冬黑色混桑蚕丝刺绣饰男士棒球外套",
+					"brandName": "ALEXANDER MCQUEEN",
+					"glsCode": "A1N-202-00002-C",
+					"imageUrl": "https://cdn14.mei.com/product/A1N-202-00002-C/17a8fa76eb79d8cfe7f20896b2be5d74e29331d72125eae4.jpg@300w_400h_2e_75q",
+					"marketPrice": "21680",
+					"itemPriceDto": {
+						"price": "10499",
+						"discount": "4.9",
+						"begin": "1578224871",
+						"end": "1585616400"
+					},
+					"tagListDto": [
+						{
+							"tag": "新年价",
+							"isHasExpiration": "1",
+							"beginDate": "1578240000",
+							"endDate": "1578672000",
+							"fontColor": "FFFFFF",
+							"fontBackgroudColor": "DD2828",
+							"frameColor": "DD2828",
+							"isRadius": 0,
+							"isGradient": 0
+						},
+						{
+							"tag": "买手推荐",
+							"isHasExpiration": "0",
+							"fontColor": "000000",
+							"fontBackgroudColor": "FFFFFF",
+							"frameColor": "000000",
+							"isRadius": 0,
+							"isGradient": 0
+						}
+					],
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2020202099000004648", "size": "46", "qty": 4 },
+						{ "id": "2014201499000029282", "size": "48", "qty": 5 },
+						{ "id": "2020202099000004649", "size": "50", "qty": 4 },
+						{ "id": "2022202299000010146", "size": "52", "qty": 1 }
+					]
+				},
+				{
+					"productId": "2041204199000821581",
+					"productName": "黑色骷髅头字母刺绣圆领长袖男士卫衣",
+					"brandName": "ALEXANDER MCQUEEN",
+					"glsCode": "AYH-213-00002",
+					"imageUrl": "https://cdn12.mei.com/product/A1N-213-E1466/9db03ac0bd0562cb7abb000da6ff9dec.jpg@300w_400h_2e_75q",
+					"marketPrice": "6299",
+					"itemPriceDto": {
+						"price": "2799",
+						"discount": "4.5",
+						"begin": "1578224871",
+						"end": "1578240000"
+					},
+					"tagListDto": [
+						{
+							"tag": "新年价",
+							"isHasExpiration": "1",
+							"beginDate": "1578240000",
+							"endDate": "1578672000",
+							"fontColor": "FFFFFF",
+							"fontBackgroudColor": "DD2828",
+							"frameColor": "DD2828",
+							"isRadius": 0,
+							"isGradient": 0
+						},
+						{
+							"tag": "买手推荐",
+							"isHasExpiration": "0",
+							"fontColor": "000000",
+							"fontBackgroudColor": "FFFFFF",
+							"frameColor": "000000",
+							"isRadius": 0,
+							"isGradient": 0
+						}
+					],
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2014201499000030302", "size": "XS", "qty": 1 },
+						{ "id": "2016201699000051224", "size": "S", "qty": 3 },
+						{ "id": "2016201699000051226", "size": "M", "qty": 3 },
+						{ "id": "2087208799000003028", "size": "L", "qty": 3 },
+						{ "id": "2019201999000008718", "size": "XL", "qty": 1 }
+					]
+				},
+				{
+					"productId": "2084208499000004482",
+					"productName": "Alexander McQueen/麦昆 19春夏黑色骷髅刺绣口袋拉链男士休闲裤",
+					"brandName": "ALEXANDER MCQUEEN",
+					"glsCode": "A1N-203-00001-C",
+					"imageUrl": "https://cdn15.mei.com/product/A1N-203-00001-C/084e9fe7b72912119ed348349b3f60e2e29331d72125eae4.jpg@300w_400h_2e_75q",
+					"marketPrice": "6499",
+					"itemPriceDto": {
+						"price": "3099",
+						"discount": "4.8",
+						"begin": "1578224871",
+						"end": "1578240000"
+					},
+					"tagListDto": [
+						{
+							"tag": "新年价",
+							"isHasExpiration": "1",
+							"beginDate": "1578240000",
+							"endDate": "1578672000",
+							"fontColor": "FFFFFF",
+							"fontBackgroudColor": "DD2828",
+							"frameColor": "DD2828",
+							"isRadius": 0,
+							"isGradient": 0
+						},
+						{
+							"tag": "买手推荐",
+							"isHasExpiration": "0",
+							"fontColor": "000000",
+							"fontBackgroudColor": "FFFFFF",
+							"frameColor": "000000",
+							"isRadius": 0,
+							"isGradient": 0
+						}
+					],
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2086208699000003006", "size": "XS", "qty": 1 },
+						{ "id": "2017201799000006352", "size": "S", "qty": 2 },
+						{ "id": "2014201499000030305", "size": "M", "qty": 3 },
+						{ "id": "2019201999000008720", "size": "L", "qty": 2 },
+						{ "id": "2022202299000011159", "size": "XL", "qty": 1 }
+					]
+				},
+				{
+					"productId": "2021202199000009825",
+					"productName": "黑色撞色条纹男士系带休闲裤运动裤",
+					"brandName": "ALEXANDER MCQUEEN",
+					"glsCode": "A1N-203-00004-C",
+					"imageUrl": "https://cdn14.mei.com/product/A1N-203-E1480/084e9fe7b7291211b227ddc9d8ed1f89.jpg@300w_400h_2e_75q",
+					"marketPrice": "8499",
+					"itemPriceDto": {
+						"price": "3999",
+						"discount": "4.8",
+						"begin": "1578224871",
+						"end": "1578240000"
+					},
+					"tagListDto": [
+						{
+							"tag": "新年价",
+							"isHasExpiration": "1",
+							"beginDate": "1578240000",
+							"endDate": "1578672000",
+							"fontColor": "FFFFFF",
+							"fontBackgroudColor": "DD2828",
+							"frameColor": "DD2828",
+							"isRadius": 0,
+							"isGradient": 0
+						},
+						{
+							"tag": "买手推荐",
+							"isHasExpiration": "0",
+							"fontColor": "000000",
+							"fontBackgroudColor": "FFFFFF",
+							"frameColor": "000000",
+							"isRadius": 0,
+							"isGradient": 0
+						}
+					],
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2020202099000005796", "size": "S", "qty": 2 },
+						{ "id": "2020202099000005797", "size": "M", "qty": 2 },
+						{ "id": "2016201699000051228", "size": "L", "qty": 2 }
+					]
+				},
+				{
+					"productId": "2040204099000724558",
+					"productName": "Alexander McQueen/麦昆 2019春夏黑色全棉骷髅头印花男士短袖T恤",
+					"brandName": "ALEXANDER MCQUEEN",
+					"glsCode": "AYH-209-00008",
+					"imageUrl": "https://cdn14.mei.com/product/AYH-209-00008/cfeef6907e446f453f5e8227aefde768.jpg@300w_400h_2e_75q",
+					"marketPrice": "3399",
+					"itemPriceDto": {
+						"price": "1299",
+						"discount": "3.9",
+						"begin": "1578224871",
+						"end": "1585616400"
+					},
+					"tagListDto": [
+						{
+							"tag": "当季新品",
+							"isHasExpiration": "0",
+							"fontColor": "FFFFFF",
+							"fontBackgroudColor": "DD2828",
+							"frameColor": "DD2828",
+							"isRadius": 0,
+							"isGradient": 0
+						}
+					],
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2087208799000003015", "size": "XS", "qty": 2 },
+						{ "id": "2021202199000007748", "size": "S", "qty": 13 },
+						{ "id": "2015201599000005362", "size": "M", "qty": 18 },
+						{ "id": "2015201599000005363", "size": "L", "qty": 12 },
+						{ "id": "2021202199000007750", "size": "XL", "qty": 1 }
+					]
+				}
+			],
+			"block_status": 0,
+			"isHKBlock": 0
+		},
+		{
+			"eventId": "2040204090000007530",
+			"eventCode": "45170",
+			"siloId": "2018000100000000002",
+			"siloName": "男装",
+			"englishName": "VERSACE COLLECTION",
+			"chineseName": "都市自然风 大牌男装",
+			"imageUrl": "https://cdn14.mei.com/category/20191028/66040a9e624da021d0794d4affe2d87e071407a2f321be85.jpg",
+			"discount": "6.2折",
+			"isBazzer": "0",
+			"isCrossBorder": "0",
+			"isSeasonNew": "0",
+			"isOverseasend": "0",
+			"isMobile": "0",
+			"isFullprice": "0",
+			"isDisplayBrand": "1",
+			"totalCount": 67,
+			"products": [
+				{
+					"productId": "2085208599000019081",
+					"productName": "VERSACE COLLECTION多色LOGO字母印花棉质圆领长袖百搭男士卫衣",
+					"brandName": "VERSACE COLLECTION",
+					"glsCode": "VC3-213-100028-C",
+					"imageUrl": "https://cdn13.mei.com/product/VC3-213-100028-C/40e5b1ce2869db42a0b8da11a578b51b316dccb9f7312bff1f2e5f181cc14a55.jpg@300w_400h_2e_75q",
+					"marketPrice": "2600",
+					"itemPriceDto": {
+						"price": "1599",
+						"discount": "6.2",
+						"begin": "1578224871",
+						"end": "1582938000"
+					},
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2019201999000021107", "size": "S", "qty": 2 },
+						{ "id": "2085208599000015336", "size": "M", "qty": 3 },
+						{ "id": "2087208799000015499", "size": "L", "qty": 3 },
+						{ "id": "2015201599000017955", "size": "XL", "qty": 1 }
+					]
+				},
+				{
+					"productId": "2085208599000019082",
+					"productName": "VERSACE COLLECTION多色LOGO字母印花棉质圆领长袖百搭男士卫衣",
+					"brandName": "VERSACE COLLECTION",
+					"glsCode": "VC3-213-100029-C",
+					"imageUrl": "https://cdn15.mei.com/product/VC3-213-100029-C/40e5b1ce2869db42157643d454b0c07c316dccb9f7312bff1f2e5f181cc14a55.jpg@300w_400h_2e_75q",
+					"marketPrice": "2600",
+					"itemPriceDto": {
+						"price": "1599",
+						"discount": "6.2",
+						"begin": "1578224871",
+						"end": "1582938000"
+					},
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2017201799000018979", "size": "S", "qty": 2 },
+						{ "id": "2015201599000017956", "size": "M", "qty": 3 },
+						{ "id": "2084208499000015347", "size": "L", "qty": 3 },
+						{ "id": "2085208599000015337", "size": "XL", "qty": 1 }
+					]
+				},
+				{
+					"productId": "2184218499000000684",
+					"productName": "VERSACE COLLECTION多色印花圆领棉质长袖休闲时尚百搭男士卫衣",
+					"brandName": "VERSACE COLLECTION",
+					"glsCode": "VC3-213-100030-C",
+					"imageUrl": "https://cdn15.mei.com/product/VC3-213-100030-C/40e5b1ce2869db42663a93989f431b85bc7a3f24d6ad746bb9660d389c7ad5e0.jpg@300w_400h_2e_75q",
+					"marketPrice": "2600",
+					"itemPriceDto": {
+						"price": "1599",
+						"discount": "6.2",
+						"begin": "1578224871",
+						"end": "1582938000"
+					},
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2084208499000015348", "size": "S", "qty": 1 },
+						{ "id": "2084208499000015346", "size": "M", "qty": 4 },
+						{ "id": "2016201699000063913", "size": "L", "qty": 4 },
+						{ "id": "2021202199000020214", "size": "XL", "qty": 3 },
+						{ "id": "2019201999000021108", "size": "XXL", "qty": 1 }
+					]
+				},
+				{
+					"productId": "2014201499000046716",
+					"productName": "VERSACE COLLECTION白色石纹回形图案印花时尚休闲男士长袖衬衫",
+					"brandName": "VERSACE COLLECTION",
+					"glsCode": "VC3-2669-100002-C",
+					"imageUrl": "https://cdn12.mei.com/product/VC3-2669-100002-C/40e5b1ce2869db4244a17ab7083dcf37ad65bdb0a4386846b23e53d371d20a5b.jpg@300w_400h_2e_75q",
+					"marketPrice": "3400",
+					"itemPriceDto": {
+						"price": "2099",
+						"discount": "6.2",
+						"begin": "1578224871",
+						"end": "1582938000"
+					},
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2087208799000015484", "size": "40", "qty": 3 },
+						{ "id": "2086208699000014986", "size": "41", "qty": 5 },
+						{ "id": "2085208599000015323", "size": "42", "qty": 4 }
+					]
+				},
+				{
+					"productId": "2014201499000046708",
+					"productName": "VERSACE COLLECTION多色徽标印花棉质连帽休闲百搭男士外套",
+					"brandName": "VERSACE COLLECTION",
+					"glsCode": "VC3-213-100024-C",
+					"imageUrl": "https://cdn13.mei.com/product/VC3-213-100024-C/40e5b1ce2869db4201888a5bd00930f616adab1ad5a7026c645d44f9b5a234a2.jpg@300w_400h_2e_75q",
+					"marketPrice": "4800",
+					"itemPriceDto": {
+						"price": "2999",
+						"discount": "6.3",
+						"begin": "1578224871",
+						"end": "1582938000"
+					},
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2019201999000021103", "size": "S", "qty": 1 },
+						{ "id": "2019201999000021104", "size": "M", "qty": 2 },
+						{ "id": "2087208799000015495", "size": "L", "qty": 1 },
+						{ "id": "2014201499000042923", "size": "XL", "qty": 1 }
+					]
+				},
+				{
+					"productId": "2014201499000046709",
+					"productName": "VERSACE COLLECTION多色徽标印花棉质连帽休闲百搭男士外套",
+					"brandName": "VERSACE COLLECTION",
+					"glsCode": "VC3-213-100025-C",
+					"imageUrl": "https://cdn14.mei.com/product/VC3-213-100025-C/40e5b1ce2869db42c59fa18fd35d91a87ad3d1315cd1f607645d44f9b5a234a2.jpg@300w_400h_2e_75q",
+					"marketPrice": "4800",
+					"itemPriceDto": {
+						"price": "2999",
+						"discount": "6.3",
+						"begin": "1578224871",
+						"end": "1582938000"
+					},
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2018201899000050779", "size": "S", "qty": 1 },
+						{ "id": "2015201599000017953", "size": "M", "qty": 1 },
+						{ "id": "2086208699000014997", "size": "L", "qty": 2 }
+					]
+				},
+				{
+					"productId": "2014201499000046710",
+					"productName": "VERSACE COLLECTION多色徽标印花棉质连帽休闲百搭男士外套",
+					"brandName": "VERSACE COLLECTION",
+					"glsCode": "VC3-213-100026-C",
+					"imageUrl": "https://cdn14.mei.com/product/VC3-213-100026-C/40e5b1ce2869db42846a941aafa3415f5a8cd5a31a65cc7d645d44f9b5a234a2.jpg@300w_400h_2e_75q",
+					"marketPrice": "4800",
+					"itemPriceDto": {
+						"price": "2999",
+						"discount": "6.3",
+						"begin": "1578224871",
+						"end": "1582938000"
+					},
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2016201699000063909", "size": "S", "qty": 1 },
+						{ "id": "2016201699000063908", "size": "M", "qty": 2 },
+						{ "id": "2086208699000014996", "size": "L", "qty": 2 },
+						{ "id": "2022202299000023466", "size": "XL", "qty": 1 }
+					]
+				},
+				{
+					"productId": "2084208499000019127",
+					"productName": "VERSACE COLLECTION多色棉质圆领刺绣时尚休闲舒适男士长袖上衣",
+					"brandName": "VERSACE COLLECTION",
+					"glsCode": "VC3-2682-100006-C",
+					"imageUrl": "https://cdn13.mei.com/product/VC3-2682-100006-C/40e5b1ce2869db42cefb5479af1cbea031954eaba9f3cd4483bfffe0671a1525.jpg@300w_400h_2e_75q",
+					"marketPrice": "900",
+					"itemPriceDto": {
+						"price": "559",
+						"discount": "6.3",
+						"begin": "1578224871",
+						"end": "1582938000"
+					},
+					"tagListDto": [
+						{
+							"tag": "仅剩一件",
+							"isHasExpiration": "0",
+							"fontColor": "000000",
+							"fontBackgroudColor": "FFFFFF",
+							"frameColor": "000000",
+							"isRadius": 0,
+							"isGradient": 0
+						}
+					],
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2020202099000018363", "size": "XL", "qty": 1 }
+					]
+				},
+				{
+					"productId": "2084208499000019129",
+					"productName": "VERSACE COLLECTION多色棉质圆领刺绣时尚休闲舒适男士长袖上衣",
+					"brandName": "VERSACE COLLECTION",
+					"glsCode": "VC3-2682-100008-C",
+					"imageUrl": "https://cdn13.mei.com/product/VC3-2682-100008-C/40e5b1ce2869db422858c07ce2b6bd48a0ba65c565c6533183bfffe0671a1525.jpg@300w_400h_2e_75q",
+					"marketPrice": "900",
+					"itemPriceDto": {
+						"price": "559",
+						"discount": "6.3",
+						"begin": "1578224871",
+						"end": "1582938000"
+					},
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2015201599000017950", "size": "S", "qty": 6 },
+						{ "id": "2018201899000050777", "size": "M", "qty": 14 },
+						{ "id": "2085208599000015332", "size": "L", "qty": 7 },
+						{ "id": "2084208499000015341", "size": "XL", "qty": 3 }
+					]
+				}
+			],
+			"block_status": 0,
+			"isHKBlock": 0
+		},
+		{
+			"eventId": "2042204290000006819",
+			"eventCode": "43709",
+			"siloId": "2018000100000000002",
+			"siloName": "男装",
+			"englishName": "BLACKGATEONE",
+			"chineseName": "秋冬新款男装",
+			"imageUrl": "https://cdn14.mei.com/category/20191110/1fc68f6aa0d821fc37c8ac363e58c0df1ac47f6e1a03bdfe.jpg",
+			"discount": "0.8折",
+			"spm_b": "13360551",
+			"isBazzer": "0",
+			"isCrossBorder": "0",
+			"isSeasonNew": "0",
+			"isOverseasend": "0",
+			"isMobile": "0",
+			"isFullprice": "0",
+			"isDisplayBrand": "1",
+			"totalCount": 164,
+			"products": [
+				{
+					"productId": "2040204099000648464",
+					"productName": "藏青色混羊毛绿色印花翻领长袖男士外套",
+					"brandName": "BLACKGATEONE",
+					"glsCode": "BO6-201-00081",
+					"imageUrl": "https://cdn12.mei.com/product/BO6-201-00084/accef4be45031e65acbe8e462dae1c9e.jpg@300w_400h_2e_75q",
+					"marketPrice": "3290",
+					"itemPriceDto": {
+						"price": "999",
+						"discount": "3.1",
+						"begin": "1578224871",
+						"end": "1582938000"
+					},
+					"tagListDto": [
+						{
+							"tag": "买手推荐",
+							"isHasExpiration": "0",
+							"fontColor": "000000",
+							"fontBackgroudColor": "FFFFFF",
+							"frameColor": "000000",
+							"isRadius": 0,
+							"isGradient": 0
+						}
+					],
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2040204099000648465", "size": "XS", "qty": 2 },
+						{ "id": "2040204099000648466", "size": "S", "qty": 7 },
+						{ "id": "2040204099000648467", "size": "M", "qty": 11 },
+						{ "id": "2040204099000648468", "size": "L", "qty": 7 },
+						{ "id": "2040204099000648469", "size": "XL", "qty": 4 }
+					]
+				},
+				{
+					"productId": "2041204199000314903",
+					"productName": "黑色棒球领拉链中长款外套",
+					"brandName": "BLACKGATEONE",
+					"glsCode": "BO6-202-00239",
+					"imageUrl": "https://cdn13.mei.com/product/BO6-202-00241/BO6-202-00241a.jpg@300w_400h_2e_75q",
+					"marketPrice": "3290",
+					"itemPriceDto": {
+						"price": "999",
+						"discount": "3.1",
+						"begin": "1578224871",
+						"end": "1582938000"
+					},
+					"tagListDto": [
+						{
+							"tag": "买手推荐",
+							"isHasExpiration": "0",
+							"fontColor": "000000",
+							"fontBackgroudColor": "FFFFFF",
+							"frameColor": "000000",
+							"isRadius": 0,
+							"isGradient": 0
+						}
+					],
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2040204099000648462", "size": "XS", "qty": 2 },
+						{ "id": "2041204199000314906", "size": "S", "qty": 7 },
+						{ "id": "2041204199000314905", "size": "M", "qty": 4 },
+						{ "id": "2041204199000314904", "size": "L", "qty": 4 },
+						{ "id": "2040204099000648463", "size": "XL", "qty": 3 }
+					]
+				},
+				{
+					"productId": "2041204199000314908",
+					"productName": "藏青蓝翻领长款大衣",
+					"brandName": "BLACKGATEONE",
+					"glsCode": "BO6-202-00244",
+					"imageUrl": "https://cdn13.mei.com/product/BO6-202-00246/BO6-202-00246a.jpg@300w_400h_2e_75q",
+					"marketPrice": "3290",
+					"itemPriceDto": {
+						"price": "999",
+						"discount": "3.1",
+						"begin": "1578224871",
+						"end": "1582938000"
+					},
+					"tagListDto": [
+						{
+							"tag": "买手推荐",
+							"isHasExpiration": "0",
+							"fontColor": "000000",
+							"fontBackgroudColor": "FFFFFF",
+							"frameColor": "000000",
+							"isRadius": 0,
+							"isGradient": 0
+						}
+					],
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2041204199000314911", "size": "S", "qty": 1 },
+						{ "id": "2041204199000314910", "size": "M", "qty": 5 },
+						{ "id": "2041204199000314909", "size": "L", "qty": 8 },
+						{ "id": "2041204199000314912", "size": "XL", "qty": 5 }
+					]
+				},
+				{
+					"productId": "2120212099000024387",
+					"productName": "黑色字母男士长袖外套",
+					"brandName": "BLACKGATEONE",
+					"glsCode": "BO6-202-00352",
+					"imageUrl": "https://cdn13.mei.com/product/BO6-202-00354/333c182a6119cdc0c50adb13dd22bc1b.jpg@300w_400h_2e_75q",
+					"marketPrice": "2890",
+					"itemPriceDto": {
+						"price": "1399",
+						"discount": "4.9",
+						"begin": "1578224871",
+						"end": "1582938000"
+					},
+					"tagListDto": [
+						{
+							"tag": "买手推荐",
+							"isHasExpiration": "0",
+							"fontColor": "000000",
+							"fontBackgroudColor": "FFFFFF",
+							"frameColor": "000000",
+							"isRadius": 0,
+							"isGradient": 0
+						},
+						{
+							"tag": "当季新品",
+							"isHasExpiration": "0",
+							"fontColor": "FFFFFF",
+							"fontBackgroudColor": "DD2828",
+							"frameColor": "DD2828",
+							"isRadius": 0,
+							"isGradient": 0
+						}
+					],
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2120212099000024388", "size": "S", "qty": 4 },
+						{ "id": "2120212099000024389", "size": "M", "qty": 7 },
+						{ "id": "2120212099000024390", "size": "L", "qty": 3 }
+					]
+				},
+				{
+					"productId": "2042204299000267535",
+					"productName": "酒红色修身薄棉夹克",
+					"brandName": "BLACKGATEONE",
+					"glsCode": "BO6-244-00127",
+					"imageUrl": "https://cdn13.mei.com/product/BO6-244-00129/BO6-244-00129a.jpg@300w_400h_2e_75q",
+					"marketPrice": "3690",
+					"itemPriceDto": {
+						"price": "499",
+						"discount": "1.4",
+						"begin": "1578224871",
+						"end": "1582938000"
+					},
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2042204299000267540", "size": "XS", "qty": 16 },
+						{ "id": "2042204299000267538", "size": "S", "qty": 30 },
+						{ "id": "2042204299000267537", "size": "M", "qty": 31 },
+						{ "id": "2042204299000267536", "size": "L", "qty": 32 },
+						{ "id": "2042204299000267539", "size": "XL", "qty": 17 }
+					]
+				},
+				{
+					"productId": "2040204099000513542",
+					"productName": "黑色几何提花圆领套头长袖卫衣",
+					"brandName": "BLACKGATEONE",
+					"glsCode": "BO6-213-00302",
+					"imageUrl": "https://cdn13.mei.com/product/BO6-213-00307/BO6-213-00307a.jpg@300w_400h_2e_75q",
+					"marketPrice": "2290",
+					"itemPriceDto": {
+						"price": "399",
+						"discount": "1.8",
+						"begin": "1578224871",
+						"end": "1582938000"
+					},
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2040204099000513544", "size": "XS", "qty": 3 },
+						{ "id": "2040204099000513546", "size": "S", "qty": 25 },
+						{ "id": "2040204099000513547", "size": "M", "qty": 36 },
+						{ "id": "2040204099000513548", "size": "L", "qty": 24 },
+						{ "id": "2040204099000513545", "size": "XL", "qty": 12 }
+					]
+				},
+				{
+					"productId": "2017201799000022588",
+					"productName": "blackgateone深蓝色迷彩不规则金属扣装饰连帽男士中长款羽绒服",
+					"brandName": "BLACKGATEONE",
+					"glsCode": "BO6-2656-100006-C",
+					"imageUrl": "https://cdn15.mei.com/product/BO6-2656-100006-C/40e5b1ce2869db42cdf964c0d2d3a91d26d551a402ae531a512d5b4d0e6b4ff3.jpg@300w_400h_2e_75q",
+					"marketPrice": "3290",
+					"itemPriceDto": {
+						"price": "1999",
+						"discount": "6.1",
+						"begin": "1578224871",
+						"end": "1578279600"
+					},
+					"tagListDto": [
+						{
+							"tag": "今日疯抢",
+							"isHasExpiration": "1",
+							"beginDate": "1578279600",
+							"endDate": "1578286799",
+							"fontColor": "FFFFFF",
+							"fontBackgroudColor": "DD2828",
+							"frameColor": "DD2828",
+							"isRadius": 0,
+							"isGradient": 0
+						}
+					],
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2087208799000013840", "size": "XS", "qty": 7 },
+						{ "id": "2014201499000041286", "size": "S", "qty": 20 },
+						{ "id": "2087208799000013841", "size": "M", "qty": 25 },
+						{ "id": "2018201899000049155", "size": "L", "qty": 25 },
+						{ "id": "2018201899000049156", "size": "XL", "qty": 11 }
+					]
+				},
+				{
+					"productId": "2022202299000026882",
+					"productName": "blackgateone粉色翻领设计印花装饰长袖男士衬衣短款上衣",
+					"brandName": "BLACKGATEONE",
+					"glsCode": "BO6-208-100001-C",
+					"imageUrl": "https://cdn14.mei.com/product/BO6-208-100001-C/40e5b1ce2869db428a938e4fa6fdbe98e122c64b3cc8ba9572357e80108f8c9a.jpg@300w_400h_2e_75q",
+					"marketPrice": "1490",
+					"itemPriceDto": {
+						"price": "199",
+						"discount": "1.4",
+						"begin": "1578224871",
+						"end": "1582938000"
+					},
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2087208799000013842", "size": "XS", "qty": 2 },
+						{ "id": "2022202299000021863", "size": "S", "qty": 19 },
+						{ "id": "2020202099000016742", "size": "M", "qty": 14 },
+						{ "id": "2014201499000041287", "size": "L", "qty": 20 },
+						{ "id": "2016201699000062248", "size": "XL", "qty": 21 },
+						{ "id": "2087208799000013843", "size": "XXL", "qty": 9 }
+					]
+				},
+				{
+					"productId": "2042204299000782189",
+					"productName": "黑色字母纯棉长袖男士针织上衣",
+					"brandName": "BLACKGATEONE",
+					"glsCode": "BO6-213-00634",
+					"imageUrl": "https://cdn13.mei.com/product/BO6-213-00636/ff0ce87ea027112a1d6f9592eef3c2a1.jpg@300w_400h_2e_75q",
+					"marketPrice": "990",
+					"itemPriceDto": {
+						"price": "599",
+						"discount": "6.1",
+						"begin": "1578224871",
+						"end": "1582938000"
+					},
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2042204299000782190", "size": "S", "qty": 18 },
+						{ "id": "2042204299000782191", "size": "M", "qty": 24 },
+						{ "id": "2042204299000782192", "size": "L", "qty": 24 },
+						{ "id": "2042204299000782193", "size": "XL", "qty": 11 },
+						{ "id": "2042204299000782194", "size": "XXL", "qty": 3 }
+					]
+				}
+			],
+			"block_status": 0,
+			"isHKBlock": 0
+		},
+		{
+			"eventId": "2040204090000007630",
+			"eventCode": "45680",
+			"siloId": "2018000100000000002",
+			"siloName": "男装",
+			"englishName": "ZZegna",
+			"chineseName": "男士都市时尚 品质绅士专场",
+			"imageUrl": "https://cdn15.mei.com/category/20191202/478a68917f7dd75dc7784bcf4781d1881ac47f6e1a03bdfe.jpg",
+			"discount": "4.5折",
+			"isBazzer": "1",
+			"isCrossBorder": "0",
+			"isSeasonNew": "0",
+			"isOverseasend": "0",
+			"isMobile": "0",
+			"isFullprice": "0",
+			"isDisplayBrand": "1",
+			"totalCount": 241,
+			"products": [
+				{
+					"productId": "2184218499000003569",
+					"productName": "Zzegna亮蓝色羊毛条纹装饰潮流百搭男士拉链运动外套上衣",
+					"brandName": "Z Zegna",
+					"glsCode": "ZD8-244-100008-C",
+					"imageUrl": "https://cdn14.mei.com/product/ZD8-244-100008-C/3013101ebc36f44f08a6a59dd5278809c2e1db6a8aa3cec5e04dc59750ec9ef1.jpg@300w_400h_2e_75q",
+					"marketPrice": "7100",
+					"itemPriceDto": {
+						"price": "4499",
+						"discount": "6.4",
+						"begin": "1578224872",
+						"end": "1582992000"
+					},
+					"tagListDto": [
+						{
+							"tag": "仅剩一件",
+							"isHasExpiration": "0",
+							"fontColor": "000000",
+							"fontBackgroudColor": "FFFFFF",
+							"frameColor": "000000",
+							"isRadius": 0,
+							"isGradient": 0
+						}
+					],
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2086208699000020026", "size": "L", "qty": 1 }
+					]
+				},
+				{
+					"productId": "2020202099000024901",
+					"productName": "Zzegna白色条纹百搭休闲双面连帽长袖男士运动外套",
+					"brandName": "Z Zegna",
+					"glsCode": "ZD8-2677-100001-C",
+					"imageUrl": "https://cdn15.mei.com/product/ZD8-2677-100001-C/3013101ebc36f44fd48c313fe9d8b5759af44ae25e23421fe3cece80e2caf93e.jpg@300w_400h_2e_75q",
+					"marketPrice": "3600",
+					"itemPriceDto": {
+						"price": "2299",
+						"discount": "6.4",
+						"begin": "1578224872",
+						"end": "1582992000"
+					},
+					"tagListDto": [
+						{
+							"tag": "仅剩一件",
+							"isHasExpiration": "0",
+							"fontColor": "000000",
+							"fontBackgroudColor": "FFFFFF",
+							"frameColor": "000000",
+							"isRadius": 0,
+							"isGradient": 0
+						}
+					],
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2017201799000024010", "size": "M", "qty": 1 }
+					]
+				},
+				{
+					"productId": "2022202299000029956",
+					"productName": "Zzegna灰色拼白色可隐藏连帽休闲百搭潮流男士防晒服外套",
+					"brandName": "Z Zegna",
+					"glsCode": "ZD8-244-100007-C",
+					"imageUrl": "https://cdn15.mei.com/product/ZD8-244-100007-C/3013101ebc36f44fff089b76ab13516610e9df410e5c2bccb254bf655ab1725b.jpg@300w_400h_2e_75q",
+					"marketPrice": "10100",
+					"itemPriceDto": {
+						"price": "4799",
+						"discount": "4.8",
+						"begin": "1578224872",
+						"end": "1582992000"
+					},
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2087208799000020556", "size": "S", "qty": 2 },
+						{ "id": "2021202199000025355", "size": "M", "qty": 1 },
+						{ "id": "2018201899000055836", "size": "L", "qty": 2 },
+						{ "id": "2084208499000020354", "size": "XL", "qty": 1 },
+						{ "id": "2022202299000028370", "size": "XXL", "qty": 2 },
+						{ "id": "2018201899000055837", "size": "XXXL", "qty": 1 }
+					]
+				},
+				{
+					"productId": "2021202199000026803",
+					"productName": "Zzegna拼色棉质字母LOGO时尚休闲百搭圆领男士长袖卫衣",
+					"brandName": "Z Zegna",
+					"glsCode": "ZD8-213-100001-C",
+					"imageUrl": "https://cdn14.mei.com/product/ZD8-213-100001-C/3013101ebc36f44f8cff741c157eea96276ae278ec834ebf62a9b5ac6f3f9327.jpg@300w_400h_2e_75q",
+					"marketPrice": "3500",
+					"itemPriceDto": {
+						"price": "2099",
+						"discount": "6.0",
+						"begin": "1578224872",
+						"end": "1582992000"
+					},
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2087208799000020687", "size": "S", "qty": 2 },
+						{ "id": "2085208599000020458", "size": "M", "qty": 1 },
+						{ "id": "2014201499000048136", "size": "L", "qty": 2 }
+					]
+				},
+				{
+					"productId": "2184218499000003570",
+					"productName": "Zzegna白色棉质LOGO图案经典百搭圆领男士长袖卫衣运动衫",
+					"brandName": "Z Zegna",
+					"glsCode": "ZD8-213-100002-C",
+					"imageUrl": "https://cdn13.mei.com/product/ZD8-213-100002-C/3013101ebc36f44fd68e0c3a2b6ef76123ae79cc7e2f57eeb408d504f9f99ad5.jpg@300w_400h_2e_75q",
+					"marketPrice": "3900",
+					"itemPriceDto": {
+						"price": "2099",
+						"discount": "5.4",
+						"begin": "1578224872",
+						"end": "1582992000"
+					},
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2017201799000024108", "size": "M", "qty": 2 },
+						{ "id": "2086208699000020139", "size": "L", "qty": 2 },
+						{ "id": "2184218499000002208", "size": "XL", "qty": 1 }
+					]
+				},
+				{
+					"productId": "2085208599000021829",
+					"productName": "Zzegna多色运动感时尚百搭休闲连帽男士拉链夹克外套",
+					"brandName": "Z Zegna",
+					"glsCode": "ZD8-244-100002-C",
+					"imageUrl": "https://cdn14.mei.com/product/ZD8-244-100002-C/3013101ebc36f44f3420892134342cb7d241f2e81b77ced9085734ac6f63c366.jpg@300w_400h_2e_75q",
+					"marketPrice": "7900",
+					"itemPriceDto": {
+						"price": "5399",
+						"discount": "6.9",
+						"begin": "1578224872",
+						"end": "1582992000"
+					},
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2022202299000028368", "size": "XS", "qty": 1 },
+						{ "id": "2184218499000002077", "size": "M", "qty": 1 }
+					]
+				},
+				{
+					"productId": "2085208599000021830",
+					"productName": "Zzegna多色运动感时尚百搭休闲连帽男士拉链夹克外套",
+					"brandName": "Z Zegna",
+					"glsCode": "ZD8-244-100003-C",
+					"imageUrl": "https://cdn15.mei.com/product/ZD8-244-100003-C/3013101ebc36f44f2a86f483700e8de3e75a52d55bfa526f085734ac6f63c366.jpg@300w_400h_2e_75q",
+					"marketPrice": "7900",
+					"itemPriceDto": {
+						"price": "5399",
+						"discount": "6.9",
+						"begin": "1578224872",
+						"end": "1582992000"
+					},
+					"tagListDto": [
+						{
+							"tag": "仅剩一件",
+							"isHasExpiration": "0",
+							"fontColor": "000000",
+							"fontBackgroudColor": "FFFFFF",
+							"frameColor": "000000",
+							"isRadius": 0,
+							"isGradient": 0
+						}
+					],
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2021202199000025354", "size": "XS", "qty": 1 }
+					]
+				},
+				{
+					"productId": "2014201499000049433",
+					"productName": "Zzegna多色羊毛两粒单排扣经典绅士男士休闲西装上衣外套",
+					"brandName": "Z Zegna",
+					"glsCode": "ZD8-220-100005-C",
+					"imageUrl": "https://cdn15.mei.com/product/ZD8-220-100005-C/3013101ebc36f44f9bf5c29e837188543c2e0976dd7fa5bd5f9f4b920e8b3cd8.jpg@300w_400h_2e_75q",
+					"marketPrice": "8500",
+					"itemPriceDto": {
+						"price": "5699",
+						"discount": "6.8",
+						"begin": "1578224872",
+						"end": "1582992000"
+					},
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2022202299000028334", "size": "S", "qty": 1 },
+						{ "id": "2015201599000023053", "size": "M", "qty": 2 },
+						{ "id": "2185218599000001986", "size": "L", "qty": 2 },
+						{ "id": "2017201799000023955", "size": "XL", "qty": 1 }
+					]
+				},
+				{
+					"productId": "2015201599000024516",
+					"productName": "Zzegna海军蓝时尚个性拼接设计立领男士拉链薄棉外套",
+					"brandName": "Z Zegna",
+					"glsCode": "ZD8-2652-100001-C",
+					"imageUrl": "https://cdn15.mei.com/product/ZD8-2652-100001-C/3013101ebc36f44fbe51f105f28af01ed3e03c4a4d4d245355f5b738ec4d102e.jpg@300w_400h_2e_75q",
+					"marketPrice": "9000",
+					"itemPriceDto": {
+						"price": "5999",
+						"discount": "6.7",
+						"begin": "1578224872",
+						"end": "1582992000"
+					},
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2184218499000002078", "size": "M", "qty": 3 }
+					]
+				}
+			],
+			"block_status": 0,
+			"isHKBlock": 0
+		},
+		{
+			"eventId": "2120005100000003123",
+			"eventCode": "44580",
+			"siloId": "2018000100000000002",
+			"siloName": "男装",
+			"englishName": "BALMAIN",
+			"chineseName": "男装新品上线",
+			"imageUrl": "https://cdn12.mei.com/category/20191213/cdbdee763cdc342c822ea40ba10c64e0d4fa53a986efd91b.jpg",
+			"discount": "2折",
+			"spm_b": "13564735",
+			"isBazzer": "0",
+			"isCrossBorder": "0",
+			"isSeasonNew": "0",
+			"isOverseasend": "0",
+			"isMobile": "0",
+			"isFullprice": "0",
+			"isDisplayBrand": "1",
+			"totalCount": 142,
+			"products": [
+				{
+					"productId": "2015201599000021178",
+					"productName": "BALMAIN黑色条纹图案拼接扣珠装饰时尚圆领长袖男士针织毛衣",
+					"brandName": "BALMAIN",
+					"glsCode": "BM0-215-100004-C",
+					"imageUrl": "https://cdn15.mei.com/product/BM0-215-100004-C/40e5b1ce2869db42852047c582eb85295557d632ea7a5e30195d7249e6a2cb80.jpg@300w_400h_2e_75q",
+					"marketPrice": "6200",
+					"itemPriceDto": {
+						"price": "1859",
+						"discount": "3.0",
+						"begin": "1578224872",
+						"end": "1582938000"
+					},
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2084208499000014335", "size": "XS", "qty": 6 },
+						{ "id": "2015201599000016951", "size": "S", "qty": 5 },
+						{ "id": "2015201599000016950", "size": "M", "qty": 3 }
+					]
+				},
+				{
+					"productId": "2014201499000046126",
+					"productName": "BALMAIN黑色五角星图案条纹拼接设计圆领男士长袖运动卫衣",
+					"brandName": "BALMAIN",
+					"glsCode": "BM0-213-100004-C",
+					"imageUrl": "https://cdn14.mei.com/product/BM0-213-100004-C/40e5b1ce2869db4264c885b832580c953804578f7b66ef3d57c6d7c4ae82aed0.jpg@300w_400h_2e_75q",
+					"marketPrice": "6600",
+					"itemPriceDto": {
+						"price": "1979",
+						"discount": "3.0",
+						"begin": "1578224872",
+						"end": "1582938000"
+					},
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2019201999000020051", "size": "XS", "qty": 4 },
+						{ "id": "2022202299000022442", "size": "S", "qty": 9 },
+						{ "id": "2087208799000014447", "size": "M", "qty": 8 },
+						{ "id": "2086208699000013967", "size": "L", "qty": 3 }
+					]
+				},
+				{
+					"productId": "2087208799000018715",
+					"productName": "BALMAIN深蓝色条纹拼接锚图案贴布圆领长袖男士休闲卫衣",
+					"brandName": "BALMAIN",
+					"glsCode": "BM0-213-100002-C",
+					"imageUrl": "https://cdn14.mei.com/product/BM0-213-100002-C/40e5b1ce2869db420cca731a2e2a945598327c98fecc4aee2d9dcb6e84cac830.jpg@300w_400h_2e_75q",
+					"marketPrice": "6600",
+					"itemPriceDto": {
+						"price": "1979",
+						"discount": "3.0",
+						"begin": "1578224872",
+						"end": "1582938000"
+					},
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2019201999000020048", "size": "XS", "qty": 1 },
+						{ "id": "2022202299000022441", "size": "S", "qty": 3 },
+						{ "id": "2020202099000017292", "size": "M", "qty": 3 }
+					]
+				},
+				{
+					"productId": "2014201499000046125",
+					"productName": "BALMAIN深蓝色条纹拼接logo贴布扣珠时尚圆领长袖男士卫衣",
+					"brandName": "BALMAIN",
+					"glsCode": "BM0-213-100003-C",
+					"imageUrl": "https://cdn12.mei.com/product/BM0-213-100003-C/40e5b1ce2869db42e979dafb0b7aef9f9fffa894878c6400605d25d252197bf5.jpg@300w_400h_2e_75q",
+					"marketPrice": "10000",
+					"itemPriceDto": {
+						"price": "2999",
+						"discount": "3.0",
+						"begin": "1578224872",
+						"end": "1582938000"
+					},
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2020202099000017293", "size": "XS", "qty": 1 },
+						{ "id": "2021202199000019115", "size": "S", "qty": 1 },
+						{ "id": "2084208499000014326", "size": "M", "qty": 1 }
+					]
+				},
+				{
+					"productId": "2084208499000018494",
+					"productName": "BALMAIN拼色五角星图案条纹晕染字母印花时尚圆领长袖男士卫衣",
+					"brandName": "BALMAIN",
+					"glsCode": "BM0-213-100005-C",
+					"imageUrl": "https://cdn15.mei.com/product/BM0-213-100005-C/40e5b1ce2869db423197a8dbbf9a2eb8fcd966298668fe1e191c41d1a9e33083.jpg@300w_400h_2e_75q",
+					"marketPrice": "6600",
+					"itemPriceDto": {
+						"price": "1979",
+						"discount": "3.0",
+						"begin": "1578224872",
+						"end": "1582938000"
+					},
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2084208499000014327", "size": "M", "qty": 1 },
+						{ "id": "2085208599000014311", "size": "L", "qty": 1 }
+					]
+				},
+				{
+					"productId": "2021202199000023400",
+					"productName": "BALMAIN红色老虎纹印花虎头图案贴布时尚圆领长袖男士卫衣",
+					"brandName": "BALMAIN",
+					"glsCode": "BM0-213-100006-C",
+					"imageUrl": "https://cdn15.mei.com/product/BM0-213-100006-C/40e5b1ce2869db4264c885b832580c9514e354591cbc65e29802b424ed5ffab5.jpg@300w_400h_2e_75q",
+					"marketPrice": "7690",
+					"itemPriceDto": {
+						"price": "2309",
+						"discount": "3.1",
+						"begin": "1578224872",
+						"end": "1582938000"
+					},
+					"tagListDto": [
+						{
+							"tag": "仅剩一件",
+							"isHasExpiration": "0",
+							"fontColor": "000000",
+							"fontBackgroudColor": "FFFFFF",
+							"frameColor": "000000",
+							"isRadius": 0,
+							"isGradient": 0
+						}
+					],
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2015201599000016944", "size": "M", "qty": 1 }
+					]
+				},
+				{
+					"productId": "2016201699000067226",
+					"productName": "BALMAIN紫色钉珠装饰字母logo设计时尚圆领长袖男士运动卫衣",
+					"brandName": "BALMAIN",
+					"glsCode": "BM0-213-100007-C",
+					"imageUrl": "https://cdn15.mei.com/product/BM0-213-100007-C/40e5b1ce2869db4215d40d247579816d6e4dc3519ce260d88dad2ed34b05953d.jpg@300w_400h_2e_75q",
+					"marketPrice": "6590",
+					"itemPriceDto": {
+						"price": "1979",
+						"discount": "3.1",
+						"begin": "1578224872",
+						"end": "1582938000"
+					},
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2015201599000016946", "size": "XS", "qty": 2 },
+						{ "id": "2021202199000019116", "size": "S", "qty": 4 },
+						{ "id": "2018201899000049712", "size": "M", "qty": 1 }
+					]
+				},
+				{
+					"productId": "2017201799000022175",
+					"productName": "BALMAIN黑色刺绣字母动物图案设计个性圆领长袖男士运动卫衣",
+					"brandName": "BALMAIN",
+					"glsCode": "BM0-213-100008-C",
+					"imageUrl": "https://cdn13.mei.com/product/BM0-213-100008-C/40e5b1ce2869db42fb1c66e23f5a7dc067e4f2c602053fca4dffdf32d1db8e87.jpg@300w_400h_2e_75q",
+					"marketPrice": "21790",
+					"itemPriceDto": {
+						"price": "6539",
+						"discount": "3.1",
+						"begin": "1578224872",
+						"end": "1582938000"
+					},
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2019201999000020053", "size": "S", "qty": 1 },
+						{ "id": "2085208599000014312", "size": "M", "qty": 1 }
+					]
+				},
+				{
+					"productId": "2016201699000067227",
+					"productName": "BALMAIN白色大V形条纹拼接设计圆领长袖男士针织衫毛衣",
+					"brandName": "BALMAIN",
+					"glsCode": "BM0-215-100002-C",
+					"imageUrl": "https://cdn12.mei.com/product/BM0-215-100002-C/40e5b1ce2869db4255fb7c26eac22494701e75221c7880837073c62df3dcd2e2.jpg@300w_400h_2e_75q",
+					"marketPrice": "6200",
+					"itemPriceDto": {
+						"price": "1859",
+						"discount": "3.0",
+						"begin": "1578224872",
+						"end": "1582938000"
+					},
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2021202199000019119", "size": "XS", "qty": 3 },
+						{ "id": "2022202299000022444", "size": "S", "qty": 4 },
+						{ "id": "2016201699000062778", "size": "M", "qty": 5 },
+						{ "id": "2086208699000013969", "size": "L", "qty": 2 }
+					]
+				}
+			],
+			"block_status": 0,
+			"isHKBlock": 0
+		},
+		{
+			"eventId": "2120005100000003288",
+			"eventCode": "45348",
+			"siloId": "2018000100000000002",
+			"siloName": "男装",
+			"englishName": "男装热卖榜单 ",
+			"chineseName": "型格男士 燃点冬日",
+			"imageUrl": "https://cdn14.mei.com/category/20191213/cdbdee763cdc342c77aac25eb42bdb22ce6dc3676f54cd06.jpg",
+			"discount": "2折",
+			"spm_b": "13668282",
+			"isBazzer": "1",
+			"isCrossBorder": "0",
+			"isSeasonNew": "0",
+			"isOverseasend": "0",
+			"isMobile": "0",
+			"isFullprice": "0",
+			"isDisplayBrand": "1",
+			"totalCount": 164,
+			"products": [
+				{
+					"productId": "2086208699000003319",
+					"productName": "黑色牛皮拼接翻领长袖拉链街头男士外套",
+					"brandName": "BALMAIN",
+					"glsCode": "BM0-245-00002-C",
+					"imageUrl": "https://cdn13.mei.com/product/BM0-245-00002-C/1ed85a037e1aeac6e7f20896b2be5d74e29331d72125eae4.jpg@300w_400h_2e_75q",
+					"marketPrice": "26499",
+					"itemPriceDto": {
+						"price": "16999",
+						"discount": "6.5",
+						"begin": "1578224872",
+						"end": "1578240000"
+					},
+					"tagListDto": [
+						{
+							"tag": "新年价",
+							"isHasExpiration": "1",
+							"beginDate": "1578240000",
+							"endDate": "1578672000",
+							"fontColor": "FFFFFF",
+							"fontBackgroudColor": "DD2828",
+							"frameColor": "DD2828",
+							"isRadius": 0,
+							"isGradient": 0
+						},
+						{
+							"tag": "买手推荐",
+							"isHasExpiration": "0",
+							"fontColor": "000000",
+							"fontBackgroudColor": "FFFFFF",
+							"frameColor": "000000",
+							"isRadius": 0,
+							"isGradient": 0
+						}
+					],
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2017201799000003582", "size": "48", "qty": 4 },
+						{ "id": "2020202099000002996", "size": "50", "qty": 4 }
+					]
+				},
+				{
+					"productId": "2015201599000021178",
+					"productName": "BALMAIN黑色条纹图案拼接扣珠装饰时尚圆领长袖男士针织毛衣",
+					"brandName": "BALMAIN",
+					"glsCode": "BM0-215-100004-C",
+					"imageUrl": "https://cdn15.mei.com/product/BM0-215-100004-C/40e5b1ce2869db42852047c582eb85295557d632ea7a5e30195d7249e6a2cb80.jpg@300w_400h_2e_75q",
+					"marketPrice": "6200",
+					"itemPriceDto": {
+						"price": "1859",
+						"discount": "3.0",
+						"begin": "1578224872",
+						"end": "1582938000"
+					},
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2084208499000014335", "size": "XS", "qty": 6 },
+						{ "id": "2015201599000016951", "size": "S", "qty": 5 },
+						{ "id": "2015201599000016950", "size": "M", "qty": 3 }
+					]
+				},
+				{
+					"productId": "2016201699000067227",
+					"productName": "BALMAIN白色大V形条纹拼接设计圆领长袖男士针织衫毛衣",
+					"brandName": "BALMAIN",
+					"glsCode": "BM0-215-100002-C",
+					"imageUrl": "https://cdn12.mei.com/product/BM0-215-100002-C/40e5b1ce2869db4255fb7c26eac22494701e75221c7880837073c62df3dcd2e2.jpg@300w_400h_2e_75q",
+					"marketPrice": "6200",
+					"itemPriceDto": {
+						"price": "1859",
+						"discount": "3.0",
+						"begin": "1578224872",
+						"end": "1582938000"
+					},
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2021202199000019119", "size": "XS", "qty": 3 },
+						{ "id": "2022202299000022444", "size": "S", "qty": 4 },
+						{ "id": "2016201699000062778", "size": "M", "qty": 5 },
+						{ "id": "2086208699000013969", "size": "L", "qty": 2 }
+					]
+				},
+				{
+					"productId": "2016201699000067228",
+					"productName": "BALMAIN白色大V形条纹拼接设计圆领长袖男士针织衫毛衣",
+					"brandName": "BALMAIN",
+					"glsCode": "BM0-215-100003-C",
+					"imageUrl": "https://cdn14.mei.com/product/BM0-215-100003-C/40e5b1ce2869db42bcc10bd043d75869acef3b33b057a9167073c62df3dcd2e2.jpg@300w_400h_2e_75q",
+					"marketPrice": "6200",
+					"itemPriceDto": {
+						"price": "1859",
+						"discount": "3.0",
+						"begin": "1578224872",
+						"end": "1582938000"
+					},
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2014201499000041848", "size": "XS", "qty": 5 },
+						{ "id": "2086208699000013970", "size": "S", "qty": 4 },
+						{ "id": "2015201599000016948", "size": "M", "qty": 3 },
+						{ "id": "2018201899000049715", "size": "L", "qty": 2 }
+					]
+				},
+				{
+					"productId": "2186218699000000086",
+					"productName": "BALMAIN深蓝色五角星图案镂空设计拉链圆领长袖男士针织衫毛衣",
+					"brandName": "BALMAIN",
+					"glsCode": "BM0-215-100001-C",
+					"imageUrl": "https://cdn14.mei.com/product/BM0-215-100001-C/40e5b1ce2869db42f95ca93f63610e6bab3da0388d6501735d2366c0d7929961.jpg@300w_400h_2e_75q",
+					"marketPrice": "8200",
+					"itemPriceDto": {
+						"price": "2459",
+						"discount": "3.0",
+						"begin": "1578224872",
+						"end": "1582938000"
+					},
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2084208499000014332", "size": "XS", "qty": 1 },
+						{ "id": "2014201499000041847", "size": "S", "qty": 3 },
+						{ "id": "2014201499000041846", "size": "M", "qty": 2 },
+						{ "id": "2021202199000019118", "size": "L", "qty": 3 }
+					]
+				},
+				{
+					"productId": "2022202299000026508",
+					"productName": "BALMAIN多色V型镂空设计个性时尚圆领长袖男士针织衫毛衣",
+					"brandName": "BALMAIN",
+					"glsCode": "BM0-215-100011-C",
+					"imageUrl": "https://cdn13.mei.com/product/BM0-215-100011-C/860452a41dba03f64f6754a0da54e010ed5057d1bf98a36012840879fd14fabb.jpg@300w_400h_2e_75q",
+					"marketPrice": "6190",
+					"itemPriceDto": {
+						"price": "1859",
+						"discount": "3.1",
+						"begin": "1578224872",
+						"end": "1582938000"
+					},
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2019201999000020057", "size": "S", "qty": 1 },
+						{ "id": "2086208699000013971", "size": "M", "qty": 2 }
+					]
+				},
+				{
+					"productId": "2087208799000018717",
+					"productName": "BALMAIN黑色扣珠装饰简约时尚圆领收口长袖男士针织毛衣",
+					"brandName": "BALMAIN",
+					"glsCode": "BM0-215-100008-C",
+					"imageUrl": "https://cdn13.mei.com/product/BM0-215-100008-C/40e5b1ce2869db4217421929f2e97fe8fabb84d7baabaa99c8e903b1ef9da958.jpg@300w_400h_2e_75q",
+					"marketPrice": "3700",
+					"itemPriceDto": {
+						"price": "1109",
+						"discount": "3.0",
+						"begin": "1578224872",
+						"end": "1582938000"
+					},
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2020202099000017297", "size": "XS", "qty": 3 }
+					]
+				},
+				{
+					"productId": "2018201899000053931",
+					"productName": "BALMAIN拼色字母LOGO图案装饰拼接设计圆领男士针织衫毛衣",
+					"brandName": "BALMAIN",
+					"glsCode": "BM0-215-100006-C",
+					"imageUrl": "https://cdn13.mei.com/product/BM0-215-100006-C/40e5b1ce2869db42baaa86130fe6a9fe619aedeea4acd6f0a30f5fc067be1208.jpg@300w_400h_2e_75q",
+					"marketPrice": "6200",
+					"itemPriceDto": {
+						"price": "1859",
+						"discount": "3.0",
+						"begin": "1578224872",
+						"end": "1582938000"
+					},
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2019201999000020055", "size": "XS", "qty": 2 }
+					]
+				},
+				{
+					"productId": "2022202299000022448",
+					"productName": "BALMAIN蓝色网面拼接交叉绑带装饰时尚蝙蝠袖男士针织衫毛衣",
+					"brandName": "BALMAIN",
+					"glsCode": "BM0-2662-15C831",
+					"imageUrl": "https://cdn12.mei.com/product/BM0-2662-15C831/40e5b1ce2869db42dd92b98edd89379f769ae32a67d954efffe1d4ee65435aa2.jpg@300w_400h_2e_75q",
+					"marketPrice": "11490",
+					"itemPriceDto": {
+						"price": "3449",
+						"discount": "3.1",
+						"begin": "1578224872",
+						"end": "1582938000"
+					},
+					"tNewProduct": 0
+				}
+			],
+			"block_status": 0,
+			"isHKBlock": 0
+		}
+	]
+}

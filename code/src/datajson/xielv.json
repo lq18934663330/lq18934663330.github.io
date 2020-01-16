@@ -1,0 +1,2260 @@
+{
+	"userIP": "119.79.228.23",
+	"errorNum": "0",
+	"totalPage": 6,
+	"eventList": [
+		{
+			"eventId": "2121005100000003031",
+			"eventCode": "44072",
+			"siloId": "2018000100000000004",
+			"siloName": "鞋履",
+			"englishName": "精致奢品鞋履",
+			"chineseName": "致命吸引力",
+			"imageUrl": "https://cdn13.mei.com/category/20191125/4276d74cd0eae237ba43d47eae85615a071407a2f321be85.jpg",
+			"discount": "4.7折",
+			"spm_b": "13809498",
+			"isBazzer": "1",
+			"isCrossBorder": "0",
+			"isSeasonNew": "0",
+			"isOverseasend": "0",
+			"isMobile": "0",
+			"isFullprice": "0",
+			"isDisplayBrand": "1",
+			"totalCount": 598,
+			"products": [
+				{
+					"productId": "2021202199000020082",
+					"productName": "FERRAGAMO/菲拉格慕黑色漆皮浅口蝴蝶结点缀时尚优雅女士粗跟皮鞋",
+					"brandName": "Salvatore Ferragamo",
+					"glsCode": "FM0-2859-100005-C",
+					"imageUrl": "https://cdn15.mei.com/product/FM0-2859-100005-C/40e5b1ce2869db4244baa2093438365159ca915e2fdd3ad7d004f6b6e01a4967.jpg@300w_400h_2e_75q",
+					"marketPrice": "5300",
+					"itemPriceDto": {
+						"price": "4379",
+						"discount": "8.3",
+						"begin": "1578225326",
+						"end": "1578240000"
+					},
+					"tagListDto": [
+						{
+							"tag": "买手推荐",
+							"isHasExpiration": "0",
+							"fontColor": "000000",
+							"fontBackgroudColor": "FFFFFF",
+							"frameColor": "000000"
+						}
+					],
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2018201899000046961", "size": "228", "qty": 1 },
+						{ "id": "2016201699000060101", "size": "230", "qty": 7 },
+						{ "id": "2021202199000016420", "size": "233", "qty": 2 },
+						{ "id": "2021202199000016422", "size": "235", "qty": 7 },
+						{ "id": "2015201599000014308", "size": "238", "qty": 1 },
+						{ "id": "2015201599000014307", "size": "240", "qty": 2 },
+						{ "id": "2021202199000016419", "size": "248", "qty": 1 }
+					]
+				},
+				{
+					"productId": "2021202199000020081",
+					"productName": "FERRAGAMO/菲拉格慕黑色牛皮浅口蝴蝶结点缀时尚优雅女士粗跟皮鞋",
+					"brandName": "Salvatore Ferragamo",
+					"glsCode": "FM0-2859-100001-C",
+					"imageUrl": "https://cdn13.mei.com/product/FM0-2859-100001-C/40e5b1ce2869db42d7573a6523d47f3a078cb78456163897da64b814e74f58d7.jpg@300w_400h_2e_75q",
+					"marketPrice": "4900",
+					"itemPriceDto": {
+						"price": "4799",
+						"discount": "9.8",
+						"begin": "1578225326",
+						"end": "1578240000"
+					},
+					"tagListDto": [
+						{
+							"tag": "买手推荐",
+							"isHasExpiration": "0",
+							"fontColor": "000000",
+							"fontBackgroudColor": "FFFFFF",
+							"frameColor": "000000"
+						}
+					],
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2018201899000046957", "size": "228", "qty": 2 },
+						{ "id": "2087208799000011653", "size": "230", "qty": 4 },
+						{ "id": "2016201699000060099", "size": "233", "qty": 1 },
+						{ "id": "2014201499000039107", "size": "235", "qty": 1 },
+						{ "id": "2086208699000011308", "size": "238", "qty": 3 },
+						{ "id": "2021202199000016416", "size": "240", "qty": 1 },
+						{ "id": "2016201699000060098", "size": "243", "qty": 1 },
+						{ "id": "2019201999000017379", "size": "248", "qty": 1 }
+					]
+				},
+				{
+					"productId": "2015201599000017838",
+					"productName": "FERRAGAMO/菲拉格慕淡粉红色牛皮浅口蝴蝶结点缀优雅女士粗跟皮鞋",
+					"brandName": "Salvatore Ferragamo",
+					"glsCode": "FM0-2859-100008-C",
+					"imageUrl": "https://cdn13.mei.com/product/FM0-2859-100008-C/40e5b1ce2869db421fda3a0705d8f4e3f86075898ebac8c1e59d3a49cb4eec0a.jpg@300w_400h_2e_75q",
+					"marketPrice": "5300",
+					"itemPriceDto": {
+						"price": "3999",
+						"discount": "7.6",
+						"begin": "1578225326",
+						"end": "1578240000"
+					},
+					"tagListDto": [
+						{
+							"tag": "买手推荐",
+							"isHasExpiration": "0",
+							"fontColor": "000000",
+							"fontBackgroudColor": "FFFFFF",
+							"frameColor": "000000"
+						}
+					],
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2015201599000014309", "size": "228", "qty": 1 },
+						{ "id": "2085208599000011673", "size": "230", "qty": 2 },
+						{ "id": "2019201999000017382", "size": "235", "qty": 2 }
+					]
+				},
+				{
+					"productId": "2014201499000043201",
+					"productName": "FERRAGAMO/菲拉格慕黑色漆皮铆钉蝴蝶结百搭花型跟低跟单鞋女鞋",
+					"brandName": "Salvatore Ferragamo",
+					"glsCode": "FM0-2859-100009-C",
+					"imageUrl": "https://cdn14.mei.com/product/FM0-2859-100009-C/40e5b1ce2869db420cfb3b112fdac4d96c95b9ac4974555803147b9cbcf4efcc.jpg@300w_400h_2e_75q",
+					"marketPrice": "5400",
+					"itemPriceDto": {
+						"price": "4299",
+						"discount": "8.0",
+						"begin": "1578225326",
+						"end": "1578240000"
+					},
+					"tagListDto": [
+						{
+							"tag": "买手推荐",
+							"isHasExpiration": "0",
+							"fontColor": "000000",
+							"fontBackgroudColor": "FFFFFF",
+							"frameColor": "000000"
+						}
+					],
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2020202099000014494", "size": "228", "qty": 1 },
+						{ "id": "2084208499000011763", "size": "230", "qty": 2 },
+						{ "id": "2019201999000017412", "size": "233", "qty": 2 },
+						{ "id": "2020202099000014496", "size": "235", "qty": 1 },
+						{ "id": "2018201899000047000", "size": "238", "qty": 1 },
+						{ "id": "2086208699000011338", "size": "240", "qty": 2 }
+					]
+				},
+				{
+					"productId": "2021202199000024161",
+					"productName": "Prada/普拉达黑色厚底魔术贴透气舒适网面拼色男士休闲运动鞋",
+					"brandName": "PRADA",
+					"glsCode": "PR2-2898-100223-C",
+					"imageUrl": "https://cdn13.mei.com/product/PR2-2898-100223-C/40e5b1ce2869db42dc9bc130d1bf502a9f29a8c7a5f978f5b09fd8f2b0c4b72c.jpg@300w_400h_2e_75q",
+					"marketPrice": "6650",
+					"itemPriceDto": {
+						"price": "5399",
+						"discount": "8.2",
+						"begin": "1578225326",
+						"end": "1578240000"
+					},
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2084208499000013211", "size": "5.5", "qty": 3 },
+						{ "id": "2014201499000040691", "size": "6", "qty": 5 },
+						{ "id": "2021202199000017983", "size": "6.5", "qty": 3 },
+						{ "id": "2021202199000017984", "size": "7", "qty": 2 },
+						{ "id": "2084208499000013210", "size": "8", "qty": 4 },
+						{ "id": "2021202199000017985", "size": "8.5", "qty": 1 },
+						{ "id": "2019201999000018966", "size": "9", "qty": 2 }
+					]
+				},
+				{
+					"productId": "2086208699000018878",
+					"productName": "Prada/普拉达白色牛皮厚底系带logo印花女士休闲运动鞋小白鞋",
+					"brandName": "PRADA",
+					"glsCode": "PR2-2933-100116-C",
+					"imageUrl": "https://cdn15.mei.com/product/PR2-2933-100116-C/40e5b1ce2869db42bd12177e898e28f48da944a0bab00cc5837b5664834dfd67.jpg@300w_400h_2e_75q",
+					"marketPrice": "5500",
+					"itemPriceDto": {
+						"price": "4299",
+						"discount": "7.9",
+						"begin": "1578225326",
+						"end": "1622476800"
+					},
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2019201999000018953", "size": "35.5", "qty": 3 },
+						{ "id": "2022202299000021262", "size": "36", "qty": 5 },
+						{ "id": "2014201499000040668", "size": "36.5", "qty": 5 },
+						{ "id": "2016201699000061691", "size": "37.5", "qty": 5 }
+					]
+				},
+				{
+					"productId": "2087208799000015219",
+					"productName": "Prada/普拉达白色经典时尚简约休闲舒适百搭低帮系带男士板鞋",
+					"brandName": "PRADA",
+					"glsCode": "PR2-2900-100006-C",
+					"imageUrl": "https://cdn15.mei.com/product/PR2-2900-100006-C/40e5b1ce2869db427d03edd0e6fe28eeac7033d2d7c166afa214311532dd41c4.jpg@300w_400h_2e_75q",
+					"marketPrice": "4900",
+					"itemPriceDto": {
+						"price": "4576",
+						"discount": "9.4",
+						"begin": "1578225326",
+						"end": "1578240000"
+					},
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2087208799000013275", "size": "5", "qty": 1 },
+						{ "id": "2020202099000016125", "size": "5.5", "qty": 1 },
+						{ "id": "2017201799000016761", "size": "6", "qty": 2 },
+						{ "id": "2021202199000017998", "size": "6.5", "qty": 2 },
+						{ "id": "2018201899000048586", "size": "7", "qty": 4 },
+						{ "id": "2021202199000017999", "size": "7.5", "qty": 2 },
+						{ "id": "2086208699000012862", "size": "8", "qty": 3 },
+						{ "id": "2021202199000017997", "size": "8.5", "qty": 2 },
+						{ "id": "2017201799000016760", "size": "9", "qty": 1 }
+					]
+				},
+				{
+					"productId": "2018201899000054615",
+					"productName": "Prada/普拉达黑色牛皮三角形字母logo时尚高帮男士板鞋运动鞋",
+					"brandName": "PRADA",
+					"glsCode": "PR2-2900-100099-C",
+					"imageUrl": "https://cdn13.mei.com/product/PR2-2900-100099-C/40e5b1ce2869db4263e81c6181d1fb4056a0c3dbec019e324252e2ff2fd27005.jpg@300w_400h_2e_75q",
+					"marketPrice": "6200",
+					"itemPriceDto": {
+						"price": "4999",
+						"discount": "8.1",
+						"begin": "1578225326",
+						"end": "1578240000"
+					},
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2016201699000061724", "size": "5", "qty": 1 },
+						{ "id": "2015201599000015840", "size": "6", "qty": 2 },
+						{ "id": "2084208499000013233", "size": "6.5", "qty": 2 },
+						{ "id": "2018201899000048589", "size": "7", "qty": 4 },
+						{ "id": "2085208599000013206", "size": "8", "qty": 4 },
+						{ "id": "2022202299000021301", "size": "8.5", "qty": 1 },
+						{ "id": "2019201999000018988", "size": "9", "qty": 2 }
+					]
+				},
+				{
+					"productId": "2014201499000042657",
+					"productName": "Prada/普拉达深蓝色经典时尚简约休闲百搭低帮系带男士运动板鞋",
+					"brandName": "PRADA",
+					"glsCode": "PR2-2900-100003-C",
+					"imageUrl": "https://cdn14.mei.com/product/PR2-2900-100003-C/40e5b1ce2869db423d907d083ece2233352038b656da9cf8a214311532dd41c4.jpg@300w_400h_2e_75q",
+					"marketPrice": "4900",
+					"itemPriceDto": {
+						"price": "4576",
+						"discount": "9.4",
+						"begin": "1578225326",
+						"end": "1578240000"
+					},
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2020202099000016126", "size": "5", "qty": 1 },
+						{ "id": "2019201999000018983", "size": "6", "qty": 3 },
+						{ "id": "2085208599000013202", "size": "6.5", "qty": 1 },
+						{ "id": "2022202299000021298", "size": "7", "qty": 4 },
+						{ "id": "2086208699000012863", "size": "7.5", "qty": 1 },
+						{ "id": "2017201799000016762", "size": "8", "qty": 4 },
+						{ "id": "2018201899000048587", "size": "8.5", "qty": 1 },
+						{ "id": "2087208799000013276", "size": "9", "qty": 1 }
+					]
+				}
+			],
+			"block_status": 0,
+			"isHKBlock": 0
+		},
+		{
+			"eventId": "2121005100000003092",
+			"eventCode": "44358",
+			"siloId": "2018000100000000004",
+			"siloName": "鞋履",
+			"englishName": "热销经典鞋靴",
+			"chineseName": "休闲白搭",
+			"imageUrl": "https://cdn14.mei.com/category/20191010/e41806c5f5274a289ef574ad858e060bd72eb86efc6c943a.jpg",
+			"discount": "6.9折",
+			"spm_b": "13497293",
+			"isBazzer": "1",
+			"isCrossBorder": "0",
+			"isSeasonNew": "0",
+			"isOverseasend": "0",
+			"isMobile": "0",
+			"isFullprice": "0",
+			"isDisplayBrand": "1",
+			"totalCount": 223,
+			"products": [
+				{
+					"productId": "2020202099000019017",
+					"productName": "Gucci/古奇多色系带平底霸王蜂星星图案条纹时尚简约男士休闲板鞋",
+					"brandName": "GUCCI",
+					"glsCode": "GQ0-2898-100004-C",
+					"imageUrl": "https://cdn13.mei.com/product/GQ0-2898-100004-C/40e5b1ce2869db42b7c094c66492dbcab81eb5846b22520ed0b75922e8fa64d0.jpg@300w_400h_2e_75q",
+					"marketPrice": "5800",
+					"itemPriceDto": {
+						"price": "5750",
+						"discount": "9.9",
+						"begin": "1578225326",
+						"end": "1578240000"
+					},
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2016201699000062074", "size": "5", "qty": 12 },
+						{ "id": "2015201599000016221", "size": "6", "qty": 46 },
+						{ "id": "2085208599000013584", "size": "7", "qty": 51 },
+						{ "id": "2016201699000062076", "size": "8", "qty": 21 },
+						{ "id": "2022202299000021700", "size": "9", "qty": 4 }
+					]
+				},
+				{
+					"productId": "2020202099000019016",
+					"productName": "Gucci/古奇多色系带平底霸王蜂星星图案条纹时尚简约男士休闲板鞋",
+					"brandName": "GUCCI",
+					"glsCode": "GQ0-2898-100003-C",
+					"imageUrl": "https://cdn13.mei.com/product/GQ0-2898-100003-C/40e5b1ce2869db424987e059ad87b5a3b75563cdf5b56189d0b75922e8fa64d0.jpg@300w_400h_2e_75q",
+					"marketPrice": "5800",
+					"itemPriceDto": {
+						"price": "5750",
+						"discount": "9.9",
+						"begin": "1578225326",
+						"end": "1578240000"
+					},
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2016201699000062075", "size": "5", "qty": 16 },
+						{ "id": "2014201499000041125", "size": "6", "qty": 43 },
+						{ "id": "2022202299000021701", "size": "7", "qty": 41 },
+						{ "id": "2087208799000013667", "size": "8", "qty": 23 },
+						{ "id": "2087208799000013668", "size": "9", "qty": 3 }
+					]
+				},
+				{
+					"productId": "2016201699000064506",
+					"productName": "Gucci/古奇白色系带拼色条纹装饰时尚简约舒适男士休闲运动板鞋",
+					"brandName": "GUCCI",
+					"glsCode": "GQ0-2898-100010-C",
+					"imageUrl": "https://cdn15.mei.com/product/GQ0-2898-100010-C/40e5b1ce2869db424b1904fb7c2ad735e3911aa03a0eed4a758043f412929671.jpg@300w_400h_2e_75q",
+					"marketPrice": "4600",
+					"itemPriceDto": {
+						"price": "4155",
+						"discount": "9.1",
+						"begin": "1578225326",
+						"end": "1606752000"
+					},
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2084208499000013620", "size": "5", "qty": 11 },
+						{ "id": "2015201599000016232", "size": "6", "qty": 42 },
+						{ "id": "2084208499000013621", "size": "7", "qty": 34 },
+						{ "id": "2016201699000062087", "size": "8", "qty": 13 },
+						{ "id": "2014201499000041134", "size": "9", "qty": 2 }
+					]
+				},
+				{
+					"productId": "2084208499000015946",
+					"productName": "Gucci/古奇白色系带条纹霸气老虎头图案装饰时尚男士休闲小白鞋",
+					"brandName": "GUCCI",
+					"glsCode": "GQ0-2898-100006-C",
+					"imageUrl": "https://cdn13.mei.com/product/GQ0-2898-100006-C/40e5b1ce2869db4223740fbee370c0f30f832affdad7e1a1eae22fd07ac993ac.jpg@300w_400h_2e_75q",
+					"marketPrice": "5800",
+					"itemPriceDto": {
+						"price": "5578",
+						"discount": "9.7",
+						"begin": "1578225326",
+						"end": "1578240000"
+					},
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2016201699000062079", "size": "5", "qty": 8 },
+						{ "id": "2086208699000013248", "size": "6", "qty": 24 },
+						{ "id": "2087208799000013671", "size": "7", "qty": 31 },
+						{ "id": "2084208499000013618", "size": "8", "qty": 17 },
+						{ "id": "2020202099000016558", "size": "9", "qty": 2 }
+					]
+				},
+				{
+					"productId": "2185218599000000132",
+					"productName": "Roger Vivier多色漆皮金属方扣装饰时尚优雅方头粗跟女士高跟鞋",
+					"brandName": "Roger Vivier",
+					"glsCode": "RV1-2859-100003-C",
+					"imageUrl": "https://cdn15.mei.com/product/RV1-2859-100003-C/40e5b1ce2869db42982fe10bc210782586d04e0d7412461fed752ba4c6b35bd8.jpg@300w_400h_2e_75q",
+					"marketPrice": "6600",
+					"itemPriceDto": {
+						"price": "5556",
+						"discount": "8.5",
+						"begin": "1578225326",
+						"end": "1604073600"
+					},
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2085208599000014104", "size": "35", "qty": 17 },
+						{ "id": "2084208499000014122", "size": "36", "qty": 40 },
+						{ "id": "2022202299000022218", "size": "37", "qty": 19 },
+						{ "id": "2014201499000041661", "size": "38", "qty": 4 }
+					]
+				},
+				{
+					"productId": "2022202299000029926",
+					"productName": "Gucci/古奇多色牛皮蛇皮拼接撞色条纹男士中帮休闲平底鞋",
+					"brandName": "GUCCI",
+					"glsCode": "GQ0-439-100004-C",
+					"imageUrl": "https://cdn14.mei.com/product/GQ0-439-100004-C/40e5b1ce2869db42814d71dcc57935435e779ebb3361e148d83e48bee9a2e013.jpg@300w_400h_2e_75q",
+					"marketPrice": "6600",
+					"itemPriceDto": {
+						"price": "5710",
+						"discount": "8.7",
+						"begin": "1578225326",
+						"end": "1604073600"
+					},
+					"tNewProduct": 0
+				},
+				{
+					"productId": "2087208799000021951",
+					"productName": "Gucci/古奇黑色牛皮撞色条纹织物拼接系带男士休闲鞋",
+					"brandName": "GUCCI",
+					"glsCode": "GQ0-2898-100023-C",
+					"imageUrl": "https://cdn13.mei.com/product/GQ0-2898-100023-C/40e5b1ce2869db421b3cf200d3a115112275d548aecda28491ec2a640c12db9c.jpg@300w_400h_2e_75q",
+					"marketPrice": "4600",
+					"itemPriceDto": {
+						"price": "4205",
+						"discount": "9.2",
+						"begin": "1578225326",
+						"end": "1604073600"
+					},
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2084208499000020893", "size": "5", "qty": 2 },
+						{ "id": "2016201699000069661", "size": "6", "qty": 27 },
+						{ "id": "2184218499000002691", "size": "7", "qty": 23 },
+						{ "id": "2022202299000029014", "size": "8", "qty": 12 },
+						{ "id": "2085208599000020922", "size": "9", "qty": 2 }
+					]
+				},
+				{
+					"productId": "2020202099000019021",
+					"productName": "BURBERRY/博柏利多色简约时尚潮流休闲运动拼接系带低帮男士短靴",
+					"brandName": "BURBERRY",
+					"glsCode": "BU0-443-100002-C",
+					"imageUrl": "https://cdn14.mei.com/product/BU0-443-100002-C/40e5b1ce2869db4289a1e45e5a3b67fa9c72ed144f9e90db61acf645d7731189.jpg@300w_400h_2e_75q",
+					"marketPrice": "4400",
+					"itemPriceDto": {
+						"price": "3573",
+						"discount": "8.2",
+						"begin": "1578225326",
+						"end": "1606752000"
+					},
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2084208499000013659", "size": "39", "qty": 17 },
+						{ "id": "2016201699000062126", "size": "40", "qty": 31 },
+						{ "id": "2017201799000017203", "size": "41", "qty": 10 },
+						{ "id": "2085208599000013627", "size": "42", "qty": 2 },
+						{ "id": "2020202099000016603", "size": "43", "qty": 3 }
+					]
+				},
+				{
+					"productId": "2015201599000024496",
+					"productName": "FERRAGAMO/菲拉格慕多色牛皮肌理拼接金属马衔扣男士牛津鞋",
+					"brandName": "Salvatore Ferragamo",
+					"glsCode": "FM0-437-100004-C",
+					"imageUrl": "https://cdn13.mei.com/product/FM0-437-100004-C/40e5b1ce2869db4219cac4e9656264185a27cb02b15904f59d585d3c5dbd1285.jpg@300w_400h_2e_75q",
+					"marketPrice": "6800",
+					"itemPriceDto": {
+						"price": "5076",
+						"discount": "7.5",
+						"begin": "1578225326",
+						"end": "1604073600"
+					},
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2016201699000069666", "size": "5", "qty": 14 },
+						{ "id": "2186218699000002501", "size": "6", "qty": 24 },
+						{ "id": "2018201899000056418", "size": "7", "qty": 11 },
+						{ "id": "2086208699000020659", "size": "8", "qty": 3 },
+						{ "id": "2184218499000002698", "size": "9", "qty": 2 }
+					]
+				}
+			],
+			"block_status": 0,
+			"isHKBlock": 0
+		},
+		{
+			"eventId": "2121005100000003263",
+			"eventCode": "45186",
+			"siloId": "2018000100000000004",
+			"siloName": "鞋履",
+			"englishName": "JANEHARLOW",
+			"chineseName": " 鞋履清单",
+			"imageUrl": "https://cdn12.mei.com/category/20191029/81645c9b50aba651e6b8f534bac76b7b071407a2f321be85.jpg",
+			"discount": "2.9折",
+			"isBazzer": "0",
+			"isCrossBorder": "0",
+			"isSeasonNew": "0",
+			"isOverseasend": "0",
+			"isMobile": "0",
+			"isFullprice": "0",
+			"isDisplayBrand": "1",
+			"totalCount": 85,
+			"products": [
+				{
+					"productId": "2016201699000062684",
+					"productName": "JANEHARLOW黑色牛皮雕花复古优雅百搭休闲女士短靴",
+					"brandName": "JANE HARLOW",
+					"glsCode": "JZU-2859-100008-C",
+					"imageUrl": "https://cdn12.mei.com/product/JZU-2859-100008-C/40e5b1ce2869db42ddb56c49d8b961d72e5faad249666d888835df0283d28b19.jpg@300w_400h_2e_75q",
+					"marketPrice": "1298",
+					"itemPriceDto": {
+						"price": "558",
+						"discount": "4.3",
+						"begin": "1578225327",
+						"end": "1578240000"
+					},
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2022202299000020351", "size": "225", "qty": 13 },
+						{ "id": "2086208699000011922", "size": "230", "qty": 60 },
+						{ "id": "2022202299000020352", "size": "235", "qty": 74 },
+						{ "id": "2020202099000015126", "size": "240", "qty": 61 },
+						{ "id": "2087208799000012271", "size": "245", "qty": 26 },
+						{ "id": "2086208699000011923", "size": "250", "qty": 14 }
+					]
+				},
+				{
+					"productId": "2020202099000017170",
+					"productName": "JANEHARLOW黑色牛皮简约时尚拉链拼接针织女士低跟短靴",
+					"brandName": "JANE HARLOW",
+					"glsCode": "JZU-2859-100001-C",
+					"imageUrl": "https://cdn15.mei.com/product/JZU-2859-100001-C/40e5b1ce2869db42632c11919594f753db6384cbd00f8e333ec8b79a67faab60.jpg@300w_400h_2e_75q",
+					"marketPrice": "1598",
+					"itemPriceDto": {
+						"price": "658",
+						"discount": "4.2",
+						"begin": "1578225327",
+						"end": "1578240000"
+					},
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2015201599000014902", "size": "225", "qty": 15 },
+						{ "id": "2085208599000012281", "size": "230", "qty": 52 },
+						{ "id": "2087208799000012273", "size": "235", "qty": 80 },
+						{ "id": "2016201699000060744", "size": "240", "qty": 38 },
+						{ "id": "2084208499000012316", "size": "245", "qty": 43 },
+						{ "id": "2015201599000014903", "size": "250", "qty": 11 }
+					]
+				},
+				{
+					"productId": "2018201899000049586",
+					"productName": "JANEHARLOW黑色牛皮亮面格纹拼接时尚百搭女士短靴",
+					"brandName": "JANE HARLOW",
+					"glsCode": "JZU-2863-100001-C",
+					"imageUrl": "https://cdn13.mei.com/product/JZU-2863-100001-C/40e5b1ce2869db42571176196eb43ef1cf42fe49c4fdb0c81b46a2b220d9ed30.jpg@300w_400h_2e_75q",
+					"marketPrice": "1498",
+					"itemPriceDto": {
+						"price": "588",
+						"discount": "4.0",
+						"begin": "1578225327",
+						"end": "1578240000"
+					},
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2015201599000014895", "size": "225", "qty": 15 },
+						{ "id": "2085208599000012278", "size": "230", "qty": 30 },
+						{ "id": "2014201499000039746", "size": "235", "qty": 103 },
+						{ "id": "2084208499000012313", "size": "240", "qty": 69 },
+						{ "id": "2086208699000011911", "size": "245", "qty": 14 }
+					]
+				},
+				{
+					"productId": "2018201899000049601",
+					"productName": "JANEHARLOW黑色织物拼接设计个性潮流系带女士休闲鞋",
+					"brandName": "JANE HARLOW",
+					"glsCode": "JZU-2886-100003-C",
+					"imageUrl": "https://cdn15.mei.com/product/JZU-2886-100003-C/40e5b1ce2869db42c0eeafb728b7bf704300d57fadcbf96dc386dbbc45d96213.jpg@300w_400h_2e_75q",
+					"marketPrice": "1598",
+					"itemPriceDto": {
+						"price": "518",
+						"discount": "3.3",
+						"begin": "1578225327",
+						"end": "1578240000"
+					},
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2022202299000020370", "size": "225", "qty": 22 },
+						{ "id": "2022202299000020369", "size": "230", "qty": 14 },
+						{ "id": "2018201899000047619", "size": "235", "qty": 29 },
+						{ "id": "2015201599000014929", "size": "240", "qty": 23 },
+						{ "id": "2014201499000039770", "size": "245", "qty": 12 },
+						{ "id": "2014201499000039771", "size": "250", "qty": 3 }
+					]
+				},
+				{
+					"productId": "2022202299000027108",
+					"productName": "JANEHARLOW黑色亮面牛皮撞色拉链设计休闲时尚女士秋冬短靴",
+					"brandName": "JANE HARLOW",
+					"glsCode": "JZU-2862-100003-C",
+					"imageUrl": "https://cdn15.mei.com/product/JZU-2862-100003-C/40e5b1ce2869db420c2770f24cf8ea537a71f3f5fe6906bd277b216133c07b0f.jpg@300w_400h_2e_75q",
+					"marketPrice": "1988",
+					"itemPriceDto": {
+						"price": "708",
+						"discount": "3.6",
+						"begin": "1578225327",
+						"end": "1578240000"
+					},
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2016201699000064248", "size": "220", "qty": 3 },
+						{ "id": "2021202199000020568", "size": "225", "qty": 12 },
+						{ "id": "2086208699000015317", "size": "230", "qty": 23 },
+						{ "id": "2086208699000015318", "size": "235", "qty": 24 },
+						{ "id": "2020202099000018683", "size": "240", "qty": 16 },
+						{ "id": "2021202199000020570", "size": "245", "qty": 11 },
+						{ "id": "2019201999000021435", "size": "250", "qty": 2 }
+					]
+				},
+				{
+					"productId": "2084208499000014197",
+					"productName": "JANEHARLOW黑色羊皮简约百搭复古女士粗跟高筒过膝靴",
+					"brandName": "JANE HARLOW",
+					"glsCode": "JZU-2869-100001-C",
+					"imageUrl": "https://cdn12.mei.com/product/JZU-2869-100001-C/40e5b1ce2869db42adec92c9abb304eee75b9c8761535640502c2e2f7d6e1150.jpg@300w_400h_2e_75q",
+					"marketPrice": "1598",
+					"itemPriceDto": {
+						"price": "618",
+						"discount": "3.9",
+						"begin": "1578225327",
+						"end": "1578240000"
+					},
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2087208799000012262", "size": "220", "qty": 1 },
+						{ "id": "2016201699000060740", "size": "225", "qty": 13 },
+						{ "id": "2022202299000020340", "size": "230", "qty": 15 },
+						{ "id": "2087208799000012263", "size": "235", "qty": 19 },
+						{ "id": "2021202199000017049", "size": "240", "qty": 6 },
+						{ "id": "2015201599000014893", "size": "245", "qty": 6 },
+						{ "id": "2018201899000047595", "size": "250", "qty": 7 }
+					]
+				},
+				{
+					"productId": "2087208799000022357",
+					"productName": "JANEHARLOW黑色牛皮拉链拼接系带圆头女士中筒马丁靴",
+					"brandName": "JANE HARLOW",
+					"glsCode": "JZU-2872-100002-C",
+					"imageUrl": "https://cdn13.mei.com/product/JZU-2872-100002-C/40e5b1ce2869db42d87355e4ad8399fbbb834dfefe9bfafb185480591036975c.jpg@300w_400h_2e_75q",
+					"marketPrice": "1998",
+					"itemPriceDto": {
+						"price": "758",
+						"discount": "3.8",
+						"begin": "1578225327",
+						"end": "1590940800"
+					},
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2087208799000021627", "size": "225", "qty": 4 },
+						{ "id": "2084208499000021405", "size": "230", "qty": 13 },
+						{ "id": "2084208499000021404", "size": "235", "qty": 16 },
+						{ "id": "2016201699000070225", "size": "240", "qty": 12 },
+						{ "id": "2015201599000024152", "size": "245", "qty": 7 }
+					]
+				},
+				{
+					"productId": "2017201799000025833",
+					"productName": "JANEHARLOW黑色牛皮拉链拼接简约圆头女士切尔西短靴",
+					"brandName": "JANE HARLOW",
+					"glsCode": "JZU-2872-100001-C",
+					"imageUrl": "https://cdn13.mei.com/product/JZU-2872-100001-C/40e5b1ce2869db42bc36bd9f42fae9036bf0fb302cb607544d31317634e54c90.jpg@300w_400h_2e_75q",
+					"marketPrice": "1468",
+					"itemPriceDto": {
+						"price": "508",
+						"discount": "3.5",
+						"begin": "1578225327",
+						"end": "1578240000"
+					},
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2021202199000026427", "size": "225", "qty": 5 },
+						{ "id": "2087208799000021628", "size": "230", "qty": 13 },
+						{ "id": "2186218699000003059", "size": "235", "qty": 13 },
+						{ "id": "2016201699000070226", "size": "240", "qty": 12 },
+						{ "id": "2086208699000021196", "size": "245", "qty": 7 }
+					]
+				},
+				{
+					"productId": "2015201599000016828",
+					"productName": "JANEHARLOW黑色羊皮豹纹圆扣装饰百搭女士平底休闲鞋",
+					"brandName": "JANE HARLOW",
+					"glsCode": "JZU-2859-100014-C",
+					"imageUrl": "https://cdn15.mei.com/product/JZU-2859-100014-C/40e5b1ce2869db429be5203f8d840d084e58fe3fcdb0869afcfb3dd63d32818d.jpg@300w_400h_2e_75q",
+					"marketPrice": "1198",
+					"itemPriceDto": {
+						"price": "488",
+						"discount": "4.1",
+						"begin": "1578225327",
+						"end": "1578240000"
+					},
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2015201599000014920", "size": "225", "qty": 4 },
+						{ "id": "2084208499000012329", "size": "230", "qty": 9 },
+						{ "id": "2014201499000039763", "size": "235", "qty": 12 },
+						{ "id": "2014201499000039764", "size": "240", "qty": 9 },
+						{ "id": "2021202199000017069", "size": "245", "qty": 3 }
+					]
+				}
+			],
+			"block_status": 0,
+			"isHKBlock": 0
+		},
+		{
+			"eventId": "2120005100000003330",
+			"eventCode": "45582",
+			"siloId": "2018000100000000004",
+			"siloName": "鞋履",
+			"englishName": "ROBERTO FESTA",
+			"chineseName": "鞋履初上新",
+			"imageUrl": "https://cdn13.mei.com/category/20191127/6ca0e3eed252fb201f74842815827eabd4fa53a986efd91b.JPG",
+			"discount": "2.4折",
+			"spm_b": "13739192",
+			"isBazzer": "0",
+			"isCrossBorder": "0",
+			"isSeasonNew": "0",
+			"isOverseasend": "0",
+			"isMobile": "0",
+			"isFullprice": "0",
+			"isDisplayBrand": "1",
+			"totalCount": 44,
+			"products": [
+				{
+					"productId": "2014201499000050832",
+					"productName": "ROBERTO FESTA多色牛皮漆皮字母拉链平跟短靴女士马丁靴",
+					"brandName": "ROBERTO FESTA",
+					"glsCode": "RF7-2862-100012-C",
+					"imageUrl": "https://cdn15.mei.com/product/RF7-2862-100012-C/32114d1b76ed471ed97c319b2cad568378c52f717c1c3675fd218ceabf073948.jpg@300w_400h_2e_75q",
+					"marketPrice": "2780",
+					"itemPriceDto": {
+						"price": "960",
+						"discount": "3.5",
+						"begin": "1578225327",
+						"end": "1596211200"
+					},
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2086208699000022052", "size": "35", "qty": 4 },
+						{ "id": "2014201499000050001", "size": "36", "qty": 10 },
+						{ "id": "2018201899000057802", "size": "37", "qty": 7 },
+						{ "id": "2087208799000022498", "size": "38", "qty": 5 },
+						{ "id": "2017201799000025966", "size": "39", "qty": 2 }
+					]
+				},
+				{
+					"productId": "2014201499000050831",
+					"productName": "ROBERTO FESTA多色牛皮漆皮字母拉链平跟短靴女士马丁靴",
+					"brandName": "ROBERTO FESTA",
+					"glsCode": "RF7-2862-100011-C",
+					"imageUrl": "https://cdn14.mei.com/product/RF7-2862-100011-C/32114d1b76ed471ecba349e9ebb22c9a5e2ccdf931301801fd218ceabf073948.jpg@300w_400h_2e_75q",
+					"marketPrice": "2780",
+					"itemPriceDto": {
+						"price": "960",
+						"discount": "3.5",
+						"begin": "1578225327",
+						"end": "1596211200"
+					},
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2017201799000025965", "size": "35", "qty": 1 },
+						{ "id": "2185218599000004087", "size": "36", "qty": 7 },
+						{ "id": "2014201499000050002", "size": "37", "qty": 8 },
+						{ "id": "2020202099000025394", "size": "38", "qty": 1 },
+						{ "id": "2184218499000004129", "size": "39", "qty": 2 }
+					]
+				},
+				{
+					"productId": "2042204299000793257",
+					"productName": "黑色胎牛皮时尚拉链秋冬女士平跟短靴",
+					"brandName": "ROBERTO FESTA",
+					"glsCode": "RF7-409-00260",
+					"imageUrl": "https://cdn15.mei.com/product/RF7-409-00264/4729a72008685047eff8cfa540258bdd.jpg@300w_400h_2e_75q",
+					"marketPrice": "4280",
+					"itemPriceDto": {
+						"price": "1450",
+						"discount": "3.4",
+						"begin": "1578225327",
+						"end": "1596211200"
+					},
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2042204299000793258", "size": "225", "qty": 2 },
+						{ "id": "2042204299000793259", "size": "230", "qty": 5 },
+						{ "id": "2042204299000793260", "size": "235", "qty": 4 },
+						{ "id": "2042204299000793261", "size": "240", "qty": 3 },
+						{ "id": "2042204299000793262", "size": "245", "qty": 4 }
+					]
+				},
+				{
+					"productId": "2086208699000018779",
+					"productName": "ROBERTO FESTA黑色牛皮侧拉链时髦百搭女士秋冬粗跟靴子短靴",
+					"brandName": "ROBERTO FESTA",
+					"glsCode": "RF7-2862-100001-C",
+					"imageUrl": "https://cdn12.mei.com/product/RF7-2862-100001-C/40e5b1ce2869db424d727aa19f8b12e88939d2705470b59f6ff98760a1ba03e4.jpg@300w_400h_2e_75q",
+					"marketPrice": "3800",
+					"itemPriceDto": {
+						"price": "1380",
+						"discount": "3.7",
+						"begin": "1578225327",
+						"end": "1596211200"
+					},
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2017201799000013853", "size": "35", "qty": 3 },
+						{ "id": "2014201499000037777", "size": "36", "qty": 5 },
+						{ "id": "2016201699000058745", "size": "37", "qty": 2 },
+						{ "id": "2087208799000010246", "size": "38", "qty": 4 }
+					]
+				},
+				{
+					"productId": "2014201499000049849",
+					"productName": "ROBERTO FESTA多色胎牛皮撞色线条优雅尖头细跟高跟短靴踝靴女鞋",
+					"brandName": "ROBERTO FESTA",
+					"glsCode": "RF7-2864-100003-C",
+					"imageUrl": "https://cdn15.mei.com/product/RF7-2864-100003-C/40e5b1ce2869db4248d7a310c7c31574ba572bfa0af82392efe5933498df8ca9.jpg@300w_400h_2e_75q",
+					"marketPrice": "4500",
+					"itemPriceDto": {
+						"price": "1550",
+						"discount": "3.5",
+						"begin": "1578225327",
+						"end": "1578240000"
+					},
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2185218599000000523", "size": "35", "qty": 2 },
+						{ "id": "2021202199000023877", "size": "36", "qty": 3 },
+						{ "id": "2185218599000000522", "size": "37", "qty": 3 },
+						{ "id": "2021202199000023878", "size": "38", "qty": 2 },
+						{ "id": "2186218699000000530", "size": "39", "qty": 1 }
+					]
+				},
+				{
+					"productId": "2014201499000049986",
+					"productName": "黑色条纹尖头系带短靴—黑色 35",
+					"brandName": "ROBERTO FESTA",
+					"glsCode": "RF7-2864-100010-C",
+					"imageUrl": "https://cdn12.mei.com/product/RF7-2864-100010-C/40e5b1ce2869db42b35c490227b1f56449c7823fe3d2fbc9357ca78bf4c6a61a.jpg@300w_400h_2e_75q",
+					"marketPrice": "3600",
+					"itemPriceDto": {
+						"price": "1290",
+						"discount": "3.6",
+						"begin": "1578225327",
+						"end": "1578240000"
+					},
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2084208499000018957", "size": "35", "qty": 2 },
+						{ "id": "2184218499000000526", "size": "36", "qty": 3 },
+						{ "id": "2087208799000019149", "size": "37", "qty": 3 },
+						{ "id": "2022202299000026922", "size": "38", "qty": 2 },
+						{ "id": "2184218499000000527", "size": "39", "qty": 1 }
+					]
+				},
+				{
+					"productId": "2016201699000070228",
+					"productName": "ROBERTO FESTA黄棕色胎牛皮后拉链气质尖头低跟短靴踝靴女鞋",
+					"brandName": "ROBERTO FESTA",
+					"glsCode": "RF7-2862-100010-C",
+					"imageUrl": "https://cdn13.mei.com/product/RF7-2862-100010-C/40e5b1ce2869db42b6acd1c88becb0200adb195c0529a23fc6721c39836df18c.jpg@300w_400h_2e_75q",
+					"marketPrice": "3380",
+					"itemPriceDto": {
+						"price": "1250",
+						"discount": "3.7",
+						"begin": "1578225327",
+						"end": "1596211200"
+					},
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2020202099000013150", "size": "35", "qty": 2 },
+						{ "id": "2019201999000016023", "size": "36", "qty": 3 },
+						{ "id": "2085208599000010372", "size": "37", "qty": 3 },
+						{ "id": "2021202199000015111", "size": "38", "qty": 2 },
+						{ "id": "2087208799000010273", "size": "39", "qty": 1 }
+					]
+				},
+				{
+					"productId": "2014201499000049850",
+					"productName": "ROBERTO FESTA多色胎牛皮撞色线条优雅尖头细跟高跟短靴踝靴女鞋",
+					"brandName": "ROBERTO FESTA",
+					"glsCode": "RF7-2864-100004-C",
+					"imageUrl": "https://cdn14.mei.com/product/RF7-2864-100004-C/40e5b1ce2869db423d8bdfe3bcd37f65ba572bfa0af82392efe5933498df8ca9.jpg@300w_400h_2e_75q",
+					"marketPrice": "4500",
+					"itemPriceDto": {
+						"price": "1550",
+						"discount": "3.5",
+						"begin": "1578225327",
+						"end": "1578240000"
+					},
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2185218599000000521", "size": "35", "qty": 2 },
+						{ "id": "2186218699000000529", "size": "36", "qty": 2 },
+						{ "id": "2085208599000018965", "size": "37", "qty": 3 },
+						{ "id": "2184218499000000529", "size": "38", "qty": 2 },
+						{ "id": "2019201999000024723", "size": "39", "qty": 1 }
+					]
+				},
+				{
+					"productId": "2014201499000049853",
+					"productName": "ROBERTO FESTA多色羊反绒简约尖头优雅百搭细跟高跟短靴踝靴女鞋",
+					"brandName": "ROBERTO FESTA",
+					"glsCode": "RF7-2864-100007-C",
+					"imageUrl": "https://cdn13.mei.com/product/RF7-2864-100007-C/40e5b1ce2869db42fef7bd2124e69c6088d970e72ac6fb38dbd8bf2ee380cd76.jpg@300w_400h_2e_75q",
+					"marketPrice": "3550",
+					"itemPriceDto": {
+						"price": "1280",
+						"discount": "3.7",
+						"begin": "1578225327",
+						"end": "1578240000"
+					},
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2016201699000067658", "size": "35", "qty": 2 },
+						{ "id": "2022202299000026924", "size": "36", "qty": 2 },
+						{ "id": "2014201499000046554", "size": "37", "qty": 3 },
+						{ "id": "2019201999000024724", "size": "38", "qty": 2 },
+						{ "id": "2014201499000046555", "size": "39", "qty": 1 }
+					]
+				}
+			],
+			"block_status": 0,
+			"isHKBlock": 0
+		},
+		{
+			"eventId": "2120005100000003393",
+			"eventCode": "45912",
+			"siloId": "2018000100000000004",
+			"siloName": "鞋履",
+			"englishName": "UGG",
+			"chineseName": "长腿利器男女鞋",
+			"imageUrl": "https://cdn12.mei.com/category/20191212/16ce4eaa8b46223fb0287411079918bbdc0bc45b7bb6d783.jpg",
+			"discount": "4.4折",
+			"spm_b": "13803340",
+			"isBazzer": "0",
+			"isCrossBorder": "0",
+			"isSeasonNew": "0",
+			"isOverseasend": "0",
+			"isMobile": "0",
+			"isFullprice": "0",
+			"isDisplayBrand": "1",
+			"totalCount": 39,
+			"products": [
+				{
+					"productId": "2018201899000046949",
+					"productName": "玫红色羊皮反毛保暖女士平底短靴雪地靴",
+					"brandName": "UGG",
+					"glsCode": "UG0-409-00205-C",
+					"imageUrl": "https://cdn12.mei.com/product/UG0-409-00205-C/d67af3c007622a36d167a733d8f38469e29331d72125eae4.jpg@300w_400h_2e_75q",
+					"marketPrice": "1380",
+					"itemPriceDto": {
+						"price": "899",
+						"discount": "6.6",
+						"begin": "1578225327",
+						"end": "1578240000"
+					},
+					"tagListDto": [
+						{
+							"tag": "当季新品",
+							"isHasExpiration": "0",
+							"fontColor": "FFFFFF",
+							"fontBackgroudColor": "DD2828",
+							"frameColor": "DD2828"
+						}
+					],
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2019201999000007002", "size": "235", "qty": 26 },
+						{ "id": "2019201999000007000", "size": "240", "qty": 28 },
+						{ "id": "2019201999000007001", "size": "245", "qty": 26 },
+						{ "id": "2084208499000001207", "size": "250", "qty": 14 },
+						{ "id": "2020202099000003818", "size": "255", "qty": 7 }
+					]
+				},
+				{
+					"productId": "2040204099000668769",
+					"productName": "米黄色羊皮羊毛女士休闲鞋中筒靴雪地靴",
+					"brandName": "UGG",
+					"glsCode": "UG0-409-00159-C",
+					"imageUrl": "https://cdn14.mei.com/product/UG0-409-00159-C/40e5b1ce2869db42cfe66250248e05558ed611057b75d3aa272c8ecd7a348910.jpg@300w_400h_2e_75q",
+					"marketPrice": "1980",
+					"itemPriceDto": {
+						"price": "1099",
+						"discount": "5.6",
+						"begin": "1578225327",
+						"end": "1578240000"
+					},
+					"tagListDto": [
+						{
+							"tag": "当季新品",
+							"isHasExpiration": "0",
+							"fontColor": "FFFFFF",
+							"fontBackgroudColor": "DD2828",
+							"frameColor": "DD2828"
+						}
+					],
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2087208799000001209", "size": "230", "qty": 11 },
+						{ "id": "2014201499000028574", "size": "235", "qty": 17 },
+						{ "id": "2018201899000036606", "size": "240", "qty": 24 },
+						{ "id": "2087208799000001206", "size": "245", "qty": 28 },
+						{ "id": "2019201999000007003", "size": "250", "qty": 10 },
+						{ "id": "2015201599000003528", "size": "255", "qty": 5 }
+					]
+				},
+				{
+					"productId": "2121212199000136500",
+					"productName": "栗子色羊皮反毛保暖女士高筒靴雪地靴",
+					"brandName": "UGG",
+					"glsCode": "UG1-409-00003",
+					"imageUrl": "https://cdn13.mei.com/product/UG1-409-00003/1e272c1f4ae03ada2e0613b5e6746e84fe5b1db764d32dbb.jpg@300w_400h_2e_75q",
+					"marketPrice": "1880",
+					"itemPriceDto": {
+						"price": "1299",
+						"discount": "7.0",
+						"begin": "1578225327",
+						"end": "1578240000"
+					},
+					"tagListDto": [
+						{
+							"tag": "今日疯抢",
+							"isHasExpiration": "1",
+							"beginDate": "1578373200",
+							"endDate": "1578380399",
+							"fontColor": "FFFFFF",
+							"fontBackgroudColor": "DD2828",
+							"frameColor": "DD2828"
+						},
+						{
+							"tag": "当季新品",
+							"isHasExpiration": "0",
+							"fontColor": "FFFFFF",
+							"fontBackgroudColor": "DD2828",
+							"frameColor": "DD2828"
+						}
+					],
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2085208599000000160", "size": "220", "qty": 13 },
+						{ "id": "2020202099000002854", "size": "230", "qty": 22 },
+						{ "id": "2018201899000035734", "size": "240", "qty": 13 },
+						{ "id": "2084208499000000131", "size": "250", "qty": 30 },
+						{ "id": "2017201799000003481", "size": "260", "qty": 10 },
+						{ "id": "2087208799000000142", "size": "270", "qty": 6 }
+					]
+				},
+				{
+					"productId": "2016201699000051748",
+					"productName": "裸粉羊皮反毛纽扣饰保暖女士短靴雪地靴",
+					"brandName": "UGG",
+					"glsCode": "UG0-409-00121-C",
+					"imageUrl": "https://cdn14.mei.com/product/UG0-409-00121-C/1e272c1f4ae03ada2619bfae7af60e47c693e3e5f89ae71a.jpg@300w_400h_2e_75q",
+					"marketPrice": "1480",
+					"itemPriceDto": {
+						"price": "949",
+						"discount": "6.5",
+						"begin": "1578225327",
+						"end": "1578240000"
+					},
+					"tagListDto": [
+						{
+							"tag": "当季新品",
+							"isHasExpiration": "0",
+							"fontColor": "FFFFFF",
+							"fontBackgroudColor": "DD2828",
+							"frameColor": "DD2828"
+						}
+					],
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2084208499000001382", "size": "230", "qty": 2 },
+						{ "id": "2022202299000009633", "size": "235", "qty": 20 },
+						{ "id": "2017201799000004545", "size": "240", "qty": 26 },
+						{ "id": "2020202099000004124", "size": "245", "qty": 28 },
+						{ "id": "2022202299000009632", "size": "250", "qty": 12 },
+						{ "id": "2017201799000004546", "size": "255", "qty": 4 }
+					]
+				},
+				{
+					"productId": "2084208499000011624",
+					"productName": "青灰羊皮反毛蝴蝶结女士平底短靴雪地靴",
+					"brandName": "UGG",
+					"glsCode": "UG0-409-00203-C",
+					"imageUrl": "https://cdn14.mei.com/product/UG0-409-00203-C/d67af3c007622a36cdd79aeee50a3fbbe29331d72125eae4.jpg@300w_400h_2e_75q",
+					"marketPrice": "2322",
+					"itemPriceDto": {
+						"price": "1049",
+						"discount": "4.6",
+						"begin": "1578225327",
+						"end": "1578240000"
+					},
+					"tagListDto": [
+						{
+							"tag": "当季新品",
+							"isHasExpiration": "0",
+							"fontColor": "FFFFFF",
+							"fontBackgroudColor": "DD2828",
+							"frameColor": "DD2828"
+						}
+					],
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2016201699000049723", "size": "235", "qty": 24 },
+						{ "id": "2018201899000036777", "size": "240", "qty": 12 },
+						{ "id": "2022202299000009626", "size": "245", "qty": 35 },
+						{ "id": "2020202099000004118", "size": "250", "qty": 11 },
+						{ "id": "2021202199000006091", "size": "255", "qty": 2 }
+					]
+				},
+				{
+					"productId": "2040204099000668768",
+					"productName": "裸粉色羊皮羊毛女士休闲鞋中筒靴雪地靴",
+					"brandName": "UGG",
+					"glsCode": "UG0-409-00158-C",
+					"imageUrl": "https://cdn12.mei.com/product/UG0-409-00158-C/40e5b1ce2869db4262c250220345d8dcffdf73bb32a8b607272c8ecd7a348910.jpg@300w_400h_2e_75q",
+					"marketPrice": "1980",
+					"itemPriceDto": {
+						"price": "1099",
+						"discount": "5.6",
+						"begin": "1578225327",
+						"end": "1578240000"
+					},
+					"tagListDto": [
+						{
+							"tag": "当季新品",
+							"isHasExpiration": "0",
+							"fontColor": "FFFFFF",
+							"fontBackgroudColor": "DD2828",
+							"frameColor": "DD2828"
+						}
+					],
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2017201799000004317", "size": "230", "qty": 4 },
+						{ "id": "2084208499000001208", "size": "235", "qty": 21 },
+						{ "id": "2016201699000049543", "size": "240", "qty": 22 },
+						{ "id": "2014201499000028573", "size": "245", "qty": 23 },
+						{ "id": "2087208799000001205", "size": "250", "qty": 7 },
+						{ "id": "2087208799000001208", "size": "255", "qty": 3 }
+					]
+				},
+				{
+					"productId": "2018201899000046951",
+					"productName": "深紫色羊皮反毛百搭女士平底短靴雪地靴",
+					"brandName": "UGG",
+					"glsCode": "UG0-409-00207-C",
+					"imageUrl": "https://cdn15.mei.com/product/UG0-409-00207-C/1e272c1f4ae03ada2d932357f7a68f1f5b10c88fdc1a0409.jpg@300w_400h_2e_75q",
+					"marketPrice": "1380",
+					"itemPriceDto": {
+						"price": "899",
+						"discount": "6.6",
+						"begin": "1578225327",
+						"end": "1578240000"
+					},
+					"tagListDto": [
+						{
+							"tag": "当季新品",
+							"isHasExpiration": "0",
+							"fontColor": "FFFFFF",
+							"fontBackgroudColor": "DD2828",
+							"frameColor": "DD2828"
+						}
+					],
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2015201599000003526", "size": "230", "qty": 6 },
+						{ "id": "2021202199000005825", "size": "235", "qty": 10 },
+						{ "id": "2087208799000001202", "size": "240", "qty": 23 },
+						{ "id": "2085208599000001229", "size": "245", "qty": 27 },
+						{ "id": "2087208799000001204", "size": "250", "qty": 13 }
+					]
+				},
+				{
+					"productId": "2018201899000046950",
+					"productName": "浅驼色羊皮反毛保暖女士平底短靴雪地靴",
+					"brandName": "UGG",
+					"glsCode": "UG0-409-00206-C",
+					"imageUrl": "https://cdn14.mei.com/product/UG0-409-00206-C/d67af3c007622a36f834cf6ddf185e02e29331d72125eae4.jpg@300w_400h_2e_75q",
+					"marketPrice": "1380",
+					"itemPriceDto": {
+						"price": "899",
+						"discount": "6.6",
+						"begin": "1578225327",
+						"end": "1578240000"
+					},
+					"tagListDto": [
+						{
+							"tag": "当季新品",
+							"isHasExpiration": "0",
+							"fontColor": "FFFFFF",
+							"fontBackgroudColor": "DD2828",
+							"frameColor": "DD2828"
+						}
+					],
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2087208799000001201", "size": "230", "qty": 9 },
+						{ "id": "2016201699000049539", "size": "235", "qty": 13 },
+						{ "id": "2021202199000005823", "size": "240", "qty": 16 },
+						{ "id": "2020202099000003817", "size": "245", "qty": 18 },
+						{ "id": "2016201699000049541", "size": "250", "qty": 9 },
+						{ "id": "2016201699000049540", "size": "255", "qty": 6 }
+					]
+				},
+				{
+					"productId": "2018201899000046954",
+					"productName": "灰色羊皮反毛保暖女士平底短靴雪地靴",
+					"brandName": "UGG",
+					"glsCode": "UG0-409-00210-C",
+					"imageUrl": "https://cdn15.mei.com/product/UG0-409-00210-C/1e272c1f4ae03ada29464bd7187e73e45b10c88fdc1a0409.jpg@300w_400h_2e_75q",
+					"marketPrice": "1380",
+					"itemPriceDto": {
+						"price": "899",
+						"discount": "6.6",
+						"begin": "1578225327",
+						"end": "1578240000"
+					},
+					"tagListDto": [
+						{
+							"tag": "当季新品",
+							"isHasExpiration": "0",
+							"fontColor": "FFFFFF",
+							"fontBackgroudColor": "DD2828",
+							"frameColor": "DD2828"
+						}
+					],
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2016201699000049542", "size": "230", "qty": 5 },
+						{ "id": "2015201599000003525", "size": "235", "qty": 3 },
+						{ "id": "2085208599000001230", "size": "240", "qty": 20 },
+						{ "id": "2086208699000001114", "size": "245", "qty": 24 },
+						{ "id": "2014201499000028572", "size": "250", "qty": 11 },
+						{ "id": "2017201799000004318", "size": "255", "qty": 6 }
+					]
+				}
+			],
+			"block_status": 0,
+			"isHKBlock": 0
+		},
+		{
+			"eventId": "2041204190000007494",
+			"eventCode": "46031",
+			"siloId": "2018000100000000004",
+			"siloName": "鞋履",
+			"englishName": "ALEXANDER MCQUEEN",
+			"chineseName": "火爆潮流小白鞋",
+			"imageUrl": "https://cdn12.mei.com/category/20191221/3e5513fa9e35f7fdd571fc6ee23aee5c39e4db8297e1f0dc.jpg",
+			"discount": "4.8折",
+			"spm_b": "13826513",
+			"isBazzer": "0",
+			"isCrossBorder": "0",
+			"isSeasonNew": "0",
+			"isOverseasend": "0",
+			"isMobile": "0",
+			"isFullprice": "0",
+			"isDisplayBrand": "1",
+			"totalCount": 96,
+			"products": [
+				{
+					"productId": "2020202099000006559",
+					"productName": "ALEXANDER MCQUEEN/麦昆 18秋冬款男士多色牛皮厚底运动休闲板鞋",
+					"brandName": "ALEXANDER MCQUEEN",
+					"glsCode": "A1N-438-00126-C",
+					"imageUrl": "https://cdn12.mei.com/product/A1N-438-00126-C/ce43b9229cb95bb3edf682fa4d2f870ce29331d72125eae4.jpg@300w_400h_2e_75q",
+					"marketPrice": "3950",
+					"itemPriceDto": {
+						"price": "2499",
+						"discount": "6.4",
+						"begin": "1578225327",
+						"end": "1578240000"
+					},
+					"tagListDto": [
+						{
+							"tag": "新年价",
+							"isHasExpiration": "1",
+							"beginDate": "1578240000",
+							"endDate": "1578672000",
+							"fontColor": "FFFFFF",
+							"fontBackgroudColor": "DD2828",
+							"frameColor": "DD2828"
+						},
+						{
+							"tag": "买手推荐",
+							"isHasExpiration": "0",
+							"fontColor": "000000",
+							"fontBackgroudColor": "FFFFFF",
+							"frameColor": "000000"
+						}
+					],
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2019201999000006417", "size": "39", "qty": 1 },
+						{ "id": "2018201899000036064", "size": "40", "qty": 28 },
+						{ "id": "2020202099000004553", "size": "41", "qty": 34 },
+						{ "id": "2087208799000001769", "size": "42", "qty": 31 },
+						{ "id": "2087208799000001770", "size": "45", "qty": 2 }
+					]
+				},
+				{
+					"productId": "2087208799000004623",
+					"productName": "白色金尾牛皮男士休闲鞋厚底运动鞋",
+					"brandName": "ALEXANDER MCQUEEN",
+					"glsCode": "A1N-438-00138-C",
+					"imageUrl": "https://cdn15.mei.com/product/A1N-438-00138-C/ce43b9229cb95bb376e39eeb59a51a04e29331d72125eae4.jpg@300w_400h_2e_75q",
+					"marketPrice": "4200",
+					"itemPriceDto": {
+						"price": "2499",
+						"discount": "6.0",
+						"begin": "1578225327",
+						"end": "1578240000"
+					},
+					"tagListDto": [
+						{
+							"tag": "新年价",
+							"isHasExpiration": "1",
+							"beginDate": "1578240000",
+							"endDate": "1578672000",
+							"fontColor": "FFFFFF",
+							"fontBackgroudColor": "DD2828",
+							"frameColor": "DD2828"
+						},
+						{
+							"tag": "买手推荐",
+							"isHasExpiration": "0",
+							"fontColor": "000000",
+							"fontBackgroudColor": "FFFFFF",
+							"frameColor": "000000"
+						}
+					],
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2087208799000002947", "size": "40", "qty": 17 },
+						{ "id": "2086208699000002938", "size": "41", "qty": 23 },
+						{ "id": "2017201799000006940", "size": "42", "qty": 22 },
+						{ "id": "2014201499000030240", "size": "43", "qty": 5 }
+					]
+				},
+				{
+					"productId": "2019201999000010583",
+					"productName": "Alexander McQueen/麦昆 19春夏白色牛皮男士厚底运动鞋休闲鞋",
+					"brandName": "ALEXANDER MCQUEEN",
+					"glsCode": "A1N-438-00147-C",
+					"imageUrl": "https://cdn13.mei.com/product/A1N-438-00147-C/ce43b9229cb95bb3759c468031a65c8ce29331d72125eae4.jpg@300w_400h_2e_75q",
+					"marketPrice": "4200",
+					"itemPriceDto": {
+						"price": "2499",
+						"discount": "6.0",
+						"begin": "1578225327",
+						"end": "1578240000"
+					},
+					"tagListDto": [
+						{
+							"tag": "新年价",
+							"isHasExpiration": "1",
+							"beginDate": "1578240000",
+							"endDate": "1578672000",
+							"fontColor": "FFFFFF",
+							"fontBackgroudColor": "DD2828",
+							"frameColor": "DD2828"
+						},
+						{
+							"tag": "买手推荐",
+							"isHasExpiration": "0",
+							"fontColor": "000000",
+							"fontBackgroudColor": "FFFFFF",
+							"frameColor": "000000"
+						}
+					],
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2021202199000008361", "size": "39", "qty": 3 },
+						{ "id": "2017201799000006939", "size": "40", "qty": 15 },
+						{ "id": "2021202199000008362", "size": "41", "qty": 17 },
+						{ "id": "2014201499000030885", "size": "42", "qty": 13 },
+						{ "id": "2018201899000038926", "size": "43", "qty": 6 }
+					]
+				},
+				{
+					"productId": "2041204199000820645",
+					"productName": "男士黑色牛皮运动休闲鞋",
+					"brandName": "ALEXANDER MCQUEEN",
+					"glsCode": "TPT-438-00001",
+					"imageUrl": "https://cdn15.mei.com/product/TPT-438-00010/d31e06bb2599c9ac13e67fb58d2493986640a1e90b79a244.jpg@300w_400h_2e_75q",
+					"marketPrice": "4290",
+					"itemPriceDto": {
+						"price": "3299",
+						"tax": "332.27",
+						"discount": "7.7",
+						"begin": "1578225327",
+						"end": "1583164800"
+					},
+					"tagListDto": [
+						{
+							"tag": "当季新品",
+							"isHasExpiration": "0",
+							"fontColor": "FFFFFF",
+							"fontBackgroudColor": "DD2828",
+							"frameColor": "DD2828"
+						},
+						{
+							"tag": "海外直发",
+							"isHasExpiration": "0",
+							"fontColor": "000000",
+							"fontBackgroudColor": "FFFFFF",
+							"frameColor": "000000"
+						}
+					],
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2041204199000820654", "size": "39", "qty": 3 },
+						{ "id": "2041204199000820656", "size": "40", "qty": 3 },
+						{ "id": "2041204199000820658", "size": "42", "qty": 3 }
+					]
+				},
+				{
+					"productId": "2120212099000179483",
+					"productName": "女士白色小牛皮休闲运动鞋",
+					"brandName": "ALEXANDER MCQUEEN",
+					"glsCode": "TPT-460-00091",
+					"imageUrl": "https://cdn14.mei.com/product/TPT-460-00092/1031701034525/d31e06bb2599c9ac13e67fb58d2493987c262006b6495cda.jpg@300w_400h_2e_75q",
+					"marketPrice": "4560",
+					"itemPriceDto": {
+						"price": "3399",
+						"tax": "283.51",
+						"discount": "7.5",
+						"begin": "1578225327",
+						"end": "1583164800"
+					},
+					"tagListDto": [
+						{
+							"tag": "当季新品",
+							"isHasExpiration": "0",
+							"fontColor": "FFFFFF",
+							"fontBackgroudColor": "DD2828",
+							"frameColor": "DD2828"
+						},
+						{
+							"tag": "海外直发",
+							"isHasExpiration": "0",
+							"fontColor": "000000",
+							"fontBackgroudColor": "FFFFFF",
+							"frameColor": "000000"
+						}
+					],
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2120212099000179485", "size": "36.0", "qty": 5 },
+						{ "id": "2120212099000179487", "size": "37.0", "qty": 2 }
+					]
+				},
+				{
+					"productId": "2041204199000826454",
+					"productName": "男士厚底黑尾小白鞋休闲运动鞋",
+					"brandName": "ALEXANDER MCQUEEN",
+					"glsCode": "TPT-438-00033",
+					"imageUrl": "https://cdn15.mei.com/product/TPT-438-00034/d31e06bb2599c9ac13e67fb58d249398c9223b12cdbe456f.jpg@300w_400h_2e_75q",
+					"marketPrice": "5000",
+					"itemPriceDto": {
+						"price": "3729",
+						"tax": "311.03",
+						"discount": "7.5",
+						"begin": "1578225327",
+						"end": "1583164800"
+					},
+					"tagListDto": [
+						{
+							"tag": "当季新品",
+							"isHasExpiration": "0",
+							"fontColor": "FFFFFF",
+							"fontBackgroudColor": "DD2828",
+							"frameColor": "DD2828"
+						},
+						{
+							"tag": "海外直发",
+							"isHasExpiration": "0",
+							"fontColor": "000000",
+							"fontBackgroudColor": "FFFFFF",
+							"frameColor": "000000"
+						}
+					],
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2041204199000826457", "size": "41", "qty": 4 },
+						{ "id": "2041204199000826459", "size": "43", "qty": 2 }
+					]
+				},
+				{
+					"productId": "2120212099000179304",
+					"productName": "女士白色牛皮运动鞋",
+					"brandName": "ALEXANDER MCQUEEN",
+					"glsCode": "TPT-460-00045",
+					"imageUrl": "https://cdn15.mei.com/product/TPT-460-00046/1031701033565/d31e06bb2599c9ac13e67fb58d249398fb186c44e4a69c6e.jpg@300w_400h_2e_75q",
+					"marketPrice": "4420",
+					"itemPriceDto": {
+						"price": "3399",
+						"tax": "283.51",
+						"discount": "7.7",
+						"begin": "1578225327",
+						"end": "1583164800"
+					},
+					"tagListDto": [
+						{
+							"tag": "当季新品",
+							"isHasExpiration": "0",
+							"fontColor": "FFFFFF",
+							"fontBackgroudColor": "DD2828",
+							"frameColor": "DD2828"
+						},
+						{
+							"tag": "海外直发",
+							"isHasExpiration": "0",
+							"fontColor": "000000",
+							"fontBackgroudColor": "FFFFFF",
+							"frameColor": "000000"
+						}
+					],
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2120212099000179311", "size": "39", "qty": 2 },
+						{ "id": "2120212099000179309", "size": "40", "qty": 2 },
+						{ "id": "2120212099000179313", "size": "42", "qty": 2 }
+					]
+				},
+				{
+					"productId": "2120212099000179222",
+					"productName": "女士白色蓝底休闲运动鞋",
+					"brandName": "ALEXANDER MCQUEEN",
+					"glsCode": "TPT-460-00027",
+					"imageUrl": "https://cdn15.mei.com/product/TPT-460-00028/d31e06bb2599c9ac13e67fb58d249398d7241b2d56859813.jpg@300w_400h_2e_75q",
+					"marketPrice": "4460",
+					"itemPriceDto": {
+						"price": "3429",
+						"tax": "286.01",
+						"discount": "7.7",
+						"begin": "1578225327",
+						"end": "1583164800"
+					},
+					"tagListDto": [
+						{
+							"tag": "当季新品",
+							"isHasExpiration": "0",
+							"fontColor": "FFFFFF",
+							"fontBackgroudColor": "DD2828",
+							"frameColor": "DD2828"
+						},
+						{
+							"tag": "海外直发",
+							"isHasExpiration": "0",
+							"fontColor": "000000",
+							"fontBackgroudColor": "FFFFFF",
+							"frameColor": "000000"
+						}
+					],
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2120212099000179226", "size": "35", "qty": 1 },
+						{ "id": "2120212099000179227", "size": "36", "qty": 2 },
+						{ "id": "2120212099000179229", "size": "38", "qty": 2 }
+					]
+				},
+				{
+					"productId": "2042204299000837407",
+					"productName": "男士奶油色牛皮运动鞋",
+					"brandName": "ALEXANDER MCQUEEN",
+					"glsCode": "TPT-439-00001",
+					"imageUrl": "https://cdn14.mei.com/product/TPT-439-00002/d31e06bb2599c9ac13e67fb58d249398c2433e3fd67393d7.jpg@300w_400h_2e_75q",
+					"marketPrice": "6400",
+					"itemPriceDto": {
+						"price": "4779",
+						"tax": "398.62",
+						"discount": "7.5",
+						"begin": "1578225327",
+						"end": "1583164800"
+					},
+					"tagListDto": [
+						{
+							"tag": "当季新品",
+							"isHasExpiration": "0",
+							"fontColor": "FFFFFF",
+							"fontBackgroudColor": "DD2828",
+							"frameColor": "DD2828"
+						},
+						{
+							"tag": "海外直发",
+							"isHasExpiration": "0",
+							"fontColor": "000000",
+							"fontBackgroudColor": "FFFFFF",
+							"frameColor": "000000"
+						}
+					],
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2042204299000837409", "size": "40", "qty": 1 },
+						{ "id": "2042204299000837411", "size": "41", "qty": 1 },
+						{ "id": "2042204299000837412", "size": "41.5", "qty": 1 },
+						{ "id": "2042204299000837413", "size": "42", "qty": 1 }
+					]
+				}
+			],
+			"block_status": 0,
+			"isHKBlock": 0
+		},
+		{
+			"eventId": "2042204290000007318",
+			"eventCode": "46293",
+			"siloId": "2018000100000000004",
+			"siloName": "鞋履",
+			"englishName": "BENATIVE",
+			"chineseName": "秋冬鞋履精选",
+			"imageUrl": "https://cdn13.mei.com/category/20200102/40e5b1ce2869db42c4ac832c83542cc4ce6dc3676f54cd06.jpg",
+			"discount": "1.6折",
+			"spm_b": "13877466",
+			"isBazzer": "0",
+			"isCrossBorder": "0",
+			"isSeasonNew": "0",
+			"isOverseasend": "0",
+			"isMobile": "0",
+			"isFullprice": "0",
+			"isDisplayBrand": "1",
+			"totalCount": 183,
+			"products": [
+				{
+					"productId": "2017201799000022051",
+					"productName": "BENATIVE/本那黑色修身弹力粗跟高筒女士过膝靴长靴",
+					"brandName": "BENATIVE",
+					"glsCode": "BEN-2870-100001-C",
+					"imageUrl": "https://cdn13.mei.com/product/BEN-2870-100001-C/40e5b1ce2869db423bd981ba8f21d1dc7189f6a6accf1e3fee34caac19966ba7.jpg@300w_400h_2e_75q",
+					"marketPrice": "4500",
+					"itemPriceDto": {
+						"price": "699",
+						"discount": "1.6",
+						"begin": "1578225327",
+						"end": "1578240000"
+					},
+					"tagListDto": [
+						{
+							"tag": "今日疯抢",
+							"isHasExpiration": "1",
+							"beginDate": "1578632400",
+							"endDate": "1578639599",
+							"fontColor": "FFFFFF",
+							"fontBackgroudColor": "DD2828",
+							"frameColor": "DD2828"
+						}
+					],
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2022202299000020021", "size": "35", "qty": 372 },
+						{ "id": "2015201599000014597", "size": "36", "qty": 551 },
+						{ "id": "2017201799000015502", "size": "37", "qty": 580 },
+						{ "id": "2021202199000016704", "size": "38", "qty": 341 },
+						{ "id": "2015201599000014595", "size": "39", "qty": 318 },
+						{ "id": "2015201599000014596", "size": "40", "qty": 124 }
+					]
+				},
+				{
+					"productId": "2087208799000018623",
+					"productName": "BENATIVE/本那灰色简约尖头潮流粗高跟百搭女士短靴",
+					"brandName": "BENATIVE",
+					"glsCode": "BEN-2864-100024-C",
+					"imageUrl": "https://cdn14.mei.com/product/BEN-2864-100024-C/40e5b1ce2869db4252803d149484ace388c817a4fc056d156b564b8583acf5df.jpg@300w_400h_2e_75q",
+					"marketPrice": "2180",
+					"itemPriceDto": {
+						"price": "699",
+						"discount": "3.3",
+						"begin": "1578225327",
+						"end": "1578240000"
+					},
+					"tagListDto": [
+						{
+							"tag": "今日疯抢",
+							"isHasExpiration": "1",
+							"beginDate": "1578632400",
+							"endDate": "1578639599",
+							"fontColor": "FFFFFF",
+							"fontBackgroudColor": "DD2828",
+							"frameColor": "DD2828"
+						}
+					],
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2015201599000014628", "size": "38", "qty": 166 },
+						{ "id": "2021202199000016731", "size": "39", "qty": 99 }
+					]
+				},
+				{
+					"productId": "2017201799000022052",
+					"productName": "BENATIVE/本那黑色修身弹力粗跟高筒绒面女士过膝靴",
+					"brandName": "BENATIVE",
+					"glsCode": "BEN-2870-100002-C",
+					"imageUrl": "https://cdn14.mei.com/product/BEN-2870-100002-C/40e5b1ce2869db429fa32c304c509783f7b6efa1da985b6b6e2847d3100fbf5c.jpg@300w_400h_2e_75q",
+					"marketPrice": "4500",
+					"itemPriceDto": {
+						"price": "699",
+						"discount": "1.6",
+						"begin": "1578225327",
+						"end": "1578240000"
+					},
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2019201999000017651", "size": "34", "qty": 1 },
+						{ "id": "2018201899000047277", "size": "39", "qty": 100 },
+						{ "id": "2017201799000015503", "size": "40", "qty": 54 }
+					]
+				},
+				{
+					"productId": "2015201599000021079",
+					"productName": "BENATIVE/本那黑色弹力羊猄布彩跟设计时尚复古女士过膝长靴",
+					"brandName": "BENATIVE",
+					"glsCode": "BEN-2870-100007-C",
+					"imageUrl": "https://cdn14.mei.com/product/BEN-2870-100007-C/40e5b1ce2869db429d451952a94fb04f46ebd8285edf3ef744ba1b119ff93c4a.jpg@300w_400h_2e_75q",
+					"marketPrice": "2480",
+					"itemPriceDto": {
+						"price": "699",
+						"discount": "2.9",
+						"begin": "1578225327",
+						"end": "1578240000"
+					},
+					"tagListDto": [
+						{
+							"tag": "今日疯抢",
+							"isHasExpiration": "1",
+							"beginDate": "1578632400",
+							"endDate": "1578639599",
+							"fontColor": "FFFFFF",
+							"fontBackgroudColor": "DD2828",
+							"frameColor": "DD2828"
+						}
+					],
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2016201699000060451", "size": "39", "qty": 83 }
+					]
+				},
+				{
+					"productId": "2019201999000024255",
+					"productName": "BENATIVE/本那黑色简约拼接优雅气质女士过膝长靴",
+					"brandName": "BENATIVE",
+					"glsCode": "BEN-2868-100001-C",
+					"imageUrl": "https://cdn12.mei.com/product/BEN-2868-100001-C/40e5b1ce2869db421ff066f47b5813ed3b7a736d08321b93e6944488a9975e17.jpg@300w_400h_2e_75q",
+					"marketPrice": "2780",
+					"itemPriceDto": {
+						"price": "699",
+						"discount": "2.6",
+						"begin": "1578225327",
+						"end": "1578240000"
+					},
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2014201499000039408", "size": "38", "qty": 62 },
+						{ "id": "2022202299000020042", "size": "39", "qty": 9 }
+					]
+				},
+				{
+					"productId": "2017201799000022059",
+					"productName": "BENATIVE/本那黑色反绒羊皮复古印花拼接尖头女士平底鞋",
+					"brandName": "BENATIVE",
+					"glsCode": "BEN-412-100002-C",
+					"imageUrl": "https://cdn15.mei.com/product/BEN-412-100002-C/22d50eb48518a5500b296df2cab561e6af6681497b89157ada08020790681d7a.jpg@300w_400h_2e_75q",
+					"marketPrice": "2680",
+					"itemPriceDto": {
+						"price": "1380",
+						"discount": "5.2",
+						"begin": "1578225327",
+						"end": "1578240000"
+					},
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2017201799000015552", "size": "34", "qty": 2 },
+						{ "id": "2015201599000014655", "size": "36", "qty": 21 },
+						{ "id": "2015201599000014657", "size": "37", "qty": 20 },
+						{ "id": "2018201899000047318", "size": "38", "qty": 16 },
+						{ "id": "2022202299000020082", "size": "39", "qty": 5 }
+					]
+				},
+				{
+					"productId": "2086208699000018102",
+					"productName": "BENATIVE/本那黑色皮质拼接圆头厚底增高女士短靴",
+					"brandName": "BENATIVE",
+					"glsCode": "BEN-458-100001-C",
+					"imageUrl": "https://cdn15.mei.com/product/BEN-458-100001-C/40e5b1ce2869db427c47a615fee7bb113e94c573795f6056472289ef8ad808fc.jpg@300w_400h_2e_75q",
+					"marketPrice": "4280",
+					"itemPriceDto": {
+						"price": "1599",
+						"discount": "3.8",
+						"begin": "1578225327",
+						"end": "1589737800"
+					},
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2020202099000014783", "size": "34", "qty": 6 },
+						{ "id": "2016201699000060430", "size": "35", "qty": 12 },
+						{ "id": "2021202199000016727", "size": "37", "qty": 27 },
+						{ "id": "2017201799000015524", "size": "38", "qty": 19 }
+					]
+				},
+				{
+					"productId": "2087208799000018625",
+					"productName": "BENATIVE/本那黑红色羊皮复古狐狸贴片个性百搭女士高筒靴",
+					"brandName": "BENATIVE",
+					"glsCode": "BEN-2866-100005-C",
+					"imageUrl": "https://cdn13.mei.com/product/BEN-2866-100005-C/40e5b1ce2869db42794cca97d7d505ab00a673162834dfe2667a1f0e5c3325ec.jpg@300w_400h_2e_75q",
+					"marketPrice": "4980",
+					"itemPriceDto": {
+						"price": "2580",
+						"discount": "5.2",
+						"begin": "1578225327",
+						"end": "1589737800"
+					},
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2015201599000014653", "size": "34", "qty": 2 },
+						{ "id": "2021202199000016752", "size": "35", "qty": 12 },
+						{ "id": "2021202199000016751", "size": "36", "qty": 21 },
+						{ "id": "2017201799000015551", "size": "37", "qty": 8 },
+						{ "id": "2016201699000060453", "size": "38", "qty": 1 },
+						{ "id": "2022202299000020080", "size": "39", "qty": 2 }
+					]
+				},
+				{
+					"productId": "2186218699000003593",
+					"productName": "BENATIVE/本那白色牛皮个性字母印花系带魔术贴女士休闲鞋",
+					"brandName": "BENATIVE",
+					"glsCode": "BEN-413-100012-C",
+					"imageUrl": "https://cdn12.mei.com/product/BEN-413-100012-C/22d50eb48518a550236cee82a23cb5526481a71c01a6f4e64d94d519501d6544.jpg@300w_400h_2e_75q",
+					"marketPrice": "2380",
+					"itemPriceDto": {
+						"price": "980",
+						"discount": "4.2",
+						"begin": "1578225327",
+						"end": "1578240000"
+					},
+					"tNewProduct": 0
+				}
+			],
+			"block_status": 0,
+			"isHKBlock": 0
+		},
+		{
+			"eventId": "2041204190000007499",
+			"eventCode": "46065",
+			"siloId": "2018000100000000004",
+			"siloName": "鞋履",
+			"englishName": "STELLA MCCARTNEY",
+			"chineseName": "潮流鞋靴 走出自信",
+			"imageUrl": "https://cdn15.mei.com/category/20191219/38e13dee801da73d0b0282585210862ed72eb86efc6c943a.jpg",
+			"discount": "2.8折",
+			"spm_b": "13831487",
+			"isBazzer": "0",
+			"isCrossBorder": "0",
+			"isSeasonNew": "0",
+			"isOverseasend": "0",
+			"isMobile": "0",
+			"isFullprice": "0",
+			"isDisplayBrand": "1",
+			"totalCount": 25,
+			"products": [
+				{
+					"productId": "2085208599000011630",
+					"productName": "白色锯齿厚底女士时尚潮流休闲鞋",
+					"brandName": "STELLA McCARTNEY",
+					"glsCode": "S3N-460-00136-C",
+					"imageUrl": "https://cdn14.mei.com/product/S3N-460-00136-C/d6291aed9feedea507a8435ad72c7971e29331d72125eae4.jpg@300w_400h_2e_75q",
+					"marketPrice": "5750",
+					"itemPriceDto": {
+						"price": "2899",
+						"discount": "5.1",
+						"begin": "1578225327",
+						"end": "1578240000"
+					},
+					"tagListDto": [
+						{
+							"tag": "今日疯抢",
+							"isHasExpiration": "1",
+							"beginDate": "1578394800",
+							"endDate": "1578401999",
+							"fontColor": "FFFFFF",
+							"fontBackgroudColor": "DD2828",
+							"frameColor": "DD2828"
+						},
+						{
+							"tag": "买手推荐",
+							"isHasExpiration": "0",
+							"fontColor": "000000",
+							"fontBackgroudColor": "FFFFFF",
+							"frameColor": "000000"
+						},
+						{
+							"tag": "当季新品",
+							"isHasExpiration": "0",
+							"fontColor": "FFFFFF",
+							"fontBackgroudColor": "DD2828",
+							"frameColor": "DD2828"
+						}
+					],
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2019201999000009678", "size": "230", "qty": 3 },
+						{ "id": "2020202099000006790", "size": "233", "qty": 3 },
+						{ "id": "2016201699000052234", "size": "235", "qty": 4 },
+						{ "id": "2022202299000012157", "size": "240", "qty": 1 },
+						{ "id": "2087208799000003949", "size": "245", "qty": 2 }
+					]
+				},
+				{
+					"productId": "2035203599000001172",
+					"productName": "金色星星时尚百搭休闲女士厚底鞋休闲鞋",
+					"brandName": "STELLA McCARTNEY",
+					"glsCode": "SXB-460-00009",
+					"imageUrl": "https://cdn13.mei.com/product/SXB-460-00009/819fececbccfb61a892cc8852838c7efc693e3e5f89ae71a.jpg@300w_400h_2e_75q",
+					"marketPrice": "4189",
+					"itemPriceDto": {
+						"price": "1499",
+						"discount": "3.6",
+						"begin": "1578225327",
+						"end": "1578240000"
+					},
+					"tagListDto": [
+						{
+							"tag": "今日疯抢",
+							"isHasExpiration": "1",
+							"beginDate": "1578567600",
+							"endDate": "1578574799",
+							"fontColor": "FFFFFF",
+							"fontBackgroudColor": "DD2828",
+							"frameColor": "DD2828"
+						},
+						{
+							"tag": "买手推荐",
+							"isHasExpiration": "0",
+							"fontColor": "000000",
+							"fontBackgroudColor": "FFFFFF",
+							"frameColor": "000000"
+						},
+						{
+							"tag": "当季新品",
+							"isHasExpiration": "0",
+							"fontColor": "FFFFFF",
+							"fontBackgroudColor": "DD2828",
+							"frameColor": "DD2828"
+						}
+					],
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2040204099000635727", "size": "37", "qty": 1 },
+						{ "id": "2040204099000635723", "size": "38", "qty": 1 },
+						{ "id": "2040204099000635896", "size": "39", "qty": 1 }
+					]
+				},
+				{
+					"productId": "2086208699000004267",
+					"productName": "Stella McCartney黑色弹力织物简约时尚百搭女士高帮休闲鞋运动鞋",
+					"brandName": "STELLA McCARTNEY",
+					"glsCode": "S3N-460-00122-C",
+					"imageUrl": "https://cdn15.mei.com/product/S3N-460-00122-C/30cf8a1f7548569ca263734da784b3bafe5b1db764d32dbb.jpg@300w_400h_2e_75q",
+					"marketPrice": "5900",
+					"itemPriceDto": {
+						"price": "2999",
+						"discount": "5.1",
+						"begin": "1578225327",
+						"end": "1578240000"
+					},
+					"tagListDto": [
+						{
+							"tag": "今日疯抢",
+							"isHasExpiration": "1",
+							"beginDate": "1578567600",
+							"endDate": "1578574799",
+							"fontColor": "FFFFFF",
+							"fontBackgroudColor": "DD2828",
+							"frameColor": "DD2828"
+						},
+						{
+							"tag": "买手推荐",
+							"isHasExpiration": "0",
+							"fontColor": "000000",
+							"fontBackgroudColor": "FFFFFF",
+							"frameColor": "000000"
+						},
+						{
+							"tag": "当季新品",
+							"isHasExpiration": "0",
+							"fontColor": "FFFFFF",
+							"fontBackgroudColor": "DD2828",
+							"frameColor": "DD2828"
+						}
+					],
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2084208499000001884", "size": "36", "qty": 1 },
+						{ "id": "2016201699000050376", "size": "39", "qty": 1 },
+						{ "id": "2087208799000002047", "size": "40", "qty": 1 }
+					]
+				},
+				{
+					"productId": "2041204199000781627",
+					"productName": "酒红色星星街头时尚女士厚底鞋休闲鞋",
+					"brandName": "STELLA McCARTNEY",
+					"glsCode": "SXB-460-00022",
+					"imageUrl": "https://cdn12.mei.com/product/SXB-460-00022/819fececbccfb61a2266ff3f045bc3c9c693e3e5f89ae71a.jpg@300w_400h_2e_75q",
+					"marketPrice": "4189",
+					"itemPriceDto": {
+						"price": "1499",
+						"discount": "3.6",
+						"begin": "1578225327",
+						"end": "1578240000"
+					},
+					"tagListDto": [
+						{
+							"tag": "今日疯抢",
+							"isHasExpiration": "1",
+							"beginDate": "1578654000",
+							"endDate": "1578661199",
+							"fontColor": "FFFFFF",
+							"fontBackgroudColor": "DD2828",
+							"frameColor": "DD2828"
+						},
+						{
+							"tag": "买手推荐",
+							"isHasExpiration": "0",
+							"fontColor": "000000",
+							"fontBackgroudColor": "FFFFFF",
+							"frameColor": "000000"
+						},
+						{
+							"tag": "当季新品",
+							"isHasExpiration": "0",
+							"fontColor": "FFFFFF",
+							"fontBackgroudColor": "DD2828",
+							"frameColor": "DD2828"
+						}
+					],
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2040204099000635725", "size": "36", "qty": 1 }
+					]
+				},
+				{
+					"productId": "2020202099000014401",
+					"productName": "蓝色魔术贴女士时尚潮流休闲鞋",
+					"brandName": "STELLA McCARTNEY",
+					"glsCode": "S3N-460-00133-C",
+					"imageUrl": "https://cdn12.mei.com/product/S3N-460-00133-C/30cf8a1f7548569c94f983c2fa10b607c693e3e5f89ae71a.jpg@300w_400h_2e_75q",
+					"marketPrice": "5200",
+					"itemPriceDto": {
+						"price": "2699",
+						"discount": "5.2",
+						"begin": "1578225327",
+						"end": "1578240000"
+					},
+					"tagListDto": [
+						{
+							"tag": "今日疯抢",
+							"isHasExpiration": "1",
+							"beginDate": "1578373200",
+							"endDate": "1578380399",
+							"fontColor": "FFFFFF",
+							"fontBackgroudColor": "DD2828",
+							"frameColor": "DD2828"
+						},
+						{
+							"tag": "当季新品",
+							"isHasExpiration": "0",
+							"fontColor": "FFFFFF",
+							"fontBackgroudColor": "DD2828",
+							"frameColor": "DD2828"
+						}
+					],
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2017201799000007365", "size": "225", "qty": 4 },
+						{ "id": "2016201699000052236", "size": "230", "qty": 12 },
+						{ "id": "2016201699000052238", "size": "235", "qty": 11 },
+						{ "id": "2084208499000003824", "size": "240", "qty": 7 },
+						{ "id": "2017201799000007367", "size": "245", "qty": 3 }
+					]
+				},
+				{
+					"productId": "2016201699000060206",
+					"productName": "白黄蓝拼色魔术贴设计女士运动休闲鞋",
+					"brandName": "STELLA McCARTNEY",
+					"glsCode": "S3N-460-00140-C",
+					"imageUrl": "https://cdn14.mei.com/product/S3N-460-00140-C/ca2687e4995fe2f52e20e56b12d58806604c8404549d27fe.jpg@300w_400h_2e_75q",
+					"marketPrice": "5200",
+					"itemPriceDto": {
+						"price": "2599",
+						"discount": "5.0",
+						"begin": "1578225327",
+						"end": "1578240000"
+					},
+					"tagListDto": [
+						{
+							"tag": "今日疯抢",
+							"isHasExpiration": "1",
+							"beginDate": "1578373200",
+							"endDate": "1578380399",
+							"fontColor": "FFFFFF",
+							"fontBackgroudColor": "DD2828",
+							"frameColor": "DD2828"
+						},
+						{
+							"tag": "当季新品",
+							"isHasExpiration": "0",
+							"fontColor": "FFFFFF",
+							"fontBackgroudColor": "DD2828",
+							"frameColor": "DD2828"
+						}
+					],
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2084208499000003823", "size": "225", "qty": 3 },
+						{ "id": "2016201699000052235", "size": "230", "qty": 10 },
+						{ "id": "2019201999000009681", "size": "235", "qty": 10 },
+						{ "id": "2014201499000031261", "size": "240", "qty": 3 },
+						{ "id": "2014201499000031262", "size": "245", "qty": 2 }
+					]
+				},
+				{
+					"productId": "2019201999000017454",
+					"productName": "黑色星星锯齿厚底女士时尚潮流休闲鞋",
+					"brandName": "STELLA McCARTNEY",
+					"glsCode": "S3N-460-00139-C",
+					"imageUrl": "https://cdn12.mei.com/product/S3N-460-00139-C/30cf8a1f7548569c380804133b8c86a5604c8404549d27fe.jpg@300w_400h_2e_75q",
+					"marketPrice": "6600",
+					"itemPriceDto": {
+						"price": "3299",
+						"discount": "5.0",
+						"begin": "1578225327",
+						"end": "1578240000"
+					},
+					"tagListDto": [
+						{
+							"tag": "今日疯抢",
+							"isHasExpiration": "1",
+							"beginDate": "1578394800",
+							"endDate": "1578401999",
+							"fontColor": "FFFFFF",
+							"fontBackgroudColor": "DD2828",
+							"frameColor": "DD2828"
+						},
+						{
+							"tag": "当季新品",
+							"isHasExpiration": "0",
+							"fontColor": "FFFFFF",
+							"fontBackgroudColor": "DD2828",
+							"frameColor": "DD2828"
+						}
+					],
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2015201599000006391", "size": "225", "qty": 1 },
+						{ "id": "2016201699000052241", "size": "230", "qty": 1 },
+						{ "id": "2022202299000012158", "size": "233", "qty": 1 },
+						{ "id": "2021202199000008759", "size": "235", "qty": 7 },
+						{ "id": "2018201899000039310", "size": "238", "qty": 1 },
+						{ "id": "2021202199000008760", "size": "240", "qty": 6 },
+						{ "id": "2020202099000006795", "size": "243", "qty": 3 },
+						{ "id": "2015201599000006390", "size": "245", "qty": 3 }
+					]
+				},
+				{
+					"productId": "2017201799000015159",
+					"productName": "白蓝红拼色魔术贴设计女士运动休闲鞋",
+					"brandName": "STELLA McCARTNEY",
+					"glsCode": "S3N-460-00135-C",
+					"imageUrl": "https://cdn15.mei.com/product/S3N-460-00135-C/d6291aed9feedea5764a9b267c0358cee29331d72125eae4.jpg@300w_400h_2e_75q",
+					"marketPrice": "5200",
+					"itemPriceDto": {
+						"price": "2599",
+						"discount": "5.0",
+						"begin": "1578225327",
+						"end": "1578240000"
+					},
+					"tagListDto": [
+						{
+							"tag": "今日疯抢",
+							"isHasExpiration": "1",
+							"beginDate": "1578373200",
+							"endDate": "1578380399",
+							"fontColor": "FFFFFF",
+							"fontBackgroudColor": "DD2828",
+							"frameColor": "DD2828"
+						},
+						{
+							"tag": "当季新品",
+							"isHasExpiration": "0",
+							"fontColor": "FFFFFF",
+							"fontBackgroudColor": "DD2828",
+							"frameColor": "DD2828"
+						}
+					],
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2016201699000052233", "size": "225", "qty": 2 },
+						{ "id": "2019201999000009680", "size": "230", "qty": 8 },
+						{ "id": "2086208699000003963", "size": "235", "qty": 6 },
+						{ "id": "2019201999000009682", "size": "240", "qty": 2 },
+						{ "id": "2020202099000006791", "size": "245", "qty": 3 }
+					]
+				},
+				{
+					"productId": "2040204099000713724",
+					"productName": "黑色魔术贴LOGO字母女士运动休闲鞋",
+					"brandName": "STELLA McCARTNEY",
+					"glsCode": "SXB-460-00036",
+					"imageUrl": "https://cdn13.mei.com/product/S3N-460-F7254/d6291aed9feedea54c6b27a83f54961b.jpg@300w_400h_2e_75q",
+					"marketPrice": "5200",
+					"itemPriceDto": {
+						"price": "2599",
+						"discount": "5.0",
+						"begin": "1578225327",
+						"end": "1578459600"
+					},
+					"tagListDto": [
+						{
+							"tag": "今日疯抢",
+							"isHasExpiration": "1",
+							"beginDate": "1578459600",
+							"endDate": "1578466799",
+							"fontColor": "FFFFFF",
+							"fontBackgroudColor": "DD2828",
+							"frameColor": "DD2828"
+						},
+						{
+							"tag": "当季新品",
+							"isHasExpiration": "0",
+							"fontColor": "FFFFFF",
+							"fontBackgroudColor": "DD2828",
+							"frameColor": "DD2828"
+						}
+					],
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2015201599000006387", "size": "225", "qty": 4 },
+						{ "id": "2020202099000006792", "size": "230", "qty": 9 },
+						{ "id": "2087208799000003950", "size": "235", "qty": 4 },
+						{ "id": "2014201499000031263", "size": "240", "qty": 3 },
+						{ "id": "2018201899000039308", "size": "245", "qty": 1 }
+					]
+				}
+			],
+			"block_status": 0,
+			"isHKBlock": 0
+		}
+	]
+}

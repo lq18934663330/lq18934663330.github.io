@@ -1,0 +1,1554 @@
+{
+	"userIP": "119.79.228.23",
+	"errorNum": "0",
+	"totalPage": 6,
+	"eventList": [
+		{
+			"eventId": "2040204090000006363",
+			"eventCode": "39321",
+			"siloId": "2018000100000000006",
+			"siloName": "生活",
+			"englishName": "GELEISTORY ",
+			"chineseName": "简约时尚 床品集合",
+			"imageUrl": "https://cdn15.mei.com/category/20190715/ea16223013eaea441c1b68da4da26007d72eb86efc6c943a.jpg",
+			"discount": "1.9折",
+			"spm_b": "12639313",
+			"isBazzer": "0",
+			"isCrossBorder": "0",
+			"isSeasonNew": "0",
+			"isOverseasend": "0",
+			"isMobile": "0",
+			"isFullprice": "0",
+			"isDisplayBrand": "1",
+			"totalCount": 192,
+			"products": [
+				{
+					"productId": "2120212099000155344",
+					"productName": "19新款原味系列宫粉60支长绒棉1.5米床",
+					"brandName": "GELEISTORY",
+					"glsCode": "GS9-912-00140",
+					"imageUrl": "https://cdn15.mei.com/product/GS9-912-00140/b6c519d26a72690652522691ca1024b9.jpg@300w_400h_2e_75q",
+					"marketPrice": "3699",
+					"itemPriceDto": {
+						"price": "689",
+						"discount": "1.9",
+						"begin": "1578224875",
+						"end": "1582905600"
+					},
+					"tagListDto": [
+						{
+							"tag": "买手推荐",
+							"isHasExpiration": "0",
+							"fontColor": "000000",
+							"fontBackgroudColor": "FFFFFF",
+							"frameColor": "000000",
+							"isRadius": 0,
+							"isGradient": 0
+						}
+					],
+					"tNewProduct": 0
+				},
+				{
+					"productId": "2120212099000155296",
+					"productName": "天丝双拼⾃由⻛系列紫粉1.5米",
+					"brandName": "GELEISTORY",
+					"glsCode": "GS9-912-00092",
+					"imageUrl": "https://cdn15.mei.com/product/GS9-912-00092/b6c519d26a7269064bc88ee747c971b9.jpg@300w_400h_2e_75q",
+					"marketPrice": "3699",
+					"itemPriceDto": {
+						"price": "689",
+						"discount": "1.9",
+						"begin": "1578224875",
+						"end": "1582905600"
+					},
+					"tagListDto": [
+						{
+							"tag": "买手推荐",
+							"isHasExpiration": "0",
+							"fontColor": "000000",
+							"fontBackgroudColor": "FFFFFF",
+							"frameColor": "000000",
+							"isRadius": 0,
+							"isGradient": 0
+						}
+					],
+					"tNewProduct": 0
+				},
+				{
+					"productId": "2120212099000155284",
+					"productName": "天丝纯⾊⻛尚系列忘红1.5米",
+					"brandName": "GELEISTORY",
+					"glsCode": "GS9-912-00080",
+					"imageUrl": "https://cdn13.mei.com/product/GS9-912-00080/b6c519d26a7269069b0016f38e184e32.jpg@300w_400h_2e_75q",
+					"marketPrice": "3699",
+					"itemPriceDto": {
+						"price": "689",
+						"discount": "1.9",
+						"begin": "1578224875",
+						"end": "1582905600"
+					},
+					"tagListDto": [
+						{
+							"tag": "买手推荐",
+							"isHasExpiration": "0",
+							"fontColor": "000000",
+							"fontBackgroudColor": "FFFFFF",
+							"frameColor": "000000",
+							"isRadius": 0,
+							"isGradient": 0
+						}
+					],
+					"tNewProduct": 0
+				},
+				{
+					"productId": "2042204299000810996",
+					"productName": "19年重磅绣花100支床品四件套1.8米床",
+					"brandName": "GELEISTORY",
+					"glsCode": "GS9-912-00040",
+					"imageUrl": "https://cdn12.mei.com/product/GS9-912-00040/b6c519d26a726906a295ebc0c0473323.jpg@300w_400h_2e_75q",
+					"marketPrice": "4399",
+					"itemPriceDto": {
+						"price": "1688",
+						"discount": "3.9",
+						"begin": "1578224875",
+						"end": "1582905600"
+					},
+					"tNewProduct": 0
+				},
+				{
+					"productId": "2042204299000807781",
+					"productName": "祖母绿埃及棉100支全棉四件套1.5米床",
+					"brandName": "GELEISTORY",
+					"glsCode": "GS9-912-00011",
+					"imageUrl": "https://cdn13.mei.com/product/GS9-912-00011/b6c519d26a7269062850bb5d66344b1e.jpg@300w_400h_2e_75q",
+					"marketPrice": "3999",
+					"itemPriceDto": {
+						"price": "1388",
+						"discount": "3.5",
+						"begin": "1578224875",
+						"end": "1582905600"
+					},
+					"tNewProduct": 0
+				},
+				{
+					"productId": "2042204299000807785",
+					"productName": "烟酒红埃及棉100支全棉四件套1.5米床",
+					"brandName": "GELEISTORY",
+					"glsCode": "GS9-912-00015",
+					"imageUrl": "https://cdn12.mei.com/product/GS9-912-00015/b6c519d26a726906e53cd243b5353c28.jpg@300w_400h_2e_75q",
+					"marketPrice": "3999",
+					"itemPriceDto": {
+						"price": "1388",
+						"discount": "3.5",
+						"begin": "1578224875",
+						"end": "1582905600"
+					},
+					"tNewProduct": 0
+				},
+				{
+					"productId": "2042204299000807787",
+					"productName": "海松蓝埃及棉100支全棉四件套1.5米床",
+					"brandName": "GELEISTORY",
+					"glsCode": "GS9-912-00017",
+					"imageUrl": "https://cdn15.mei.com/product/GS9-912-00017/b6c519d26a726906b034c0b1ca0213ea.jpg@300w_400h_2e_75q",
+					"marketPrice": "3999",
+					"itemPriceDto": {
+						"price": "1388",
+						"discount": "3.5",
+						"begin": "1578224875",
+						"end": "1582905600"
+					},
+					"tNewProduct": 0
+				},
+				{
+					"productId": "2042204299000807788",
+					"productName": "海松蓝埃及棉100支全棉四件套1.8米床",
+					"brandName": "GELEISTORY",
+					"glsCode": "GS9-912-00018",
+					"imageUrl": "https://cdn12.mei.com/product/GS9-912-00018/b6c519d26a726906ba09afab8e21c56a.jpg@300w_400h_2e_75q",
+					"marketPrice": "3999",
+					"itemPriceDto": {
+						"price": "1388",
+						"discount": "3.5",
+						"begin": "1578224875",
+						"end": "1582905600"
+					},
+					"tNewProduct": 0
+				},
+				{
+					"productId": "2042204299000807793",
+					"productName": "红色埃及棉140支全棉四件套1.5米床",
+					"brandName": "GELEISTORY",
+					"glsCode": "GS9-912-00023",
+					"imageUrl": "https://cdn15.mei.com/product/GS9-912-00023/b6c519d26a7269064fb64bb884fde8c2.jpg@300w_400h_2e_75q",
+					"marketPrice": "4399",
+					"itemPriceDto": {
+						"price": "1999",
+						"discount": "4.6",
+						"begin": "1578224875",
+						"end": "1582905600"
+					},
+					"tNewProduct": 0
+				}
+			],
+			"block_status": 0,
+			"isHKBlock": 0
+		},
+		{
+			"eventId": "2041204190000007522",
+			"eventCode": "46175",
+			"siloId": "2018000100000000006",
+			"siloName": "生活",
+			"englishName": "LA MAISON DE DOMITILLE ",
+			"chineseName": "法国馨亭时尚床品",
+			"imageUrl": "https://cdn15.mei.com/category/20191226/16385f423b3629c69b87b6b4f9ee93e1d4fa53a986efd91b.jpg",
+			"discount": "2折",
+			"spm_b": "13854832",
+			"isBazzer": "0",
+			"isCrossBorder": "0",
+			"isSeasonNew": "0",
+			"isOverseasend": "0",
+			"isMobile": "0",
+			"isFullprice": "0",
+			"isDisplayBrand": "1",
+			"totalCount": 304,
+			"products": [
+				{
+					"productId": "2040204099000712656",
+					"productName": "黄蓝拼色优雅花朵装饰床品套件203/230",
+					"brandName": "La Maison de Domitille",
+					"glsCode": "VTY-124-00143",
+					"imageUrl": "https://cdn12.mei.com/product/VTY-124-00143/cda40e634e2014dc318caa3b30fa3369.jpg@300w_400h_2e_75q",
+					"marketPrice": "1680",
+					"itemPriceDto": {
+						"price": "840",
+						"discount": "5.0",
+						"begin": "1578224875",
+						"end": "1582905600"
+					},
+					"tagListDto": [
+						{
+							"tag": "买手推荐",
+							"isHasExpiration": "0",
+							"fontColor": "000000",
+							"fontBackgroudColor": "FFFFFF",
+							"frameColor": "000000",
+							"isRadius": 0,
+							"isGradient": 0
+						}
+					],
+					"tNewProduct": 0
+				},
+				{
+					"productId": "2040204099000712657",
+					"productName": "黄蓝拼色优雅花朵装饰床品套件240/220",
+					"brandName": "La Maison de Domitille",
+					"glsCode": "VTY-124-00144",
+					"imageUrl": "https://cdn15.mei.com/product/VTY-124-00144/cda40e634e2014dcd2a43e373f1e045f.jpg@300w_400h_2e_75q",
+					"marketPrice": "1780",
+					"itemPriceDto": {
+						"price": "890",
+						"discount": "5.0",
+						"begin": "1578224875",
+						"end": "1582905600"
+					},
+					"tagListDto": [
+						{
+							"tag": "买手推荐",
+							"isHasExpiration": "0",
+							"fontColor": "000000",
+							"fontBackgroudColor": "FFFFFF",
+							"frameColor": "000000",
+							"isRadius": 0,
+							"isGradient": 0
+						}
+					],
+					"tNewProduct": 0
+				},
+				{
+					"productId": "2040204099000712631",
+					"productName": "灰色印花圆领长袖女士家居服睡裙",
+					"brandName": "La Maison de Domitille",
+					"glsCode": "VTY-124-00118",
+					"imageUrl": "https://cdn12.mei.com/product/VTY-124-00120/cda40e634e2014dc211844cdc523cff3.jpg@300w_400h_2e_75q",
+					"marketPrice": "358",
+					"itemPriceDto": {
+						"price": "143",
+						"discount": "4.0",
+						"begin": "1578224875",
+						"end": "1582905600"
+					},
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2040204099000712633", "size": "M", "qty": 30 },
+						{ "id": "2040204099000712632", "size": "L", "qty": 35 }
+					]
+				},
+				{
+					"productId": "2040204099000712625",
+					"productName": "灰色印花吊带V领无袖时尚女士睡裙",
+					"brandName": "La Maison de Domitille",
+					"glsCode": "VTY-124-00112",
+					"imageUrl": "https://cdn13.mei.com/product/VTY-124-00114/cda40e634e2014dc4ce1619f2bb22a31.jpg@300w_400h_2e_75q",
+					"marketPrice": "298",
+					"itemPriceDto": {
+						"price": "119",
+						"discount": "4.0",
+						"begin": "1578224875",
+						"end": "1582905600"
+					},
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2040204099000712627", "size": "M", "qty": 34 },
+						{ "id": "2040204099000712626", "size": "L", "qty": 20 }
+					]
+				},
+				{
+					"productId": "2042204299000815370",
+					"productName": "白蓝拼色时尚女士吊带短裤睡衣套装",
+					"brandName": "La Maison de Domitille",
+					"glsCode": "VTY-128-00057",
+					"imageUrl": "https://cdn12.mei.com/product/VTY-128-00059/1f61a7d01327d4934acb601933f2ea4a.jpg@300w_400h_2e_75q",
+					"marketPrice": "499",
+					"itemPriceDto": {
+						"price": "200",
+						"discount": "4.1",
+						"begin": "1578224875",
+						"end": "1582905600"
+					},
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2042204299000815372", "size": "M", "qty": 24 },
+						{ "id": "2042204299000815371", "size": "L", "qty": 30 }
+					]
+				},
+				{
+					"productId": "2040204099000712541",
+					"productName": "天蓝色个性印花圆领短袖儿童睡裙",
+					"brandName": "La Maison de Domitille",
+					"glsCode": "VTY-124-00028",
+					"imageUrl": "https://cdn14.mei.com/product/VTY-124-00030/cda40e634e2014dc7091c7d13b107cb8.jpg@300w_400h_2e_75q",
+					"marketPrice": "299",
+					"itemPriceDto": {
+						"price": "120",
+						"discount": "4.1",
+						"begin": "1578224875",
+						"end": "1582905600"
+					},
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2040204099000712543", "size": "M", "qty": 24 },
+						{ "id": "2040204099000712542", "size": "L", "qty": 24 }
+					]
+				},
+				{
+					"productId": "2040204099000712538",
+					"productName": "天蓝色个性印花时尚儿童家居服套装",
+					"brandName": "La Maison de Domitille",
+					"glsCode": "VTY-124-00025",
+					"imageUrl": "https://cdn15.mei.com/product/VTY-124-00026/cda40e634e2014dc3029be62a3c7069d.jpg@300w_400h_2e_75q",
+					"marketPrice": "399",
+					"itemPriceDto": {
+						"price": "160",
+						"discount": "4.1",
+						"begin": "1578224875",
+						"end": "1582905600"
+					},
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2040204099000712540", "size": "M", "qty": 24 },
+						{ "id": "2040204099000712539", "size": "L", "qty": 22 }
+					]
+				},
+				{
+					"productId": "2042204299000815399",
+					"productName": "粉色时尚印花翻领女士长袖长裤睡衣套装",
+					"brandName": "La Maison de Domitille",
+					"glsCode": "VTY-128-00074",
+					"imageUrl": "https://cdn14.mei.com/product/VTY-128-00076/1f61a7d01327d4934363367ffdc41370.jpg@300w_400h_2e_75q",
+					"marketPrice": "658",
+					"itemPriceDto": {
+						"price": "263",
+						"discount": "4.0",
+						"begin": "1578224875",
+						"end": "1582905600"
+					},
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2042204299000815401", "size": "M", "qty": 23 },
+						{ "id": "2042204299000815400", "size": "L", "qty": 20 }
+					]
+				},
+				{
+					"productId": "2040204099000712556",
+					"productName": "白色碎花吊带V领无袖潮流女士睡裙",
+					"brandName": "La Maison de Domitille",
+					"glsCode": "VTY-124-00043",
+					"imageUrl": "https://cdn13.mei.com/product/VTY-124-00045/cda40e634e2014dc0ab89bf7d7ee2b6c.jpg@300w_400h_2e_75q",
+					"marketPrice": "329",
+					"itemPriceDto": {
+						"price": "230",
+						"discount": "7.0",
+						"begin": "1578224875",
+						"end": "1582905600"
+					},
+					"tNewProduct": 0,
+					"productSizes": [
+						{ "id": "2040204099000712558", "size": "M", "qty": 21 },
+						{ "id": "2040204099000712557", "size": "L", "qty": 20 }
+					]
+				}
+			],
+			"block_status": 0,
+			"isHKBlock": 0
+		},
+		{
+			"eventId": "2121005100000002818",
+			"eventCode": "43018",
+			"siloId": "2018000100000000006",
+			"siloName": "生活",
+			"englishName": "PUMEI",
+			"chineseName": "日式床品 静享暖冬",
+			"imageUrl": "https://cdn13.mei.com/category/20190829/5812a31eedf6a7c38da4a5553d56b7b539e4db8297e1f0dc.jpg",
+			"discount": "2折",
+			"isBazzer": "0",
+			"isCrossBorder": "0",
+			"isSeasonNew": "0",
+			"isOverseasend": "0",
+			"isMobile": "0",
+			"isFullprice": "0",
+			"isDisplayBrand": "1",
+			"totalCount": 223,
+			"products": [
+				{
+					"productId": "2041204199000238326",
+					"productName": "白色天鹅湖鹅绒被1.8m",
+					"brandName": "PUMEI",
+					"glsCode": "PVQ-921-00012",
+					"imageUrl": "https://cdn15.mei.com/product/PVQ-921-00012/PVQ-921-00012a.jpg@300w_400h_2e_75q",
+					"marketPrice": "12000",
+					"itemPriceDto": {
+						"price": "4000",
+						"discount": "3.4",
+						"begin": "1578224876",
+						"end": "1582905600"
+					},
+					"tagListDto": [
+						{
+							"tag": "买手推荐",
+							"isHasExpiration": "0",
+							"fontColor": "000000",
+							"fontBackgroudColor": "FFFFFF",
+							"frameColor": "000000",
+							"isRadius": 0,
+							"isGradient": 0
+						}
+					],
+					"tNewProduct": 0
+				},
+				{
+					"productId": "2120212099000137924",
+					"productName": "粉色简约舒适大宽边全棉四件套1.5米",
+					"brandName": "PUMEI",
+					"glsCode": "PVQ-912-00470",
+					"imageUrl": "https://cdn15.mei.com/product/PVQ-912-00470/4326e3f269b5bb9130b62f801b668031.jpg@300w_400h_2e_75q",
+					"marketPrice": "2039",
+					"itemPriceDto": {
+						"price": "769",
+						"discount": "3.8",
+						"begin": "1578224876",
+						"end": "1582905600"
+					},
+					"tagListDto": [
+						{
+							"tag": "买手推荐",
+							"isHasExpiration": "0",
+							"fontColor": "000000",
+							"fontBackgroudColor": "FFFFFF",
+							"frameColor": "000000",
+							"isRadius": 0,
+							"isGradient": 0
+						}
+					],
+					"tNewProduct": 0
+				},
+				{
+					"productId": "2121212199000119794",
+					"productName": "220cmx240cm8斤棉花被裸胎",
+					"brandName": "PUMEI",
+					"glsCode": "PVQ-921-00108",
+					"imageUrl": "https://cdn15.mei.com/product/PVQ-921-00108/7ad6ed8e8fc699b21f672343d3b2bb21.jpg@300w_400h_2e_75q",
+					"marketPrice": "1099",
+					"itemPriceDto": {
+						"price": "469",
+						"discount": "4.3",
+						"begin": "1578224876",
+						"end": "1582905600"
+					},
+					"tagListDto": [
+						{
+							"tag": "买手推荐",
+							"isHasExpiration": "0",
+							"fontColor": "000000",
+							"fontBackgroudColor": "FFFFFF",
+							"frameColor": "000000",
+							"isRadius": 0,
+							"isGradient": 0
+						}
+					],
+					"tNewProduct": 0
+				},
+				{
+					"productId": "2121212199000119792",
+					"productName": "200cmx230cm7斤棉花被裸胎",
+					"brandName": "PUMEI",
+					"glsCode": "PVQ-921-00106",
+					"imageUrl": "https://cdn13.mei.com/product/PVQ-921-00106/7ad6ed8e8fc699b26ce55546337c5a61.jpg@300w_400h_2e_75q",
+					"marketPrice": "999",
+					"itemPriceDto": {
+						"price": "409",
+						"discount": "4.1",
+						"begin": "1578224876",
+						"end": "1582905600"
+					},
+					"tNewProduct": 0
+				},
+				{
+					"productId": "2042204299000785987",
+					"productName": "蓝粉大格床笠款水洗棉四件套1.8m",
+					"brandName": "PUMEI",
+					"glsCode": "PVQ-912-00384",
+					"imageUrl": "https://cdn14.mei.com/product/PVQ-912-00384/4326e3f269b5bb919b62c65832b52fca.jpg@300w_400h_2e_75q",
+					"marketPrice": "1799",
+					"itemPriceDto": {
+						"price": "579",
+						"discount": "3.3",
+						"begin": "1578224876",
+						"end": "1582905600"
+					},
+					"tNewProduct": 0
+				},
+				{
+					"productId": "2041204199000238348",
+					"productName": "全棉毛线麻花怡莲加绒盖毯.天蓝色",
+					"brandName": "PUMEI",
+					"glsCode": "PVQ-913-00009",
+					"imageUrl": "https://cdn13.mei.com/product/PVQ-913-00009/PVQ-913-00009a.jpg@300w_400h_2e_75q",
+					"marketPrice": "1350",
+					"itemPriceDto": {
+						"price": "450",
+						"discount": "3.4",
+						"begin": "1578224876",
+						"end": "1582905600"
+					},
+					"tNewProduct": 0
+				},
+				{
+					"productId": "2121212199000119790",
+					"productName": "150cmx200cm5斤棉花被裸胎",
+					"brandName": "PUMEI",
+					"glsCode": "PVQ-921-00104",
+					"imageUrl": "https://cdn13.mei.com/product/PVQ-921-00104/7ad6ed8e8fc699b2499ff2719ee76082.jpg@300w_400h_2e_75q",
+					"marketPrice": "699",
+					"itemPriceDto": {
+						"price": "299",
+						"discount": "4.3",
+						"begin": "1578224876",
+						"end": "1582905600"
+					},
+					"tNewProduct": 0
+				},
+				{
+					"productId": "2120212099000137927",
+					"productName": "米色简约舒适大宽边全棉四件套1.8米",
+					"brandName": "PUMEI",
+					"glsCode": "PVQ-912-00473",
+					"imageUrl": "https://cdn15.mei.com/product/PVQ-912-00473/4326e3f269b5bb911efe3e3014522e00.jpg@300w_400h_2e_75q",
+					"marketPrice": "2279",
+					"itemPriceDto": {
+						"price": "859",
+						"discount": "3.8",
+						"begin": "1578224876",
+						"end": "1582905600"
+					},
+					"tNewProduct": 0
+				},
+				{
+					"productId": "2120212099000137933",
+					"productName": "浅绿色简约舒适大宽边全棉四件套1.8米",
+					"brandName": "PUMEI",
+					"glsCode": "PVQ-912-00479",
+					"imageUrl": "https://cdn13.mei.com/product/PVQ-912-00479/4326e3f269b5bb919af1f9bc3b178799.jpg@300w_400h_2e_75q",
+					"marketPrice": "2279",
+					"itemPriceDto": {
+						"price": "859",
+						"discount": "3.8",
+						"begin": "1578224876",
+						"end": "1582905600"
+					},
+					"tNewProduct": 0
+				}
+			],
+			"block_status": 0,
+			"isHKBlock": 0
+		},
+		{
+			"eventId": "2040204090000007403",
+			"eventCode": "44504",
+			"siloId": "2018000100000000006",
+			"siloName": "生活",
+			"englishName": "RONA",
+			"chineseName": "高颜值水晶杯",
+			"imageUrl": "https://cdn14.mei.com/category/20191016/d711cbb1440993572e7f32a4db0a5703e15d3cf3671d4998.jpg",
+			"discount": "0.7折",
+			"spm_b": "13533168",
+			"isBazzer": "0",
+			"isCrossBorder": "0",
+			"isSeasonNew": "0",
+			"isOverseasend": "0",
+			"isMobile": "0",
+			"isFullprice": "0",
+			"isDisplayBrand": "1",
+			"totalCount": 52,
+			"products": [
+				{
+					"productId": "2041204199000775875",
+					"productName": "爱绅特系列白葡萄酒杯260ML2只装",
+					"brandName": "RONA",
+					"glsCode": "VD7-909-00047",
+					"imageUrl": "https://cdn15.mei.com/product/VD7-909-00047/65ad854d91bc9ddd9d7db1b300f620a5.jpg@300w_400h_2e_75q",
+					"marketPrice": "1188",
+					"itemPriceDto": {
+						"price": "199",
+						"discount": "1.7",
+						"begin": "1578224876",
+						"end": "1578239999"
+					},
+					"tagListDto": [
+						{
+							"tag": "今日疯抢",
+							"isHasExpiration": "1",
+							"beginDate": "1578211200",
+							"endDate": "1578239999",
+							"fontColor": "FFFFFF",
+							"fontBackgroudColor": "DD2828",
+							"frameColor": "DD2828",
+							"isRadius": 0,
+							"isGradient": 0
+						}
+					],
+					"tNewProduct": 0
+				},
+				{
+					"productId": "2041204199000775876",
+					"productName": "爱绅特浓郁型红葡萄酒杯480ML2只装",
+					"brandName": "RONA",
+					"glsCode": "VD7-909-00048",
+					"imageUrl": "https://cdn13.mei.com/product/VD7-909-00048/65ad854d91bc9ddd48ce0f4be0e98f53.jpg@300w_400h_2e_75q",
+					"marketPrice": "1698",
+					"itemPriceDto": {
+						"price": "199",
+						"discount": "1.2",
+						"begin": "1578224876",
+						"end": "1578239999"
+					},
+					"tagListDto": [
+						{
+							"tag": "今日疯抢",
+							"isHasExpiration": "1",
+							"beginDate": "1578211200",
+							"endDate": "1578239999",
+							"fontColor": "FFFFFF",
+							"fontBackgroudColor": "DD2828",
+							"frameColor": "DD2828",
+							"isRadius": 0,
+							"isGradient": 0
+						}
+					],
+					"tNewProduct": 0
+				},
+				{
+					"productId": "2041204199000775862",
+					"productName": "酷爽特大号威士忌杯460ML6只装",
+					"brandName": "RONA",
+					"glsCode": "VD7-909-00034",
+					"imageUrl": "https://cdn14.mei.com/product/VD7-909-00034/65ad854d91bc9ddd4860627accb4f748.jpg@300w_400h_2e_75q",
+					"marketPrice": "1680",
+					"itemPriceDto": {
+						"price": "238",
+						"discount": "1.5",
+						"begin": "1578224876",
+						"end": "1582905600"
+					},
+					"tNewProduct": 0
+				},
+				{
+					"productId": "2041204199000775860",
+					"productName": "酷爽系列威士忌杯250ML6只装",
+					"brandName": "RONA",
+					"glsCode": "VD7-909-00032",
+					"imageUrl": "https://cdn12.mei.com/product/VD7-909-00032/65ad854d91bc9ddd4b32cc9d9dd9e448.jpg@300w_400h_2e_75q",
+					"marketPrice": "1380",
+					"itemPriceDto": {
+						"price": "218",
+						"discount": "1.6",
+						"begin": "1578224876",
+						"end": "1582905600"
+					},
+					"tNewProduct": 0
+				},
+				{
+					"productId": "2041204199000775863",
+					"productName": "侍酒司多用途酒杯品酒杯220ML4只装",
+					"brandName": "RONA",
+					"glsCode": "VD7-909-00035",
+					"imageUrl": "https://cdn12.mei.com/product/VD7-909-00035/65ad854d91bc9ddd9b6dd914758c798d.jpg@300w_400h_2e_75q",
+					"marketPrice": "518",
+					"itemPriceDto": {
+						"price": "188",
+						"discount": "3.7",
+						"begin": "1578224876",
+						"end": "1582905600"
+					},
+					"tNewProduct": 0
+				},
+				{
+					"productId": "2041204199000775835",
+					"productName": "普雷斯系列水杯品酒杯330ML6只装",
+					"brandName": "RONA",
+					"glsCode": "VD7-909-00007",
+					"imageUrl": "https://cdn13.mei.com/product/VD7-909-00007/65ad854d91bc9ddd6521f7557fc54fd0.jpg@300w_400h_2e_75q",
+					"marketPrice": "998",
+					"itemPriceDto": {
+						"price": "269",
+						"discount": "2.7",
+						"begin": "1578224876",
+						"end": "1582905600"
+					},
+					"tNewProduct": 0
+				},
+				{
+					"productId": "2041204199000775864",
+					"productName": "侍酒司多用途酒杯品酒杯330ML4只装",
+					"brandName": "RONA",
+					"glsCode": "VD7-909-00036",
+					"imageUrl": "https://cdn13.mei.com/product/VD7-909-00036/65ad854d91bc9ddd735d0b406c24b046.jpg@300w_400h_2e_75q",
+					"marketPrice": "538",
+					"itemPriceDto": {
+						"price": "198",
+						"discount": "3.7",
+						"begin": "1578224876",
+						"end": "1582905600"
+					},
+					"tNewProduct": 0
+				},
+				{
+					"productId": "2041204199000775839",
+					"productName": "手工天鹅波尔多葡萄酒杯700ML2只装",
+					"brandName": "RONA",
+					"glsCode": "VD7-909-00011",
+					"imageUrl": "https://cdn13.mei.com/product/VD7-909-00011/65ad854d91bc9ddd2850bb5d66344b1e.jpg@300w_400h_2e_75q",
+					"marketPrice": "698",
+					"itemPriceDto": {
+						"price": "239",
+						"discount": "3.5",
+						"begin": "1578224876",
+						"end": "1582905600"
+					},
+					"tNewProduct": 0
+				},
+				{
+					"productId": "2041204199000775842",
+					"productName": "手工欢庆白葡萄酒杯360ML2只装",
+					"brandName": "RONA",
+					"glsCode": "VD7-909-00014",
+					"imageUrl": "https://cdn13.mei.com/product/VD7-909-00014/65ad854d91bc9dddc137865c490aca15.jpg@300w_400h_2e_75q",
+					"marketPrice": "498",
+					"itemPriceDto": {
+						"price": "199",
+						"discount": "4.0",
+						"begin": "1578224876",
+						"end": "1582905600"
+					},
+					"tNewProduct": 0
+				}
+			],
+			"block_status": 0,
+			"isHKBlock": 0
+		},
+		{
+			"eventId": "2120005100000002758",
+			"eventCode": "42852",
+			"siloId": "2018000100000000006",
+			"siloName": "生活",
+			"englishName": "RCR",
+			"chineseName": "意大利进口水晶",
+			"imageUrl": "https://cdn14.mei.com/category/20190815/75da523bf70ae8305f431fd346d1662fd4fa53a986efd91b.jpg",
+			"discount": "2.1折",
+			"spm_b": "13260838",
+			"isBazzer": "0",
+			"isCrossBorder": "0",
+			"isSeasonNew": "0",
+			"isOverseasend": "0",
+			"isMobile": "0",
+			"isFullprice": "0",
+			"isDisplayBrand": "1",
+			"totalCount": 94,
+			"products": [
+				{
+					"productId": "2040204099000430648",
+					"productName": "310ml无铅水晶高脚杯葡萄酒杯6只装",
+					"brandName": "RCR",
+					"glsCode": "YNE-909-00002",
+					"imageUrl": "https://cdn13.mei.com/product/YNE-909-00002/YNE-909-00002a.jpg@300w_400h_2e_75q",
+					"marketPrice": "958",
+					"itemPriceDto": {
+						"price": "279",
+						"discount": "3.0",
+						"begin": "1578224876",
+						"end": "1582905600"
+					},
+					"tNewProduct": 0
+				},
+				{
+					"productId": "2040204099000430687",
+					"productName": "313ml无铅水晶酒具套装（6只装）",
+					"brandName": "RCR",
+					"glsCode": "YNE-909-00023",
+					"imageUrl": "https://cdn13.mei.com/product/YNE-909-00023/YNE-909-00023a.jpg@300w_400h_2e_75q",
+					"marketPrice": "1090",
+					"itemPriceDto": {
+						"price": "269",
+						"discount": "2.5",
+						"begin": "1578224876",
+						"end": "1582905600"
+					},
+					"tNewProduct": 0
+				},
+				{
+					"productId": "2040204099000430720",
+					"productName": "无铅水晶8.5CM首饰盒储物罐（中号）",
+					"brandName": "RCR",
+					"glsCode": "YNE-903-00042",
+					"imageUrl": "https://cdn15.mei.com/product/YNE-903-00042/YNE-903-00042a.jpg@300w_400h_2e_75q",
+					"marketPrice": "390",
+					"itemPriceDto": {
+						"price": "169",
+						"discount": "4.4",
+						"begin": "1578224876",
+						"end": "1582905600"
+					},
+					"tNewProduct": 0
+				},
+				{
+					"productId": "2040204099000430653",
+					"productName": "2000ML醒酒器(送开瓶器&醒酒器刷）",
+					"brandName": "RCR",
+					"glsCode": "YNE-903-00002",
+					"imageUrl": "https://cdn15.mei.com/product/YNE-903-00002/YNE-903-00002a.jpg@300w_400h_2e_75q",
+					"marketPrice": "460",
+					"itemPriceDto": {
+						"price": "268",
+						"discount": "5.9",
+						"begin": "1578224876",
+						"end": "1582905600"
+					},
+					"tNewProduct": 0
+				},
+				{
+					"productId": "2040204099000651691",
+					"productName": "晶质系列白葡萄酒杯(2只装)礼盒装",
+					"brandName": "RCR",
+					"glsCode": "YNE-909-00051",
+					"imageUrl": "https://cdn14.mei.com/product/YNE-909-00051/eb6c6d040aef9ddc095ef5f2c4df5b9a.jpg@300w_400h_2e_75q",
+					"marketPrice": "480",
+					"itemPriceDto": {
+						"price": "149",
+						"discount": "3.2",
+						"begin": "1578224876",
+						"end": "1582905600"
+					},
+					"tNewProduct": 0
+				},
+				{
+					"productId": "2042204299000708926",
+					"productName": "350ml无铅水晶杯套装（6只装）",
+					"brandName": "RCR",
+					"glsCode": "YNE-903-00053",
+					"imageUrl": "https://cdn13.mei.com/product/YNE-903-00053/YNE-903-00053a.jpg@300w_400h_2e_75q",
+					"marketPrice": "868",
+					"itemPriceDto": {
+						"price": "279",
+						"discount": "3.3",
+						"begin": "1578224876",
+						"end": "1582905600"
+					},
+					"tNewProduct": 0
+				},
+				{
+					"productId": "2042204299000708934",
+					"productName": "葡萄酒杯醒酒器酒樽酒具套装7件套",
+					"brandName": "RCR",
+					"glsCode": "YNE-909-00047",
+					"imageUrl": "https://cdn13.mei.com/product/YNE-909-00047/YNE-909-00047a.jpg@300w_400h_2e_75q",
+					"marketPrice": "968",
+					"itemPriceDto": {
+						"price": "399",
+						"discount": "4.2",
+						"begin": "1578224876",
+						"end": "1582905600"
+					},
+					"tNewProduct": 0
+				},
+				{
+					"productId": "2040204099000430688",
+					"productName": "360ml无铅水晶大古典杯(6只装）",
+					"brandName": "RCR",
+					"glsCode": "YNE-903-00019",
+					"imageUrl": "https://cdn15.mei.com/product/YNE-903-00019/YNE-903-00019a.jpg@300w_400h_2e_75q",
+					"marketPrice": "1090",
+					"itemPriceDto": {
+						"price": "268",
+						"discount": "2.5",
+						"begin": "1578224876",
+						"end": "1582905600"
+					},
+					"tNewProduct": 0
+				},
+				{
+					"productId": "2040204099000430656",
+					"productName": "210ml晶质家居葡萄酒杯6只装",
+					"brandName": "RCR",
+					"glsCode": "YNE-909-00008",
+					"imageUrl": "https://cdn15.mei.com/product/YNE-909-00008/YNE-909-00008a.jpg@300w_400h_2e_75q",
+					"marketPrice": "989",
+					"itemPriceDto": {
+						"price": "319",
+						"discount": "3.3",
+						"begin": "1578224876",
+						"end": "1582905600"
+					},
+					"tNewProduct": 0
+				}
+			],
+			"block_status": 0,
+			"isHKBlock": 0
+		},
+		{
+			"eventId": "2120005100000002497",
+			"eventCode": "41563",
+			"siloId": "2018000100000000006",
+			"siloName": "生活",
+			"englishName": "FISSLER",
+			"chineseName": "德国厨具彰显品位",
+			"imageUrl": "https://cdn12.mei.com/category/20190816/b63c915d4dc47b51f3ff4bccd457cac8d4fa53a986efd91b.jpg",
+			"discount": "1.9折",
+			"spm_b": "12882912",
+			"isBazzer": "1",
+			"isCrossBorder": "0",
+			"isSeasonNew": "0",
+			"isOverseasend": "0",
+			"isMobile": "0",
+			"isFullprice": "0",
+			"isDisplayBrand": "1",
+			"totalCount": 59,
+			"products": [
+				{
+					"productId": "762252",
+					"productName": "三件组礼品小锅套装",
+					"brandName": "Fissler",
+					"glsCode": "FS4-901-00006",
+					"imageUrl": "https://cdn13.mei.com/product/FS4-901-00006/FS4-901-00006a.jpg@300w_400h_2e_75q",
+					"marketPrice": "1580",
+					"itemPriceDto": {
+						"price": "480",
+						"discount": "3.1",
+						"begin": "1578224876",
+						"end": "1582905600"
+					},
+					"tagListDto": [
+						{
+							"tag": "买手推荐",
+							"isHasExpiration": "0",
+							"fontColor": "000000",
+							"fontBackgroudColor": "FFFFFF",
+							"frameColor": "000000",
+							"isRadius": 0,
+							"isGradient": 0
+						}
+					],
+					"tNewProduct": 0
+				},
+				{
+					"productId": "2041204199000557171",
+					"productName": "【经典款】新味达快4.5升高速快锅",
+					"brandName": "Fissler",
+					"glsCode": "FS4-901-00145",
+					"imageUrl": "https://cdn13.mei.com/product/FS4-901-00145/FS4-901-00145a.jpg@300w_400h_2e_75q",
+					"marketPrice": "4180",
+					"itemPriceDto": {
+						"price": "1499",
+						"discount": "3.6",
+						"begin": "1578224876",
+						"end": "1582905600"
+					},
+					"tagListDto": [
+						{
+							"tag": "买手推荐",
+							"isHasExpiration": "0",
+							"fontColor": "000000",
+							"fontBackgroudColor": "FFFFFF",
+							"frameColor": "000000",
+							"isRadius": 0,
+							"isGradient": 0
+						}
+					],
+					"tNewProduct": 0
+				},
+				{
+					"productId": "2042204299000812859",
+					"productName": "不锈钢32cm双柄炒锅汤锅不粘锅迎新套组",
+					"brandName": "Fissler",
+					"glsCode": "FS4-901-00188",
+					"imageUrl": "https://cdn14.mei.com/product/FS4-901-00188/a5b880380cc7ad40d5eaf588087f2f44.jpg@300w_400h_2e_75q",
+					"marketPrice": "6740",
+					"itemPriceDto": {
+						"price": "1299",
+						"discount": "2.0",
+						"begin": "1578224876",
+						"end": "1582905600"
+					},
+					"tagListDto": [
+						{
+							"tag": "买手推荐",
+							"isHasExpiration": "0",
+							"fontColor": "000000",
+							"fontBackgroudColor": "FFFFFF",
+							"frameColor": "000000",
+							"isRadius": 0,
+							"isGradient": 0
+						}
+					],
+					"tNewProduct": 0
+				},
+				{
+					"productId": "2042204299000118842",
+					"productName": "橙色沸点22厘米6升高速快锅",
+					"brandName": "Fissler",
+					"glsCode": "FS4-901-00077",
+					"imageUrl": "https://cdn15.mei.com/product/FS4-901-00077/FS4-901-00077a.jpg@300w_400h_2e_75q",
+					"marketPrice": "4480",
+					"itemPriceDto": {
+						"price": "1799",
+						"discount": "4.1",
+						"begin": "1578224876",
+						"end": "1582905600"
+					},
+					"tagListDto": [
+						{
+							"tag": "买手推荐",
+							"isHasExpiration": "0",
+							"fontColor": "000000",
+							"fontBackgroudColor": "FFFFFF",
+							"frameColor": "000000",
+							"isRadius": 0,
+							"isGradient": 0
+						}
+					],
+					"tNewProduct": 0
+				},
+				{
+					"productId": "2041204199000314124",
+					"productName": "精致系列三件套",
+					"brandName": "Fissler",
+					"glsCode": "FS4-902-00058",
+					"imageUrl": "https://cdn13.mei.com/product/FS4-902-00058/FS4-902-00058a.jpg@300w_400h_2e_75q",
+					"marketPrice": "1380",
+					"itemPriceDto": {
+						"price": "399",
+						"discount": "2.9",
+						"begin": "1578224876",
+						"end": "1582905600"
+					},
+					"tNewProduct": 0
+				},
+				{
+					"productId": "2041204199000626987",
+					"productName": "家庭系列20cm汤锅配蒸屉双层结构",
+					"brandName": "Fissler",
+					"glsCode": "FS4-901-00155",
+					"imageUrl": "https://cdn15.mei.com/product/FS4-901-00155/a5b880380cc7ad40ecaf1d9601d51e87.jpg@300w_400h_2e_75q",
+					"marketPrice": "1860",
+					"itemPriceDto": {
+						"price": "580",
+						"discount": "3.2",
+						"begin": "1578224876",
+						"end": "1582905600"
+					},
+					"tNewProduct": 0
+				},
+				{
+					"productId": "2040204099000166318",
+					"productName": "不锈钢保养剂",
+					"brandName": "Fissler",
+					"glsCode": "FS4-918-00001",
+					"imageUrl": "https://cdn15.mei.com/product/FS4-918-00001/FS4-918-00001a.jpg@300w_400h_2e_75q",
+					"marketPrice": "99",
+					"itemPriceDto": {
+						"price": "99",
+						"discount": "10.0",
+						"begin": "1578224876",
+						"end": "1582905600"
+					},
+					"tNewProduct": 0
+				},
+				{
+					"productId": "2042204299000834888",
+					"productName": "菲仕乐家用料理机-酒红色",
+					"brandName": "Fissler",
+					"glsCode": "FS4-901-00189",
+					"imageUrl": "https://cdn15.mei.com/product/FS4-901-00189/a5b880380cc7ad40c7b0549dca0ea540.jpg@300w_400h_2e_75q",
+					"marketPrice": "3780",
+					"itemPriceDto": {
+						"price": "1880",
+						"discount": "5.0",
+						"begin": "1578224876",
+						"end": "1582905600"
+					},
+					"tNewProduct": 0
+				},
+				{
+					"productId": "2040204099000166330",
+					"productName": "TPR1001有孔锅铲",
+					"brandName": "Fissler",
+					"glsCode": "FS4-902-00049",
+					"imageUrl": "https://cdn13.mei.com/product/FS4-902-00049/FS4-902-00049a.jpg@300w_400h_2e_75q",
+					"marketPrice": "188",
+					"itemPriceDto": {
+						"price": "109",
+						"discount": "5.8",
+						"begin": "1578224876",
+						"end": "1582905600"
+					},
+					"tagListDto": [
+						{
+							"tag": "仅剩一件",
+							"isHasExpiration": "0",
+							"fontColor": "000000",
+							"fontBackgroudColor": "FFFFFF",
+							"frameColor": "000000",
+							"isRadius": 0,
+							"isGradient": 0
+						}
+					],
+					"tNewProduct": 0
+				}
+			],
+			"block_status": 0,
+			"isHKBlock": 0
+		},
+		{
+			"eventId": "2040204090000007135",
+			"eventCode": "43092",
+			"siloId": "2018000100000000006",
+			"siloName": "生活",
+			"englishName": "SNURK 荷兰床品推荐专场",
+			"chineseName": "大小孩的奇思妙想",
+			"imageUrl": "https://cdn13.mei.com/category/20191028/66040a9e624da02173b4386e47ccf219dc0bc45b7bb6d783.jpg",
+			"discount": "9.4折",
+			"spm_b": "13348306",
+			"isBazzer": "0",
+			"isCrossBorder": "0",
+			"isSeasonNew": "0",
+			"isOverseasend": "0",
+			"isMobile": "0",
+			"isFullprice": "0",
+			"isDisplayBrand": "1",
+			"totalCount": 59,
+			"products": [
+				{
+					"productId": "2041204199000818203",
+					"productName": "宇航员全棉荷兰进口被套枕套两件套1.2M",
+					"brandName": "Snurk",
+					"glsCode": "TRE-912-00004",
+					"imageUrl": "https://cdn15.mei.com/product/TRE-912-00004/d9cf0e26e7c4241b73881caec082ccf4.jpg@300w_400h_2e_75q",
+					"marketPrice": "899",
+					"itemPriceDto": {
+						"price": "849",
+						"discount": "9.5",
+						"begin": "1578224876",
+						"end": "1582905600"
+					},
+					"tagListDto": [
+						{
+							"tag": "买手推荐",
+							"isHasExpiration": "0",
+							"fontColor": "000000",
+							"fontBackgroudColor": "FFFFFF",
+							"frameColor": "000000",
+							"isRadius": 0,
+							"isGradient": 0
+						}
+					],
+					"tNewProduct": 0
+				},
+				{
+					"productId": "2041204199000818212",
+					"productName": "恐龙全棉荷兰进口被套枕套两件套1.2M",
+					"brandName": "Snurk",
+					"glsCode": "TRE-912-00013",
+					"imageUrl": "https://cdn13.mei.com/product/TRE-912-00013/d9cf0e26e7c4241b2a868fa49a5d44e9.jpg@300w_400h_2e_75q",
+					"marketPrice": "899",
+					"itemPriceDto": {
+						"price": "849",
+						"discount": "9.5",
+						"begin": "1578224876",
+						"end": "1582905600"
+					},
+					"tagListDto": [
+						{
+							"tag": "买手推荐",
+							"isHasExpiration": "0",
+							"fontColor": "000000",
+							"fontBackgroudColor": "FFFFFF",
+							"frameColor": "000000",
+							"isRadius": 0,
+							"isGradient": 0
+						}
+					],
+					"tNewProduct": 0
+				},
+				{
+					"productId": "2041204199000818225",
+					"productName": "公主全棉荷兰进口被套枕套两件套1.2M",
+					"brandName": "Snurk",
+					"glsCode": "TRE-912-00026",
+					"imageUrl": "https://cdn12.mei.com/product/TRE-912-00026/d9cf0e26e7c4241b3029be62a3c7069d.jpg@300w_400h_2e_75q",
+					"marketPrice": "899",
+					"itemPriceDto": {
+						"price": "849",
+						"discount": "9.5",
+						"begin": "1578224876",
+						"end": "1582905600"
+					},
+					"tagListDto": [
+						{
+							"tag": "买手推荐",
+							"isHasExpiration": "0",
+							"fontColor": "000000",
+							"fontBackgroudColor": "FFFFFF",
+							"frameColor": "000000",
+							"isRadius": 0,
+							"isGradient": 0
+						}
+					],
+					"tNewProduct": 0
+				},
+				{
+					"productId": "2041204199000818218",
+					"productName": "美人鱼全棉荷兰进口被套枕套两件套1.2M",
+					"brandName": "Snurk",
+					"glsCode": "TRE-912-00019",
+					"imageUrl": "https://cdn15.mei.com/product/TRE-912-00019/d9cf0e26e7c4241ba29081fa677b26cf.jpg@300w_400h_2e_75q",
+					"marketPrice": "899",
+					"itemPriceDto": {
+						"price": "849",
+						"discount": "9.5",
+						"begin": "1578224876",
+						"end": "1582905600"
+					},
+					"tagListDto": [
+						{
+							"tag": "买手推荐",
+							"isHasExpiration": "0",
+							"fontColor": "000000",
+							"fontBackgroudColor": "FFFFFF",
+							"frameColor": "000000",
+							"isRadius": 0,
+							"isGradient": 0
+						}
+					],
+					"tNewProduct": 0
+				},
+				{
+					"productId": "2041204199000818223",
+					"productName": "公主全棉荷兰进口被套枕套两件套1.2M",
+					"brandName": "Snurk",
+					"glsCode": "TRE-912-00024",
+					"imageUrl": "https://cdn12.mei.com/product/TRE-912-00024/d9cf0e26e7c4241b727618cfe716e36e.jpg@300w_400h_2e_75q",
+					"marketPrice": "899",
+					"itemPriceDto": {
+						"price": "849",
+						"discount": "9.5",
+						"begin": "1578224876",
+						"end": "1582905600"
+					},
+					"tNewProduct": 0
+				},
+				{
+					"productId": "2041204199000818227",
+					"productName": "泰迪熊全棉荷兰进口被套枕套三件套1.5M",
+					"brandName": "Snurk",
+					"glsCode": "TRE-912-00028",
+					"imageUrl": "https://cdn12.mei.com/product/TRE-912-00028/d9cf0e26e7c4241bf62bb67d5c0873b7.jpg@300w_400h_2e_75q",
+					"marketPrice": "1630",
+					"itemPriceDto": {
+						"price": "1530",
+						"discount": "9.4",
+						"begin": "1578224876",
+						"end": "1582905600"
+					},
+					"tNewProduct": 0
+				},
+				{
+					"productId": "2041204199000818246",
+					"productName": "鲍勃狗全棉荷兰进口被套枕套三件套1.5M",
+					"brandName": "Snurk",
+					"glsCode": "TRE-912-00047",
+					"imageUrl": "https://cdn15.mei.com/product/TRE-912-00047/d9cf0e26e7c4241b9d7db1b300f620a5.jpg@300w_400h_2e_75q",
+					"marketPrice": "1630",
+					"itemPriceDto": {
+						"price": "1530",
+						"discount": "9.4",
+						"begin": "1578224876",
+						"end": "1582905600"
+					},
+					"tNewProduct": 0
+				},
+				{
+					"productId": "2041204199000818236",
+					"productName": "鲍勃狗全棉荷兰进口被套枕套三件套1.8M",
+					"brandName": "Snurk",
+					"glsCode": "TRE-912-00037",
+					"imageUrl": "https://cdn14.mei.com/product/TRE-912-00037/d9cf0e26e7c4241b2ea0ecd3caef05eb.jpg@300w_400h_2e_75q",
+					"marketPrice": "1990",
+					"itemPriceDto": {
+						"price": "1890",
+						"discount": "9.5",
+						"begin": "1578224876",
+						"end": "1582905600"
+					},
+					"tNewProduct": 0
+				},
+				{
+					"productId": "2041204199000818221",
+					"productName": "奥利全棉荷兰进口被套枕套三件套1.8M",
+					"brandName": "Snurk",
+					"glsCode": "TRE-912-00022",
+					"imageUrl": "https://cdn13.mei.com/product/TRE-912-00022/d9cf0e26e7c4241bc315a2acbccce10a.jpg@300w_400h_2e_75q",
+					"marketPrice": "1990",
+					"itemPriceDto": {
+						"price": "1890",
+						"discount": "9.5",
+						"begin": "1578224876",
+						"end": "1582905600"
+					},
+					"tNewProduct": 0
+				}
+			],
+			"block_status": 0,
+			"isHKBlock": 0
+		},
+		{
+			"eventId": "2042204290000005980",
+			"eventCode": "39769",
+			"siloId": "2018000100000000006",
+			"siloName": "生活",
+			"englishName": "FOSSFLAKES",
+			"chineseName": "北欧进口可水洗家居 ",
+			"imageUrl": "https://cdn15.mei.com/category/20190430/f079c5b03f8c3fcd181df7d9d93dfcb2ce6dc3676f54cd06.jpg",
+			"discount": "4折",
+			"isBazzer": "0",
+			"isCrossBorder": "0",
+			"isSeasonNew": "0",
+			"isOverseasend": "0",
+			"isMobile": "0",
+			"isFullprice": "0",
+			"isDisplayBrand": "1",
+			"totalCount": 109,
+			"products": [
+				{
+					"productId": "1159716",
+					"productName": "丹麦进口超柔可水洗中低枕48*74cm",
+					"brandName": "FOSSFLAKES",
+					"glsCode": "FF2-920-00003",
+					"imageUrl": "https://cdn14.mei.com/product/FF2-920-00003/0516abf31ed98ad7fdd1873d169e42a8.jpg@300w_400h_2e_75q",
+					"marketPrice": "979",
+					"itemPriceDto": {
+						"price": "499",
+						"discount": "5.1",
+						"begin": "1578224876",
+						"end": "1582905600"
+					},
+					"tagListDto": [
+						{
+							"tag": "买手推荐",
+							"isHasExpiration": "0",
+							"fontColor": "000000",
+							"fontBackgroudColor": "FFFFFF",
+							"frameColor": "000000",
+							"isRadius": 0,
+							"isGradient": 0
+						}
+					],
+					"tNewProduct": 0
+				},
+				{
+					"productId": "1159717",
+					"productName": "丹麦进口超柔可水洗中高枕48*74cm",
+					"brandName": "FOSSFLAKES",
+					"glsCode": "FF2-920-00004",
+					"imageUrl": "https://cdn13.mei.com/product/FF2-920-00004/0516abf31ed98ad773881caec082ccf4.jpg@300w_400h_2e_75q",
+					"marketPrice": "979",
+					"itemPriceDto": {
+						"price": "499",
+						"discount": "5.1",
+						"begin": "1578224876",
+						"end": "1582905600"
+					},
+					"tagListDto": [
+						{
+							"tag": "买手推荐",
+							"isHasExpiration": "0",
+							"fontColor": "000000",
+							"fontBackgroudColor": "FFFFFF",
+							"frameColor": "000000",
+							"isRadius": 0,
+							"isGradient": 0
+						}
+					],
+					"tNewProduct": 0
+				},
+				{
+					"productId": "1159727",
+					"productName": "孕妇枕托腹枕多功能大U型枕158*87*30cm",
+					"brandName": "FOSSFLAKES",
+					"glsCode": "FF2-920-00014",
+					"imageUrl": "https://cdn13.mei.com/product/FF2-920-00014/0516abf31ed98ad7c137865c490aca15.jpg@300w_400h_2e_75q",
+					"marketPrice": "3488",
+					"itemPriceDto": {
+						"price": "3299",
+						"discount": "9.5",
+						"begin": "1578224876",
+						"end": "1582905600"
+					},
+					"tagListDto": [
+						{
+							"tag": "买手推荐",
+							"isHasExpiration": "0",
+							"fontColor": "000000",
+							"fontBackgroudColor": "FFFFFF",
+							"frameColor": "000000",
+							"isRadius": 0,
+							"isGradient": 0
+						}
+					],
+					"tNewProduct": 0
+				},
+				{
+					"productId": "2121212199000126345",
+					"productName": "丹麦可水洗按摩枕+白云色配套套件",
+					"brandName": "FOSSFLAKES",
+					"glsCode": "FF2-912-00121",
+					"imageUrl": "https://cdn15.mei.com/product/FF2-912-00121/cc7c31a684bc5a02413e1ca7d3305c6f.jpg@300w_400h_2e_75q",
+					"marketPrice": "2000",
+					"itemPriceDto": {
+						"price": "1120",
+						"discount": "5.6",
+						"begin": "1578224876",
+						"end": "1582905600"
+					},
+					"tagListDto": [
+						{
+							"tag": "买手推荐",
+							"isHasExpiration": "0",
+							"fontColor": "000000",
+							"fontBackgroudColor": "FFFFFF",
+							"frameColor": "000000",
+							"isRadius": 0,
+							"isGradient": 0
+						}
+					],
+					"tNewProduct": 0
+				},
+				{
+					"productId": "2121212199000126344",
+					"productName": "丹麦进口可水洗小U型枕+白云色配套套件",
+					"brandName": "FOSSFLAKES",
+					"glsCode": "FF2-912-00120",
+					"imageUrl": "https://cdn15.mei.com/product/FF2-912-00120/cc7c31a684bc5a02211844cdc523cff3.jpg@300w_400h_2e_75q",
+					"marketPrice": "3299",
+					"itemPriceDto": {
+						"price": "1979",
+						"discount": "6.0",
+						"begin": "1578224876",
+						"end": "1582905600"
+					},
+					"tNewProduct": 0
+				},
+				{
+					"productId": "2041204199000292290",
+					"productName": "丹麦进口可水洗优质超暖被200*230cm",
+					"brandName": "FOSSFLAKES",
+					"glsCode": "FF2-921-00053",
+					"imageUrl": "https://cdn15.mei.com/product/FF2-921-00053/FF2-921-00053a.jpg@300w_400h_2e_75q",
+					"marketPrice": "4099",
+					"itemPriceDto": {
+						"price": "2869",
+						"discount": "7.0",
+						"begin": "1578224876",
+						"end": "1582905600"
+					},
+					"tNewProduct": 0
+				},
+				{
+					"productId": "2041204199000292291",
+					"productName": "丹麦进口可水洗优质超暖被220*240cm",
+					"brandName": "FOSSFLAKES",
+					"glsCode": "FF2-921-00054",
+					"imageUrl": "https://cdn13.mei.com/product/FF2-921-00054/FF2-921-00054a.jpg@300w_400h_2e_75q",
+					"marketPrice": "4350",
+					"itemPriceDto": {
+						"price": "3045",
+						"discount": "7.0",
+						"begin": "1578224876",
+						"end": "1582905600"
+					},
+					"tNewProduct": 0
+				},
+				{
+					"productId": "2014201499000012851",
+					"productName": "浅蓝色无甲醛全棉提花婴童枕头套40*45cm",
+					"brandName": "FOSSFLAKES",
+					"glsCode": "FF2-912-00053",
+					"imageUrl": "https://cdn15.mei.com/product/FF2-912-00053/FF2-912-00053a.jpg@300w_400h_2e_75q",
+					"marketPrice": "267",
+					"itemPriceDto": {
+						"price": "129",
+						"discount": "4.9",
+						"begin": "1578224876",
+						"end": "1582905600"
+					},
+					"tNewProduct": 0
+				},
+				{
+					"productId": "2041204199000255741",
+					"productName": "无甲醛全棉提花儿童枕头套40*60cm",
+					"brandName": "FOSSFLAKES",
+					"glsCode": "FF2-912-00109",
+					"imageUrl": "https://cdn15.mei.com/product/FF2-912-00109/cc7c31a684bc5a02df85633b4785ce82.jpg@300w_400h_2e_75q",
+					"marketPrice": "450",
+					"itemPriceDto": {
+						"price": "180",
+						"discount": "4.0",
+						"begin": "1578224876",
+						"end": "1582905600"
+					},
+					"tNewProduct": 0
+				}
+			],
+			"block_status": 0,
+			"isHKBlock": 0
+		}
+	]
+}

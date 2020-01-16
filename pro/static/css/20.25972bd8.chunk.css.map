@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.scss"],"names":[],"mappings":"AAAA,qBACI,UAAU,CACV,WAAW,CACd,SAGG,2BAA6B,CAC7B,QAAQ,CACR,MAAM,CACN,UAAU","file":"20.25972bd8.chunk.css","sourcesContent":[".g-box,#guide,.g-img{\r\n    width:100%;\r\n    height:100%;\r\n}\r\n\r\n.gotobtn{\r\n    position: absolute !important;\r\n    top:50px;\r\n    left:0;\r\n    z-index:10;\r\n}"]}

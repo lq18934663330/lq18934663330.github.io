@@ -1,0 +1,535 @@
+{
+	"360AB": "B",
+	"currentPage": 1,
+	"products": [
+		{
+			"productId": "2015201599000016488",
+			"productName": "super.natural白色圆领全棉落肩logo印花女士短袖T恤",
+			"glsCode": "SU9-2542-100012-C",
+			"product_type": "Configurable",
+			"price": "64",
+			"marketPrice": "230.0",
+			"imageUrl": "https://cdn15.mei.com/product/SU9-2542-100012-C/8a4efa675c041e953a93f1880c4e9b9a7f6148d6502e82d2e208331829eedde5.jpg@300w_400h_2e_75q",
+			"itemPriceDto": {
+				"price": "64",
+				"tax": "0.00",
+				"discount": "2.8",
+				"begin": "1574737245",
+				"end": "4070880001"
+			}
+		},
+		{
+			"productId": "2086208699000013517",
+			"productName": "super.natural蜜桃粉色圆领全棉落肩logo印花女士短袖T恤",
+			"glsCode": "SU9-2542-100008-C",
+			"product_type": "Configurable",
+			"price": "64",
+			"marketPrice": "230.0",
+			"imageUrl": "https://cdn15.mei.com/product/SU9-2542-100008-C/8a4efa675c041e95b2d1872ef1c7ad627e964b965b806a1ce208331829eedde5.jpg@300w_400h_2e_75q",
+			"itemPriceDto": {
+				"price": "64",
+				"tax": "0.00",
+				"discount": "2.8",
+				"begin": "1574738769",
+				"end": "4070880001"
+			},
+			"tagListDto": [
+				{
+					"tag": "仅剩一件",
+					"fontColor": "000000",
+					"fontBackgroudColor": "FFFFFF",
+					"frameColor": "000000",
+					"isRadius": 0,
+					"isGradient": 0
+				}
+			]
+		},
+		{
+			"productId": "2022202299000021938",
+			"productName": "super.natural19秋冬上青色纯棉logo字母简约百搭女士短袖T恤上衣",
+			"glsCode": "SU9-2542-100027-C",
+			"product_type": "Configurable",
+			"brandName": "super.natural",
+			"price": "64",
+			"marketPrice": "230.0",
+			"imageUrl": "https://cdn12.mei.com/product/SU9-2542-100027-C/8a4efa675c041e95dd8c2b3b1bcf9dadc6a29835a9a8904b2722398836d0b6d7.jpg@300w_400h_2e_75q",
+			"ev_url_key": "2042204290000006890-event",
+			"itemPriceDto": {
+				"price": "64",
+				"tax": "0.00",
+				"discount": "2.8",
+				"begin": "1574737273",
+				"end": "4070880001"
+			},
+			"tagListDto": [
+				{
+					"tag": "仅剩一件",
+					"fontColor": "000000",
+					"fontBackgroudColor": "FFFFFF",
+					"frameColor": "000000",
+					"isRadius": 0,
+					"isGradient": 0
+				}
+			]
+		},
+		{
+			"productId": "2019201999000024271",
+			"productName": "super.natural19秋冬上青色纯棉潮流大logo百搭女士短袖T恤上衣",
+			"glsCode": "SU9-2542-100043-C",
+			"product_type": "Configurable",
+			"brandName": "super.natural",
+			"price": "75",
+			"marketPrice": "245.0",
+			"imageUrl": "https://cdn15.mei.com/product/SU9-2542-100043-C/8a4efa675c041e956df1da25f201a903f2e6d10262f30616c162405ac1bbcce3.jpg@300w_400h_2e_75q",
+			"event_id": "2041204190000007365",
+			"ev_url_key": "2041204190000007365-event",
+			"ev_code": "45426",
+			"itemPriceDto": {
+				"price": "75",
+				"discount": "3.1",
+				"begin": "1573790400",
+				"end": "1585616400"
+			}
+		},
+		{
+			"productId": "2022202299000021940",
+			"productName": "super.natural19秋冬霜白色纯棉潮流大logo百搭女士短袖T恤上衣",
+			"glsCode": "SU9-2542-100040-C",
+			"product_type": "Configurable",
+			"brandName": "super.natural",
+			"price": "75",
+			"marketPrice": "245.0",
+			"imageUrl": "https://cdn14.mei.com/product/SU9-2542-100040-C/8a4efa675c041e956e20035c5ff97a103c85cb7eb833494ec162405ac1bbcce3.jpg@300w_400h_2e_75q",
+			"event_id": "2041204190000007365",
+			"ev_url_key": "2041204190000007365-event",
+			"ev_code": "45426",
+			"itemPriceDto": {
+				"price": "75",
+				"discount": "3.1",
+				"begin": "1573790400",
+				"end": "1585616400"
+			}
+		},
+		{
+			"productId": "2017201799000022074",
+			"productName": "super.natural19秋冬上青色纯棉涂鸦老鼠爱心图案女士短袖T恤上衣",
+			"glsCode": "SU9-2542-100046-C",
+			"product_type": "Configurable",
+			"price": "75",
+			"marketPrice": "275.0",
+			"imageUrl": "https://cdn15.mei.com/product/SU9-2542-100046-C/8a4efa675c041e9517b6afb3f90af876880c08238ebdcf6ffa176d50952e956d.jpg@300w_400h_2e_75q",
+			"itemPriceDto": {
+				"price": "75",
+				"tax": "0.00",
+				"discount": "2.8",
+				"begin": "1574737229",
+				"end": "4070880001"
+			}
+		},
+		{
+			"productId": "2014201499000041379",
+			"productName": "super.natural19秋冬霜白色纯棉字母小鸟印花宽松女士短袖T恤上衣",
+			"glsCode": "SU9-2542-100017-C",
+			"product_type": "Configurable",
+			"brandName": "super.natural",
+			"price": "75",
+			"marketPrice": "245.0",
+			"imageUrl": "https://cdn13.mei.com/product/SU9-2542-100017-C/8a4efa675c041e954190e9c2a651e3940e6962cf328097d7ba93e9539936eae3.jpg@300w_400h_2e_75q",
+			"event_id": "2041204190000007365",
+			"ev_url_key": "2041204190000007365-event",
+			"ev_code": "45426",
+			"itemPriceDto": {
+				"price": "75",
+				"discount": "3.1",
+				"begin": "1573790400",
+				"end": "1585616400"
+			}
+		},
+		{
+			"productId": "2121212199000058041",
+			"productName": "橘粉色蕾丝印花女士吊带上衣",
+			"glsCode": "FP3-167-00040",
+			"product_type": "Configurable",
+			"brandName": "FREE PEOPLE",
+			"price": "99",
+			"marketPrice": "588.0",
+			"imageUrl": "https://cdn12.mei.com/product/FP3-167-00043/8d8138ffebcccdc23799df7771438c7d.jpg@300w_400h_2e_75q",
+			"ev_url_key": "2042204290000007064-event",
+			"itemPriceDto": {
+				"price": "99",
+				"tax": "0.00",
+				"discount": "1.7",
+				"begin": "1577808000",
+				"end": "4070880001"
+			},
+			"tagListDto": [
+				{
+					"tag": "清仓特惠",
+					"fontColor": "FFFFFF",
+					"fontBackgroudColor": "DD2828",
+					"frameColor": "DD2828",
+					"isRadius": 0,
+					"isGradient": 0
+				},
+				{
+					"tag": "新年价",
+					"beginDate": "1578240000",
+					"endDate": "1578672000",
+					"image": "https://cdn12.mei.com/category/20180302/3843071afb6e33e8a92e922607b51f0fd4fa53a986efd91b.png",
+					"fontColor": "FFFFFF",
+					"fontBackgroudColor": "DD2828",
+					"frameColor": "DD2828",
+					"isRadius": 0,
+					"isGradient": 0
+				}
+			]
+		},
+		{
+			"productId": "2121212199000057803",
+			"productName": "白色拼接无袖女士上衣",
+			"glsCode": "FP3-109-00043",
+			"product_type": "Configurable",
+			"brandName": "FREE PEOPLE",
+			"price": "99",
+			"marketPrice": "594.0",
+			"imageUrl": "https://cdn14.mei.com/product/FP3-109-00046/2710b1256688d7c169bea07725a0840e.jpg@300w_400h_2e_75q",
+			"ev_url_key": "2042204290000007064-event",
+			"itemPriceDto": {
+				"price": "99",
+				"tax": "0.00",
+				"discount": "1.7",
+				"begin": "1577808000",
+				"end": "4070880001"
+			},
+			"tagListDto": [
+				{
+					"tag": "清仓特惠",
+					"fontColor": "FFFFFF",
+					"fontBackgroudColor": "DD2828",
+					"frameColor": "DD2828",
+					"isRadius": 0,
+					"isGradient": 0
+				},
+				{
+					"tag": "新年价",
+					"beginDate": "1578240000",
+					"endDate": "1578672000",
+					"image": "https://cdn12.mei.com/category/20180302/3843071afb6e33e8a92e922607b51f0fd4fa53a986efd91b.png",
+					"fontColor": "FFFFFF",
+					"fontBackgroudColor": "DD2828",
+					"frameColor": "DD2828",
+					"isRadius": 0,
+					"isGradient": 0
+				}
+			]
+		},
+		{
+			"productId": "2121212199000057761",
+			"productName": "米色蕾丝半高领无袖女士上衣",
+			"glsCode": "FP3-107-00062",
+			"product_type": "Configurable",
+			"brandName": "FREE PEOPLE",
+			"price": "99",
+			"marketPrice": "690.0",
+			"imageUrl": "https://cdn12.mei.com/product/FP3-107-00065/0db105666984cd5609b26be7c9a6b186.jpg@300w_400h_2e_75q",
+			"ev_url_key": "2042204290000007064-event",
+			"itemPriceDto": {
+				"price": "99",
+				"tax": "0.00",
+				"discount": "1.5",
+				"begin": "1577808000",
+				"end": "4070880001"
+			},
+			"tagListDto": [
+				{
+					"tag": "清仓特惠",
+					"fontColor": "FFFFFF",
+					"fontBackgroudColor": "DD2828",
+					"frameColor": "DD2828",
+					"isRadius": 0,
+					"isGradient": 0
+				},
+				{
+					"tag": "新年价",
+					"beginDate": "1578240000",
+					"endDate": "1578672000",
+					"image": "https://cdn12.mei.com/category/20180302/3843071afb6e33e8a92e922607b51f0fd4fa53a986efd91b.png",
+					"fontColor": "FFFFFF",
+					"fontBackgroudColor": "DD2828",
+					"frameColor": "DD2828",
+					"isRadius": 0,
+					"isGradient": 0
+				}
+			]
+		},
+		{
+			"productId": "2121212199000058101",
+			"productName": "黑色刺绣拼接露肩女士吊带上衣",
+			"glsCode": "FP3-107-00071",
+			"product_type": "Configurable",
+			"brandName": "FREE PEOPLE",
+			"price": "99",
+			"marketPrice": "1502.0",
+			"imageUrl": "https://cdn12.mei.com/product/FP3-107-00074/0db105666984cd5658849af30cdca37d.jpg@300w_400h_2e_75q",
+			"ev_url_key": "2042204290000007064-event",
+			"itemPriceDto": {
+				"price": "99",
+				"tax": "0.00",
+				"discount": "0.7",
+				"begin": "1577808000",
+				"end": "4070880001"
+			},
+			"tagListDto": [
+				{
+					"tag": "清仓特惠",
+					"fontColor": "FFFFFF",
+					"fontBackgroudColor": "DD2828",
+					"frameColor": "DD2828",
+					"isRadius": 0,
+					"isGradient": 0
+				},
+				{
+					"tag": "新年价",
+					"beginDate": "1578240000",
+					"endDate": "1578672000",
+					"image": "https://cdn12.mei.com/category/20180302/3843071afb6e33e8a92e922607b51f0fd4fa53a986efd91b.png",
+					"fontColor": "FFFFFF",
+					"fontBackgroudColor": "DD2828",
+					"frameColor": "DD2828",
+					"isRadius": 0,
+					"isGradient": 0
+				}
+			]
+		},
+		{
+			"productId": "2121212199000057798",
+			"productName": "灰色拼接无袖女士上衣",
+			"glsCode": "FP3-109-00038",
+			"product_type": "Configurable",
+			"brandName": "FREE PEOPLE",
+			"price": "99",
+			"marketPrice": "594.0",
+			"imageUrl": "https://cdn13.mei.com/product/FP3-109-00041/2710b1256688d7c1354a9e746c5dd1cd.jpg@300w_400h_2e_75q",
+			"ev_url_key": "2042204290000007064-event",
+			"itemPriceDto": {
+				"price": "99",
+				"tax": "0.00",
+				"discount": "1.7",
+				"begin": "1577808000",
+				"end": "4070880001"
+			},
+			"tagListDto": [
+				{
+					"tag": "清仓特惠",
+					"fontColor": "FFFFFF",
+					"fontBackgroudColor": "DD2828",
+					"frameColor": "DD2828",
+					"isRadius": 0,
+					"isGradient": 0
+				},
+				{
+					"tag": "新年价",
+					"beginDate": "1578240000",
+					"endDate": "1578672000",
+					"image": "https://cdn12.mei.com/category/20180302/3843071afb6e33e8a92e922607b51f0fd4fa53a986efd91b.png",
+					"fontColor": "FFFFFF",
+					"fontBackgroudColor": "DD2828",
+					"frameColor": "DD2828",
+					"isRadius": 0,
+					"isGradient": 0
+				}
+			]
+		},
+		{
+			"productId": "2040204099000403796",
+			"productName": "藏青色条纹露背七分袖T恤",
+			"glsCode": "YVR-109-00070",
+			"product_type": "Configurable",
+			"brandName": "moco 摩安珂",
+			"price": "129",
+			"marketPrice": "599.0",
+			"imageUrl": "https://cdn13.mei.com/product/YVR-109-00070/YVR-109-00070a.jpg@300w_400h_2e_75q",
+			"event_id": "2041204190000007433",
+			"ev_url_key": "2041204190000007433-event",
+			"ev_code": "45730",
+			"itemPriceDto": {
+				"price": "129",
+				"discount": "2.2",
+				"begin": "1575355200",
+				"end": "1585616400"
+			}
+		},
+		{
+			"productId": "2120212099000075416",
+			"productName": "蓝白色条纹露背女士T恤",
+			"glsCode": "YVR-109-00529",
+			"product_type": "Configurable",
+			"brandName": "moco 摩安珂",
+			"price": "147",
+			"marketPrice": "469.0",
+			"imageUrl": "https://cdn13.mei.com/product/YVR-109-00529/0b5ba6d47903cd6b80f165ac59b26743.jpg@300w_400h_2e_75q",
+			"event_id": "2041204190000007073",
+			"ev_url_key": "2041204190000007073-event",
+			"ev_code": "43949",
+			"itemPriceDto": {
+				"price": "147",
+				"discount": "3.2",
+				"begin": "1568682000",
+				"end": "1585670100"
+			}
+		},
+		{
+			"productId": "2040204099000558019",
+			"productName": "黑色字母印花中性长袖上衣",
+			"glsCode": "XZE-109-00098",
+			"product_type": "Configurable",
+			"brandName": "XXXTRENTA",
+			"price": "149",
+			"marketPrice": "498.0",
+			"imageUrl": "https://cdn14.mei.com/product/XZE-109-00100/06c0261aa65e16f003be8a6aac8504d8.jpg@300w_400h_2e_75q",
+			"event_id": "2042204290000006901",
+			"ev_url_key": "2042204290000006901-event",
+			"ev_code": "44107",
+			"itemPriceDto": {
+				"price": "149",
+				"discount": "3.0",
+				"begin": "1569286800",
+				"end": "1582938000"
+			}
+		},
+		{
+			"productId": "2014201499000038544",
+			"productName": "TOURTERELLE白色全棉巴洛克印花女士短袖T恤",
+			"glsCode": "TOU-109-00001-C",
+			"product_type": "Configurable",
+			"price": "149",
+			"marketPrice": "498.0",
+			"imageUrl": "https://cdn15.mei.com/product/TOU-109-00001-C/8a4efa675c041e95bcaa319e079ffcfa243026fd19734d4e94346461e4925403.jpg@300w_400h_2e_75q",
+			"itemPriceDto": {
+				"price": "149",
+				"tax": "0.00",
+				"discount": "3.0",
+				"begin": "1575388800",
+				"end": "4070880001"
+			},
+			"tagListDto": [
+				{
+					"tag": "清仓特惠",
+					"fontColor": "FFFFFF",
+					"fontBackgroudColor": "DD2828",
+					"frameColor": "DD2828",
+					"isRadius": 0,
+					"isGradient": 0
+				}
+			]
+		},
+		{
+			"productId": "2121212199000075205",
+			"productName": "郁金香黄色字母标语T恤",
+			"glsCode": "YVR-109-00647",
+			"product_type": "Configurable",
+			"brandName": "moco 摩安珂",
+			"price": "170",
+			"marketPrice": "469.0",
+			"imageUrl": "https://cdn13.mei.com/product/YVR-109-00647/0b5ba6d47903cd6b9bc2db3cc51d809c.jpg@300w_400h_2e_75q",
+			"event_id": "2041204190000007073",
+			"ev_url_key": "2041204190000007073-event",
+			"ev_code": "43949",
+			"itemPriceDto": {
+				"price": "170",
+				"discount": "3.7",
+				"begin": "1568682000",
+				"end": "1585670100"
+			}
+		},
+		{
+			"productId": "2121212199000075201",
+			"productName": "本白色字母标语T恤",
+			"glsCode": "YVR-109-00643",
+			"product_type": "Configurable",
+			"brandName": "moco 摩安珂",
+			"price": "170",
+			"marketPrice": "469.0",
+			"imageUrl": "https://cdn15.mei.com/product/YVR-109-00643/0b5ba6d47903cd6b9427c2f1a09e5e06.jpg@300w_400h_2e_75q",
+			"event_id": "2041204190000007073",
+			"ev_url_key": "2041204190000007073-event",
+			"ev_code": "43949",
+			"itemPriceDto": {
+				"price": "170",
+				"discount": "3.7",
+				"begin": "1568682000",
+				"end": "1585670100"
+			},
+			"tagListDto": [
+				{
+					"tag": "仅剩一件",
+					"fontColor": "000000",
+					"fontBackgroudColor": "FFFFFF",
+					"frameColor": "000000",
+					"isRadius": 0,
+					"isGradient": 0
+				}
+			]
+		},
+		{
+			"productId": "2017201799000014594",
+			"productName": "TOURTERELLE橘色女运动网纱拼接短袖T恤",
+			"glsCode": "TOU-109-00013-C",
+			"product_type": "Configurable",
+			"price": "179",
+			"marketPrice": "598.0",
+			"imageUrl": "https://cdn13.mei.com/product/TOU-109-00013-C/8a4efa675c041e95710948c7d4d04768aeed343963e294e5929f805f03e32fd2.jpg@300w_400h_2e_75q",
+			"itemPriceDto": {
+				"price": "179",
+				"tax": "0.00",
+				"discount": "3.0",
+				"begin": "1575388800",
+				"end": "4070880001"
+			},
+			"tagListDto": [
+				{
+					"tag": "清仓特惠",
+					"fontColor": "FFFFFF",
+					"fontBackgroudColor": "DD2828",
+					"frameColor": "DD2828",
+					"isRadius": 0,
+					"isGradient": 0
+				}
+			]
+		},
+		{
+			"productId": "2020202099000013878",
+			"productName": "TOURTERELLE白色运动网纱拼接女士短袖T恤",
+			"glsCode": "TOU-109-00012-C",
+			"product_type": "Configurable",
+			"price": "179",
+			"marketPrice": "598.0",
+			"imageUrl": "https://cdn14.mei.com/product/TOU-109-00012-C/8a4efa675c041e958e73b424ee55d109f4b7a4258dfab03cc4d431250de9a8ad.jpg@300w_400h_2e_75q",
+			"itemPriceDto": {
+				"price": "179",
+				"tax": "0.00",
+				"discount": "3.0",
+				"begin": "1575388800",
+				"end": "4070880001"
+			},
+			"tagListDto": [
+				{
+					"tag": "清仓特惠",
+					"fontColor": "FFFFFF",
+					"fontBackgroudColor": "DD2828",
+					"frameColor": "DD2828",
+					"isRadius": 0,
+					"isGradient": 0
+				}
+			]
+		}
+	],
+	"totalPages": 99,
+	"shareContent": {
+		"shareInfo": "服装 更有新会员大礼！",
+		"shareTag": "@魅力惠GlamourSales",
+		"shareLinkWx": "http://www.mei.com/",
+		"shareLinkWxcircle": "http://www.mei.com/",
+		"shareLinkWb": "http://www.mei.com/"
+	}
+}

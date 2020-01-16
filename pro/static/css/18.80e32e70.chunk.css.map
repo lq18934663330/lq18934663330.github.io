@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.scss"],"names":[],"mappings":"AACA,UACI,YAAY,CACZ,aAAa,CACb,iBAAkB,CAClB,wBAAyB","file":"18.80e32e70.chunk.css","sourcesContent":["\r\n.touxiang{\r\n    width:1.2rem;\r\n    height:1.2rem;\r\n    border-radius: 50%;\r\n    border:1px solid darkcyan;\r\n}"]}

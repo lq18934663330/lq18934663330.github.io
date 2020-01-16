@@ -1,0 +1,91 @@
+.search {
+    padding: 0.2rem 0.2rem;
+    box-sizing: border-box;
+    background: white;
+
+    .yun {
+        width: 100%;
+        display: flex;
+        margin-bottom: 0.2rem;
+
+        span {
+            color: red;
+            border: 1px solid red;
+            margin-right: 0.1rem;
+            font-size: 10px;
+        }
+    }
+
+    .product {
+        width: 100%;
+        height: 100%;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+
+        .plist {
+            width: 45%;
+            height: 6rem;
+            margin: 3px;
+
+            img {
+                width: 100%;
+                height: 65%;
+            }
+        }
+
+        .msg {
+            span {
+                border: 1px solid black;
+                font-size: 10px;
+            }
+
+            h3 {
+                font-size: 16px;
+                font-weight: bolder;
+                margin-top: 0.08rem;
+                margin-bottom: 0.05rem;
+            }
+
+            p {
+                overflow: hidden;
+                text-overflow: ellipsis;
+                white-space: nowrap;
+                font-weight: 500;
+                color: rgb(8, 6, 6);
+                font-size: 15px;
+                margin-bottom: 0.07rem;
+            }
+
+            .price {
+                display: flex;
+                justify-content: space-between;
+
+                span {
+                    border: 0;
+                    color: rgb(95, 93, 93);
+                }
+
+                .subprice {
+                    width: 40%;
+                    display: flex;
+                    justify-content: space-between;
+                    align-items: center;
+
+                    h2 {
+                        font-size: 14px;
+                        font-weight: bolder;
+                        color: red;
+                    }
+
+                    span {
+                        border: 0;
+                        text-decoration-line: line-through;
+                        color: #999;
+                    }
+                }
+            }
+        }
+    }
+
+}

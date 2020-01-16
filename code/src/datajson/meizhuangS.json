@@ -1,0 +1,1769 @@
+{
+	"userIP": "119.79.228.23",
+	"errorNum": "0",
+	"totalPage": 6,
+	"eventList": [
+		{
+			"eventId": "2120005100000002509",
+			"eventCode": "41623",
+			"siloId": "2018000100000000005",
+			"siloName": "美妆",
+			"englishName": "热销化妆水专场",
+			"chineseName": "缔造晶莹通透质感",
+			"imageUrl": "https://cdn12.mei.com/category/20190618/dfa71dd73a005a76ad85cbbfb0fb58c478124244265805bc.jpg",
+			"discount": "4.2折",
+			"spm_b": "12894230",
+			"isBazzer": "1",
+			"isCrossBorder": "0",
+			"isSeasonNew": "0",
+			"isOverseasend": "0",
+			"isMobile": "0",
+			"isFullprice": "0",
+			"isDisplayBrand": "1",
+			"totalCount": 49,
+			"products": [
+				{
+					"productId": "2033203399000001617",
+					"productName": "护肤精华露230ml",
+					"brandName": "SK-II",
+					"glsCode": "SK4-502-00013",
+					"imageUrl": "https://cdn13.mei.com/product/SK4-502-00013/0b7399d272750dd42a868fa49a5d44e9.jpg@300w_400h_2e_75q",
+					"marketPrice": "1450",
+					"itemPriceDto": {
+						"price": "1299",
+						"discount": "9.0",
+						"begin": "1578224874",
+						"end": "1582905600"
+					},
+					"tagListDto": [
+						{
+							"tag": "买手推荐",
+							"isHasExpiration": "0",
+							"fontColor": "000000",
+							"fontBackgroudColor": "FFFFFF",
+							"frameColor": "000000",
+							"isRadius": 0,
+							"isGradient": 0
+						}
+					],
+					"tNewProduct": 0
+				},
+				{
+					"productId": "2042204299000840518",
+					"productName": "倩碧匀净卓研水精萃 200ml",
+					"brandName": "CLINIQUE",
+					"glsCode": "CTB-502-00012",
+					"imageUrl": "https://cdn12.mei.com/product/CTB-502-00012/2beeef7eda1a539766c2b21406aa0548.jpg@300w_400h_2e_75q",
+					"marketPrice": "350",
+					"itemPriceDto": {
+						"price": "299",
+						"discount": "8.6",
+						"begin": "1578224874",
+						"end": "1582905600"
+					},
+					"tagListDto": [
+						{
+							"tag": "买手推荐",
+							"isHasExpiration": "0",
+							"fontColor": "000000",
+							"fontBackgroudColor": "FFFFFF",
+							"frameColor": "000000",
+							"isRadius": 0,
+							"isGradient": 0
+						},
+						{
+							"tag": "当季新品",
+							"isHasExpiration": "0",
+							"fontColor": "FFFFFF",
+							"fontBackgroudColor": "DD2828",
+							"frameColor": "DD2828",
+							"isRadius": 0,
+							"isGradient": 0
+						}
+					],
+					"tNewProduct": 0
+				},
+				{
+					"productId": "1025296",
+					"productName": "爽肤精萃液165ml",
+					"brandName": "ALBION",
+					"glsCode": "AB9-502-00001",
+					"imageUrl": "https://cdn12.mei.com/product/20170617/20170617190108687.jpg@300w_400h_2e_75q",
+					"marketPrice": "450",
+					"itemPriceDto": {
+						"price": "328",
+						"discount": "7.3",
+						"begin": "1578224874",
+						"end": "1582905600"
+					},
+					"tagListDto": [
+						{
+							"tag": "买手推荐",
+							"isHasExpiration": "0",
+							"fontColor": "000000",
+							"fontBackgroudColor": "FFFFFF",
+							"frameColor": "000000",
+							"isRadius": 0,
+							"isGradient": 0
+						},
+						{
+							"tag": "仅剩一件",
+							"isHasExpiration": "0",
+							"fontColor": "000000",
+							"fontBackgroudColor": "FFFFFF",
+							"frameColor": "000000",
+							"isRadius": 0,
+							"isGradient": 0
+						}
+					],
+					"tNewProduct": 0
+				},
+				{
+					"productId": "2040204099000437780",
+					"productName": "护肤精华露330ml",
+					"brandName": "SK-II",
+					"glsCode": "SK4-504-00024",
+					"imageUrl": "https://cdn12.mei.com/product/SK4-504-00024/d2bb54df3362e20c727618cfe716e36e.jpg@300w_400h_2e_75q",
+					"marketPrice": "1980",
+					"itemPriceDto": {
+						"price": "1788",
+						"discount": "9.1",
+						"begin": "1578224874",
+						"end": "1582905600"
+					},
+					"tagListDto": [
+						{
+							"tag": "买手推荐",
+							"isHasExpiration": "0",
+							"fontColor": "000000",
+							"fontBackgroudColor": "FFFFFF",
+							"frameColor": "000000",
+							"isRadius": 0,
+							"isGradient": 0
+						},
+						{
+							"tag": "仅剩一件",
+							"isHasExpiration": "0",
+							"fontColor": "000000",
+							"fontBackgroudColor": "FFFFFF",
+							"frameColor": "000000",
+							"isRadius": 0,
+							"isGradient": 0
+						}
+					],
+					"tNewProduct": 0
+				},
+				{
+					"productId": "685271",
+					"productName": "花香化妆水250ml",
+					"brandName": "sisley",
+					"glsCode": "SY5-502-00001",
+					"imageUrl": "https://cdn15.mei.com/product/20170315/20170315161029747.jpg@300w_400h_2e_75q",
+					"marketPrice": "730",
+					"itemPriceDto": {
+						"price": "660",
+						"discount": "9.1",
+						"begin": "1578224874",
+						"end": "1582905600"
+					},
+					"tNewProduct": 0
+				},
+				{
+					"productId": "2041204199000191372",
+					"productName": "科颜氏金盏花植物精华爽肤水250ml",
+					"brandName": "Kiehl’s",
+					"glsCode": "KWC-502-00005",
+					"imageUrl": "https://cdn13.mei.com/product/KWC-502-00005/KWC-502-00005a.jpg@300w_400h_2e_75q",
+					"marketPrice": "340",
+					"itemPriceDto": {
+						"price": "298",
+						"discount": "8.8",
+						"begin": "1578224874",
+						"end": "1582905600"
+					},
+					"tNewProduct": 0
+				},
+				{
+					"productId": "2040204099000705627",
+					"productName": "雅诗兰黛鲜活亮采红石榴倍润水30ml*5",
+					"brandName": "Estée Lauder",
+					"glsCode": "EXB-512-00035",
+					"imageUrl": "https://cdn15.mei.com/product/EXB-512-00035/727f776c82f432449b6dd914758c798d.jpg@300w_400h_2e_75q",
+					"marketPrice": "315",
+					"itemPriceDto": {
+						"price": "182",
+						"discount": "5.8",
+						"begin": "1578224874",
+						"end": "1578380400"
+					},
+					"tagListDto": [
+						{
+							"tag": "今日疯抢",
+							"isHasExpiration": "1",
+							"beginDate": "1578380400",
+							"endDate": "1578387599",
+							"fontColor": "FFFFFF",
+							"fontBackgroudColor": "DD2828",
+							"frameColor": "DD2828",
+							"isRadius": 0,
+							"isGradient": 0
+						}
+					],
+					"tNewProduct": 0
+				},
+				{
+					"productId": "812047",
+					"productName": "修护精萃液150ml",
+					"brandName": "LA MER",
+					"glsCode": "LM1-502-00002",
+					"imageUrl": "https://cdn15.mei.com/product/LM1-502-00002/0ad092ac9027d5e5f5bc584eb3e94530.jpg@300w_400h_2e_75q",
+					"marketPrice": "1100",
+					"itemPriceDto": {
+						"price": "999",
+						"discount": "9.1",
+						"begin": "1578224874",
+						"end": "1582905600"
+					},
+					"tNewProduct": 0
+				},
+				{
+					"productId": "1218121899900010230",
+					"productName": "盼丽风姿健肤水150ml",
+					"brandName": "SHISEIDO",
+					"glsCode": "SH5-502-00022",
+					"imageUrl": "https://cdn13.mei.com/product/SH5-502-00022/SH5-502-00022a.jpg@300w_400h_2e_75q",
+					"marketPrice": "450",
+					"itemPriceDto": {
+						"price": "399",
+						"discount": "8.9",
+						"begin": "1578224874",
+						"end": "1582905600"
+					},
+					"tNewProduct": 0
+				}
+			],
+			"block_status": 0,
+			"isHKBlock": 0
+		},
+		{
+			"eventId": "2041204190000006660",
+			"eventCode": "41931",
+			"siloId": "2018000100000000005",
+			"siloName": "美妆",
+			"englishName": "乳液面霜专场",
+			"chineseName": "贵妇保养秘笈",
+			"imageUrl": "https://cdn14.mei.com/category/20190605/9de11b7bb00b4bb98e286f14628828fad4fa53a986efd91b.jpg",
+			"discount": "2.2折",
+			"spm_b": "12970744",
+			"isBazzer": "1",
+			"isCrossBorder": "0",
+			"isSeasonNew": "0",
+			"isOverseasend": "0",
+			"isMobile": "0",
+			"isFullprice": "0",
+			"isDisplayBrand": "1",
+			"totalCount": 117,
+			"products": [
+				{
+					"productId": "2042204299000794804",
+					"productName": "希思黎全能乳液10ml*4件套装",
+					"brandName": "sisley",
+					"glsCode": "SY5-503-00011",
+					"imageUrl": "https://cdn14.mei.com/product/SY5-503-00011/ff2cf01307b390e72850bb5d66344b1e.jpg@300w_400h_2e_75q",
+					"marketPrice": "720",
+					"itemPriceDto": {
+						"price": "328",
+						"discount": "4.6",
+						"begin": "1578224875",
+						"end": "1582905600"
+					},
+					"tagListDto": [
+						{
+							"tag": "买手推荐",
+							"isHasExpiration": "0",
+							"fontColor": "000000",
+							"fontBackgroudColor": "FFFFFF",
+							"frameColor": "000000",
+							"isRadius": 0,
+							"isGradient": 0
+						},
+						{
+							"tag": "当季新品",
+							"isHasExpiration": "0",
+							"fontColor": "FFFFFF",
+							"fontBackgroudColor": "DD2828",
+							"frameColor": "DD2828",
+							"isRadius": 0,
+							"isGradient": 0
+						}
+					],
+					"tNewProduct": 0
+				},
+				{
+					"productId": "2040204099000659790",
+					"productName": "兰蔻新黑金臻宠面霜15ml*2件套装",
+					"brandName": "Lancôme",
+					"glsCode": "LVT-520-00039",
+					"imageUrl": "https://cdn12.mei.com/product/LVT-520-00039/862ecc44d167924e9664b131926b39cb.jpg@300w_400h_2e_75q",
+					"marketPrice": "2280",
+					"itemPriceDto": {
+						"price": "699",
+						"discount": "3.1",
+						"begin": "1578224875",
+						"end": "1582905600"
+					},
+					"tagListDto": [
+						{
+							"tag": "买手推荐",
+							"isHasExpiration": "0",
+							"fontColor": "000000",
+							"fontBackgroudColor": "FFFFFF",
+							"frameColor": "000000",
+							"isRadius": 0,
+							"isGradient": 0
+						},
+						{
+							"tag": "当季新品",
+							"isHasExpiration": "0",
+							"fontColor": "FFFFFF",
+							"fontBackgroudColor": "DD2828",
+							"frameColor": "DD2828",
+							"isRadius": 0,
+							"isGradient": 0
+						}
+					],
+					"tNewProduct": 0
+				},
+				{
+					"productId": "1158115899900001721",
+					"productName": "微肌因赋活修护精华霜50g「大红瓶」",
+					"brandName": "SK-II",
+					"glsCode": "SK4-503-00007",
+					"imageUrl": "https://cdn15.mei.com/product/SK4-503-00007/SK4-503-00007a.jpg@300w_400h_2e_75q",
+					"marketPrice": "860",
+					"itemPriceDto": {
+						"price": "768",
+						"discount": "9.0",
+						"begin": "1578224875",
+						"end": "1582905600"
+					},
+					"tagListDto": [
+						{
+							"tag": "买手推荐",
+							"isHasExpiration": "0",
+							"fontColor": "000000",
+							"fontBackgroudColor": "FFFFFF",
+							"frameColor": "000000",
+							"isRadius": 0,
+							"isGradient": 0
+						}
+					],
+					"tNewProduct": 0
+				},
+				{
+					"productId": "2040204099000702801",
+					"productName": "兰蔻新水分缘保湿舒缓日霜15ml*4",
+					"brandName": "Lancôme",
+					"glsCode": "LVT-503-00061",
+					"imageUrl": "https://cdn13.mei.com/product/LVT-503-00061/df3c039f05020f28e0fe587cb675d846.jpg@300w_400h_2e_75q",
+					"marketPrice": "690",
+					"itemPriceDto": {
+						"price": "369",
+						"discount": "5.4",
+						"begin": "1578224875",
+						"end": "1582905600"
+					},
+					"tagListDto": [
+						{
+							"tag": "买手推荐",
+							"isHasExpiration": "0",
+							"fontColor": "000000",
+							"fontBackgroudColor": "FFFFFF",
+							"frameColor": "000000",
+							"isRadius": 0,
+							"isGradient": 0
+						}
+					],
+					"tNewProduct": 0
+				},
+				{
+					"productId": "2040204099000532289",
+					"productName": "清新焕白渗透乳II(保湿型)200g",
+					"brandName": "ALBION",
+					"glsCode": "AB9-503-00015",
+					"imageUrl": "https://cdn15.mei.com/product/AB9-503-00015/5053f1fa895df639e53cd243b5353c28.jpg@300w_400h_2e_75q",
+					"marketPrice": "380",
+					"itemPriceDto": {
+						"price": "328",
+						"discount": "8.7",
+						"begin": "1578224875",
+						"end": "1582905600"
+					},
+					"tNewProduct": 0
+				},
+				{
+					"productId": "2040204099000705626",
+					"productName": "雅诗兰黛弹性晚霜15ml*4",
+					"brandName": "Estée Lauder",
+					"glsCode": "EXB-512-00034",
+					"imageUrl": "https://cdn13.mei.com/product/EXB-512-00034/727f776c82f432444860627accb4f748.jpg@300w_400h_2e_75q",
+					"marketPrice": "1056",
+					"itemPriceDto": {
+						"price": "384",
+						"discount": "3.7",
+						"begin": "1578224875",
+						"end": "1582905600"
+					},
+					"tNewProduct": 0
+				},
+				{
+					"productId": "2042204299000200280",
+					"productName": "［白绷带］活颜修护舒缓霜50ml",
+					"brandName": "HELENA RUBINSTEIN",
+					"glsCode": "HR4-503-00005",
+					"imageUrl": "https://cdn13.mei.com/product/HR4-503-00005/HR4-503-00005a.jpg@300w_400h_2e_75q",
+					"marketPrice": "3180",
+					"itemPriceDto": {
+						"price": "2880",
+						"discount": "9.1",
+						"begin": "1578224875",
+						"end": "1582905600"
+					},
+					"tNewProduct": 0
+				},
+				{
+					"productId": "2042204299000323142",
+					"productName": "微肌因赋活修护精华霜100g「大红瓶」",
+					"brandName": "SK-II",
+					"glsCode": "SK4-503-00009",
+					"imageUrl": "https://cdn14.mei.com/product/SK4-503-00009/d911b64d6725e96ed246827cf6993edc.jpg@300w_400h_2e_75q",
+					"marketPrice": "1360",
+					"itemPriceDto": {
+						"price": "1199",
+						"discount": "8.9",
+						"begin": "1578224875",
+						"end": "1582905600"
+					},
+					"tNewProduct": 0
+				},
+				{
+					"productId": "2084208499000015695",
+					"productName": "SKII微肌因赋活修护精华霜旅行套装（3支装）大红瓶精华霜15g*3",
+					"brandName": "SK-II",
+					"glsCode": "SK2-503-1624BB",
+					"imageUrl": "https://cdn12.mei.com/product/SK2-503-1624BB/40e5b1ce2869db4243ad53f1fefbfa4d913024390de80b837254748793bbc16a.jpg@300w_400h_2e_75q",
+					"marketPrice": "780",
+					"itemPriceDto": {
+						"price": "780",
+						"discount": "10.0",
+						"begin": "1578224875",
+						"end": "1582905600"
+					},
+					"tNewProduct": 0
+				}
+			],
+			"block_status": 0,
+			"isHKBlock": 0
+		},
+		{
+			"eventId": "2120005100000002506",
+			"eventCode": "41608",
+			"siloId": "2018000100000000005",
+			"siloName": "美妆",
+			"englishName": "爆款尖货专场",
+			"chineseName": "专治选择困难症",
+			"imageUrl": "https://cdn13.mei.com/category/20190605/9de11b7bb00b4bb9134a671ef261f20739e4db8297e1f0dc.jpg",
+			"discount": "7.9折",
+			"spm_b": "12894103",
+			"isBazzer": "1",
+			"isCrossBorder": "0",
+			"isSeasonNew": "0",
+			"isOverseasend": "0",
+			"isMobile": "0",
+			"isFullprice": "0",
+			"isDisplayBrand": "1",
+			"totalCount": 18,
+			"products": [
+				{
+					"productId": "2033203399000001617",
+					"productName": "护肤精华露230ml",
+					"brandName": "SK-II",
+					"glsCode": "SK4-502-00013",
+					"imageUrl": "https://cdn13.mei.com/product/SK4-502-00013/0b7399d272750dd42a868fa49a5d44e9.jpg@300w_400h_2e_75q",
+					"marketPrice": "1450",
+					"itemPriceDto": {
+						"price": "1299",
+						"discount": "9.0",
+						"begin": "1578224875",
+						"end": "1582905600"
+					},
+					"tagListDto": [
+						{
+							"tag": "买手推荐",
+							"isHasExpiration": "0",
+							"fontColor": "000000",
+							"fontBackgroudColor": "FFFFFF",
+							"frameColor": "000000",
+							"isRadius": 0,
+							"isGradient": 0
+						}
+					],
+					"tNewProduct": 0
+				},
+				{
+					"productId": "1025297",
+					"productName": "爽肤精萃液330ml健康水",
+					"brandName": "ALBION",
+					"glsCode": "AB9-502-00002",
+					"imageUrl": "https://cdn14.mei.com/product/AB9-502-00002/9fdf3c83243e86eef5bc584eb3e94530.jpg@300w_400h_2e_75q",
+					"marketPrice": "640",
+					"itemPriceDto": {
+						"price": "588",
+						"discount": "9.2",
+						"begin": "1578224875",
+						"end": "1582905600"
+					},
+					"tNewProduct": 0
+				},
+				{
+					"productId": "1103110399900004325",
+					"productName": "微肌因赋活修护精华霜80g「大红瓶」",
+					"brandName": "SK-II",
+					"glsCode": "SK4-503-00008",
+					"imageUrl": "https://cdn12.mei.com/product/SK4-503-00008/d911b64d6725e96e3f5e8227aefde768.jpg@300w_400h_2e_75q",
+					"marketPrice": "1260",
+					"itemPriceDto": {
+						"price": "1128",
+						"discount": "9.0",
+						"begin": "1578224875",
+						"end": "1582905600"
+					},
+					"tNewProduct": 0
+				},
+				{
+					"productId": "1214121499900005198",
+					"productName": "红妍肌活精华露50ml",
+					"brandName": "SHISEIDO",
+					"glsCode": "SH5-504-00018",
+					"imageUrl": "https://cdn13.mei.com/product/20180929/27de9e350d14edbc653bb17dc15787c9dc0bc45b7bb6d783.jpg@300w_400h_2e_75q",
+					"marketPrice": "860",
+					"itemPriceDto": {
+						"price": "758",
+						"discount": "8.9",
+						"begin": "1578224875",
+						"end": "1582905600"
+					},
+					"tNewProduct": 0
+				},
+				{
+					"productId": "2041204199000191402",
+					"productName": "雅诗兰黛特润修护肌透精华露 小棕瓶50ml",
+					"brandName": "Estée Lauder",
+					"glsCode": "EXB-504-00002",
+					"imageUrl": "https://cdn12.mei.com/product/EXB-504-00002/897d587d627361dbf5bc584eb3e94530.jpg@300w_400h_2e_75q",
+					"marketPrice": "850",
+					"itemPriceDto": {
+						"price": "699",
+						"discount": "8.3",
+						"begin": "1578224875",
+						"end": "1582905600"
+					},
+					"tNewProduct": 0
+				},
+				{
+					"productId": "2120212099000002206",
+					"productName": "茵芙莎光透无瑕修饰遮瑕膏SPF25PA+++4.5g",
+					"brandName": "IPSA",
+					"glsCode": "IXB-559-00002",
+					"imageUrl": "https://cdn13.mei.com/product/IXB-559-00002/IXB-559-00002a.jpg@300w_400h_2e_75q",
+					"marketPrice": "290",
+					"itemPriceDto": {
+						"price": "288",
+						"discount": "9.9",
+						"begin": "1578224875",
+						"end": "1582905600"
+					},
+					"tNewProduct": 0
+				},
+				{
+					"productId": "1214121499900005212",
+					"productName": "睡莲滋润活颜面霜50ml 「贵妇牌亲民价」",
+					"brandName": "FRESH",
+					"glsCode": "FH1-503-00001",
+					"imageUrl": "https://cdn14.mei.com/product/FH1-503-00001/15c29ff418b0d694e187e81117a5304e.jpg@300w_400h_2e_75q",
+					"marketPrice": "460",
+					"itemPriceDto": {
+						"price": "428",
+						"discount": "9.4",
+						"begin": "1578224875",
+						"end": "1582905600"
+					},
+					"tNewProduct": 0
+				},
+				{
+					"productId": "1232123299900004380",
+					"productName": "红妍肌活眼部精华露15ml",
+					"brandName": "SHISEIDO",
+					"glsCode": "SH5-518-00013",
+					"imageUrl": "https://cdn15.mei.com/product/SH5-518-00013/SH5-518-00013a.jpg@300w_400h_2e_75q",
+					"marketPrice": "550",
+					"itemPriceDto": {
+						"price": "488",
+						"discount": "8.9",
+						"begin": "1578224875",
+						"end": "1582905600"
+					},
+					"tNewProduct": 0
+				},
+				{
+					"productId": "2018201899000024217",
+					"productName": "沁肌紧肤蜜170ml 「水磨精华液」",
+					"brandName": "Clé de Peau Beauté",
+					"glsCode": "CY8-502-00001",
+					"imageUrl": "https://cdn15.mei.com/product/CY8-502-00001/CY8-502-00001a.jpg@300w_400h_2e_75q",
+					"marketPrice": "850",
+					"itemPriceDto": {
+						"price": "799",
+						"discount": "9.4",
+						"begin": "1578224875",
+						"end": "1582905600"
+					},
+					"tNewProduct": 0
+				}
+			],
+			"block_status": 0,
+			"isHKBlock": 0
+		},
+		{
+			"eventId": "2040204090000006459",
+			"eventCode": "39807",
+			"siloId": "2018000100000000005",
+			"siloName": "美妆",
+			"englishName": "SHISEIDO资生堂",
+			"chineseName": "给予肌肤深层力量",
+			"imageUrl": "https://cdn14.mei.com/category/20190606/538d61480ff3de00c24be019fe4855ec39e4db8297e1f0dc.jpg",
+			"discount": "3.6折",
+			"spm_b": "12760746",
+			"isBazzer": "0",
+			"isCrossBorder": "0",
+			"isSeasonNew": "0",
+			"isOverseasend": "0",
+			"isMobile": "0",
+			"isFullprice": "0",
+			"isDisplayBrand": "1",
+			"totalCount": 47,
+			"products": [
+				{
+					"productId": "2040204099000704189",
+					"productName": "资生堂时光琉璃御藏臻润洁面乳125ml",
+					"brandName": "SHISEIDO",
+					"glsCode": "SH5-501-00022",
+					"imageUrl": "https://cdn13.mei.com/product/SH5-501-00022/4a8f04653b95a453c315a2acbccce10a.jpg@300w_400h_2e_75q",
+					"marketPrice": "580",
+					"itemPriceDto": {
+						"price": "499",
+						"discount": "8.7",
+						"begin": "1578224875",
+						"end": "1582905600"
+					},
+					"tagListDto": [
+						{
+							"tag": "买手推荐",
+							"isHasExpiration": "0",
+							"fontColor": "000000",
+							"fontBackgroudColor": "FFFFFF",
+							"frameColor": "000000",
+							"isRadius": 0,
+							"isGradient": 0
+						}
+					],
+					"tNewProduct": 0
+				},
+				{
+					"productId": "2120212099000011343",
+					"productName": "资生堂悦薇珀翡塑颜霜15ml",
+					"brandName": "SHISEIDO",
+					"glsCode": "SH5-503-00051",
+					"imageUrl": "https://cdn14.mei.com/product/SH5-503-00051/ab7e4ad61730282a095ef5f2c4df5b9a.jpg@300w_400h_2e_75q",
+					"marketPrice": "780",
+					"itemPriceDto": {
+						"price": "669",
+						"discount": "8.6",
+						"begin": "1578224875",
+						"end": "1582905600"
+					},
+					"tNewProduct": 0
+				},
+				{
+					"productId": "2041204199000113604",
+					"productName": "安热沙水能户外防护乳SPF50 60ml",
+					"brandName": "SHISEIDO",
+					"glsCode": "SVF-519-00001",
+					"imageUrl": "https://cdn14.mei.com/product/20180518/fea69f83bac84d4c692a34c1f3318e78e15d3cf3671d4998.jpg@300w_400h_2e_75q",
+					"marketPrice": "298",
+					"itemPriceDto": {
+						"price": "278",
+						"discount": "9.4",
+						"begin": "1578224875",
+						"end": "1582905600"
+					},
+					"tNewProduct": 0
+				},
+				{
+					"productId": "1218121899900010226",
+					"productName": "资生堂男士焕润紧致凝霜50ml",
+					"brandName": "SHISEIDO",
+					"glsCode": "SH5-507-00013",
+					"imageUrl": "https://cdn14.mei.com/product/20181214/2896121f9db2841a53345adf08542e86dc0bc45b7bb6d783.jpg@300w_400h_2e_75q",
+					"marketPrice": "520",
+					"itemPriceDto": {
+						"price": "520",
+						"discount": "10.0",
+						"begin": "1578224875",
+						"end": "1582905600"
+					},
+					"tagListDto": [
+						{
+							"tag": "仅剩一件",
+							"isHasExpiration": "0",
+							"fontColor": "000000",
+							"fontBackgroudColor": "FFFFFF",
+							"frameColor": "000000",
+							"isRadius": 0,
+							"isGradient": 0
+						}
+					],
+					"tNewProduct": 0
+				},
+				{
+					"productId": "1214121499900005198",
+					"productName": "红妍肌活精华露50ml",
+					"brandName": "SHISEIDO",
+					"glsCode": "SH5-504-00018",
+					"imageUrl": "https://cdn13.mei.com/product/20180929/27de9e350d14edbc653bb17dc15787c9dc0bc45b7bb6d783.jpg@300w_400h_2e_75q",
+					"marketPrice": "860",
+					"itemPriceDto": {
+						"price": "758",
+						"discount": "8.9",
+						"begin": "1578224875",
+						"end": "1582905600"
+					},
+					"tNewProduct": 0
+				},
+				{
+					"productId": "1232123299900004380",
+					"productName": "红妍肌活眼部精华露15ml",
+					"brandName": "SHISEIDO",
+					"glsCode": "SH5-518-00013",
+					"imageUrl": "https://cdn15.mei.com/product/SH5-518-00013/SH5-518-00013a.jpg@300w_400h_2e_75q",
+					"marketPrice": "550",
+					"itemPriceDto": {
+						"price": "488",
+						"discount": "8.9",
+						"begin": "1578224875",
+						"end": "1582905600"
+					},
+					"tNewProduct": 0
+				},
+				{
+					"productId": "2042204299000831065",
+					"productName": "资生堂盼丽风姿洁面膏30ml*4",
+					"brandName": "SHISEIDO",
+					"glsCode": "SH5-571-00003",
+					"imageUrl": "https://cdn14.mei.com/product/SH5-571-00003/35f72215f0954134fdd1873d169e42a8.jpg@300w_400h_2e_75q",
+					"marketPrice": "336",
+					"itemPriceDto": {
+						"price": "299",
+						"discount": "8.9",
+						"begin": "1578224875",
+						"end": "1582905600"
+					},
+					"tNewProduct": 0
+				},
+				{
+					"productId": "2042204299000831068",
+					"productName": "资生堂盼丽风姿夜霜18ml*3",
+					"brandName": "SHISEIDO",
+					"glsCode": "SH5-503-00075",
+					"imageUrl": "https://cdn14.mei.com/product/SH5-503-00075/ab7e4ad61730282ac9df005763879d1f.jpg@300w_400h_2e_75q",
+					"marketPrice": "551",
+					"itemPriceDto": {
+						"price": "299",
+						"discount": "5.5",
+						"begin": "1578224875",
+						"end": "1578380400"
+					},
+					"tagListDto": [
+						{
+							"tag": "今日疯抢",
+							"isHasExpiration": "1",
+							"beginDate": "1578639600",
+							"endDate": "1578646799",
+							"fontColor": "FFFFFF",
+							"fontBackgroudColor": "DD2828",
+							"frameColor": "DD2828",
+							"isRadius": 0,
+							"isGradient": 0
+						}
+					],
+					"tNewProduct": 0
+				},
+				{
+					"productId": "2042204299000831062",
+					"productName": "资生堂盼丽风姿日乳15ml*5",
+					"brandName": "SHISEIDO",
+					"glsCode": "SH5-503-00072",
+					"imageUrl": "https://cdn13.mei.com/product/SH5-503-00072/ab7e4ad61730282a3e7005ab018466fd.jpg@300w_400h_2e_75q",
+					"marketPrice": "480",
+					"itemPriceDto": {
+						"price": "299",
+						"discount": "6.3",
+						"begin": "1578224875",
+						"end": "1582905600"
+					},
+					"tNewProduct": 0
+				}
+			],
+			"block_status": 0,
+			"isHKBlock": 0
+		},
+		{
+			"eventId": "2041204190000006595",
+			"eventCode": "41622",
+			"siloId": "2018000100000000005",
+			"siloName": "美妆",
+			"englishName": "精华专场",
+			"chineseName": "拯救肌肤干燥症",
+			"imageUrl": "https://cdn12.mei.com/category/20190618/dfa71dd73a005a7642d17a0d7b4e0b6f1ac47f6e1a03bdfe.jpg",
+			"discount": "3.4折",
+			"spm_b": "12894222",
+			"isBazzer": "1",
+			"isCrossBorder": "0",
+			"isSeasonNew": "0",
+			"isOverseasend": "0",
+			"isMobile": "0",
+			"isFullprice": "0",
+			"isDisplayBrand": "1",
+			"totalCount": 73,
+			"products": [
+				{
+					"productId": "2121212199000173398",
+					"productName": "雅诗兰黛特润修护肌透精华露7ml*5",
+					"brandName": "Estée Lauder",
+					"glsCode": "EXB-504-00036",
+					"imageUrl": "https://cdn12.mei.com/product/EXB-504-00036/897d587d627361db735d0b406c24b046.jpg@300w_400h_2e_75q",
+					"marketPrice": "688",
+					"itemPriceDto": {
+						"price": "468",
+						"discount": "6.9",
+						"begin": "1578224875",
+						"end": "1582905600",
+						"newPrice": "467",
+						"newDiscount": "6.8",
+						"newBegin": "1569326400",
+						"newEnd": "1600948800"
+					},
+					"tagListDto": [
+						{
+							"tag": "买手推荐",
+							"isHasExpiration": "0",
+							"fontColor": "000000",
+							"fontBackgroudColor": "FFFFFF",
+							"frameColor": "000000",
+							"isRadius": 0,
+							"isGradient": 0
+						}
+					],
+					"tNewProduct": 0
+				},
+				{
+					"productId": "2041204199000719257",
+					"productName": "兰蔻新精华肌底液7ml*5套装",
+					"brandName": "Lancôme",
+					"glsCode": "LVT-504-00029",
+					"imageUrl": "https://cdn12.mei.com/product/LVT-504-00029/486296bb50516228aada4134f00f36e7.jpg@300w_400h_2e_75q",
+					"marketPrice": "887",
+					"itemPriceDto": {
+						"price": "388",
+						"discount": "4.4",
+						"begin": "1578224875",
+						"end": "1582905600"
+					},
+					"tagListDto": [
+						{
+							"tag": "买手推荐",
+							"isHasExpiration": "0",
+							"fontColor": "000000",
+							"fontBackgroudColor": "FFFFFF",
+							"frameColor": "000000",
+							"isRadius": 0,
+							"isGradient": 0
+						}
+					],
+					"tNewProduct": 0
+				},
+				{
+					"productId": "2041204199000719261",
+					"productName": "兰蔻新塑颜修护凝露水50ml*4套装",
+					"brandName": "Lancôme",
+					"glsCode": "LVT-504-00030",
+					"imageUrl": "https://cdn12.mei.com/product/LVT-504-00030/486296bb505162287091c7d13b107cb8.jpg@300w_400h_2e_75q",
+					"marketPrice": "560",
+					"itemPriceDto": {
+						"price": "345",
+						"discount": "6.2",
+						"begin": "1578224875",
+						"end": "1578294000"
+					},
+					"tagListDto": [
+						{
+							"tag": "今日疯抢",
+							"isHasExpiration": "1",
+							"beginDate": "1578639600",
+							"endDate": "1578646799",
+							"fontColor": "FFFFFF",
+							"fontBackgroudColor": "DD2828",
+							"frameColor": "DD2828",
+							"isRadius": 0,
+							"isGradient": 0
+						},
+						{
+							"tag": "买手推荐",
+							"isHasExpiration": "0",
+							"fontColor": "000000",
+							"fontBackgroudColor": "FFFFFF",
+							"frameColor": "000000",
+							"isRadius": 0,
+							"isGradient": 0
+						}
+					],
+					"tNewProduct": 0
+				},
+				{
+					"productId": "2014201499000026019",
+					"productName": "肌因光蕴环采钻白精华露50ml",
+					"brandName": "SK-II",
+					"glsCode": "SK4-504-00018",
+					"imageUrl": "https://cdn13.mei.com/product/20180904/f906ace3a7aeb42a03aa82ea6c4c0804d72eb86efc6c943a.jpg@300w_400h_2e_75q",
+					"marketPrice": "1540",
+					"itemPriceDto": {
+						"price": "1399",
+						"discount": "9.1",
+						"begin": "1578224875",
+						"end": "1582905600"
+					},
+					"tNewProduct": 0
+				},
+				{
+					"productId": "2121212199000120188",
+					"productName": "雅诗兰黛特润修护肌透精华露15ml*2",
+					"brandName": "Estée Lauder",
+					"glsCode": "EXB-504-00034",
+					"imageUrl": "https://cdn13.mei.com/product/EXB-504-00034/897d587d627361db4860627accb4f748.jpg@300w_400h_2e_75q",
+					"marketPrice": "590",
+					"itemPriceDto": {
+						"price": "368",
+						"discount": "6.3",
+						"begin": "1578224875",
+						"end": "1582905600"
+					},
+					"tagListDto": [
+						{
+							"tag": "当季新品",
+							"isHasExpiration": "0",
+							"fontColor": "FFFFFF",
+							"fontBackgroudColor": "DD2828",
+							"frameColor": "DD2828",
+							"isRadius": 0,
+							"isGradient": 0
+						}
+					],
+					"tNewProduct": 0
+				},
+				{
+					"productId": "2040204099000363505",
+					"productName": "兰蔻新水份缘保湿舒缓精华液10ml*3套装",
+					"brandName": "Lancôme",
+					"glsCode": "LVT-504-00018",
+					"imageUrl": "https://cdn13.mei.com/product/LVT-504-00018/486296bb50516228ba09afab8e21c56a.jpg@300w_400h_2e_75q",
+					"marketPrice": "600",
+					"itemPriceDto": {
+						"price": "199",
+						"discount": "3.4",
+						"begin": "1578224875",
+						"end": "1582905600"
+					},
+					"tNewProduct": 0
+				},
+				{
+					"productId": "2041204199000246079",
+					"productName": "资生堂新透白美肌集光精华液30ml",
+					"brandName": "SHISEIDO",
+					"glsCode": "SUL-504-00006",
+					"imageUrl": "https://cdn13.mei.com/product/SUL-504-00006/SUL-504-00006a.jpg@300w_400h_2e_75q",
+					"marketPrice": "880",
+					"itemPriceDto": {
+						"price": "738",
+						"discount": "8.4",
+						"begin": "1578224875",
+						"end": "1582905600"
+					},
+					"tNewProduct": 0
+				},
+				{
+					"productId": "2014201499000026018",
+					"productName": "肌因光蕴环采钻白精华露30ml",
+					"brandName": "SK-II",
+					"glsCode": "SK4-504-00017",
+					"imageUrl": "https://cdn13.mei.com/product/SK4-504-00017/SK4-504-00017a.jpg@300w_400h_2e_75q",
+					"marketPrice": "1040",
+					"itemPriceDto": {
+						"price": "949",
+						"discount": "9.2",
+						"begin": "1578224875",
+						"end": "1582905600"
+					},
+					"tNewProduct": 0
+				},
+				{
+					"productId": "2040204099000127154",
+					"productName": "兰蔻新精华肌底液50ml",
+					"brandName": "Lancôme",
+					"glsCode": "LVT-504-00002",
+					"imageUrl": "https://cdn15.mei.com/product/20170919/20170919102948302.jpg@300w_400h_2e_75q",
+					"marketPrice": "1080",
+					"itemPriceDto": {
+						"price": "799",
+						"discount": "7.4",
+						"begin": "1578224875",
+						"end": "1578294000"
+					},
+					"tagListDto": [
+						{
+							"tag": "今日疯抢",
+							"isHasExpiration": "1",
+							"beginDate": "1578294000",
+							"endDate": "1578301199",
+							"fontColor": "FFFFFF",
+							"fontBackgroudColor": "DD2828",
+							"frameColor": "DD2828",
+							"isRadius": 0,
+							"isGradient": 0
+						}
+					],
+					"tNewProduct": 0
+				}
+			],
+			"block_status": 0,
+			"isHKBlock": 0
+		},
+		{
+			"eventId": "2040204090000006826",
+			"eventCode": "41625",
+			"siloId": "2018000100000000005",
+			"siloName": "美妆",
+			"englishName": "SISLEY希思黎",
+			"chineseName": "天然植物精粹 享受愉悦护肤",
+			"imageUrl": "https://cdn13.mei.com/category/20190618/dfa71dd73a005a767644831b627f8656dc0bc45b7bb6d783.jpg",
+			"discount": "4.6折",
+			"isBazzer": "0",
+			"isCrossBorder": "0",
+			"isSeasonNew": "0",
+			"isOverseasend": "0",
+			"isMobile": "0",
+			"isFullprice": "0",
+			"isDisplayBrand": "1",
+			"totalCount": 14,
+			"products": [
+				{
+					"productId": "2042204299000794804",
+					"productName": "希思黎全能乳液10ml*4件套装",
+					"brandName": "sisley",
+					"glsCode": "SY5-503-00011",
+					"imageUrl": "https://cdn14.mei.com/product/SY5-503-00011/ff2cf01307b390e72850bb5d66344b1e.jpg@300w_400h_2e_75q",
+					"marketPrice": "720",
+					"itemPriceDto": {
+						"price": "328",
+						"discount": "4.6",
+						"begin": "1578224875",
+						"end": "1582905600"
+					},
+					"tagListDto": [
+						{
+							"tag": "买手推荐",
+							"isHasExpiration": "0",
+							"fontColor": "000000",
+							"fontBackgroudColor": "FFFFFF",
+							"frameColor": "000000",
+							"isRadius": 0,
+							"isGradient": 0
+						},
+						{
+							"tag": "当季新品",
+							"isHasExpiration": "0",
+							"fontColor": "FFFFFF",
+							"fontBackgroudColor": "DD2828",
+							"frameColor": "DD2828",
+							"isRadius": 0,
+							"isGradient": 0
+						}
+					],
+					"tNewProduct": 0
+				},
+				{
+					"productId": "685281",
+					"productName": "玫瑰焕采紧致面膜60ml",
+					"brandName": "sisley",
+					"glsCode": "SY5-529-00002",
+					"imageUrl": "https://cdn13.mei.com/product/SY5-529-00002/SY5-529-00002a.jpg@300w_400h_2e_75q",
+					"marketPrice": "1120",
+					"itemPriceDto": {
+						"price": "970",
+						"discount": "8.7",
+						"begin": "1578224875",
+						"end": "1582905600"
+					},
+					"tNewProduct": 0
+				},
+				{
+					"productId": "685271",
+					"productName": "花香化妆水250ml",
+					"brandName": "sisley",
+					"glsCode": "SY5-502-00001",
+					"imageUrl": "https://cdn15.mei.com/product/20170315/20170315161029747.jpg@300w_400h_2e_75q",
+					"marketPrice": "730",
+					"itemPriceDto": {
+						"price": "660",
+						"discount": "9.1",
+						"begin": "1578224875",
+						"end": "1582905600"
+					},
+					"tNewProduct": 0
+				},
+				{
+					"productId": "769987",
+					"productName": "瞬间紧致眼膜30ml",
+					"brandName": "sisley",
+					"glsCode": "SY5-518-00003",
+					"imageUrl": "https://cdn15.mei.com/product/20170915/20170915200552485.jpg@300w_400h_2e_75q",
+					"marketPrice": "980",
+					"itemPriceDto": {
+						"price": "860",
+						"discount": "8.8",
+						"begin": "1578224875",
+						"end": "1582905600"
+					},
+					"tNewProduct": 0
+				},
+				{
+					"productId": "2042204299000812852",
+					"productName": "希思黎花香润肤水/化妆水 100ml",
+					"brandName": "sisley",
+					"glsCode": "SY5-503-00024",
+					"imageUrl": "https://cdn13.mei.com/product/SY5-503-00024/ff2cf01307b390e7727618cfe716e36e.jpg@300w_400h_2e_75q",
+					"marketPrice": "430",
+					"itemPriceDto": {
+						"price": "390",
+						"discount": "9.1",
+						"begin": "1578224875",
+						"end": "1582905600"
+					},
+					"tNewProduct": 0
+				},
+				{
+					"productId": "685273",
+					"productName": "希思黎全能乳液125ml",
+					"brandName": "sisley",
+					"glsCode": "SY5-503-00001",
+					"imageUrl": "https://cdn12.mei.com/product/SY5-503-00001/ff2cf01307b390e7e187e81117a5304e.jpg@300w_400h_2e_75q",
+					"marketPrice": "1720",
+					"itemPriceDto": {
+						"price": "1350",
+						"discount": "7.9",
+						"begin": "1578224875",
+						"end": "1582905600"
+					},
+					"tNewProduct": 0
+				},
+				{
+					"productId": "2121212199000171604",
+					"productName": "希思黎百合保湿洁肤乳30ml*5件",
+					"brandName": "sisley",
+					"glsCode": "SY5-503-00026",
+					"imageUrl": "https://cdn15.mei.com/product/SY5-503-00026/ff2cf01307b390e73029be62a3c7069d.jpg@300w_400h_2e_75q",
+					"marketPrice": "720",
+					"itemPriceDto": {
+						"price": "399",
+						"discount": "5.6",
+						"begin": "1578224875",
+						"end": "1582905600"
+					},
+					"tagListDto": [
+						{
+							"tag": "当季新品",
+							"isHasExpiration": "0",
+							"fontColor": "FFFFFF",
+							"fontBackgroudColor": "DD2828",
+							"frameColor": "DD2828",
+							"isRadius": 0,
+							"isGradient": 0
+						}
+					],
+					"tNewProduct": 0
+				},
+				{
+					"productId": "2121212199000171594",
+					"productName": "希思黎修活御致眼唇霜1.5ml*5件",
+					"brandName": "sisley",
+					"glsCode": "SY5-573-00001",
+					"imageUrl": "https://cdn12.mei.com/product/SY5-573-00001/daa5652b8a238cf8e187e81117a5304e.jpg@300w_400h_2e_75q",
+					"marketPrice": "750",
+					"itemPriceDto": {
+						"price": "399",
+						"discount": "5.4",
+						"begin": "1578224875",
+						"end": "1582905600"
+					},
+					"tagListDto": [
+						{
+							"tag": "当季新品",
+							"isHasExpiration": "0",
+							"fontColor": "FFFFFF",
+							"fontBackgroudColor": "DD2828",
+							"frameColor": "DD2828",
+							"isRadius": 0,
+							"isGradient": 0
+						}
+					],
+					"tNewProduct": 0
+				},
+				{
+					"productId": "2041204199000820103",
+					"productName": "希思黎魅惑口红24号3.4g",
+					"brandName": "sisley",
+					"glsCode": "SY5-512-00003",
+					"imageUrl": "https://cdn13.mei.com/product/SY5-512-00003/06f453cfcbef45c1fdd1873d169e42a8.jpg@300w_400h_2e_75q",
+					"marketPrice": "390",
+					"itemPriceDto": {
+						"price": "328",
+						"discount": "8.5",
+						"begin": "1578224875",
+						"end": "1582905600"
+					},
+					"tagListDto": [
+						{
+							"tag": "当季新品",
+							"isHasExpiration": "0",
+							"fontColor": "FFFFFF",
+							"fontBackgroudColor": "DD2828",
+							"frameColor": "DD2828",
+							"isRadius": 0,
+							"isGradient": 0
+						},
+						{
+							"tag": "仅剩一件",
+							"isHasExpiration": "0",
+							"fontColor": "000000",
+							"fontBackgroudColor": "FFFFFF",
+							"frameColor": "000000",
+							"isRadius": 0,
+							"isGradient": 0
+						}
+					],
+					"tNewProduct": 0
+				}
+			],
+			"block_status": 0,
+			"isHKBlock": 0
+		},
+		{
+			"eventId": "2040204090000006825",
+			"eventCode": "41619",
+			"siloId": "2018000100000000005",
+			"siloName": "美妆",
+			"englishName": "ESTEE LAUDER雅诗兰黛",
+			"chineseName": "修护法宝 定格年轻美肌",
+			"imageUrl": "https://cdn14.mei.com/category/20190614/347f0dfbd5907c9e7359e8963ca66e5039e4db8297e1f0dc.jpg",
+			"discount": "3.4折",
+			"isBazzer": "0",
+			"isCrossBorder": "0",
+			"isSeasonNew": "0",
+			"isOverseasend": "0",
+			"isMobile": "0",
+			"isFullprice": "0",
+			"isDisplayBrand": "1",
+			"totalCount": 60,
+			"products": [
+				{
+					"productId": "2121212199000173399",
+					"productName": "雅诗兰黛特润修护精华眼霜5ml*3",
+					"brandName": "Estée Lauder",
+					"glsCode": "EXB-518-00021",
+					"imageUrl": "https://cdn15.mei.com/product/EXB-518-00021/ef55f1078b42d9dbd53d13da02393dba.jpg@300w_400h_2e_75q",
+					"marketPrice": "510",
+					"itemPriceDto": {
+						"price": "359",
+						"discount": "7.1",
+						"begin": "1578224876",
+						"end": "1582905600"
+					},
+					"tagListDto": [
+						{
+							"tag": "买手推荐",
+							"isHasExpiration": "0",
+							"fontColor": "000000",
+							"fontBackgroudColor": "FFFFFF",
+							"frameColor": "000000",
+							"isRadius": 0,
+							"isGradient": 0
+						}
+					],
+					"tNewProduct": 0
+				},
+				{
+					"productId": "2121212199000173398",
+					"productName": "雅诗兰黛特润修护肌透精华露7ml*5",
+					"brandName": "Estée Lauder",
+					"glsCode": "EXB-504-00036",
+					"imageUrl": "https://cdn12.mei.com/product/EXB-504-00036/897d587d627361db735d0b406c24b046.jpg@300w_400h_2e_75q",
+					"marketPrice": "688",
+					"itemPriceDto": {
+						"price": "468",
+						"discount": "6.9",
+						"begin": "1578224876",
+						"end": "1582905600",
+						"newPrice": "467",
+						"newDiscount": "6.8",
+						"newBegin": "1569326400",
+						"newEnd": "1600948800"
+					},
+					"tagListDto": [
+						{
+							"tag": "买手推荐",
+							"isHasExpiration": "0",
+							"fontColor": "000000",
+							"fontBackgroudColor": "FFFFFF",
+							"frameColor": "000000",
+							"isRadius": 0,
+							"isGradient": 0
+						}
+					],
+					"tNewProduct": 0
+				},
+				{
+					"productId": "2042204299000425769",
+					"productName": "雅诗兰黛弹性紧实柔肤晚霜50ML",
+					"brandName": "Estée Lauder",
+					"glsCode": "EXB-503-00020",
+					"imageUrl": "https://cdn13.mei.com/product/EXB-503-00020/EXB-503-00020a.jpg@300w_400h_2e_75q",
+					"marketPrice": "880",
+					"itemPriceDto": {
+						"price": "718",
+						"discount": "8.2",
+						"begin": "1578224876",
+						"end": "1582905600"
+					},
+					"tNewProduct": 0
+				},
+				{
+					"productId": "2084208499000019158",
+					"productName": "Estee Lauder/雅诗兰黛雅诗兰黛特润密集修护浓缩精华素20ml",
+					"brandName": "Estée Lauder",
+					"glsCode": "EL1-504-166FA9",
+					"imageUrl": "https://cdn13.mei.com/product/EL1-504-166FA9/72d670862843fb7f64d0c7bff93a5109e53b99d257685d9031e9b8829d4659be.jpg@300w_400h_2e_75q",
+					"marketPrice": "690",
+					"itemPriceDto": {
+						"price": "690",
+						"discount": "10.0",
+						"begin": "1578224876",
+						"end": "1582905600"
+					},
+					"tNewProduct": 0
+				},
+				{
+					"productId": "2121212199000120188",
+					"productName": "雅诗兰黛特润修护肌透精华露15ml*2",
+					"brandName": "Estée Lauder",
+					"glsCode": "EXB-504-00034",
+					"imageUrl": "https://cdn13.mei.com/product/EXB-504-00034/897d587d627361db4860627accb4f748.jpg@300w_400h_2e_75q",
+					"marketPrice": "590",
+					"itemPriceDto": {
+						"price": "368",
+						"discount": "6.3",
+						"begin": "1578224876",
+						"end": "1582905600"
+					},
+					"tagListDto": [
+						{
+							"tag": "当季新品",
+							"isHasExpiration": "0",
+							"fontColor": "FFFFFF",
+							"fontBackgroudColor": "DD2828",
+							"frameColor": "DD2828",
+							"isRadius": 0,
+							"isGradient": 0
+						}
+					],
+					"tNewProduct": 0
+				},
+				{
+					"productId": "2041204199000191402",
+					"productName": "雅诗兰黛特润修护肌透精华露 小棕瓶50ml",
+					"brandName": "Estée Lauder",
+					"glsCode": "EXB-504-00002",
+					"imageUrl": "https://cdn12.mei.com/product/EXB-504-00002/897d587d627361dbf5bc584eb3e94530.jpg@300w_400h_2e_75q",
+					"marketPrice": "850",
+					"itemPriceDto": {
+						"price": "699",
+						"discount": "8.3",
+						"begin": "1578224876",
+						"end": "1582905600"
+					},
+					"tNewProduct": 0
+				},
+				{
+					"productId": "2040204099000705632",
+					"productName": "密集修护肌透钢铁侠面膜单片装*5片",
+					"brandName": "Estée Lauder",
+					"glsCode": "EXB-529-00012",
+					"imageUrl": "https://cdn12.mei.com/product/EXB-529-00012/9905032762f8701066c2b21406aa0548.jpg@300w_400h_2e_75q",
+					"marketPrice": "850",
+					"itemPriceDto": {
+						"price": "456",
+						"discount": "5.4",
+						"begin": "1578224876",
+						"end": "1578294000"
+					},
+					"tagListDto": [
+						{
+							"tag": "今日疯抢",
+							"isHasExpiration": "1",
+							"beginDate": "1578639600",
+							"endDate": "1578646799",
+							"fontColor": "FFFFFF",
+							"fontBackgroudColor": "DD2828",
+							"frameColor": "DD2828",
+							"isRadius": 0,
+							"isGradient": 0
+						}
+					],
+					"tNewProduct": 0
+				},
+				{
+					"productId": "2040204099000705627",
+					"productName": "雅诗兰黛鲜活亮采红石榴倍润水30ml*5",
+					"brandName": "Estée Lauder",
+					"glsCode": "EXB-512-00035",
+					"imageUrl": "https://cdn15.mei.com/product/EXB-512-00035/727f776c82f432449b6dd914758c798d.jpg@300w_400h_2e_75q",
+					"marketPrice": "315",
+					"itemPriceDto": {
+						"price": "182",
+						"discount": "5.8",
+						"begin": "1578224876",
+						"end": "1578380400"
+					},
+					"tagListDto": [
+						{
+							"tag": "今日疯抢",
+							"isHasExpiration": "1",
+							"beginDate": "1578380400",
+							"endDate": "1578387599",
+							"fontColor": "FFFFFF",
+							"fontBackgroudColor": "DD2828",
+							"frameColor": "DD2828",
+							"isRadius": 0,
+							"isGradient": 0
+						}
+					],
+					"tNewProduct": 0
+				},
+				{
+					"productId": "2121212199000173401",
+					"productName": "雅诗兰黛多效智妍系列6件套体验装",
+					"brandName": "Estée Lauder",
+					"glsCode": "EXB-503-00038",
+					"imageUrl": "https://cdn15.mei.com/product/EXB-503-00038/711eccb23caf69aaaf7a969f2e0b2360.jpg@300w_400h_2e_75q",
+					"marketPrice": "927",
+					"itemPriceDto": {
+						"price": "458",
+						"discount": "5.0",
+						"begin": "1578224876",
+						"end": "1582905600",
+						"newPrice": "457",
+						"newDiscount": "5.0",
+						"newBegin": "1569326400",
+						"newEnd": "1600948800"
+					},
+					"tNewProduct": 0
+				}
+			],
+			"block_status": 0,
+			"isHKBlock": 0
+		},
+		{
+			"eventId": "2040204090000006823",
+			"eventCode": "41609",
+			"siloId": "2018000100000000005",
+			"siloName": "美妆",
+			"englishName": "LANCOME兰蔻",
+			"chineseName": "圈粉力max 宠你美上天",
+			"imageUrl": "https://cdn12.mei.com/category/20190610/b5ee4a20c553a2628da4a5553d56b7b578124244265805bc.jpg",
+			"discount": "2.2折",
+			"isBazzer": "0",
+			"isCrossBorder": "0",
+			"isSeasonNew": "0",
+			"isOverseasend": "0",
+			"isMobile": "0",
+			"isFullprice": "0",
+			"isDisplayBrand": "1",
+			"totalCount": 56,
+			"products": [
+				{
+					"productId": "2040204099000659790",
+					"productName": "兰蔻新黑金臻宠面霜15ml*2件套装",
+					"brandName": "Lancôme",
+					"glsCode": "LVT-520-00039",
+					"imageUrl": "https://cdn12.mei.com/product/LVT-520-00039/862ecc44d167924e9664b131926b39cb.jpg@300w_400h_2e_75q",
+					"marketPrice": "2280",
+					"itemPriceDto": {
+						"price": "699",
+						"discount": "3.1",
+						"begin": "1578224876",
+						"end": "1582905600"
+					},
+					"tagListDto": [
+						{
+							"tag": "买手推荐",
+							"isHasExpiration": "0",
+							"fontColor": "000000",
+							"fontBackgroudColor": "FFFFFF",
+							"frameColor": "000000",
+							"isRadius": 0,
+							"isGradient": 0
+						},
+						{
+							"tag": "当季新品",
+							"isHasExpiration": "0",
+							"fontColor": "FFFFFF",
+							"fontBackgroudColor": "DD2828",
+							"frameColor": "DD2828",
+							"isRadius": 0,
+							"isGradient": 0
+						}
+					],
+					"tNewProduct": 0
+				},
+				{
+					"productId": "2041204199000719257",
+					"productName": "兰蔻新精华肌底液7ml*5套装",
+					"brandName": "Lancôme",
+					"glsCode": "LVT-504-00029",
+					"imageUrl": "https://cdn12.mei.com/product/LVT-504-00029/486296bb50516228aada4134f00f36e7.jpg@300w_400h_2e_75q",
+					"marketPrice": "887",
+					"itemPriceDto": {
+						"price": "388",
+						"discount": "4.4",
+						"begin": "1578224876",
+						"end": "1582905600"
+					},
+					"tagListDto": [
+						{
+							"tag": "买手推荐",
+							"isHasExpiration": "0",
+							"fontColor": "000000",
+							"fontBackgroudColor": "FFFFFF",
+							"frameColor": "000000",
+							"isRadius": 0,
+							"isGradient": 0
+						}
+					],
+					"tNewProduct": 0
+				},
+				{
+					"productId": "2040204099000702801",
+					"productName": "兰蔻新水分缘保湿舒缓日霜15ml*4",
+					"brandName": "Lancôme",
+					"glsCode": "LVT-503-00061",
+					"imageUrl": "https://cdn13.mei.com/product/LVT-503-00061/df3c039f05020f28e0fe587cb675d846.jpg@300w_400h_2e_75q",
+					"marketPrice": "690",
+					"itemPriceDto": {
+						"price": "369",
+						"discount": "5.4",
+						"begin": "1578224876",
+						"end": "1582905600"
+					},
+					"tagListDto": [
+						{
+							"tag": "买手推荐",
+							"isHasExpiration": "0",
+							"fontColor": "000000",
+							"fontBackgroudColor": "FFFFFF",
+							"frameColor": "000000",
+							"isRadius": 0,
+							"isGradient": 0
+						}
+					],
+					"tNewProduct": 0
+				},
+				{
+					"productId": "2040204099000704410",
+					"productName": "兰蔻菁纯臻颜焕亮眼霜5ml*4",
+					"brandName": "Lancôme",
+					"glsCode": "LVT-518-00017",
+					"imageUrl": "https://cdn14.mei.com/product/LVT-518-00017/0331f042ef6f3ca0b034c0b1ca0213ea.jpg@300w_400h_2e_75q",
+					"marketPrice": "1080",
+					"itemPriceDto": {
+						"price": "595",
+						"discount": "5.6",
+						"begin": "1578224876",
+						"end": "1578294000"
+					},
+					"tagListDto": [
+						{
+							"tag": "今日疯抢",
+							"isHasExpiration": "1",
+							"beginDate": "1578639600",
+							"endDate": "1578646799",
+							"fontColor": "FFFFFF",
+							"fontBackgroudColor": "DD2828",
+							"frameColor": "DD2828",
+							"isRadius": 0,
+							"isGradient": 0
+						},
+						{
+							"tag": "买手推荐",
+							"isHasExpiration": "0",
+							"fontColor": "000000",
+							"fontBackgroudColor": "FFFFFF",
+							"frameColor": "000000",
+							"isRadius": 0,
+							"isGradient": 0
+						}
+					],
+					"tNewProduct": 0
+				},
+				{
+					"productId": "2041204199000719261",
+					"productName": "兰蔻新塑颜修护凝露水50ml*4套装",
+					"brandName": "Lancôme",
+					"glsCode": "LVT-504-00030",
+					"imageUrl": "https://cdn12.mei.com/product/LVT-504-00030/486296bb505162287091c7d13b107cb8.jpg@300w_400h_2e_75q",
+					"marketPrice": "560",
+					"itemPriceDto": {
+						"price": "345",
+						"discount": "6.2",
+						"begin": "1578224876",
+						"end": "1578294000"
+					},
+					"tagListDto": [
+						{
+							"tag": "今日疯抢",
+							"isHasExpiration": "1",
+							"beginDate": "1578639600",
+							"endDate": "1578646799",
+							"fontColor": "FFFFFF",
+							"fontBackgroudColor": "DD2828",
+							"frameColor": "DD2828",
+							"isRadius": 0,
+							"isGradient": 0
+						},
+						{
+							"tag": "买手推荐",
+							"isHasExpiration": "0",
+							"fontColor": "000000",
+							"fontBackgroudColor": "FFFFFF",
+							"frameColor": "000000",
+							"isRadius": 0,
+							"isGradient": 0
+						}
+					],
+					"tNewProduct": 0
+				},
+				{
+					"productId": "2041204199000824161",
+					"productName": "兰蔻菁纯臻颜隔离乳10ml*3",
+					"brandName": "Lancôme",
+					"glsCode": "LVT-557-00008",
+					"imageUrl": "https://cdn14.mei.com/product/LVT-557-00008/88721c86f2dc8b3b3f5e8227aefde768.jpg@300w_400h_2e_75q",
+					"marketPrice": "890",
+					"itemPriceDto": {
+						"price": "369",
+						"discount": "4.2",
+						"begin": "1578224876",
+						"end": "1582905600"
+					},
+					"tagListDto": [
+						{
+							"tag": "买手推荐",
+							"isHasExpiration": "0",
+							"fontColor": "000000",
+							"fontBackgroudColor": "FFFFFF",
+							"frameColor": "000000",
+							"isRadius": 0,
+							"isGradient": 0
+						}
+					],
+					"tNewProduct": 0
+				},
+				{
+					"productId": "2042204299000831402",
+					"productName": "兰蔻新清莹洁面卸妆乳液50ml*4",
+					"brandName": "Lancôme",
+					"glsCode": "LVT-501-00006",
+					"imageUrl": "https://cdn15.mei.com/product/LVT-501-00006/a587d561d86d3fa30f8e8445cec70ca7.jpg@300w_400h_2e_75q",
+					"marketPrice": "320",
+					"itemPriceDto": {
+						"price": "151",
+						"discount": "4.8",
+						"begin": "1578224876",
+						"end": "1582905600"
+					},
+					"tagListDto": [
+						{
+							"tag": "买手推荐",
+							"isHasExpiration": "0",
+							"fontColor": "000000",
+							"fontBackgroudColor": "FFFFFF",
+							"frameColor": "000000",
+							"isRadius": 0,
+							"isGradient": 0
+						}
+					],
+					"tNewProduct": 0
+				},
+				{
+					"productId": "2040204099000127157",
+					"productName": "兰蔻眼部精华肌底液20ml",
+					"brandName": "Lancôme",
+					"glsCode": "LVT-504-00004",
+					"imageUrl": "https://cdn14.mei.com/product/LVT-504-00004/486296bb5051622873881caec082ccf4.jpg@300w_400h_2e_75q",
+					"marketPrice": "680",
+					"itemPriceDto": {
+						"price": "558",
+						"discount": "8.3",
+						"begin": "1578224876",
+						"end": "1582905600"
+					},
+					"tNewProduct": 0
+				},
+				{
+					"productId": "2041204199000724573",
+					"productName": "兰蔻臻白美颜霜 50ml",
+					"brandName": "Lancôme",
+					"glsCode": "LVT-503-00028",
+					"imageUrl": "https://cdn13.mei.com/product/LVT-503-00028/df3c039f05020f28f62bb67d5c0873b7.jpg@300w_400h_2e_75q",
+					"marketPrice": "695",
+					"itemPriceDto": {
+						"price": "568",
+						"discount": "8.2",
+						"begin": "1578224876",
+						"end": "1582905600"
+					},
+					"tNewProduct": 0
+				}
+			],
+			"block_status": 0,
+			"isHKBlock": 0
+		}
+	]
+}
